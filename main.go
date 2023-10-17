@@ -44,51 +44,49 @@ func getGrafitti(c *gin.Context) {
 func updateAPIData() {
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
 	// Scrape weapons
-	/*
-		log.Info().Msg("Scraping skins...")
+	log.Info().Msg("Scraping skins...")
 
-		weaponSkinLinks, err := util.ReadLines("links/skins.txt")
-		if err != nil {
-			//log.Fatal(err)
-		}
+	weaponSkinLinks, err := util.ReadLines("links/skins.txt")
+	if err != nil {
+		//log.Fatal(err)
+	}
 
-		newWeaponSkinData := make(map[string]util.Skin)
-		multiscraper.MultiScrape(weaponSkinLinks, newWeaponSkinData, 20, multiscraper.ScrapeWeaponLink)
-		weaponSkinData = newWeaponSkinData
+	newWeaponSkinData := make(map[string]util.Skin)
+	multiscraper.MultiScrape(weaponSkinLinks, newWeaponSkinData, 20, multiscraper.ScrapeWeaponLink)
+	weaponSkinData = newWeaponSkinData
 
-		// Scrape cases
-		log.Info().Msg("Scraping cases...")
-		caseLinks, err := util.ReadLines("links/cases.txt")
-		if err != nil {
-			log.Err(err)
-		}
+	// Scrape cases
+	log.Info().Msg("Scraping cases...")
+	caseLinks, err := util.ReadLines("links/cases.txt")
+	if err != nil {
+		log.Err(err)
+	}
 
-		newCaseData := make(map[string]util.Case)
-		multiscraper.MultiScrape(caseLinks, newCaseData, 20, multiscraper.ScrapeCase)
-		caseData = newCaseData
+	newCaseData := make(map[string]util.Case)
+	multiscraper.MultiScrape(caseLinks, newCaseData, 20, multiscraper.ScrapeCase)
+	caseData = newCaseData
 
-		// Scrape stickers
-		log.Info().Msg("Scraping stickers...")
-		stickerLinks, err := util.ReadLines("links/stickers.txt")
-		if err != nil {
-			log.Err(err)
-		}
+	// Scrape stickers
+	log.Info().Msg("Scraping stickers...")
+	stickerLinks, err := util.ReadLines("links/stickers.txt")
+	if err != nil {
+		log.Err(err)
+	}
 
-		newStickerData := make(map[string]util.Sticker)
-		multiscraper.MultiScrape(stickerLinks, newStickerData, 20, multiscraper.ScrapeStickerPage)
-		stickerData = newStickerData
+	newStickerData := make(map[string]util.Sticker)
+	multiscraper.MultiScrape(stickerLinks, newStickerData, 20, multiscraper.ScrapeStickerPage)
+	stickerData = newStickerData
 
-		// Scrape sticker capsules
-		log.Info().Msg("Scraping sticker capsules...")
-		stickerCapsuleLinks, err := util.ReadLines("links/capsules.txt")
-		if err != nil {
-			log.Err(err)
-		}
+	// Scrape sticker capsules
+	log.Info().Msg("Scraping sticker capsules...")
+	stickerCapsuleLinks, err := util.ReadLines("links/capsules.txt")
+	if err != nil {
+		log.Err(err)
+	}
 
-		newStickerCapsuleData := make(map[string]util.StickerCapsule)
-		multiscraper.MultiScrape(stickerCapsuleLinks, newStickerCapsuleData, 20, multiscraper.ScrapeStickerCapsule)
-		stickerCapsuleData = newStickerCapsuleData
-	*/
+	newStickerCapsuleData := make(map[string]util.StickerCapsule)
+	multiscraper.MultiScrape(stickerCapsuleLinks, newStickerCapsuleData, 20, multiscraper.ScrapeStickerCapsule)
+	stickerCapsuleData = newStickerCapsuleData
 
 	log.Info().Msg("Scraping single grafittis...")
 	newGraffitiData := make(map[string]util.Graffiti)

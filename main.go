@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"gocasesapi/multiscraper"
 	"gocasesapi/util"
 	"net/http"
@@ -44,15 +43,18 @@ func getGrafitti(c *gin.Context) {
 func updateAPIData() {
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
 	// Scrape weapons
-	log.Info().Msg("Scraping skins...")
-
-	weaponSkinLinks, err := util.ReadLines("links/skins.txt")
-	if err != nil {
-		//log.Fatal(err)
-	}
+	log.Info().Msg("Scraping weapons skins and knives...")
 
 	newWeaponSkinData := make(map[string]util.Skin)
+	weaponSkinLinks, err := util.ReadLines("links/skins.txt")
+	if err != nil {
+		log.Err(err)
+	}
 	multiscraper.MultiScrape(weaponSkinLinks, newWeaponSkinData, 20, multiscraper.ScrapeWeaponLink)
+
+	log.Info().Msg("Scraping gloves...")
+	gloveLinks, err := util.ReadLines("links/gloves.txt")
+	multiscraper.MultiScrape(gloveLinks, newWeaponSkinData, 20, multiscraper.ScrapeGloves)
 	weaponSkinData = newWeaponSkinData
 
 	// Scrape cases
@@ -102,7 +104,6 @@ func updateAPIData() {
 	if err != nil {
 		log.Err(err)
 	}
-	fmt.Println(len(baseGradeGraffitiLinks))
 
 	multiscraper.MultiScrape(baseGradeGraffitiLinks, newGraffitiData, 20, multiscraper.ScrapeBaseGradeGraffiti)
 	graffitiData = newGraffitiData

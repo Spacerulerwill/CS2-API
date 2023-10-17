@@ -9,6 +9,7 @@ import (
 
 var nonAlphanumericRegex = regexp.MustCompile(`[^a-zA-Z0-9 ]+`)
 var doubleSpaceRegex = regexp.MustCompile(`\s+`)
+var RemoveBracketsAndContentsRegex = regexp.MustCompile("\\(.+?\\)")
 var substituions = map[string]string{
 	"&": "and",
 	"ö": "o",

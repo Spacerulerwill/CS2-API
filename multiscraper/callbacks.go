@@ -234,6 +234,41 @@ func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker) {
 	})
 }
 
+func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin) {
+	formattedName := doc.Find(".result-box > h2:nth-child(1)").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	description := strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(2)").Text(), "Description: ")
+	flavorText := doc.Find(".skin-misc-details > p:nth-child(3) > em:nth-child(2)").Text()
+	minFloat := doc.Find("div.marker-wrapper:nth-child(1) > div:nth-child(1) > div:nth-child(1)").Text()
+	maxFloat := doc.Find("div.marker-wrapper:nth-child(2) > div:nth-child(1) > div:nth-child(1)").Text()
+	var conditionImages [5]string
+	mainBox := doc.Find("div.well.result-box,nomargin")
+	imageButtons := mainBox.Find("a.inspect-button-skin")
+	imageButtons.Each(func(i int, button *goquery.Selection) {
+		imageURL, exists := button.Attr("data-hoverimg")
+		if !exists {
+			log.Warn().Msg(fmt.Sprintf("No image URL found for weapon skin %s", formattedName))
+		}
+		index := buttonTextIndexMap[strings.TrimSpace(button.Text())]
+		conditionImages[index] = imageURL
+	})
+
+	mtx.Lock()
+	result[unformattedName] = util.Skin{
+		FormattedName:     formattedName,
+		Description:       description,
+		FlavorText:        flavorText,
+		MinFloat:          minFloat,
+		MaxFloat:          maxFloat,
+		WeaponType:        "gloves",
+		Rarity:            "extraordinary",
+		ConditionImages:   conditionImages,
+		StattrakAvailable: false,
+		SouvenirAvailable: false,
+	}
+	mtx.Unlock()
+}
+
 func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerCapsule) {
 	formattedName := doc.Find("h1.margin-top-sm").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
@@ -329,7 +364,14 @@ func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti) 
 }
 
 func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graffiti) {
-	formattedName := doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text()
+	formattedName :=
+		strings.TrimSpace(
+			util.RemoveBracketsAndContentsRegex.ReplaceAllString(
+				doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text(),
+				"",
+			),
+		)
+
 	unformattedName := util.RemoveNameFormatting(formattedName)
 
 	graffitiData := util.Graffiti{

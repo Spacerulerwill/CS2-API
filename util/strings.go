@@ -32,6 +32,13 @@ var StickerRarities = [5]string{
 	"Contraband",
 }
 
+var GraffitiRarities = [4]string{
+	"Base Grade",
+	"High Grade",
+	"Remarkable",
+	"Exotic",
+}
+
 func RemoveNameFormatting(str string) string {
 	str = strings.ToLower(str)
 	str = nonAlphanumericRegex.ReplaceAllString(str, "")

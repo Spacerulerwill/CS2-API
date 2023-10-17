@@ -18,7 +18,7 @@ var buttonTextIndexMap = map[string]int{
 }
 
 type callbackConstraint interface {
-	*[]string | map[string]util.Skin | map[string]util.Sticker | map[string]util.Case | map[string]util.StickerCapsule
+	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case | map[string]util.StickerCapsule | map[string]util.Graffiti
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -276,5 +276,81 @@ func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerC
 		ImageURL:      imageUrl,
 		Stickers:      stickers,
 	}
+	mtx.Unlock()
+}
+
+func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti) {
+	graffitiBoxes := doc.Find("div.well.result-box.nomargin")
+	graffitiBoxes.Each(func(i int, box *goquery.Selection) {
+		// formatted and unformatted name
+		formattedName := strings.TrimSpace(box.Find("h3").Text())
+		if formattedName == "" {
+			return
+		}
+		unformattedName := util.RemoveNameFormatting(formattedName)
+		// rarity
+		rarityText := box.Find("div.quality").Text()
+		if strings.Contains(rarityText, "Base Grade Graffiti") {
+			return
+		}
+
+		rarityFound := false
+		for i := 0; i < 4; i++ {
+			if strings.Contains(rarityText, util.GraffitiRarities[i]) {
+				rarityText = strings.ToLower(util.GraffitiRarities[i])
+				rarityFound = true
+				break
+			}
+		}
+
+		if !rarityFound {
+			log.Warn().Msg(fmt.Sprintf("No rarity found for grafitti %s", formattedName))
+		}
+
+		// image url
+		image := box.Find("img")
+		imageUrl, exists := image.Attr("src")
+		if !exists {
+			log.Warn().Msg(fmt.Sprintf("No image url for sticker %s", formattedName))
+		}
+
+		//
+		graffitiBox := util.RemoveNameFormatting(box.Find("p.item-resultbox-collection-container-info").Text())
+
+		mtx.Lock()
+		result[unformattedName] = util.Graffiti{
+			FormattedName: formattedName,
+			Rarity:        rarityText,
+			ImageURL:      imageUrl,
+			GraffitiBox:   graffitiBox,
+		}
+		mtx.Unlock()
+	})
+}
+
+func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graffiti) {
+	formattedName := doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+
+	graffitiData := util.Graffiti{
+		FormattedName: formattedName,
+		Rarity:        "base grade",
+	}
+
+	graffitiData.ColorVarations = make(map[string]string)
+
+	colorBoxes := doc.Find("div.col-lg-3")
+	colorBoxes.Each(func(i int, box *goquery.Selection) {
+		color := strings.ToLower(strings.TrimSpace(box.Find("h4").Text()))
+		image := box.Find("img")
+		imageUrl, exists := image.Attr("src")
+		if !exists {
+			log.Warn().Msg(fmt.Sprintf("No image url for base grade graffiti %s of color %s", formattedName, color))
+		}
+		graffitiData.ColorVarations[color] = imageUrl
+	})
+
+	mtx.Lock()
+	result[unformattedName] = graffitiData
 	mtx.Unlock()
 }

@@ -36,3 +36,11 @@ type StickerCapsule struct {
 	ImageURL      string              `json:"imageUrl"`
 	Stickers      map[string][]string `json:"stickers"`
 }
+
+type Graffiti struct {
+	FormattedName  string            `json:"formattedName"`
+	Rarity         string            `json:"rarity"`
+	ImageURL       string            `json:"imageUrl"`
+	ColorVarations map[string]string `json:"colorVariations"`
+	GraffitiBox    string            `json:"graffitiBox"`
+}

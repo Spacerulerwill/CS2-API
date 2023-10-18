@@ -84,10 +84,10 @@ func main() {
 	multiscraper.MultiScrape(musicKitLinks, musicKitData, 20, multiscraper.ScrapeMusicKit)
 
 	// Dump all data to files
-	util.WriteJsonToFile("public/api/skins.json", weaponSkinData)
-	util.WriteJsonToFile("public/api/cases.json", caseData)
-	util.WriteJsonToFile("public/api/stickers.json", stickerData)
-	util.WriteJsonToFile("public/api/sticker_capsules.json", stickerCapsuleData)
-	util.WriteJsonToFile("public/api/graffiti.json", graffitiData)
-	util.WriteJsonToFile("public/api/music_kits.json", musicKitData)
+	util.WriteJsonToFile("skins.json", weaponSkinData)
+	util.WriteJsonToFile("cases.json", caseData)
+	util.WriteJsonToFile("stickers.json", stickerData)
+	util.WriteJsonToFile("sticker_capsules.json", stickerCapsuleData)
+	util.WriteJsonToFile("graffiti.json", graffitiData)
+	util.WriteJsonToFile("music_kits.json", musicKitData)
 }

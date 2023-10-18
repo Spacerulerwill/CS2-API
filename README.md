@@ -20,3 +20,13 @@ GET https://spacerulerwill.github.io/CS2-API/api/stickers.json
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/sticker_capsules.json
 ```
+
+### Get graffiti
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/graffiti.json
+```
+
+### Get music kits
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/music_kits.json
+```

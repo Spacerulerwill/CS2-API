@@ -87,7 +87,7 @@ func main() {
 	util.WriteJsonToFile("data/skins.json", weaponSkinData)
 	util.WriteJsonToFile("data/cases.json", caseData)
 	util.WriteJsonToFile("data/stickers.json", stickerData)
-	util.WriteJsonToFile("data/sticker_capules.json", stickerCapsuleData)
+	util.WriteJsonToFile("data/sticker_capsules.json", stickerCapsuleData)
 	util.WriteJsonToFile("data/graffiti.json", graffitiData)
 	util.WriteJsonToFile("data/music_kits.json", musicKitData)
 }

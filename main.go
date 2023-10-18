@@ -3,59 +3,37 @@ package main
 import (
 	"gocasesapi/multiscraper"
 	"gocasesapi/util"
-	"net/http"
-	"time"
 
-	"github.com/gin-gonic/gin"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 )
 
-var (
-	weaponSkinData     map[string]util.Skin
-	caseData           map[string]util.Case
-	stickerData        map[string]util.Sticker
-	stickerCapsuleData map[string]util.StickerCapsule
-	graffitiData       map[string]util.Graffiti
-)
-
-func getSkins(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, weaponSkinData)
-}
-
-func getCases(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, caseData)
-}
-
-func getStickers(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, stickerData)
-}
-
-func getStickerCapsules(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, stickerCapsuleData)
-}
-
-func getGrafitti(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, graffitiData)
-}
-
 // Checks if there is any new data to scrape
-func updateAPIData() {
-	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
-	// Scrape weapons
-	log.Info().Msg("Scraping weapons skins and knives...")
+func main() {
+	weaponSkinData := make(map[string]util.Skin)
+	caseData := make(map[string]util.Case)
+	stickerData := make(map[string]util.Sticker)
+	stickerCapsuleData := make(map[string]util.StickerCapsule)
+	graffitiData := make(map[string]util.Graffiti)
+	musicKitData := make(map[string]util.MusicKit)
 
-	newWeaponSkinData := make(map[string]util.Skin)
+	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
+
+	// Scrape weapon skins
+	log.Info().Msg("Scraping weapons skins and knives...")
 	weaponSkinLinks, err := util.ReadLines("links/skins.txt")
 	if err != nil {
 		log.Err(err)
 	}
-	multiscraper.MultiScrape(weaponSkinLinks, newWeaponSkinData, 20, multiscraper.ScrapeWeaponLink)
+	multiscraper.MultiScrape(weaponSkinLinks, weaponSkinData, 20, multiscraper.ScrapeWeaponLink)
 
+	// Scrape gloves
 	log.Info().Msg("Scraping gloves...")
 	gloveLinks, err := util.ReadLines("links/gloves.txt")
-	multiscraper.MultiScrape(gloveLinks, newWeaponSkinData, 20, multiscraper.ScrapeGloves)
-	weaponSkinData = newWeaponSkinData
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(gloveLinks, weaponSkinData, 20, multiscraper.ScrapeGloves)
 
 	// Scrape cases
 	log.Info().Msg("Scraping cases...")
@@ -63,10 +41,7 @@ func updateAPIData() {
 	if err != nil {
 		log.Err(err)
 	}
-
-	newCaseData := make(map[string]util.Case)
-	multiscraper.MultiScrape(caseLinks, newCaseData, 20, multiscraper.ScrapeCase)
-	caseData = newCaseData
+	multiscraper.MultiScrape(caseLinks, caseData, 20, multiscraper.ScrapeCase)
 
 	// Scrape stickers
 	log.Info().Msg("Scraping stickers...")
@@ -74,10 +49,7 @@ func updateAPIData() {
 	if err != nil {
 		log.Err(err)
 	}
-
-	newStickerData := make(map[string]util.Sticker)
-	multiscraper.MultiScrape(stickerLinks, newStickerData, 20, multiscraper.ScrapeStickerPage)
-	stickerData = newStickerData
+	multiscraper.MultiScrape(stickerLinks, stickerData, 20, multiscraper.ScrapeStickerPage)
 
 	// Scrape sticker capsules
 	log.Info().Msg("Scraping sticker capsules...")
@@ -85,47 +57,37 @@ func updateAPIData() {
 	if err != nil {
 		log.Err(err)
 	}
+	multiscraper.MultiScrape(stickerCapsuleLinks, stickerCapsuleData, 20, multiscraper.ScrapeStickerCapsule)
 
-	newStickerCapsuleData := make(map[string]util.StickerCapsule)
-	multiscraper.MultiScrape(stickerCapsuleLinks, newStickerCapsuleData, 20, multiscraper.ScrapeStickerCapsule)
-	stickerCapsuleData = newStickerCapsuleData
-
+	// Scrape single graffitis
 	log.Info().Msg("Scraping single grafittis...")
-	newGraffitiData := make(map[string]util.Graffiti)
 	graffitiPageLinks, err := util.ReadLines("links/graffiti.txt")
 	if err != nil {
 		log.Err(err)
 	}
+	multiscraper.MultiScrape(graffitiPageLinks, graffitiData, 20, multiscraper.ScrapeGraffitiPage)
 
-	multiscraper.MultiScrape(graffitiPageLinks, newGraffitiData, 20, multiscraper.ScrapeGraffitiPage)
-
+	// Scrape base grade graffiti
 	log.Info().Msg("Scraping base grade graffitis...")
 	baseGradeGraffitiLinks, err := util.ReadLines("links/base_grade_graffiti.txt")
 	if err != nil {
 		log.Err(err)
 	}
+	multiscraper.MultiScrape(baseGradeGraffitiLinks, graffitiData, 20, multiscraper.ScrapeBaseGradeGraffiti)
 
-	multiscraper.MultiScrape(baseGradeGraffitiLinks, newGraffitiData, 20, multiscraper.ScrapeBaseGradeGraffiti)
-	graffitiData = newGraffitiData
-}
+	// Scrape music kits
+	log.Info().Msg("Scraping music kits...")
+	musicKitLinks, err := util.ReadLines("links/music_kits.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(musicKitLinks, musicKitData, 20, multiscraper.ScrapeMusicKit)
 
-func main() {
-	updateAPIData()
-
-	go func() {
-		t := time.NewTicker(time.Hour * 24)
-		for {
-			<-t.C
-			updateAPIData()
-		}
-	}()
-
-	// Start API
-	router := gin.Default()
-	router.GET("/skins", getSkins)
-	router.GET("/cases", getCases)
-	router.GET("/stickers", getStickers)
-	router.GET("/sticker-capsules", getStickerCapsules)
-	router.GET("/graffiti", getGrafitti)
-	router.Run("localhost:8080")
+	// Dump all data to files
+	util.WriteJsonToFile("data/skins.json", weaponSkinData)
+	util.WriteJsonToFile("data/cases.json", caseData)
+	util.WriteJsonToFile("data/stickers.json", stickerData)
+	util.WriteJsonToFile("data/sticker_capules.json", stickerCapsuleData)
+	util.WriteJsonToFile("data/graffiti.json", graffitiData)
+	util.WriteJsonToFile("data/music_kits.json", musicKitData)
 }

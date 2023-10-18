@@ -44,3 +44,14 @@ type Graffiti struct {
 	ColorVarations map[string]string `json:"colorVariations"`
 	GraffitiBox    string            `json:"graffitiBox"`
 }
+
+type MusicKit struct {
+	FormattedName     string            `json:"formattedName"`
+	Artist            string            `json:"artist"`
+	Description       string            `json:"description"`
+	Rarity            string            `json:"rarity"`
+	ImageURL          string            `json:"imageUrl"`
+	StattrakAvailable bool              `json:"stattrakAvailable"`
+	BoxesFoundIn      []string          `json:"boxesFoundIn"`
+	AudioURLs         map[string]string `json:"audioUrls"`
+}

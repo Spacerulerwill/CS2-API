@@ -18,7 +18,8 @@ var buttonTextIndexMap = map[string]int{
 }
 
 type callbackConstraint interface {
-	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case | map[string]util.StickerCapsule | map[string]util.Graffiti
+	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case |
+		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -59,11 +60,11 @@ func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
 		minFloat = doc.Find("div.marker-wrapper:nth-child(1) > div:nth-child(1) > div:nth-child(1)").Text()
 		maxFloat = doc.Find("div.marker-wrapper:nth-child(2) > div:nth-child(1) > div:nth-child(1)").Text()
 		skinTypeString := strings.TrimSpace(doc.Find("html body div.container.main-content div.row.text-center div.col-md-10 div.row div.col-md-7.col-widen div.well.result-box.nomargin a.nounderline div p.nomargin").Text())
-		stattrakAvailable = len(doc.Find("div.stattrak").Nodes) > 0
-		souvenirAvailable = len(doc.Find("div.souvenir").Nodes) > 0
+		stattrakAvailable = doc.Find("div.stattrak").Length() > 0
+		souvenirAvailable = doc.Find("div.souvenir").Length() > 0
 
 		rarityFound := false
-		for i := 0; i < 7; i++ {
+		for i := 0; i < util.NumSkinRarities; i++ {
 			if strings.Contains(skinTypeString, util.SkinRarities[i]) {
 				selectedRarity = strings.ToLower(util.SkinRarities[i])
 				weaponType = strings.ToLower(strings.TrimSpace(strings.TrimPrefix(skinTypeString, util.SkinRarities[i])))
@@ -158,7 +159,7 @@ func ScrapeCase(doc *goquery.Document, result map[string]util.Case) {
 			rareItemsLink = href
 		} else {
 			rarityFound := false
-			for i := 0; i < 7; i++ {
+			for i := 0; i < util.NumSkinRarities; i++ {
 				if strings.Contains(rarityText, util.SkinRarities[i]) {
 					rarityText = strings.ToLower(util.SkinRarities[i])
 					rarityFound = true
@@ -288,7 +289,7 @@ func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerC
 			return
 		} else {
 			rarityFound := false
-			for i := 0; i < 5; i++ {
+			for i := 0; i < util.NumStickerRarities; i++ {
 				if strings.Contains(rarityText, util.StickerRarities[i]) {
 					rarityText = strings.ToLower(util.StickerRarities[i])
 					rarityFound = true
@@ -330,7 +331,7 @@ func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti) 
 		}
 
 		rarityFound := false
-		for i := 0; i < 4; i++ {
+		for i := 0; i < util.NumGraffitiRarities; i++ {
 			if strings.Contains(rarityText, util.GraffitiRarities[i]) {
 				rarityText = strings.ToLower(util.GraffitiRarities[i])
 				rarityFound = true
@@ -394,5 +395,57 @@ func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graff
 
 	mtx.Lock()
 	result[unformattedName] = graffitiData
+	mtx.Unlock()
+}
+
+func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
+	formattedName := doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	artist := strings.TrimPrefix(doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(2)").Text(), "By ")
+	description := doc.Find(".col-md-8 > div:nth-child(1) > p:nth-child(1)").Text()
+	image := doc.Find("img.img-responsive:nth-child(5)")
+	stattrakAvailable := doc.Find("div.stattrak").Length() > 0
+	imageUrl, exists := image.Attr("src")
+	if !exists {
+		log.Warn().Msg(fmt.Sprintf("No image url for music kit %s", formattedName))
+	}
+	rarityText := doc.Find("div.quality").Text()
+	rarityFound := false
+	for i := 0; i < util.NumMusicKitRarities; i++ {
+		if strings.Contains(rarityText, util.MusicKitRarities[i]) {
+			rarityText = strings.ToLower(util.MusicKitRarities[i])
+			rarityFound = true
+			break
+		}
+	}
+
+	if !rarityFound {
+		log.Warn().Msg(fmt.Sprintf("No rarity found for music kit %s", formattedName))
+	}
+
+	musicRows := doc.Find("div.music-file")
+	audioUrls := make(map[string]string)
+	musicRows.Each(func(i int, box *goquery.Selection) {
+		name := box.Find("p").Text()
+		audio := box.Find("audio")
+		audioSrc, exists := audio.Attr("src")
+
+		if !exists {
+			log.Warn().Msg(fmt.Sprintf("No audio source for music kit %s %s", formattedName, name))
+		}
+		audioUrls[name] = "https://csgostash.com" + audioSrc
+	})
+
+	mtx.Lock()
+	result[unformattedName] = util.MusicKit{
+		FormattedName:     formattedName,
+		Artist:            artist,
+		Description:       description,
+		Rarity:            rarityText,
+		ImageURL:          imageUrl,
+		StattrakAvailable: stattrakAvailable,
+		BoxesFoundIn:      nil,
+		AudioURLs:         audioUrls,
+	}
 	mtx.Unlock()
 }

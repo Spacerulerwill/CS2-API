@@ -1,8 +1,6 @@
 package util
 
 import (
-	"bufio"
-	"os"
 	"regexp"
 	"strings"
 )
@@ -15,7 +13,14 @@ var substituions = map[string]string{
 	"ö": "o",
 }
 
-var SkinRarities = [7]string{
+const (
+	NumSkinRarities     int = 7
+	NumStickerRarities  int = 5
+	NumGraffitiRarities int = 4
+	NumMusicKitRarities int = 1
+)
+
+var SkinRarities = [NumSkinRarities]string{
 	"Consumer Grade",
 	"Industrial Grade",
 	"Mil-Spec",
@@ -25,7 +30,7 @@ var SkinRarities = [7]string{
 	"Contraband",
 }
 
-var StickerRarities = [5]string{
+var StickerRarities = [NumStickerRarities]string{
 	"High Grade",
 	"Remarkable",
 	"Exotic",
@@ -33,11 +38,15 @@ var StickerRarities = [5]string{
 	"Contraband",
 }
 
-var GraffitiRarities = [4]string{
+var GraffitiRarities = [NumGraffitiRarities]string{
 	"Base Grade",
 	"High Grade",
 	"Remarkable",
 	"Exotic",
+}
+
+var MusicKitRarities = [NumMusicKitRarities]string{
+	"High Grade",
 }
 
 func RemoveNameFormatting(str string) string {
@@ -48,19 +57,4 @@ func RemoveNameFormatting(str string) string {
 		str = strings.Replace(str, k, substituions[k], 1)
 	}
 	return strings.TrimSpace(str)
-}
-
-func ReadLines(path string) ([]string, error) {
-	file, err := os.Open(path)
-	if err != nil {
-		return nil, err
-	}
-	defer file.Close()
-
-	var lines []string
-	scanner := bufio.NewScanner(file)
-	for scanner.Scan() {
-		lines = append(lines, scanner.Text())
-	}
-	return lines, scanner.Err()
 }

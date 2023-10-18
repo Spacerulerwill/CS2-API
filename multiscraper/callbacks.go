@@ -426,7 +426,7 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
 	musicRows := doc.Find("div.music-file")
 	audioUrls := make(map[string]string)
 	musicRows.Each(func(i int, box *goquery.Selection) {
-		name := box.Find("p").Text()
+		name := box.Find("div:nth-child(1) > p:nth-child(1)").Text()
 		audio := box.Find("audio")
 		audioSrc, exists := audio.Attr("src")
 
@@ -434,6 +434,12 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
 			log.Warn().Msg(fmt.Sprintf("No audio source for music kit %s %s", formattedName, name))
 		}
 		audioUrls[name] = "https://csgostash.com" + audioSrc
+	})
+
+	var boxesFoundIn []string
+	collectionLabels := doc.Find("p.collection-text-label")
+	collectionLabels.Each(func(i int, label *goquery.Selection) {
+		boxesFoundIn = append(boxesFoundIn, util.RemoveNameFormatting(label.Text()))
 	})
 
 	mtx.Lock()
@@ -444,7 +450,7 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
 		Rarity:            rarityText,
 		ImageURL:          imageUrl,
 		StattrakAvailable: stattrakAvailable,
-		BoxesFoundIn:      nil,
+		BoxesFoundIn:      boxesFoundIn,
 		AudioURLs:         audioUrls,
 	}
 	mtx.Unlock()

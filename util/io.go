@@ -3,21 +3,24 @@ package util
 import (
 	"bufio"
 	"encoding/json"
-	"fmt"
-	"io/ioutil"
 	"os"
 
 	"github.com/rs/zerolog/log"
 )
 
 func WriteJsonToFile(filename string, data interface{}) {
-	file, err := json.MarshalIndent(data, "", " ")
+	jsonData, err := json.MarshalIndent(data, "", " ")
 	if err != nil {
-		log.Error().Msg(fmt.Sprintf("Failed to marshal json data for file %s", filename))
+		log.Err(err)
 	}
-	err = ioutil.WriteFile(filename, file, 0644)
+
+	file, err := os.Create(filename)
 	if err != nil {
-		log.Error().Msg(fmt.Sprintf("Failed to write file %s", filename))
+		log.Err(err)
+	}
+	_, err = file.Write(jsonData)
+	if err != nil {
+		log.Err(err)
 	}
 }
 

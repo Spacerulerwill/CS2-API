@@ -20,9 +20,15 @@ type Skin struct {
 }
 
 type Case struct {
-	FormattedName string `json:"formattedName"`
-	ImageURL      string `json:"imageUrl"`
-	Skins         map[string][]string
+	FormattedName string              `json:"formattedName"`
+	ImageURL      string              `json:"imageUrl"`
+	Skins         map[string][]string `json:"skins"`
+}
+
+type Collection struct {
+	FormattedName string              `json:"formattedName"`
+	ImageUrl      string              `json:"imageUrl"`
+	Skins         map[string][]string `json:"skins"`
 }
 
 type Sticker struct {

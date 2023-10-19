@@ -20,7 +20,7 @@ var buttonTextIndexMap = map[string]int{
 type callbackConstraint interface {
 	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case |
 		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit |
-		map[string]util.Agent | map[string]util.Patch
+		map[string]util.Agent | map[string]util.Patch | map[string]util.Collection
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -200,7 +200,50 @@ func ScrapeCase(doc *goquery.Document, result map[string]util.Case) {
 		Skins:         skins,
 	}
 	mtx.Unlock()
+}
 
+func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection) {
+	formattedName := doc.Find("div.inline-middle:nth-child(2) > h1:nth-child(1)").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	image := doc.Find(".content-header-img-margin")
+	imageUrl, exists := image.Attr("src")
+	if !exists {
+		log.Warn().Msg(fmt.Sprintf("No image url for collection %s", formattedName))
+	}
+
+	// scrape normal items
+	skins := make(map[string][]string)
+	skinBoxes := doc.Find("div.well.result-box.nomargin")
+	skinBoxes.Each(func(i int, box *goquery.Selection) {
+		rarity := box.Find("div.quality")
+		rarityText := rarity.Text()
+		if rarityText == "" {
+			return
+		} else {
+			rarityFound := false
+			for i := 0; i < util.NumSkinRarities; i++ {
+				if strings.Contains(rarityText, util.SkinRarities[i]) {
+					rarityText = strings.ToLower(util.SkinRarities[i])
+					rarityFound = true
+					break
+				}
+			}
+			skinUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
+
+			if !rarityFound {
+				log.Warn().Msg(fmt.Sprintf("No rarity found for weapon skin %s in collection %s", skinUnformattedName, formattedName))
+			}
+
+			skins[rarityText] = append(skins[rarityText], skinUnformattedName)
+		}
+	})
+	mtx.Lock()
+	result[unformattedName] = util.Collection{
+		FormattedName: formattedName,
+		ImageUrl:      imageUrl,
+		Skins:         skins,
+	}
+	mtx.Unlock()
 }
 
 func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker) {

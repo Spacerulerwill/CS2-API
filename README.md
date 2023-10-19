@@ -35,3 +35,8 @@ GET https://spacerulerwill.github.io/CS2-API/api/music_kits.json
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/agents.json
 ```
+
+### Get patches
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/patches.json
+```

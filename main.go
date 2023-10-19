@@ -17,6 +17,7 @@ func main() {
 	graffitiData := make(map[string]util.Graffiti)
 	musicKitData := make(map[string]util.MusicKit)
 	agentData := make(map[string]util.Agent)
+	patchData := make(map[string]util.Patch)
 
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
 
@@ -92,6 +93,13 @@ func main() {
 	}
 	multiscraper.MultiScrape(agentLinks, agentData, 20, multiscraper.ScrapeAgent)
 
+	log.Info().Msg("Scraping agent patches...")
+	agentPatchesLinks, err := util.ReadLines("links/patches.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(agentPatchesLinks, patchData, 20, multiscraper.ScrapePatch)
+
 	// Dump all data to files
 	util.WriteJsonToFile("skins.json", weaponSkinData)
 	util.WriteJsonToFile("cases.json", caseData)
@@ -100,4 +108,5 @@ func main() {
 	util.WriteJsonToFile("graffiti.json", graffitiData)
 	util.WriteJsonToFile("music_kits.json", musicKitData)
 	util.WriteJsonToFile("agents.json", agentData)
+	util.WriteJsonToFile("patches.json", patchData)
 }

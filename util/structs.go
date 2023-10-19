@@ -63,3 +63,10 @@ type Agent struct {
 	Description   string `json:"description"`
 	FlavorText    string `json:"flavorText"`
 }
+
+type Patch struct {
+	FormattedName string `json:"formattedName"`
+	Rarity        string `json:"rarity"`
+	ImageUrl      string `json:"imageUrl"`
+	FlavorText    string `json:"flavorText"`
+}

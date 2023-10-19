@@ -20,7 +20,7 @@ var buttonTextIndexMap = map[string]int{
 type callbackConstraint interface {
 	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case |
 		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit |
-		map[string]util.Agent
+		map[string]util.Agent | map[string]util.Patch
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -489,6 +489,38 @@ func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent) {
 		Rarity:        rarityText,
 		ImageUrl:      imageUrl,
 		Description:   description,
+		FlavorText:    flavorText,
+	}
+	mtx.Unlock()
+}
+
+func ScrapePatch(doc *goquery.Document, result map[string]util.Patch) {
+	formattedName := doc.Find(".result-box > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	image := doc.Find("img.center-block")
+	imageUrl, exists := image.Attr("src")
+	if !exists {
+		log.Warn().Msg(fmt.Sprintf("No image url for patch %s", formattedName))
+	}
+	flavorText := doc.Find(".result-box > div:nth-child(2) > div:nth-child(1) > p:nth-child(2) > em:nth-child(1)").Text()
+	rarityText := doc.Find("div.quality").Text()
+	rarityFound := false
+	for i := 0; i < util.NumPatchRarities; i++ {
+		if strings.Contains(rarityText, util.PatchRarities[i]) {
+			rarityText = strings.ToLower(util.PatchRarities[i])
+			rarityFound = true
+			break
+		}
+	}
+	if !rarityFound {
+		log.Warn().Msg(fmt.Sprintf("No rarity found for patch %s", formattedName))
+	}
+
+	mtx.Lock()
+	result[unformattedName] = util.Patch{
+		FormattedName: formattedName,
+		Rarity:        rarityText,
+		ImageUrl:      imageUrl,
 		FlavorText:    flavorText,
 	}
 	mtx.Unlock()

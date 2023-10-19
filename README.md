@@ -40,3 +40,13 @@ GET https://spacerulerwill.github.io/CS2-API/api/agents.json
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/patches.json
 ```
+
+### Get patches
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/patches.json
+```
+
+### Get collections
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/collections.json
+```

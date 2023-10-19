@@ -1,0 +1,644 @@
+{
+ "patch abandon hope": {
+  "formattedName": "Patch | Abandon Hope",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FAZi0v3MfjN95NOmkb-HluXzNvWCxDtVuJVwj7yTp9vw0AWy_UFqY2z1cIaRcVJtaF2G81C-w7jsjJC_ot2XnnYs4WVk/256fx192f",
+  "flavorText": "All ye who dare enter..."
+ },
+ "patch alyx": {
+  "formattedName": "Patch | Alyx",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PLEaCV94N2kk4XFx_ajar6JzjJS7Jx02bnAp92k0Qe3_kJvYmyldtfDIAQ4MwqBrAO2w_Cv28FZ8kTA6w/256fx192f",
+  "flavorText": ""
+ },
+ "patch anchors aweigh": {
+  "formattedName": "Patch | Anchors Aweigh",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FAZu0PvHYwJO7c6xkc7bla6tYuPXkzoCv5Rw3rCQoYig2Ae3rkdkMGqicYDAclM_YQrV-lm-366x0tmo23cF/256fx192f",
+  "flavorText": "Staying still in stormy seas..."
+ },
+ "patch aquatic offensive": {
+  "formattedName": "Patch | Aquatic Offensive",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FAFpwPv3djJ94N2kk4XFz6KiZbiEwG0FupUi0u-Wo46mjVLt-UZoYD33JI6TdQ45YA7X_1PrkPCv28Gywwz4Ag/256fx192f",
+  "flavorText": "Fish on the Go"
+ },
+ "patch astralis gold stockholm 2021": {
+  "formattedName": "Patch | Astralis (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxot6mxOThn3P_MTjFD_tuz2tXck_KiY7mAwT4F7p0hibqVoIjxjASw-RI9Zjj6I4add1NoZliG8gSggbC44e6b-JY/256fx192f",
+  "flavorText": ""
+ },
+ "patch astralis stockholm 2021": {
+  "formattedName": "Patch | Astralis | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxot6mxOThs0uHPdHNDvIXnxNKNwKTxZuKFl20Cucd1jOjCodikilbm-EU_Mj2lJNTBcFdtfxiOrUCvv8D6/256fx192f",
+  "flavorText": ""
+ },
+ "patch bayonet frog": {
+  "formattedName": "Patch | Bayonet Frog",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FAFy3PT3YjZH4Nmim460m_bmNL6fx2gG6ZIpjrmWpI-l3Vbm_BY9YW_zcoHAdlJsMFvW-1Ptxubqg5butYOJlyW34Y3k9w/256fx192f",
+  "flavorText": "Don't give up 'till you croak..."
+ },
+ "patch big gold stockholm 2021": {
+  "formattedName": "Patch | BIG (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxotLOiFABv3_f3fTxQ69n4xtbTlvX1YuyClzwJsJEi2O3AotX2iVex-RdlYz32LYaWcwU2ZlDS-0_-n7nkWYxS6Q/256fx192f",
+  "flavorText": ""
+ },
+ "patch big stockholm 2021": {
+  "formattedName": "Patch | BIG | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxotLOiFAthwfTNP2sVutnlkYTSw672Ze-Ez21Q7pJ32LiZ8d722wy18kJlNWnydo6VIQcgIQaHlSMveHo/256fx192f",
+  "flavorText": ""
+ },
+ "patch black mesa": {
+  "formattedName": "Patch | Black Mesa",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PHEcD5J4dmllb-HluXzNvWAzzxQvccm3byUrYnw3VXm-EY6MmrzJ4DDcQVvMFHXrlm-yLvogZHpot2XnsPO_ip9/256fx192f",
+  "flavorText": ""
+ },
+ "patch bloodhound": {
+  "formattedName": "Patch | Bloodhound",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J2KQtYsrKqPglk7P_JYzpHooXlwtfYkaaha-KDkjlV6pMgjuqZrNXx0QCx-EU4Zm37JYWUcQ47ZVnOug_p0OPHmcI/256fx192f",
+  "flavorText": "This patch features iconography from Operation Bloodhound, which launched on May 26th, 2015"
+ },
+ "patch breakout": {
+  "formattedName": "Patch | Breakout",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J2NwFWvbWwPzhs0uHPdHNHutiyltfZxq-mZuiIxDwDuZAgiLuV8NjziQDh-xVkYzr2cY6VIVM2fxiOrVgUB3ea/256fx192f",
+  "flavorText": "This patch features iconography from Operation Breakout, which launched on July 1st, 2014"
+ },
+ "patch chicken lover": {
+  "formattedName": "Patch | Chicken Lover",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J3LQ1Uvb-rJwh21uH3fTxQ69n4wIKPkvbwZeuBzmoB7pcjjrjCp9uljVC3_0Y-Mm_zLI-RJw85M1vS-E_-n7kr5usw4g/256fx192f",
+  "flavorText": "Thank you for sparing them"
+ },
+ "patch city 17": {
+  "formattedName": "Patch | City 17",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PCZJgJO7c6xkc7ZwvbyN-nTz2oGsJBy27GYrdv22VWxqRU4a2H0J4KUdFA5aF7V_li5366x0tV-ucty/256fx192f",
+  "flavorText": ""
+ },
+ "patch cmb": {
+  "formattedName": "Patch | CMB",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PDFcwJO7c6xkc7bk6DyMb6Gwz8JuZBzj7iY8Nv33lLh_Ettaj_1d4WXcARsNFqD-Vbo366x0qcFv8k0/256fx192f",
+  "flavorText": ""
+ },
+ "patch combine helmet": {
+  "formattedName": "Patch | Combine Helmet",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PDHfD9L4tmJkpKEmePLP7rDkW4f7cQkib7Cot-jjADn-URlMW70cdXBJlU6M17Rq1XoyOy8gsLp7ZrIzWwj5Hem8cABXA/256fx192f",
+  "flavorText": ""
+ },
+ "patch copenhagen flames gold stockholm 2021": {
+  "formattedName": "Patch | Copenhagen Flames (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxotbW1Ljhn3P_MTjFD_tuz2tHfwaX1Mr2DxT5T7p103b-QrYrwjA3n-xVvZzugJY-cdgBvMAzV-VCggbC46Yfa8OE/256fx192f",
+  "flavorText": ""
+ },
+ "patch copenhagen flames stockholm 2021": {
+  "formattedName": "Patch | Copenhagen Flames | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxotbW1Ljhs0uHPdHND74S3w9bflPKlYevQxG0HuZcj2eqW9tqs0ADg-kNpazilIdWXd1A-fxiOrVkQ8sBB/256fx192f",
+  "flavorText": ""
+ },
+ "patch copper lambda": {
+  "formattedName": "Patch | Copper Lambda",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547P_JfD9G7eO1m5CbkuXLP7rDkW4fv8YgjrGY9o33iQHg_BA4azrwJdCRJgFvaVuErAK8kOvt05Tt7Z6anWwj5HcI4se7NA/256fx192f",
+  "flavorText": ""
+ },
+ "patch crazy banana": {
+  "formattedName": "Patch | Crazy Banana",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J2JApWuLuaJwZy1PaGIGUauIvhzYTZxPOlN-6Ak2oAsZV3iO2ToY6sjlbhqkRvMm_0ddOcIBh-Pw8wfnhJWA/256fx192f",
+  "flavorText": "Agent for scale"
+ },
+ "patch cruising ray": {
+  "formattedName": "Patch | Cruising Ray",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FARyxvrbeDNF09C3hoeO2aLxMOmGkGkB65Ug37ySoI6i2Vfi_hBtMm36dobEcAVoaQ3V-ge4yevxxcjr-VQKQMY/256fx192f",
+  "flavorText": "Glides below the waves..."
+ },
+ "patch danger zone": {
+  "formattedName": "Patch | Danger Zone",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JwJApQs6i_JAll7P_JYzpHoo7gxdaNlfSjZO3VzzwEuZdzjL6V9ojxiwbj-Us-Yzvzd4PDdQE2YQzOug_pk8njrF8/256fx192f",
+  "flavorText": "This patch features iconography from Danger Zone, which launched on December 6th, 2018"
+ },
+ "patch dead men": {
+  "formattedName": "Patch | Dead Men",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FBRrxv_ETj5Q48-lh5eEhfPnDLfQhGxUpsYn0riWrN7wjVDm_UM4N2z1ctCccVU-MFDW-wK7kuq5hJ7ouZiaySd9-n51PAZQ2OA/256fx192f",
+  "flavorText": "Universal sigil of danger..."
+ },
+ "patch death from below": {
+  "formattedName": "Patch | Death From Below",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FBRpwfbGTjFD_tuz2oHawaKlZu2Azj4IuZFw27GU84_x2Q3j_0VsZmr0J4WcJA83aFvT-lKggbC4LzUKTD4/256fx192f",
+  "flavorText": "Look out above..."
+ },
+ "patch dragon": {
+  "formattedName": "Patch | Dragon",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JwNwVQubSaJwZy1PaGJ2xE7YWylteKlfGnN-jXxW4AusN3ib-Wpt-siwfmrRZsZz_3JISVJxh-Pw92axn7zg/256fx192f",
+  "flavorText": "This patch features a dragon flanked on either side by the iconic AK-47"
+ },
+ "patch easy peasy": {
+  "formattedName": "Patch | Easy Peasy",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JxJBdOpr-kOB5f3_LadjgMuYmywoKKxPSjaumDkzpVvcQp2L-QrN7xjAPi_BJpMTj7d9XGIwc4YUaQpAb_ValLDQ/256fx192f",
+  "flavorText": "This patch somehow made it through quality control misspelling \"SQEEZY\""
+ },
+ "patch el pirata": {
+  "formattedName": "Patch | El Pirata",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FBdpwfLGeTx94N2kk4XFwKfyYrrVkz5SsZEpjrDA9tvz0VWx-kdrZ2ChIo-VdlU6NwzW8wS7xfCv28GvgmJiiA/256fx192f",
+  "flavorText": "Small bites; team effort..."
+ },
+ "patch elder god": {
+  "formattedName": "Patch | Elder God",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FAR02-bEeSh94N2kk4XFlaSsa-7Qzj8G7MdyjLiS8d7wi1ey-kppYG31I4OQcVBsMgmD-Fe-yPCv28Ht_BGqNg/256fx192f",
+  "flavorText": "Cthulhu approves those who defuse..."
+ },
+ "patch ence gold stockholm 2021": {
+  "formattedName": "Patch | ENCE (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxos7SmLjhn3P_MTjFD_tuz2oHZlqOiauiDkG8AvcB027nFptzzigft80U5Y2qmJYKXJgVvZwuGr1mggbC4D-lCaYE/256fx192f",
+  "flavorText": ""
+ },
+ "patch ence stockholm 2021": {
+  "formattedName": "Patch | ENCE | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxos7SmLjhs0uHPdHMWtdrizdLcxqL3ZemDkG0GscQh2bmX99yh21Gw_kNqNzinJtfBcARtfxiOrTbZVYJV/256fx192f",
+  "flavorText": ""
+ },
+ "patch entropiq gold stockholm 2021": {
+  "formattedName": "Patch | Entropiq (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxos7SxFABv3_f3fTxQ69n4koGOwfKnZ7mAxTNXv8Mi3rnH9o2giwzi-xJpa22ndtLAI1RqYVjZ_k_-n7nwiqdjgQ/256fx192f",
+  "flavorText": ""
+ },
+ "patch entropiq stockholm 2021": {
+  "formattedName": "Patch | Entropiq | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxos7SxFAthwfTNPzhBvI3iwYOOkqelYu3XwDMI65In0r_HpNql3wzi80c-Nmv2cNSQcwcgIQaHIauAJZ0/256fx192f",
+  "flavorText": ""
+ },
+ "patch evil geniuses gold stockholm 2021": {
+  "formattedName": "Patch | Evil Geniuses (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxos6ypFABv3_f3fTxQ69n4wtiKlPaiarrTkDlSuZAgjO2VoY-k3VK3rRdtYzymddSRIFVtNA3TrE_-n7nxEuprMg/256fx192f",
+  "flavorText": ""
+ },
+ "patch evil geniuses stockholm 2021": {
+  "formattedName": "Patch | Evil Geniuses | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxos6ypFAthwfTNPz9G6YXlxtbSxKWmZ-yCxTgI7pcgieyV89mkiVDtqkpsN2qhJNWdIQ4gIQaH7Ck2laM/256fx192f",
+  "flavorText": ""
+ },
+ "patch faze clan gold stockholm 2021": {
+  "formattedName": "Patch | FaZe Clan (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosLu_Ljhn3P_MTjFD_tuz2tXakaDyNujTwzsJvcYgib3Ao46t0VDk-EVuYjvwLIDDcAdtMArV81eggbC4o5ue93U/256fx192f",
+  "flavorText": ""
+ },
+ "patch faze clan stockholm 2021": {
+  "formattedName": "Patch | FaZe Clan | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosLu_Ljhs0uHPdHMXvYjuzYSOkqD1Z-rXkDkJ6Z0m0-qVotqmigSwqBJlMW2ldYLEcwE7fxiOrSNaVWxs/256fx192f",
+  "flavorText": ""
+ },
+ "patch furia gold stockholm 2021": {
+  "formattedName": "Patch | FURIA (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosK-3Ijhn3P_MTjFD_tuz2oWIka_yZOLUxjsFu5Ij2LnD99mgiga3rUNpYz_xIYCXdVI8M1rX_FOggbC4WsS49C8/256fx192f",
+  "flavorText": ""
+ },
+ "patch furia stockholm 2021": {
+  "formattedName": "Patch | FURIA | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosK-3Ijhs0uHPdHNHvoS1zdHdlKCmN-uGxDJT7pBw2-jHpo3w2VDl8xA-NWihctScJg88fxiOrQL8KkvW/256fx192f",
+  "flavorText": ""
+ },
+ "patch g2 esports gold stockholm 2021": {
+  "formattedName": "Patch | G2 Esports (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxoseiaLAhs18zEcC9F6ZLikdffxqGnN-iAwmkEu5wj0--Yrdys2Vfs-ko9NTihJdPHd1Q7NAuF5BHglgqAHKv7/256fx192f",
+  "flavorText": ""
+ },
+ "patch g2 esports stockholm 2021": {
+  "formattedName": "Patch | G2 Esports | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxoseiaJwZy1PaGdGkTuIrixoSJkqWiMriDxW4CsMYh07nC8Yms2gG18hZrMDz0JNPGcRh-Pw83fnu2Kw/256fx192f",
+  "flavorText": ""
+ },
+ "patch gambit gaming gold stockholm 2021": {
+  "formattedName": "Patch | Gambit Gaming (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosbuoKThn3P_MTjFD_tuz2oKJkaKgMOnUk2gF6ZVwjLGRpt2k0ALt_UBva2_2JtOcIA44aQqF_1iggbC4ZKx-r_I/256fx192f",
+  "flavorText": ""
+ },
+ "patch gambit gaming stockholm 2021": {
+  "formattedName": "Patch | Gambit Gaming | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosbuoKThs0uHPdHMSuYXmxNGOlKWhN-_XwG4GvJcj3rnA9tuhjVbnr0tpNmH1dtDHdgJrfxiOrXYDNvHB/256fx192f",
+  "flavorText": ""
+ },
+ "patch giant squid": {
+  "formattedName": "Patch | Giant Squid",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FBdp3fj3YixX5diJmIGZkPK6YenXkzIA7JQiiLuXrNml2wXlrRc-MTz7JoeSdVA5YQqD-1m8yO-61oj84sqR0M_E_g/256fx192f",
+  "flavorText": "Draws its prey into the depths..."
+ },
+ "patch godsent gold stockholm 2021": {
+  "formattedName": "Patch | GODSENT (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosbWhFABv3_f3fTxQ69n4xNnexvPwMeuHzjkJvp1w0rvFpN2h0VW2qko-MTz6coaVclVoZ1GF-E_-n7mEg_DFcg/256fx192f",
+  "flavorText": ""
+ },
+ "patch godsent stockholm 2021": {
+  "formattedName": "Patch | GODSENT | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxosbWhFAthwfTNP29EvYjhkIKPlqL1a7iEw2gIvJ0l0u3Cpt-kjFHsqkc9YjrxLYOcdFIgIQaHdjRhTv8/256fx192f",
+  "flavorText": ""
+ },
+ "patch headcrab glyph": {
+  "formattedName": "Patch | Headcrab Glyph",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PvNcDlB_t20q5SOlvvLP7rDkW4fupR3jr6Tptrwiwawr0BlMGmld9TDJwI9NA3X8la3lennh5S6uJ7PwWwj5Hclv6sB-A/256fx192f",
+  "flavorText": ""
+ },
+ "patch health": {
+  "formattedName": "Patch | Health",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PvNcC9W_-O6lZKMkrmlMe2Dl24Hv5d1jriX9tuhiVfm_0toZW3wd4CRJwVrZ1zZrATox73um9bi69Q_GsgT/256fx192f",
+  "flavorText": ""
+ },
+ "patch heroic gold stockholm 2021": {
+  "formattedName": "Patch | Heroic (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxovr-3JDhn3P_MTjFD_tuz2oKJlvP2YLiDlzpV68cg3uuU8430jgTj-hJuYzz7dYaRJwM_MFqE_FeggbC4PmsbTQI/256fx192f",
+  "flavorText": ""
+ },
+ "patch heroic stockholm 2021": {
+  "formattedName": "Patch | Heroic | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxovr-3JDhs0uHPdHMQtITjktHTxqKmZ-LUlW4F65cijuqRrdjwjgK180puZmyiJIDAcVRrfxiOrTdoQDMi/256fx192f",
+  "flavorText": ""
+ },
+ "patch howl": {
+  "formattedName": "Patch | Howl",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J8KhNbibakOQBlnfKZIm4UvovnzIPdkq71au_VlT9V7MQj2-jEoYn2iQbj-0BtYjrwcdOLMlhpV4JSUOM/256fx192f",
+  "flavorText": "This patch is worth its weight in red, orange, and gold"
+ },
+ "patch koi": {
+  "formattedName": "Patch | Koi",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J_Kg1ouru3LAIuhKORKWQU7drmldXfzq-jZrjVwmkAuJF33b6TpI-miw23qUFuNWHzIJjVLFERalnbNg/256fx192f",
+  "flavorText": "This patch features two Koi fish atop swirling blue water"
+ },
+ "patch lambda": {
+  "formattedName": "Patch | Lambda",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547P_JfD9G7eO5hoGFkPLLP7rDkW4fuZQj2L3CotXz2QW2rUVkN2j1cobEIwU6N13TrFi6k-jpjZS16J7Iymwj5Hf-IRoxFw/256fx192f",
+  "flavorText": ""
+ },
+ "patch longevity": {
+  "formattedName": "Patch | Longevity",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J4KgpQs6ysPx5f3_LadjgMvoXll9Hfx6_yZeuGlDIB7J132LvAoYqi2Vay80doMD31IY6XegQ7YkaQpAZbdzUeYA/256fx192f",
+  "flavorText": "This red and white patch features an artistic take on the \"CSGO\" logo"
+ },
+ "patch mad sushi": {
+  "formattedName": "Patch | Mad Sushi",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FAph18zbZC5K5eO6lZKMkrnyZeqDzz0AvcQk2ezFodWijVLlqkA9N2inIdWdJgBsNVmG_Qe4wuvrm9bi6913GHzj/256fx192f",
+  "flavorText": "Roll the enemy!"
+ },
+ "patch meal time": {
+  "formattedName": "Patch | Meal Time",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FApl0v_3ZTRP6eO6lZKMkrmkMezQxW0IuMZyjLjDodih3wO1_0Y9NWv7cIPGdlQ-NV6B-QO3w7vmm9bi60PmNkDc/256fx192f",
+  "flavorText": "Hungry for victory..."
+ },
+ "patch metal distinguished master guardian": {
+  "formattedName": "Patch | Metal Distinguished Master Guardian",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f1_7PIwJO7c6xkc6Ik6H3Y-yIwDNUvMZw3-jHo4jwjVLg8kFoNW33cISVclJvZArRrFbv366x0iTo8uJF/256fx192f",
+  "flavorText": "Individuals must bend, adapt, and work together to achieve the Skill Group of DMG. Keep climbing."
+ },
+ "patch metal gold nova": {
+  "formattedName": "Patch | Metal Gold Nova",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f1PzEdTNN-t3iq4yKhfDxfePTxz9UsJFwjrvC8dWg3wbgr0tqZW_ycoDGdFM9ZV-FqwO_l-q-hZSi_MOeLwoAxYI/256fx192f",
+  "flavorText": "Made it out of Silver? There's still work to do."
+ },
+ "patch metal gold nova i": {
+  "formattedName": "Patch | Metal Gold Nova I",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f1PzEdTNN-t3nq4yKhfDxfe_SxGgA6pMi37-Y9oqk2QW2_0NpZzihJdOXelc3Yl-Eq1G6kLvs1J-i_MOeIz-ej5Q/256fx192f",
+  "flavorText": "Made it out of Silver? There's still work to do."
+ },
+ "patch metal gold nova master": {
+  "formattedName": "Patch | Metal Gold Nova Master",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f1PzEdTNN-t27lZOfkuXLP7rDkW4fvZdz07CXptqk2lDl_BFtMG_3JYOcdQM5ZlHX-1C9w-rohZW-75TIyWwj5He5ej7A_Q/256fx192f",
+  "flavorText": "And you thought Silver was hard to get out of..."
+ },
+ "patch metal legendary eagle": {
+  "formattedName": "Patch | Metal Legendary Eagle",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f3_bPdDNG7c6vkYGMm_KmDLfQhGxUpp132bjA9N-l2Qy3_0dkNTrwINeRegA_NV_SqFXqlOa9g8fv78_LziR9-n514i3eayM/256fx192f",
+  "flavorText": "This Legendary Eagle patch includes a pair of golden wings."
+ },
+ "patch metal legendary eagle master": {
+  "formattedName": "Patch | Metal Legendary Eagle Master",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f3_bPdDNG7c6vkYGMm_L5MqjFk3kD18lwmO7Eu9323ADlrRFpMTqmcNOTdVU-NVmC-FO8xu2-hsLtuJrNzyFrsykj7CnD30vgneKYGyI/256fx192f",
+  "flavorText": "You're nearing the top, but those awaiting your challenge will show no mercy."
+ },
+ "patch metal master guardian": {
+  "formattedName": "Patch | Metal Master Guardian",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f3vLbZThQ68m3hoSClvmnDLfQhGxUpsdy3uiXpdqgjFa2qUdkYDj3ItLHI1A5aF7Zrli-x-a5hZXvtJmdyyZ9-n51-Rhd0Wo/256fx192f",
+  "flavorText": "Escaped Gold Nova? Good, you're learning."
+ },
+ "patch metal master guardian elite": {
+  "formattedName": "Patch | Metal Master Guardian Elite",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f3vLbZThQ68m3hoSClvnxP7LFk1Rd6dd2j6fFp9ymigXk8kVqNWz0JoORcVRoNQmCq1fqwenoh8W06pmbynpg6ycg-z-DyKK_gYiX/256fx192f",
+  "flavorText": "Expertly crafted, the silver thread on this MGE patch jumps off the navy background."
+ },
+ "patch metal master guardian i": {
+  "formattedName": "Patch | Metal Master Guardian I",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f3vLbZThQ68m3hoSClvmlDLfQhGxUpsAg3LiSodn02Vbj-0pvNW71dteTd1I6Z1HUr1jow-fsjJTttZ_KzCR9-n51rtMT-rg/256fx192f",
+  "flavorText": "Escaped Gold Nova? Good, you're learning."
+ },
+ "patch metal silver": {
+  "formattedName": "Patch | Metal Silver",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9fwPrEZzhQ09C3hoeO2aTya7jVlzMCv5102u_DpNv02wftr0c6NT-ld4aQIQFrY13XrFDsyb3xxcjrDtcRqzc/256fx192f",
+  "flavorText": "A patch for those taking their first step on the road to Global."
+ },
+ "patch metal silver demon": {
+  "formattedName": "Patch | Metal Silver Demon",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9fwPrEZzhQ09izmY-FqPv1IbzU2DgB68Z13bmQ8YmnjgexrxA5MDuid4WSeg9sYVyBrgLrlbvv05O1u5zXiSw0YRp3Ono/256fx192f",
+  "flavorText": "\"Silver Hell\" isn't a place, it's a state of mind. And you can leave at any time."
+ },
+ "patch metal supreme master": {
+  "formattedName": "Patch | Metal Supreme Master",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9fwObYYzhP6dG3h5SOhcj4MqnWkyVSvZEpiL2Yod-i3ALg_xBrYW7zIYHAdw84aF7U_lnvwbi5gpDtuJif1zI97cKtlhTy/256fx192f",
+  "flavorText": "A winged defuser is flanked by six stars on this SMFC patch."
+ },
+ "patch metal supreme master first class": {
+  "formattedName": "Patch | Metal Supreme Master First Class",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9fwObYYzhP6eO6lZKMkrnwML-Dkm8B7cNw27mZ9NT33gDs-RJoNz-hco_HdQQ5MFGE-gW9w7-8m9bi6_dqTdme/256fx192f",
+  "flavorText": "This Supreme patch features a heart-shaped globe and red and blue details."
+ },
+ "patch metal the global elite": {
+  "formattedName": "Patch | Metal The Global Elite",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvVO-k28PUQVJhNRcYpruxKA9f1P_HczxO6dC_gIXZqPv1IbzU2GpXvZV3jriTo4733Azi80RrZWr6JYfAdgQ6aQ3RrlS2w-u-1JO_vc7XiSw0r4GhYaE/256fx192f",
+  "flavorText": "Congratulations, you've arrived. Now the real challenge begins."
+ },
+ "patch mouz gold stockholm 2021": {
+  "formattedName": "Patch | MOUZ (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxou7WwMThn3P_MTjFD_tuz2tiIwvSlYuuHkzwI6ccj3OqW8NymjAfsrxU4Mjrxd9PHIAM_M13X-VCggbC4WvwCDms/256fx192f",
+  "flavorText": ""
+ },
+ "patch mouz stockholm 2021": {
+  "formattedName": "Patch | MOUZ | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxou7WwMThs0uHPdHNHtN60wYPbwqesMr6CwD8Hv5V12rGX9t_0jQW2rkBla2ulcYfAJlU-fxiOrX7nwLSZ/256fx192f",
+  "flavorText": ""
+ },
+ "patch movistar riders gold stockholm 2021": {
+  "formattedName": "Patch | Movistar Riders (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopLOhLjhn3P_MTjFD_tuz2tHYx6Gta--IwDgH7ZYiibyQpd-g3QCy-RdoN233ItLAJg46Yg3Y81KggbC4XiurAc8/256fx192f",
+  "flavorText": ""
+ },
+ "patch movistar riders stockholm 2021": {
+  "formattedName": "Patch | Movistar Riders | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopLOhLjhs0uHPdHNE79jjzdXZzqT1MeyFl20A6ZApi7yY9Nrz2VHsrhVpMDrycYSTew47fxiOrQ2-6EPX/256fx192f",
+  "flavorText": ""
+ },
+ "patch natus vincere gold stockholm 2021": {
+  "formattedName": "Patch | Natus Vincere (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxouLuzIjhn3P_MTjFD_tuz2oHSla-mZ-iAxm8A6sEk37GQrd3z2QKy_xBva2_3I4GWdlU6Ml_U-FSggbC4BMgCYDM/256fx192f",
+  "flavorText": ""
+ },
+ "patch natus vincere stockholm 2021": {
+  "formattedName": "Patch | Natus Vincere | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxouLuzIjhs0uHPdHMWuIrukYLcxfGnYuvSwTsB7JIk2OrA9Ir23gThqUo_am_wd4LBcFI5fxiOrShyq7ET/256fx192f",
+  "flavorText": ""
+ },
+ "patch ninjas in pyjamas gold stockholm 2021": {
+  "formattedName": "Patch | Ninjas in Pyjamas (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxouLO1FABv3_f3fTxQ69n4xNSPlqOmNunUkG4H65d12LmU9tTw0Qfj-0I6YGClIoCUeg9vZQ6C_k_-n7kTxDAHYw/256fx192f",
+  "flavorText": ""
+ },
+ "patch ninjas in pyjamas stockholm 2021": {
+  "formattedName": "Patch | Ninjas in Pyjamas | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxouLO1FAthwfTNP21Hv96wzYTYlKD3MrmJkGkJvpci2bCYp46jjgC1_kVlY27ydo-cewQgIQaH3fNugC4/256fx192f",
+  "flavorText": ""
+ },
+ "patch pain gaming gold stockholm 2021": {
+  "formattedName": "Patch | paiN Gaming (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxoprusJThn3P_MTjFD_tuz2oGNk6eiN7rTlzkEucEp37qTpdz30VflqkNkZz-mcYecJgU4ZFjQ_FWggbC4q6GEVII/256fx192f",
+  "flavorText": ""
+ },
+ "patch pain gaming stockholm 2021": {
+  "formattedName": "Patch | paiN Gaming | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxoprusJThs0uHPdHMWuYnultbbxaP3Y-zVlzsBucQljLCZ89r03Q3nqRU6Z271d9Wde1BvfxiOrRlLnpI2/256fx192f",
+  "flavorText": ""
+ },
+ "patch payback": {
+  "formattedName": "Patch | Payback",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JkJB1Vt7muFAthwfTNP2xHu42ykdCJxaGmNr2GwzlUu5Ap3u_H8duhigPn-UtuYz_ycNeSIwUgIQaHKkK0MqA/256fx192f",
+  "flavorText": "This patch features iconography from Operation Payback, which launched on April 25th, 2013"
+ },
+ "patch pgl gold stockholm 2021": {
+  "formattedName": "Patch | PGL (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopr2pFABv3_f3fTxQ69n4xIaJwab1YLiJxDpX7JMniLuX84r0jAftrRc5Z2z6ddWUdAM2MljX-k_-n7k9Qi9B2w/256fx192f",
+  "flavorText": ""
+ },
+ "patch pgl stockholm 2021": {
+  "formattedName": "Patch | PGL | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopr2pFAthwfTNP2pHuIviwIHZlKCiMuKBlDNTu5J3i7_EoNrx3we2_ERoMTj0cIHHelcgIQaHd5k3JpI/256fx192f",
+  "flavorText": ""
+ },
+ "patch phoenix": {
+  "formattedName": "Patch | Phoenix",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JkLQtSuLO9FAthwfTNP24Wvd3lldHZw6WsZOzSwWgE7J10i7yUpY6t3VK3r0JqNWr7I9SWeg4gIQaHZqCh7Ns/256fx192f",
+  "flavorText": "This patch features iconography from Operation Phoenix, which launched on February 20th, 2014"
+ },
+ "patch rage": {
+  "formattedName": "Patch | Rage",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JyMBZOibakOQBlnaLJIjgXuIrmx9mIw6SnY-zSkjJX6Zck3rGVotXzjlC1_RBrN23zd4eLMlhpne7TLcM/256fx192f",
+  "flavorText": "A patch signifying rage, anger, or fury"
+ },
+ "patch renegades gold stockholm 2021": {
+  "formattedName": "Patch | Renegades (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopL-rFABv3_f3fTxQ69n4kNXYxqWmYOLVxzpVsZAi07zH84r3jAWx_UNqYT30J4HGdw42MFnS-E_-n7nXyr6i2g/256fx192f",
+  "flavorText": ""
+ },
+ "patch renegades stockholm 2021": {
+  "formattedName": "Patch | Renegades | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopL-rFAthwfTNP2gUuY61xoXflK6iZuiAlzgI650m2e-Y9N2k2FCxrhJsZj_3I4DHclQgIQaHYxKMsDY/256fx192f",
+  "flavorText": ""
+ },
+ "patch sharks esports gold stockholm 2021": {
+  "formattedName": "Patch | Sharks Esports (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopbK3IDhn3P_MTjFD_tuz2oKNlqegY--AwmlT7cRw2-yUo9Sk2g3k-BVuYGj1INTEcAdoMlnU-FGggbC4aKVrOmc/256fx192f",
+  "flavorText": ""
+ },
+ "patch sharks esports stockholm 2021": {
+  "formattedName": "Patch | Sharks Esports | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopbK3IDhs0uHPdHMT797hxtXbxK_wZ-jUlW8A6sAi3r_Cpd6i2lDirRBuYGGhI4KTelM9fxiOrU0SdsKZ/256fx192f",
+  "flavorText": ""
+ },
+ "patch shattered web": {
+  "formattedName": "Patch | Shattered Web",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JnLQVDor-3LgN31vH3fTxQ69n4kYKOw6P2Nu2DlGlQsZUj2O-Woo_22VWy_kY_YGv2cofDcQZoZAnV_k_-n7knOs0_Dg/256fx192f",
+  "flavorText": "This patch features iconography from Operation Shattered Web, which launched on November 18th, 2019"
+ },
+ "patch sunset wave": {
+  "formattedName": "Patch | Sunset Wave",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nvSPT8hoDDUkl3LTtYpuv0FBR13eDNZQJV7cqzq4yKhfDxfePTxD0GsJVyjL2Vpdql2Vfk_UJkNmjwLIGQdgc8MF6C-Va4le67g8Wi_MOe6ArCzow/256fx192f",
+  "flavorText": "A new day on the ocean..."
+ },
+ "patch sustenance": {
+  "formattedName": "Patch | Sustenance!",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547PvNcDlB_t20q4eZkvL6DLfQhGxUpsEpibDAo9Txi1bmqkc4YW7zItDDeg9qNwmB8wO5x72-h8Du6cufmHB9-n51fjkaxgI/256fx192f",
+  "flavorText": ""
+ },
+ "patch team liquid gold stockholm 2021": {
+  "formattedName": "Patch | Team Liquid (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxourO0FABv3_f3fTxQ69n4wIHZka6mMe-CxzhT68Mo0ruUoN2m21bm-kA_azv6II-UcVM8NVmC-E_-n7lvEL11Ig/256fx192f",
+  "flavorText": ""
+ },
+ "patch team liquid stockholm 2021": {
+  "formattedName": "Patch | Team Liquid | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxourO0FAthwfTNP2sUtIzizIHYlaKtNe-GlWkCuZJy2b2Uotqi3QbtqkNka22mcoWddQEgIQaHPzXk-58/256fx192f",
+  "flavorText": ""
+ },
+ "patch team spirit gold stockholm 2021": {
+  "formattedName": "Patch | Team Spirit (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopaqsOThn3P_MTjFD_tuz2tmPlvbwNe3Sk21Xu5Ag3OuXrI6hjQS1rRE5Zm_7d4eQdgdoaVjXrFaggbC4Nuanwfs/256fx192f",
+  "flavorText": ""
+ },
+ "patch team spirit stockholm 2021": {
+  "formattedName": "Patch | Team Spirit | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxopaqsOThs0uHPdHMatIW1x4Pdw_PxNb-ExD4Bv5JwibDDooit2lCy-RdpajihdtSQcQY8fxiOrRLaYDAS/256fx192f",
+  "flavorText": ""
+ },
+ "patch the boss": {
+  "formattedName": "Patch | The Boss",
+  "rarity": "exotic",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J2KhdEibakOQBlnaXLdGsS6I6yzdHak6H3Me6CkjMBscQg3ejE99qh2Afk8kJpNmjyI4GLMlhplczk-_Y/256fx192f",
+  "flavorText": "Heavy is the agent that wears the crown"
+ },
+ "patch tyloo gold stockholm 2021": {
+  "formattedName": "Patch | Tyloo (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxooqOpFABv3_f3fTxQ69n4kNLblfLwa-uDzm0Bv5YmjrmX846m0Few8xFrZ2ygctKXcARqYlnU_U_-n7k5QGWiJw/256fx192f",
+  "flavorText": ""
+ },
+ "patch tyloo stockholm 2021": {
+  "formattedName": "Patch | Tyloo | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxooqOpFAthwfTNP2UQuo_gkIGOx6SmY7mHwToD65Ym07yRrd2g3w238hJpZmn1cI-RcVQgIQaHqsX7Khw/256fx192f",
+  "flavorText": ""
+ },
+ "patch vanguard": {
+  "formattedName": "Patch | Vanguard",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JiJApQo7u3Lzhs0uHPdHMR6o_ml9PdwK73MuLSzmkH7pRw07-ZrNj2jAPsqBY9Zm7zctPEegZsfxiOrUaQFhjm/256fx192f",
+  "flavorText": "This patch features iconography from Operation Vanguard, which launched on November 11th, 2014"
+ },
+ "patch vigilance": {
+  "formattedName": "Patch | Vigilance",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JiLANeururKAJf3_LadjgMu9jjxITTkqCnNe3Xk2kJsZQpj-qZo9SiigLkqUNuYzygJYeTJlQ9ZUaQpAZkz1VTFg/256fx192f",
+  "flavorText": "A patch for the lurker; a teammate who keeps a careful watch"
+ },
+ "patch virtuspro gold stockholm 2021": {
+  "formattedName": "Patch | Virtus.Pro (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxooKqaLAhs18zEcC9F6ZKykdDcz6-mMeKIwGgIsJFw2-zHp9-h0Fey_EBpMT_wdtORcQI-MlyC5BHgllzR7ep4/256fx192f",
+  "flavorText": ""
+ },
+ "patch virtuspro stockholm 2021": {
+  "formattedName": "Patch | Virtus.Pro | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxooKqaJwZy1PaGJT8Uu4mwzYSNw_SgZeqAk25QscQkjLmW9Nrx3lXn-xJsNWClIYCXcBh-Pw-TeB2DWA/256fx192f",
+  "flavorText": ""
+ },
+ "patch vitality gold stockholm 2021": {
+  "formattedName": "Patch | Vitality (Gold) | Stockholm 2021",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxooLOxKjhn3P_MTjFD_tuz2tHTwqLxa-mBkzoGscMh3ryWp9vziVfi-UE6N2igLYXAIwFvaQqG_lmggbC41VnpDZs/256fx192f",
+  "flavorText": ""
+ },
+ "patch vitality stockholm 2021": {
+  "formattedName": "Patch | Vitality | Stockholm 2021",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5ghJQ0_bT7b9hZ6cQ1xgJgxooLOxKjhs0uHPdHNGvozvwNHfkaagN-iHkm5UsZFz3OrCodSn3w22-ERrZ22iLIecJg5tfxiOrURpZrWR/256fx192f",
+  "flavorText": ""
+ },
+ "patch vortigaunt": {
+  "formattedName": "Patch | Vortigaunt",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0nYS-WhztecQ1xgJgxovrakJx547OXHYyl94N2kk4XFwKOtZ7qBxWlTuMAo0-3DpdSm3AXhqUFlZmnzI9SXdVJsZlrVrwK6kPCv28GmjuwiOA/256fx192f",
+  "flavorText": ""
+ },
+ "patch welcome to the clutch": {
+  "formattedName": "Patch | Welcome to the Clutch",
+  "rarity": "remarkable",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J3KRFDtbKaJwZy1PaGKG9D7truzNKIwvWkZuiDk28BusQj0riRoNSg2FXhqRU9Nmr0cYaTJhh-Pw9F6GDz6Q/256fx192f",
+  "flavorText": "4K's are the norm to an agent wearing this patch"
+ },
+ "patch wildfire": {
+  "formattedName": "Patch | Wildfire",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2JjLAhTsLO3Ljhs0uHPdHMUtYXukdXTw66iYbjQzzxSu5wh2LjH8NXw0VWw8xFqN2zyJtXBJgQ_fxiOrTvp2ZSt/256fx192f",
+  "flavorText": "This patch features iconography from Operation Wildfire, which launched on February 17th, 2016"
+ }
+}

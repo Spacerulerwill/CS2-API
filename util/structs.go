@@ -55,3 +55,11 @@ type MusicKit struct {
 	BoxesFoundIn      []string          `json:"boxesFoundIn"`
 	AudioURLs         map[string]string `json:"audioUrls"`
 }
+
+type Agent struct {
+	FormattedName string `json:"formattedName"`
+	Rarity        string `json:"rarity"`
+	ImageUrl      string `json:"imageUrl"`
+	Description   string `json:"description"`
+	FlavorText    string `json:"flavorText"`
+}

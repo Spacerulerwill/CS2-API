@@ -18,6 +18,7 @@ const (
 	NumStickerRarities  int = 5
 	NumGraffitiRarities int = 4
 	NumMusicKitRarities int = 1
+	NumAgentRarities    int = 4
 )
 
 var SkinRarities = [NumSkinRarities]string{
@@ -47,6 +48,13 @@ var GraffitiRarities = [NumGraffitiRarities]string{
 
 var MusicKitRarities = [NumMusicKitRarities]string{
 	"High Grade",
+}
+
+var AgentRarities = [NumAgentRarities]string{
+	"Distinguished",
+	"Exceptional",
+	"Superior",
+	"Master",
 }
 
 func RemoveNameFormatting(str string) string {

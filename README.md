@@ -30,3 +30,8 @@ GET https://spacerulerwill.github.io/CS2-API/api/graffiti.json
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/music_kits.json
 ```
+
+### Get agents
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/agents.json
+```

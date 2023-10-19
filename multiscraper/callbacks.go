@@ -19,7 +19,8 @@ var buttonTextIndexMap = map[string]int{
 
 type callbackConstraint interface {
 	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case |
-		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit
+		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit |
+		map[string]util.Agent
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -452,6 +453,43 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
 		StattrakAvailable: stattrakAvailable,
 		BoxesFoundIn:      boxesFoundIn,
 		AudioURLs:         audioUrls,
+	}
+	mtx.Unlock()
+}
+
+func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent) {
+	formattedName := doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text()
+	rarityText := doc.Find("div.quality").Text()
+	rarityFound := false
+	for i := 0; i < util.NumAgentRarities; i++ {
+		if strings.Contains(rarityText, util.AgentRarities[i]) {
+			rarityText = strings.ToLower(util.AgentRarities[i])
+			rarityFound = true
+			break
+		}
+	}
+
+	if !rarityFound {
+		log.Warn().Msg(fmt.Sprintf("No rarity found for agent %s", formattedName))
+	}
+
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	image := doc.Find("html body div.container.main-content div.row.text-center div.col-md-8.col-widen div.well.result-box.nomargin div.row div.col-md-6 img.img-responsive.center-block.margin-bot-med")
+	imageUrl, exists := image.Attr("src")
+	if !exists {
+		log.Warn().Msg(fmt.Sprintf("No image url for music kit %s", formattedName))
+	}
+
+	description := strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(1)").Text(), "Description: ")
+	flavorText := doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > p:nth-child(2) > em:nth-child(1)").Text()
+
+	mtx.Lock()
+	result[unformattedName] = util.Agent{
+		FormattedName: formattedName,
+		Rarity:        rarityText,
+		ImageUrl:      imageUrl,
+		Description:   description,
+		FlavorText:    flavorText,
 	}
 	mtx.Unlock()
 }

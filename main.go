@@ -16,6 +16,7 @@ func main() {
 	stickerCapsuleData := make(map[string]util.StickerCapsule)
 	graffitiData := make(map[string]util.Graffiti)
 	musicKitData := make(map[string]util.MusicKit)
+	agentData := make(map[string]util.Agent)
 
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
 
@@ -83,6 +84,14 @@ func main() {
 	}
 	multiscraper.MultiScrape(musicKitLinks, musicKitData, 20, multiscraper.ScrapeMusicKit)
 
+	// Scrape agents
+	log.Info().Msg("Scraping agents...")
+	agentLinks, err := util.ReadLines("links/agents.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(agentLinks, agentData, 20, multiscraper.ScrapeAgent)
+
 	// Dump all data to files
 	util.WriteJsonToFile("skins.json", weaponSkinData)
 	util.WriteJsonToFile("cases.json", caseData)
@@ -90,4 +99,5 @@ func main() {
 	util.WriteJsonToFile("sticker_capsules.json", stickerCapsuleData)
 	util.WriteJsonToFile("graffiti.json", graffitiData)
 	util.WriteJsonToFile("music_kits.json", musicKitData)
+	util.WriteJsonToFile("agents.json", agentData)
 }

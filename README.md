@@ -45,3 +45,8 @@ GET https://spacerulerwill.github.io/CS2-API/api/patches.json
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/collections.json
 ```
+
+### Get souvenir packages
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/souvenir_packages.json
+```

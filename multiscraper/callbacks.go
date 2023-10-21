@@ -20,7 +20,8 @@ var buttonTextIndexMap = map[string]int{
 type callbackConstraint interface {
 	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case |
 		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit |
-		map[string]util.Agent | map[string]util.Patch | map[string]util.Collection
+		map[string]util.Agent | map[string]util.Patch | map[string]util.Collection |
+		map[string]util.SouvenirPackage
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -244,6 +245,33 @@ func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection) 
 		Skins:         skins,
 	}
 	mtx.Unlock()
+}
+
+func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.SouvenirPackage) {
+	boxes := doc.Find("div.well.result-box.nomargin")
+	boxes.Each(func(i int, box *goquery.Selection) {
+		formattedName := box.Find("h4").Text()
+		if formattedName == "" {
+			return
+		}
+		unformattedName := util.RemoveNameFormatting(formattedName)
+		image := box.Find("img:nth-child(2)")
+		imageUrl, exists := image.Attr("src")
+		if !exists {
+			log.Warn().Msg(fmt.Sprintf("No image url for souvenir package %s", formattedName))
+		}
+
+		collection := util.RemoveNameFormatting(box.Find("div:nth-child(1) > div:nth-child(3)").Text())
+
+		mtx.Lock()
+		result[unformattedName] = util.SouvenirPackage{
+			FormattedName: formattedName,
+			ImageURL:      imageUrl,
+			Collection:    collection,
+		}
+		mtx.Unlock()
+	})
+
 }
 
 func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker) {

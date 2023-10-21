@@ -25,6 +25,12 @@ type Case struct {
 	Skins         map[string][]string `json:"skins"`
 }
 
+type SouvenirPackage struct {
+	FormattedName string `json:"formattedName"`
+	ImageURL      string `json:"imageUrl"`
+	Collection    string `json:"collection"`
+}
+
 type Collection struct {
 	FormattedName string              `json:"formattedName"`
 	ImageUrl      string              `json:"imageUrl"`

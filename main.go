@@ -13,6 +13,7 @@ func main() {
 	weaponSkinData := make(map[string]util.Skin)
 	caseData := make(map[string]util.Case)
 	collectionData := make(map[string]util.Collection)
+	souvenirPackageData := make(map[string]util.SouvenirPackage)
 	stickerData := make(map[string]util.Sticker)
 	stickerCapsuleData := make(map[string]util.StickerCapsule)
 	graffitiData := make(map[string]util.Graffiti)
@@ -53,6 +54,13 @@ func main() {
 		log.Err(err)
 	}
 	multiscraper.MultiScrape(collectionLinks, collectionData, 20, multiscraper.ScrapeCollection)
+
+	log.Info().Msg("Scraping souvenir packages...")
+	souvenirPackageLinks, err := util.ReadLines("links/souvenir_packages.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(souvenirPackageLinks, souvenirPackageData, 20, multiscraper.ScrapeSouvenirPackagePage)
 
 	// Scrape stickers
 	log.Info().Msg("Scraping stickers...")
@@ -113,6 +121,7 @@ func main() {
 	util.WriteJsonToFile("skins.json", weaponSkinData)
 	util.WriteJsonToFile("cases.json", caseData)
 	util.WriteJsonToFile("collections.json", collectionData)
+	util.WriteJsonToFile("souvenir_packages.json", souvenirPackageData)
 	util.WriteJsonToFile("stickers.json", stickerData)
 	util.WriteJsonToFile("sticker_capsules.json", stickerCapsuleData)
 	util.WriteJsonToFile("graffiti.json", graffitiData)

@@ -65,6 +65,12 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J2KQtYsrKqPglk7P_JYzpHooXlwtfYkaaha-KDkjlV6pMgjuqZrNXx0QCx-EU4Zm37JYWUcQ47ZVnOug_p0OPHmcI/256fx192f",
   "flavorText": "This patch features iconography from Operation Bloodhound, which launched on May 26th, 2015"
  },
+ "patch bravo": {
+  "formattedName": "Patch | Bravo",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J2NwVBuYWpKhVn1r2fKDxE7YXmx9bSx6P2Y-zXwTxUvpdy37-S9Nij0ASxqRA_Zj2gI4-QbEZgNguiG5iT/256fx192f",
+  "flavorText": "This patch features iconography from Operation Bravo, which launched on September 19th, 2013"
+ },
  "patch breakout": {
   "formattedName": "Patch | Breakout",
   "rarity": "high grade",
@@ -298,6 +304,12 @@
   "rarity": "exotic",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J8KhNbibakOQBlnfKZIm4UvovnzIPdkq71au_VlT9V7MQj2-jEoYn2iQbj-0BtYjrwcdOLMlhpV4JSUOM/256fx192f",
   "flavorText": "This patch is worth its weight in red, orange, and gold"
+ },
+ "patch hydra": {
+  "formattedName": "Patch | Hydra",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXT4BhcJo8h5hhcX0mAFqu91tvQW2J8PABFt4WpKhVn1r3MIWRA6oi3zdKJwPH1auLTzj4IvcF30-qTptuk0QCy-EQ5Nz36J4KQbEZgNnyPuBOZ/256fx192f",
+  "flavorText": "This patch features iconography from Operation Hydra, which launched on May 23rd, 2017"
  },
  "patch koi": {
   "formattedName": "Patch | Koi",

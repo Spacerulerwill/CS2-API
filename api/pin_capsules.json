@@ -1,0 +1,103 @@
+{
+ "collectible pins capsule series 1": {
+  "formattedName": "Collectible Pins Capsule Series 1",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtEs6isLhRfgr3MJW5Gu4vlkIPfzvKtYuqExDoHscEm0-rH9o2i2FXj_RJrNj_0d4aTbEZgNilpEO0l/256fx256f",
+  "pins": {
+   "exotic": [
+    "mirage pin",
+    "inferno pin"
+   ],
+   "extraordinary": [
+    "guardian elite pin",
+    "dust ii pin"
+   ],
+   "high grade": [
+    "nuke pin",
+    "guardian pin",
+    "train pin",
+    "tactics pin"
+   ],
+   "remarkable": [
+    "victory pin",
+    "italy pin",
+    "militia pin"
+   ]
+  }
+ },
+ "collectible pins capsule series 2": {
+  "formattedName": "Collectible Pins Capsule Series 2",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtEs6isLhRfgb2RJzhB6IqzldnekaWgYO2HlWoI6pEgjLiZoI_x2layrUA9Y2midoaVbEZgNpv4tTbC/256fx256f",
+  "pins": {
+   "exotic": [
+    "cache pin",
+    "bloodhound pin"
+   ],
+   "extraordinary": [
+    "valeria phoenix pin",
+    "chroma pin"
+   ],
+   "high grade": [
+    "phoenix pin",
+    "bravo pin",
+    "guardian 2 pin",
+    "baggage pin"
+   ],
+   "remarkable": [
+    "office pin",
+    "cobblestone pin",
+    "overpass pin"
+   ]
+  }
+ },
+ "collectible pins capsule series 3": {
+  "formattedName": "Collectible Pins Capsule Series 3",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtEs6isLhRfgL2acmkQu4vuktGIzqWnMe6JlT5SsZMh27uZodrzilG3qkBlMmv6IoSQbEZgNvrBL7z7/256fx256f",
+  "pins": {
+   "exotic": [
+    "aces high pin",
+    "hydra pin"
+   ],
+   "extraordinary": [
+    "howl pin",
+    "brigadier general pin"
+   ],
+   "high grade": [
+    "welcome to the clutch pin",
+    "death sentence pin",
+    "canals pin",
+    "guardian 3 pin"
+   ],
+   "remarkable": [
+    "wildfire pin",
+    "inferno 2 pin",
+    "easy peasy pin"
+   ]
+  }
+ },
+ "halflife alyx collectible pins capsule": {
+  "formattedName": "Half-Life: Alyx Collectible Pins Capsule",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtfurupMh9f3_LadjgM6N7izYXelPH3Nr7UlG8AuZIh3bCVpY3z3Fbj-RA5YWjzIo-Scgc3MkaQpAYFG7-7Cg/256fx256f",
+  "pins": {
+   "exotic": [
+    "sustenance pin",
+    "vortigaunt pin"
+   ],
+   "extraordinary": [
+    "alyx pin",
+    "civil protection pin"
+   ],
+   "high grade": [
+    "lambda pin",
+    "black mesa pin",
+    "combine helmet pin",
+    "cmb pin",
+    "city 17 pin"
+   ],
+   "remarkable": [
+    "health pin",
+    "copper lambda pin",
+    "headcrab glyph pin"
+   ]
+  }
+ }
+}

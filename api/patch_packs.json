@@ -1,0 +1,142 @@
+{
+ "csgo patch pack": {
+  "formattedName": "CS:GO Patch Pack",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIFcxnaKeIGpGvYjnzYbbwvOkMriBlDxSu5Z10ryS89-h3Azt-xVoY2nwJIaLMlhpqHx2GCs/256fx256f",
+  "patches": {
+   "exotic": [
+    "the boss patch",
+    "howl patch",
+    "dragon patch",
+    "rage patch"
+   ],
+   "high grade": [
+    "wildfire patch",
+    "hydra patch",
+    "shattered web patch",
+    "bloodhound patch",
+    "phoenix patch",
+    "bravo patch",
+    "vanguard patch",
+    "breakout patch",
+    "payback patch"
+   ],
+   "remarkable": [
+    "crazy banana patch",
+    "welcome to the clutch patch",
+    "chicken lover patch",
+    "easy peasy patch",
+    "koi patch",
+    "longevity patch",
+    "danger zone patch",
+    "vigilance patch"
+   ]
+  }
+ },
+ "halflife alyx patch pack": {
+  "formattedName": "Half-Life: Alyx Patch Pack",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDho3_LEaCUMuY_vkILbwfX3ZuPUwzsGsZIiibiSporz21HnrxE6aziiJoKUelA_N0aQpAZKASuIOw/256fx256f",
+  "patches": {
+   "exotic": [
+    "health patch",
+    "copper lambda patch",
+    "alyx patch"
+   ],
+   "high grade": [
+    "combine helmet patch",
+    "headcrab glyph patch",
+    "vortigaunt patch",
+    "cmb patch",
+    "city 17 patch"
+   ],
+   "remarkable": [
+    "lambda patch",
+    "sustenance patch",
+    "black mesa patch"
+   ]
+  }
+ },
+ "stockholm 2021 challengers patch pack": {
+  "formattedName": "Stockholm 2021 Challengers Patch Pack",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4ODlvv4NrXWk3lC18lwmO7Eu9Sh2wTt_BJlamjyIIHEIwU7Y1qGrlfsxrzvg8O_uZ7KmCBm7ykk7HfD30vgKWgrjwY/256fx256f",
+  "patches": {
+   "high grade": [
+    "mouz stockholm 2021 patch",
+    "astralis stockholm 2021 patch",
+    "ence stockholm 2021 patch",
+    "team spirit stockholm 2021 patch",
+    "movistar riders stockholm 2021 patch",
+    "big stockholm 2021 patch",
+    "heroic stockholm 2021 patch",
+    "pain gaming stockholm 2021 patch",
+    "pgl stockholm 2021 patch"
+   ],
+   "remarkable": [
+    "mouz gold stockholm 2021 patch",
+    "big gold stockholm 2021 patch",
+    "astralis gold stockholm 2021 patch",
+    "heroic gold stockholm 2021 patch",
+    "team spirit gold stockholm 2021 patch",
+    "pain gaming gold stockholm 2021 patch",
+    "movistar riders gold stockholm 2021 patch",
+    "ence gold stockholm 2021 patch",
+    "pgl gold stockholm 2021 patch"
+   ]
+  }
+ },
+ "stockholm 2021 contenders patch pack": {
+  "formattedName": "Stockholm 2021 Contenders Patch Pack",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4OEmePxPb_UhHhu5MRjjeyPpdXxjgXm_0Y_azundofDcwJsZAyF-APqlbjojJ_v6p7Ny3Vn6CR07WGdwUJ4XOuu1w/256fx256f",
+  "patches": {
+   "high grade": [
+    "tyloo stockholm 2021 patch",
+    "faze clan stockholm 2021 patch",
+    "entropiq stockholm 2021 patch",
+    "virtuspro stockholm 2021 patch",
+    "copenhagen flames stockholm 2021 patch",
+    "godsent stockholm 2021 patch",
+    "sharks esports stockholm 2021 patch",
+    "renegades stockholm 2021 patch",
+    "pgl stockholm 2021 patch"
+   ],
+   "remarkable": [
+    "tyloo gold stockholm 2021 patch",
+    "faze clan gold stockholm 2021 patch",
+    "copenhagen flames gold stockholm 2021 patch",
+    "virtuspro gold stockholm 2021 patch",
+    "sharks esports gold stockholm 2021 patch",
+    "godsent gold stockholm 2021 patch",
+    "entropiq gold stockholm 2021 patch",
+    "renegades gold stockholm 2021 patch",
+    "pgl gold stockholm 2021 patch"
+   ]
+  }
+ },
+ "stockholm 2021 legends patch pack": {
+  "formattedName": "Stockholm 2021 Legends Patch Pack",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4yOkPL6N6jummpD78A_jLyWptWk3Fbm_RFkYGH6IoSUJwM8YlmEqFi7lezqg5K0us6czSRk7j5iuyjxavw9ZA/256fx256f",
+  "patches": {
+   "high grade": [
+    "natus vincere stockholm 2021 patch",
+    "g2 esports stockholm 2021 patch",
+    "team liquid stockholm 2021 patch",
+    "furia stockholm 2021 patch",
+    "vitality stockholm 2021 patch",
+    "ninjas in pyjamas stockholm 2021 patch",
+    "gambit gaming stockholm 2021 patch",
+    "evil geniuses stockholm 2021 patch",
+    "pgl stockholm 2021 patch"
+   ],
+   "remarkable": [
+    "g2 esports gold stockholm 2021 patch",
+    "furia gold stockholm 2021 patch",
+    "natus vincere gold stockholm 2021 patch",
+    "vitality gold stockholm 2021 patch",
+    "team liquid gold stockholm 2021 patch",
+    "ninjas in pyjamas gold stockholm 2021 patch",
+    "gambit gaming gold stockholm 2021 patch",
+    "evil geniuses gold stockholm 2021 patch",
+    "pgl gold stockholm 2021 patch"
+   ]
+  }
+ }
+}

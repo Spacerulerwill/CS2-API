@@ -44,8 +44,8 @@
    "consumer grade": [
     "ppbizon facility sketch",
     "fiveseven coolant",
-    "nova mandrel",
     "p250 facility draft",
+    "nova mandrel",
     "ump45 facility dark"
    ],
    "industrial grade": [
@@ -72,30 +72,30 @@
   "imageUrl": "https://csgostash.com/img/collections/256x198/the_2021_dust_2_collection.png?id=4668dded293e5042d65767d9fed24ad7",
   "skins": {
    "classified": [
-    "ssg 08 death strike",
-    "ump45 fade"
+    "ump45 fade",
+    "ssg 08 death strike"
    ],
    "consumer grade": [
-    "r8 revolver desert brush",
     "sg 553 bleached",
+    "r8 revolver desert brush",
+    "mp7 prey",
     "sawedoff parched",
-    "p90 desert ddpat",
-    "mp7 prey"
+    "p90 desert ddpat"
    ],
    "covert": [
     "ak47 gold arabesque"
    ],
    "industrial grade": [
     "mp9 old roots",
+    "aug spalted wood",
     "fiveseven withered vine",
-    "m249 midnight palm",
-    "aug spalted wood"
+    "m249 midnight palm"
    ],
    "mil-spec": [
     "galil ar amber fade",
+    "nova quick sand",
     "p250 black tan",
-    "g3sg1 new roots",
-    "nova quick sand"
+    "g3sg1 new roots"
    ],
    "restricted": [
     "m4a4 red ddpat",
@@ -115,18 +115,18 @@
    "consumer grade": [
     "ssg 08 prey",
     "p250 drought",
-    "mag7 navy sheen",
     "mac10 sienna damask",
+    "mag7 navy sheen",
     "ppbizon anolis"
    ],
    "covert": [
     "awp desert hydra"
    ],
    "industrial grade": [
-    "p90 verdant growth",
+    "cz75auto midnight palm",
     "dual berettas drift wood",
-    "famas calicamo",
-    "cz75auto midnight palm"
+    "p90 verdant growth",
+    "famas calicamo"
    ],
    "mil-spec": [
     "usps purple ddpat",
@@ -164,8 +164,8 @@
     "ssg 08 spring twilly"
    ],
    "restricted": [
-    "awp pop awp",
     "nova red quartz",
+    "awp pop awp",
     "cz75auto syndicate",
     "p2000 space race",
     "mp5sd autumn twilly"
@@ -183,17 +183,17 @@
    "consumer grade": [
     "famas faulty wiring",
     "xm1014 blue tire",
-    "cz75auto framework",
     "mac10 strats",
+    "cz75auto framework",
     "dual berettas oil change"
    ],
    "covert": [
     "m4a1s imminent danger"
    ],
    "industrial grade": [
-    "ump45 mechanism",
     "glock18 red tire",
     "ssg 08 carbon fiber",
+    "ump45 mechanism",
     "ppbizon breaker box"
    ],
    "mil-spec": [
@@ -204,8 +204,8 @@
    ],
    "restricted": [
     "galil ar caution",
-    "p250 digital architect",
-    "mag7 prism terrace"
+    "mag7 prism terrace",
+    "p250 digital architect"
    ]
   }
  },
@@ -216,21 +216,21 @@
    "consumer grade": [
     "xm1014 jungle",
     "fiveseven anodized gunmetal",
-    "mp9 dry season",
     "tec9 tornado",
+    "mp9 dry season",
     "mp7 groundwater",
     "m249 jungle ddpat"
    ],
    "industrial grade": [
     "glock18 sand dune",
     "ssg 08 mayan dreams",
-    "negev palm",
     "sawedoff mosaico",
-    "p250 facets"
+    "p250 facets",
+    "negev palm"
    ],
    "mil-spec": [
-    "mag7 hazard",
     "aug anodized navy",
+    "mag7 hazard",
     "ppbizon rust coat"
    ],
    "restricted": [
@@ -251,8 +251,8 @@
     "r8 revolver night",
     "ssg 08 jungle dashed",
     "sg 553 lush ruins",
-    "nova army sheen",
-    "p90 ancient earth"
+    "p90 ancient earth",
+    "nova army sheen"
    ],
    "covert": [
     "m4a1s welcome to the jungle"
@@ -260,14 +260,14 @@
    "industrial grade": [
     "cz75auto silver",
     "p2000 panther camo",
-    "g3sg1 ancient ritual",
-    "mp7 tall grass"
+    "mp7 tall grass",
+    "g3sg1 ancient ritual"
    ],
    "mil-spec": [
     "aug carved jade",
     "galil ar dusk ruins",
-    "famas dark water",
-    "tec9 blast from the past"
+    "tec9 blast from the past",
+    "famas dark water"
    ],
    "restricted": [
     "mac10 gold brick",
@@ -309,8 +309,8 @@
     "mp9 green plaid"
    ],
    "industrial grade": [
-    "p90 leather",
     "p2000 coach class",
+    "p90 leather",
     "sg 553 traveler",
     "mac10 commuter"
    ],
@@ -335,10 +335,10 @@
    "consumer grade": [
     "r8 revolver bone mask",
     "tec9 urban ddpat",
-    "mp7 forest ddpat",
     "sawedoff forest ddpat",
-    "negev army sheen",
-    "sg 553 army sheen"
+    "mp7 forest ddpat",
+    "sg 553 army sheen",
+    "negev army sheen"
    ],
    "industrial grade": [
     "mac10 silver",
@@ -373,8 +373,8 @@
    "industrial grade": [
     "fiveseven hot shot",
     "ppbizon chemical green",
-    "aug radiation hazard",
     "sg 553 fallout warning",
+    "aug radiation hazard",
     "p250 contamination",
     "negev nuclear waste"
    ],
@@ -443,8 +443,8 @@
    ],
    "industrial grade": [
     "desert eagle night",
-    "galil ar urban rubble",
-    "usps para green"
+    "usps para green",
+    "galil ar urban rubble"
    ],
    "mil-spec": [
     "p250 whiteout",
@@ -518,9 +518,9 @@
    ],
    "mil-spec": [
     "p2000 dispatch",
-    "m4a4 global offensive",
+    "scar20 magna carta",
     "ssg 08 threat detected",
-    "scar20 magna carta"
+    "m4a4 global offensive"
    ],
    "restricted": [
     "fiveseven berries and cherries",
@@ -566,9 +566,9 @@
   "imageUrl": "https://csgostash.com/img/collections/256x198/the_dust_collection.png?id=9869c8557ca41ad26392027f749ca909",
   "skins": {
    "industrial grade": [
-    "ak47 predator",
+    "m4a4 desert storm",
     "scar20 palm",
-    "m4a4 desert storm"
+    "ak47 predator"
    ],
    "mil-spec": [
     "awp snake camo",
@@ -600,8 +600,8 @@
    ],
    "industrial grade": [
     "awp sun in leo",
-    "tec9 hades",
     "p2000 pathfinder",
+    "tec9 hades",
     "m249 shipping forecast"
    ],
    "mil-spec": [
@@ -635,18 +635,18 @@
    "industrial grade": [
     "nova rust coat",
     "r8 revolver phoenix marker",
-    "ump45 houndstooth",
-    "mp7 vault heist"
+    "mp7 vault heist",
+    "ump45 houndstooth"
    ],
    "mil-spec": [
     "p250 bengal tiger",
-    "desert eagle night heist",
     "negev phoenix stencil",
+    "desert eagle night heist",
     "p90 tiger pit"
    ],
    "restricted": [
-    "sg 553 hypnotic",
     "galil ar phoenix blacklight",
+    "sg 553 hypnotic",
     "glock18 franklin"
    ]
   }
@@ -675,8 +675,8 @@
   "skins": {
    "consumer grade": [
     "famas colony",
-    "aug contractor",
     "tec9 groundwater",
+    "aug contractor",
     "nova sand dune",
     "ppbizon sand dashed"
    ],
@@ -706,8 +706,8 @@
     "g3sg1 jungle dashed",
     "galil ar sage spray",
     "aug storm",
-    "p250 boreal forest",
     "sg 553 waves perforated",
+    "p250 boreal forest",
     "xm1014 blue spruce"
    ],
    "industrial grade": [
@@ -759,16 +759,16 @@
   "imageUrl": "https://csgostash.com/img/collections/256x198/the_mirage_collection.png?id=2956aa53320bb57eddcba034c377d618",
   "skins": {
    "consumer grade": [
-    "aug colony",
     "fiveseven contractor",
+    "aug colony",
     "g3sg1 safari mesh",
     "p250 bone mask",
     "p90 scorched",
     "galil ar hunting blind"
    ],
    "industrial grade": [
-    "ssg 08 tropical storm",
     "glock18 groundwater",
+    "ssg 08 tropical storm",
     "mp7 orange peel",
     "sg 553 gator mesh",
     "negev calicamo"
@@ -792,8 +792,8 @@
    ],
    "consumer grade": [
     "ssg 08 red stone",
-    "galil ar tornado",
     "mp7 scorched",
+    "galil ar tornado",
     "sg 553 barricade",
     "famas night borre"
    ],
@@ -940,8 +940,8 @@
     "mp9 orange peel",
     "aug condemned",
     "m249 gator mesh",
-    "g3sg1 varicamo",
     "galil ar varicamo",
+    "g3sg1 varicamo",
     "usps forest leaves"
    ],
    "mil-spec": [
@@ -963,10 +963,10 @@
    ],
    "consumer grade": [
     "m249 jungle",
-    "sawedoff jungle thicket",
     "mac10 surfwood",
-    "ppbizon seabird",
-    "mp5sd bamboo garden"
+    "sawedoff jungle thicket",
+    "mp5sd bamboo garden",
+    "ppbizon seabird"
    ],
    "covert": [
     "ak47 wild lotus"
@@ -974,8 +974,8 @@
    "industrial grade": [
     "p90 sunset lily",
     "tec9 rust leaf",
-    "m4a4 dark blossom",
-    "xm1014 banana leaf"
+    "xm1014 banana leaf",
+    "m4a4 dark blossom"
    ],
    "mil-spec": [
     "ump45 day lily",
@@ -984,8 +984,8 @@
     "fiveseven crimson blossom"
    ],
    "restricted": [
-    "glock18 synth leaf",
     "aug midnight lily",
+    "glock18 synth leaf",
     "ssg 08 sea calico"
    ]
   }
@@ -1004,8 +1004,8 @@
    ],
    "industrial grade": [
     "m4a4 urban ddpat",
-    "mac10 candy apple",
     "p250 metallic ddpat",
+    "mac10 candy apple",
     "mag7 metallic ddpat",
     "scar20 carbon fiber",
     "p90 ash wood"

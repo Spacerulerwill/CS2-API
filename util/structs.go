@@ -82,3 +82,22 @@ type Patch struct {
 	ImageUrl      string `json:"imageUrl"`
 	FlavorText    string `json:"flavorText"`
 }
+
+type PatchPack struct {
+	FormattedName string              `json:"formattedName"`
+	ImageUrl      string              `json:"imageUrl"`
+	Patches       map[string][]string `json:"patches"`
+}
+
+type Pin struct {
+	FormattedName string `json:"formattedName"`
+	Rarity        string `json:"rarity"`
+	ImageUrl      string `json:"imageUrl"`
+	PinCapsule    string `json:"pinCapsule"`
+}
+
+type PinCapsule struct {
+	FormattedName string              `json:"formattedName"`
+	ImageUrl      string              `json:"imageUrl"`
+	Pins          map[string][]string `json:"pins"`
+}

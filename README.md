@@ -41,6 +41,11 @@ GET https://spacerulerwill.github.io/CS2-API/api/agents.json
 GET https://spacerulerwill.github.io/CS2-API/api/patches.json
 ```
 
+### Get patch packs
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/patch_packs.json
+```
+
 ### Get collections
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/collections.json
@@ -49,4 +54,14 @@ GET https://spacerulerwill.github.io/CS2-API/api/collections.json
 ### Get souvenir packages
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/souvenir_packages.json
+```
+
+### Get pins
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/pins.json
+```
+
+### Get pin capsules
+```http
+GET https://spacerulerwill.github.io/CS2-API/api/pin_capsules.json
 ```

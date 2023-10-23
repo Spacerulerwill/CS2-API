@@ -14,12 +14,13 @@ var substituions = map[string]string{
 }
 
 const (
-	NumSkinRarities     int = 7
-	NumStickerRarities  int = 5
-	NumGraffitiRarities int = 4
-	NumMusicKitRarities int = 1
-	NumAgentRarities    int = 4
-	NumPatchRarities    int = 3
+	NumSkinRarities        int = 7
+	NumStickerRarities     int = 5
+	NumGraffitiRarities    int = 4
+	NumMusicKitRarities    int = 1
+	NumAgentRarities       int = 4
+	NumPatchRarities       int = 3
+	NumCollectibleRarities int = 4
 )
 
 var SkinRarities = [NumSkinRarities]string{
@@ -59,6 +60,13 @@ var AgentRarities = [NumAgentRarities]string{
 }
 
 var PatchRarities = [NumPatchRarities]string{
+	"Exotic",
+	"Remarkable",
+	"High Grade",
+}
+
+var CollectibleRarities = [NumCollectibleRarities]string{
+	"Extraordinary",
 	"Exotic",
 	"Remarkable",
 	"High Grade",

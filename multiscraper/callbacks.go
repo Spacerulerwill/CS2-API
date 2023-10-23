@@ -21,7 +21,8 @@ type callbackConstraint interface {
 	map[string]util.Skin | map[string]util.Sticker | map[string]util.Case |
 		map[string]util.StickerCapsule | map[string]util.Graffiti | map[string]util.MusicKit |
 		map[string]util.Agent | map[string]util.Patch | map[string]util.Collection |
-		map[string]util.SouvenirPackage
+		map[string]util.SouvenirPackage | map[string]util.PatchPack |
+		map[string]util.Pin | map[string]util.PinCapsule
 }
 
 func ScrapeWeaponLink(doc *goquery.Document, result map[string]util.Skin) {
@@ -593,6 +594,135 @@ func ScrapePatch(doc *goquery.Document, result map[string]util.Patch) {
 		Rarity:        rarityText,
 		ImageUrl:      imageUrl,
 		FlavorText:    flavorText,
+	}
+	mtx.Unlock()
+}
+
+func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack) {
+	formattedName := doc.Find(".margin-top-sm").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	image := doc.Find(".content-header-img-margin")
+	imageUrl, exists := image.Attr("src")
+	if !exists {
+		log.Warn().Msg(fmt.Sprintf("No image url for patch pack %s", formattedName))
+	}
+	patches := make(map[string][]string)
+
+	patchBoxes := doc.Find("div.well.result-box.nomargin")
+	patchBoxes.Each(func(i int, box *goquery.Selection) {
+		rarity := box.Find("div.quality")
+		rarityText := rarity.Text()
+		if rarityText == "" {
+			return
+		} else {
+			rarityFound := false
+			for i := 0; i < util.NumPatchRarities; i++ {
+				if strings.Contains(rarityText, util.PatchRarities[i]) {
+					rarityText = strings.ToLower(util.PatchRarities[i])
+					rarityFound = true
+					break
+				}
+			}
+			patchUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
+
+			if !rarityFound {
+				log.Warn().Msg(fmt.Sprintf("No rarity found for patch %s in patch pack %s", patchUnformattedName, formattedName))
+			}
+
+			patches[rarityText] = append(patches[rarityText], patchUnformattedName)
+		}
+	})
+	mtx.Lock()
+	result[unformattedName] = util.PatchPack{
+		FormattedName: formattedName,
+		ImageUrl:      imageUrl,
+		Patches:       patches,
+	}
+	mtx.Unlock()
+}
+
+func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin) {
+	pinBoxes := doc.Find("div.well.result-box.nomargin")
+	pinBoxes.Each(func(i int, box *goquery.Selection) {
+		formattedName := box.Find("h3").Text()
+		if formattedName == "" {
+			return
+		}
+
+		unformattedName := util.RemoveNameFormatting(formattedName)
+		rarityText := box.Find("div.quality").Text()
+		rarityFound := false
+		for i := 0; i < util.NumCollectibleRarities; i++ {
+			if strings.Contains(rarityText, util.CollectibleRarities[i]) {
+				rarityText = strings.ToLower(util.CollectibleRarities[i])
+				rarityFound = true
+				break
+			}
+		}
+
+		if !rarityFound {
+			log.Warn().Msg(fmt.Sprintf("No rarity found for pin %s", formattedName))
+		}
+
+		image := box.Find("img:nth-child(1)")
+		imageUrl, exists := image.Attr("src")
+		if !exists {
+			log.Warn().Msg(fmt.Sprintf("No image url for pin %s", formattedName))
+		}
+
+		pinCapsule := util.RemoveNameFormatting(box.Find("p.item-resultbox-collection-container-info").Text())
+
+		mtx.Lock()
+		result[unformattedName] = util.Pin{
+			FormattedName: formattedName,
+			Rarity:        rarityText,
+			ImageUrl:      imageUrl,
+			PinCapsule:    pinCapsule,
+		}
+		mtx.Unlock()
+	})
+}
+
+func ScrapePinCapsule(doc *goquery.Document, result map[string]util.PinCapsule) {
+	formattedName := doc.Find(".margin-top-sm").Text()
+	unformattedName := util.RemoveNameFormatting(formattedName)
+	image := doc.Find("img.content-header-img-margin")
+	imageUrl, exists := image.Attr("src")
+	if !exists {
+		log.Warn().Msg(fmt.Sprintf("No image url for pin capsule %s", formattedName))
+	}
+
+	pins := make(map[string][]string)
+
+	pinBoxes := doc.Find("div.well.result-box.nomargin")
+	pinBoxes.Each(func(i int, box *goquery.Selection) {
+		rarity := box.Find("div.quality")
+		rarityText := rarity.Text()
+		if rarityText == "" {
+			return
+		} else {
+			rarityFound := false
+			for i := 0; i < util.NumCollectibleRarities; i++ {
+				if strings.Contains(rarityText, util.CollectibleRarities[i]) {
+					rarityText = strings.ToLower(util.CollectibleRarities[i])
+					rarityFound = true
+					break
+				}
+			}
+			pinUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
+
+			if !rarityFound {
+				log.Warn().Msg(fmt.Sprintf("No rarity found for pin %s in pin capsule %s", pinUnformattedName, formattedName))
+			}
+
+			pins[rarityText] = append(pins[rarityText], pinUnformattedName)
+		}
+	})
+	mtx.Lock()
+	result[unformattedName] = util.PinCapsule{
+		FormattedName: formattedName,
+		ImageUrl:      imageUrl,
+		Pins:          pins,
 	}
 	mtx.Unlock()
 }

@@ -20,6 +20,9 @@ func main() {
 	musicKitData := make(map[string]util.MusicKit)
 	agentData := make(map[string]util.Agent)
 	patchData := make(map[string]util.Patch)
+	patchPackData := make(map[string]util.PatchPack)
+	pinData := make(map[string]util.Pin)
+	pinCapsuleData := make(map[string]util.PinCapsule)
 
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
 
@@ -110,12 +113,37 @@ func main() {
 	}
 	multiscraper.MultiScrape(agentLinks, agentData, 20, multiscraper.ScrapeAgent)
 
+	// Scrape patches
 	log.Info().Msg("Scraping agent patches...")
 	agentPatchesLinks, err := util.ReadLines("links/patches.txt")
 	if err != nil {
 		log.Err(err)
 	}
 	multiscraper.MultiScrape(agentPatchesLinks, patchData, 20, multiscraper.ScrapePatch)
+
+	// Scrape patch packs
+	log.Info().Msg("Scraping patch packs...")
+	patchPackLinks, err := util.ReadLines("links/patch_packs.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(patchPackLinks, patchPackData, 20, multiscraper.ScrapePatchPack)
+
+	// Scrape pin pages
+	log.Info().Msg("Scraping pins...")
+	pinPageLinks, err := util.ReadLines("links/pins.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(pinPageLinks, pinData, 20, multiscraper.ScrapePinPage)
+
+	// Scrape pin capsules
+	log.Info().Msg("Scraping pin capsules...")
+	pinCapsuleLinks, err := util.ReadLines("links/pin_capsules.txt")
+	if err != nil {
+		log.Err(err)
+	}
+	multiscraper.MultiScrape(pinCapsuleLinks, pinCapsuleData, 20, multiscraper.ScrapePinCapsule)
 
 	// Dump all data to files
 	util.WriteJsonToFile("skins.json", weaponSkinData)
@@ -128,4 +156,7 @@ func main() {
 	util.WriteJsonToFile("music_kits.json", musicKitData)
 	util.WriteJsonToFile("agents.json", agentData)
 	util.WriteJsonToFile("patches.json", patchData)
+	util.WriteJsonToFile("patch_packs.json", patchPackData)
+	util.WriteJsonToFile("pins.json", pinData)
+	util.WriteJsonToFile("pin_capsules.json", pinCapsuleData)
 }

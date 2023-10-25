@@ -32,7 +32,7 @@ func main() {
 	if err != nil {
 		log.Err(err)
 	}
-	multiscraper.MultiScrape(weaponSkinLinks, weaponSkinData, 20, multiscraper.ScrapeWeaponLink)
+	multiscraper.MultiScrape(weaponSkinLinks, weaponSkinData, 20, multiscraper.ScrapeSkinLink)
 
 	// Scrape gloves
 	log.Info().Msg("Scraping gloves...")

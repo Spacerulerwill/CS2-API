@@ -3,6 +3,7 @@ package util
 type SkinVariation struct {
 	FormattedName   string    `json:"formattedName"`
 	ConditionImages [5]string `json:"conditionImages"`
+	InspectUrls     [5]string `json:"inspectUrls"`
 }
 
 type Skin struct {
@@ -14,6 +15,7 @@ type Skin struct {
 	WeaponType        string                   `json:"weaponType"`
 	Rarity            string                   `json:"rarity"`
 	ConditionImages   [5]string                `json:"conditionImages"`
+	InspectUrls       [5]string                `json:"inspectUrls"`
 	Variations        map[string]SkinVariation `json:"variations"`
 	StattrakAvailable bool                     `json:"stattrakAvailable"`
 	SouvenirAvailable bool                     `json:"souvenirAvailable"`
@@ -40,6 +42,7 @@ type Collection struct {
 type Sticker struct {
 	FormattedName string `json:"formattedName"`
 	ImageURL      string `json:"imageUrl"`
+	InspectUrl    string `json:"inspectUrl"`
 	Rarity        string `json:"rarity"`
 }
 
@@ -49,12 +52,18 @@ type StickerCapsule struct {
 	Stickers      map[string][]string `json:"stickers"`
 }
 
+type GraffitiColorVariation struct {
+	ImageUrl   string `json:"imageUrl"`
+	InspectUrl string `json:"inspectUrl"`
+}
+
 type Graffiti struct {
-	FormattedName  string            `json:"formattedName"`
-	Rarity         string            `json:"rarity"`
-	ImageURL       string            `json:"imageUrl"`
-	ColorVarations map[string]string `json:"colorVariations"`
-	GraffitiBox    string            `json:"graffitiBox"`
+	FormattedName  string                            `json:"formattedName"`
+	Rarity         string                            `json:"rarity"`
+	ImageURL       string                            `json:"imageUrl"`
+	InspectUrl     string                            `json:"inspectUrl"`
+	ColorVarations map[string]GraffitiColorVariation `json:"colorVariations"`
+	GraffitiBox    string                            `json:"graffitiBox"`
 }
 
 type MusicKit struct {
@@ -72,6 +81,7 @@ type Agent struct {
 	FormattedName string `json:"formattedName"`
 	Rarity        string `json:"rarity"`
 	ImageUrl      string `json:"imageUrl"`
+	InspectUrl    string `json:"inspectUrl"`
 	Description   string `json:"description"`
 	FlavorText    string `json:"flavorText"`
 }
@@ -80,6 +90,7 @@ type Patch struct {
 	FormattedName string `json:"formattedName"`
 	Rarity        string `json:"rarity"`
 	ImageUrl      string `json:"imageUrl"`
+	InspectUrl    string `json:"inspectUrl"`
 	FlavorText    string `json:"flavorText"`
 }
 
@@ -93,6 +104,7 @@ type Pin struct {
 	FormattedName string `json:"formattedName"`
 	Rarity        string `json:"rarity"`
 	ImageUrl      string `json:"imageUrl"`
+	InspectUrl    string `json:"inspectUrl"`
 	PinCapsule    string `json:"pinCapsule"`
 }
 

@@ -50,7 +50,6 @@ func MultiScrape[T callbackConstraint](urls []string, result T, perSecond int, c
 func Http2Request(webUrl string) *http.Response {
 	client := &http.Client{}
 	req, _ := http.NewRequest("GET", webUrl, nil)
-	defer req.Body.Close()
 	req.Header.Set("User-Agent", "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0")
 
 	res, err := client.Do(req)
@@ -59,7 +58,6 @@ func Http2Request(webUrl string) *http.Response {
 	if err != nil || res.StatusCode != 200 {
 		log.Error().Msg(fmt.Sprintf("%s: Failed to HTTP request %s: %d", err.Error(), webUrl, res.StatusCode))
 	}
-
 	return res
 }
 
@@ -92,6 +90,7 @@ func continuallyScrapePages[T callbackConstraint](responses *[]*http.Response, r
 					}
 					go callback(doc, result)
 				}
+				response.Body.Close()
 			}
 			amountScraped = lenResp
 		}

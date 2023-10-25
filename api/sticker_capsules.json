@@ -23,28 +23,28 @@
    ],
    "high grade": [
     "baby howl",
-    "baby lore",
     "baby medusa",
-    "zeused",
+    "baby lore",
     "greens problem",
+    "zeused",
     "dragon tale",
     "call your flashes",
     "shifty tactics",
     "go",
     "good versus evil",
     "baby cerberus",
-    "co co co",
     "dragons keep",
+    "co co co",
     "baby fire serpent",
     "clicking heads",
-    "laser beam",
     "rush more",
-    "this is fine h",
-    "dreams and mimics",
-    "cursed penmanship",
-    "agent select",
+    "laser beam",
     "monster",
-    "press start"
+    "dreams and mimics",
+    "agent select",
+    "this is fine h",
+    "press start",
+    "booth"
    ],
    "remarkable": [
     "leaving the station holo",
@@ -54,8 +54,8 @@
     "cbbl holo",
     "get smoked holo",
     "ace clutch co holo",
-    "zeusception holo",
     "conspiracy club holo",
+    "zeusception holo",
     "vertigos hero holo",
     "go boom glitter",
     "pain train holo",
@@ -80,19 +80,19 @@
    "extraordinary": [
     "g2 gold",
     "astralis gold",
-    "big gold",
-    "fnatic gold",
     "liquid gold",
-    "godsent gold",
+    "fnatic gold",
     "nemiga gold",
+    "big gold",
+    "godsent gold",
     "og gold"
    ],
    "high grade": [
-    "g2",
     "astralis",
+    "g2",
     "fnatic",
-    "godsent",
     "liquid",
+    "godsent",
     "og",
     "nemiga",
     "big"
@@ -100,12 +100,12 @@
    "remarkable": [
     "liquid holo",
     "g2 holo",
-    "astralis holo",
     "fnatic holo",
+    "astralis holo",
     "godsent holo",
     "og holo",
-    "nemiga holo",
-    "big holo"
+    "big holo",
+    "nemiga holo"
    ]
   }
  },
@@ -119,29 +119,29 @@
     "virtuspro foil",
     "north foil",
     "boom foil",
-    "espada foil",
     "renegades foil",
-    "geng foil"
+    "geng foil",
+    "espada foil"
    ],
    "extraordinary": [
     "tyloo gold",
     "faze gold",
     "virtuspro gold",
-    "boom gold",
     "espada gold",
+    "boom gold",
+    "renegades gold",
     "north gold",
-    "geng gold",
-    "renegades gold"
+    "geng gold"
    ],
    "high grade": [
     "tyloo",
     "faze",
     "virtuspro",
-    "north",
     "renegades",
     "boom",
     "geng",
-    "espada"
+    "espada",
+    "north"
    ],
    "remarkable": [
     "tyloo holo",
@@ -164,9 +164,9 @@
     "natus vincere foil",
     "furia foil",
     "evil geniuses foil",
+    "vitality foil",
     "heroic foil",
     "100 thieves foil",
-    "vitality foil",
     "ninjas in pyjamas foil"
    ],
    "extraordinary": [
@@ -174,20 +174,20 @@
     "furia gold",
     "spirit gold",
     "100 thieves gold",
-    "vitality gold",
     "ninjas in pyjamas gold",
-    "evil geniuses gold",
-    "heroic gold"
+    "vitality gold",
+    "heroic gold",
+    "evil geniuses gold"
    ],
    "high grade": [
-    "natus vincere",
     "spirit",
-    "heroic",
-    "vitality",
-    "furia",
+    "natus vincere",
     "100 thieves",
+    "heroic",
+    "ninjas in pyjamas",
     "evil geniuses",
-    "ninjas in pyjamas"
+    "vitality",
+    "furia"
    ],
    "remarkable": [
     "spirit holo",
@@ -195,9 +195,9 @@
     "natus vincere holo",
     "heroic holo",
     "vitality holo",
+    "evil geniuses holo",
     "ninjas in pyjamas holo",
-    "100 thieves holo",
-    "evil geniuses holo"
+    "100 thieves holo"
    ]
   }
  },
@@ -213,8 +213,8 @@
    "high grade": [
     "ez",
     "no time",
-    "speedy t",
     "fast banana",
+    "speedy t",
     "war",
     "this is fine ct",
     "dr dazzles",
@@ -227,8 +227,8 @@
    "remarkable": [
     "runtime holo",
     "nice clutch holo",
-    "cyber romanov holo",
     "i see you holo",
+    "cyber romanov holo",
     "handle with care holo",
     "eye contact holo"
    ]
@@ -244,11 +244,11 @@
     "niko holo",
     "zywoo holo",
     "fallen holo",
-    "fnx holo",
-    "fer holo",
     "boltz holo",
+    "fer holo",
+    "fnx holo",
     "hunter holo",
-    "xyp9x holo"
+    "apex holo"
    ],
    "extraordinary": [
     "m0nesy gold",
@@ -267,30 +267,30 @@
     "boltz gold",
     "gla1ve gold",
     "aleksib gold",
-    "magisk gold",
     "wood7 gold",
+    "magisk gold",
     "gxx gold",
     "spinx gold",
     "hades gold",
-    "farlig gold",
-    "k0nfig gold",
-    "maden gold",
-    "juanflatroo gold",
     "zorte gold",
-    "dycha gold",
+    "maden gold",
+    "k0nfig gold",
     "rigon gold",
-    "shalfey gold",
+    "juanflatroo gold",
+    "farlig gold",
+    "dycha gold",
     "exit gold",
-    "jota gold",
-    "tuurtle gold",
-    "sener1 gold",
+    "shalfey gold",
     "misutaaa gold",
-    "snappi gold",
+    "tuurtle gold",
+    "jota gold",
     "sinnopsyy gold",
+    "sener1 gold",
+    "snappi gold",
     "chelo gold",
     "norwi gold",
-    "jerry gold",
-    "kensi gold"
+    "kensi gold",
+    "jerry gold"
    ]
   }
  },
@@ -314,8 +314,8 @@
     "g2 esports gold",
     "astralis gold",
     "vitality gold",
-    "mibr gold",
     "bad news eagles gold",
+    "mibr gold",
     "ence gold",
     "forze esports gold",
     "pgl gold"
@@ -363,18 +363,18 @@
     "broky gold champion"
    ],
    "high grade": [
-    "broky champion",
-    "ropz champion",
     "karrigan champion",
     "rain champion",
-    "twistzz champion"
+    "twistzz champion",
+    "ropz champion",
+    "broky champion"
    ],
    "remarkable": [
     "twistzz glitter champion",
     "ropz glitter champion",
     "rain glitter champion",
-    "karrigan glitter champion",
-    "broky glitter champion"
+    "broky glitter champion",
+    "karrigan glitter champion"
    ]
   }
  },
@@ -403,36 +403,36 @@
     "yekindar gold",
     "elige gold",
     "naf gold",
-    "nin9 gold",
-    "degster gold",
     "jt gold",
+    "degster gold",
     "shox gold",
     "dav1d gold",
+    "nin9 gold",
+    "osee gold",
     "patsi gold",
     "luken gold",
-    "osee gold",
-    "xfl0ud gold",
     "s1ren gold",
-    "woxic gold",
     "chopper gold",
-    "nitr0 gold",
+    "woxic gold",
+    "xfl0ud gold",
     "floppy gold",
-    "qikert gold",
+    "nitr0 gold",
     "grim gold",
     "dgt gold",
     "magixx gold",
+    "qikert gold",
     "junior gold",
     "fl1t gold",
     "techno4k gold",
-    "fang gold",
+    "buster gold",
     "imorr gold",
     "calyx gold",
-    "buster gold",
+    "fang gold",
     "sk0r gold",
     "blitz gold",
-    "sico gold",
-    "ins gold",
     "kabal gold",
+    "ins gold",
+    "sico gold",
     "alistair gold",
     "hatz gold"
    ]
@@ -450,8 +450,8 @@
     "complexity gaming holo",
     "team spirit holo",
     "pgl holo",
-    "renegades holo",
-    "ihc esports holo"
+    "ihc esports holo",
+    "renegades holo"
    ],
    "extraordinary": [
     "outsiders gold",
@@ -460,8 +460,8 @@
     "complexity gaming gold",
     "9z team gold",
     "team liquid gold",
-    "renegades gold",
     "pgl gold",
+    "renegades gold",
     "ihc esports gold"
    ],
    "high grade": [
@@ -470,17 +470,17 @@
     "outsiders",
     "complexity gaming",
     "team spirit",
-    "ihc esports",
     "team liquid",
+    "renegades",
     "pgl",
-    "renegades"
+    "ihc esports"
    ],
    "remarkable": [
     "eternal fire glitter",
     "9z team glitter",
     "team spirit glitter",
-    "outsiders glitter",
     "complexity gaming glitter",
+    "outsiders glitter",
     "pgl glitter",
     "team liquid glitter",
     "ihc esports glitter",
@@ -499,44 +499,44 @@
     "ropz holo",
     "ax1le holo",
     "hobbit holo",
-    "art holo",
     "nafany holo",
+    "art holo",
     "rain holo",
-    "jabbi holo"
+    "karrigan holo"
    ],
    "extraordinary": [
-    "twistzz gold",
     "s1mple gold",
+    "twistzz gold",
     "sh1ro gold",
     "ropz gold",
     "ax1le gold",
-    "karrigan gold",
     "art gold",
+    "karrigan gold",
     "b1t gold",
-    "cadian gold",
+    "tabsen gold",
     "rain gold",
     "hooxi gold",
+    "cadian gold",
     "broky gold",
     "hobbit gold",
     "nafany gold",
-    "tabsen gold",
     "electronic gold",
     "kscerato gold",
     "jabbi gold",
     "krimbo gold",
     "yuurih gold",
     "boombl4 gold",
-    "interz gold",
     "syrson gold",
     "drop gold",
-    "stavn gold",
+    "interz gold",
     "saffee gold",
     "teses gold",
-    "faven gold",
     "zyphon gold",
+    "stavn gold",
     "perfecto gold",
-    "rez gold",
+    "faven gold",
     "nicoodoz gold",
+    "rez gold",
     "roej gold",
     "sjuush gold",
     "brollan gold",
@@ -571,16 +571,16 @@
     "natus vincere gold",
     "heroic gold",
     "big gold",
-    "pgl gold",
-    "ninjas in pyjamas gold"
+    "ninjas in pyjamas gold",
+    "pgl gold"
    ],
    "high grade": [
     "cloud9",
     "faze clan",
     "copenhagen flames",
     "natus vincere",
-    "heroic",
     "furia",
+    "heroic",
     "pgl",
     "big",
     "ninjas in pyjamas"
@@ -588,11 +588,11 @@
    "remarkable": [
     "cloud9 glitter",
     "faze clan glitter",
-    "natus vincere glitter",
     "copenhagen flames glitter",
-    "pgl glitter",
-    "furia glitter",
+    "natus vincere glitter",
     "heroic glitter",
+    "furia glitter",
+    "pgl glitter",
     "ninjas in pyjamas glitter",
     "big glitter"
    ]
@@ -613,13 +613,13 @@
     "godsent foil"
    ],
    "remarkable": [
-    "faze clan holo",
     "optic gaming holo",
-    "hellraisers holo",
     "g2 esports holo",
+    "hellraisers holo",
+    "faze clan holo",
+    "mousesports holo",
     "team envyus holo",
     "north holo",
-    "mousesports holo",
     "godsent holo"
    ]
   }
@@ -633,8 +633,8 @@
     "flipsid3 tactics foil",
     "fnatic foil",
     "astralis foil",
-    "natus vincere foil",
     "virtuspro foil",
+    "natus vincere foil",
     "sk gaming foil",
     "gambit gaming foil",
     "eleague foil"
@@ -696,25 +696,25 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLcfTxM-N3kxNHcqPDmPK7BqTofsJEg3riRrNWk0Azj_EVoZWj1I4WWcQVtYA7R_Afowr3v1MK57pjBnWwj5Hcy8j7yqA/256fx256f",
   "stickers": {
    "exotic": [
-    "karrigan foil",
     "niko foil",
+    "karrigan foil",
     "kennys foil",
     "scream foil",
     "rush foil",
     "zero foil",
-    "rain foil",
     "ange1 foil",
+    "rain foil",
     "happy foil",
     "naf foil",
     "spiidi foil",
     "tarik foil",
     "msl foil",
     "denis foil",
-    "mixwell foil",
     "bodyy foil",
     "shox foil",
-    "magisk foil",
     "rubino foil",
+    "magisk foil",
+    "mixwell foil",
     "kioshima foil",
     "k0nfig foil",
     "cajunb foil",
@@ -724,6 +724,7 @@
     "styko foil",
     "sixer foil",
     "aizy foil",
+    "flusha foil",
     "jw foil",
     "deadfox foil",
     "allu foil",
@@ -731,7 +732,6 @@
     "nbk foil",
     "stanislaw foil",
     "chrisj foil",
-    "flusha foil",
     "bondik foil",
     "znajder foil",
     "pronax foil",
@@ -745,45 +745,45 @@
   "stickers": {
    "exotic": [
     "niko foil",
+    "nex foil",
     "scream foil",
     "shroud foil",
     "pimp foil",
     "shox foil",
     "b1ad3 foil",
+    "n0thing foil",
     "gob b foil",
-    "hazed foil",
+    "tenzki foil",
     "skadoodle foil",
+    "hazed foil",
     "hiko foil",
     "worldedit foil",
+    "tarik foil",
     "ex6tenz foil",
     "rpk foil",
     "aizy foil",
     "reltuc foil",
-    "n0thing foil",
     "smithzz foil",
-    "tarik foil",
     "chrisj foil",
     "gruby foil",
-    "nex foil",
+    "freakazoid foil",
+    "nitr0 foil",
     "elige foil",
     "msl foil",
-    "jdm64 foil",
     "denis foil",
+    "jdm64 foil",
     "markeloff foil",
-    "freakazoid foil",
-    "bondik foil",
-    "nitr0 foil",
-    "tenzki foil",
     "hyper foil",
     "rallen foil",
-    "seangres foil",
+    "fns foil",
+    "bondik foil",
     "kjaerbye foil",
+    "fugly foil",
     "furlan foil",
     "davcost foil",
-    "fns foil",
-    "fugly foil",
     "peet foil",
-    "adren foil"
+    "adren foil",
+    "seangres foil"
    ]
   }
  },
@@ -797,41 +797,41 @@
     "niko foil",
     "rain foil",
     "happy foil",
-    "k0nfig foil",
+    "shox foil",
     "dosia foil",
     "spiidi foil",
     "rubino foil",
-    "chrisj foil",
-    "shox foil",
-    "b1ad3 foil",
+    "markeloff foil",
+    "msl foil",
     "apex foil",
+    "b1ad3 foil",
+    "chrisj foil",
     "naf foil",
     "mixwell foil",
     "devil foil",
-    "msl foil",
     "nbk foil",
     "rush foil",
     "fox foil",
-    "markeloff foil",
+    "k0nfig foil",
     "shara foil",
     "worldedit foil",
-    "nex foil",
     "waylander foil",
     "stanislaw foil",
+    "nex foil",
     "mou foil",
     "adren foil",
     "aizy foil",
     "smithzz foil",
     "daps foil",
     "jkaem foil",
-    "hooch foil",
     "rpk foil",
-    "denis foil",
-    "bodyy foil",
-    "tenzki foil",
-    "spaze foil",
     "cajunb foil",
-    "kioshima foil"
+    "denis foil",
+    "hooch foil",
+    "bodyy foil",
+    "spaze foil",
+    "kioshima foil",
+    "tenzki foil"
    ]
   }
  },
@@ -842,9 +842,9 @@
    "exotic": [
     "s1mple foil",
     "shroud foil",
+    "skadoodle foil",
     "niko foil",
     "scream foil",
-    "skadoodle foil",
     "stewie2k foil",
     "jasonr foil",
     "hiko foil",
@@ -852,9 +852,9 @@
     "n0thing foil",
     "freakazoid foil",
     "elige foil",
+    "reltuc foil",
     "jdm64 foil",
     "nitr0 foil",
-    "reltuc foil",
     "tarik foil",
     "bondik foil",
     "chrisj foil",
@@ -862,21 +862,21 @@
     "dosia foil",
     "markeloff foil",
     "fugly foil",
-    "davey foil",
+    "denis foil",
     "nex foil",
+    "shara foil",
     "worldedit foil",
+    "davey foil",
     "adren foil",
     "hazed foil",
-    "shara foil",
-    "hooch foil",
-    "spiidi foil",
-    "professorchaos foil",
     "ex6tenz foil",
-    "arya foil",
+    "hooch foil",
+    "professorchaos foil",
     "smithzz foil",
-    "denis foil",
+    "spiidi foil",
     "mou foil",
     "rpk foil",
+    "arya foil",
     "waylander foil",
     "adren foil",
     "abe foil"
@@ -929,9 +929,9 @@
    "high grade": [
     "tarik",
     "reltuc",
+    "hazed",
     "jdm64",
-    "fns",
-    "hazed"
+    "fns"
    ]
   }
  },
@@ -942,9 +942,9 @@
    "high grade": [
     "tarik",
     "jdm64",
+    "fns",
     "hazed",
-    "reltuc",
-    "fns"
+    "reltuc"
    ]
   }
  },
@@ -953,9 +953,9 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJotbaiZQMygaLKcG0Qvdniw9bSw6b2MLiJz20Bu5Ik3r_AodSk3gDl80o6ZGvtZNjC23PKdYc/256fx256f",
   "stickers": {
    "high grade": [
+    "koosta",
     "hazed",
     "reltuc",
-    "koosta",
     "tarik",
     "pita"
    ]
@@ -968,8 +968,8 @@
    "high grade": [
     "tarik",
     "reltuc",
-    "jdm64",
     "fugly",
+    "jdm64",
     "hazed"
    ]
   }
@@ -1005,8 +1005,8 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuhwsLRRk4mdVUBibykMQIu1qKYJDka7djml9Tdw6ahZ-2JzjhQucQmj7qX8Nqhi1a1-xJkMm2gcZjVLFFbfnvsCQ/256fx256f",
   "stickers": {
    "high grade": [
-    "fox",
     "rain",
+    "fox",
     "jkaem",
     "aizy",
     "maikelele"
@@ -1019,10 +1019,10 @@
   "stickers": {
    "high grade": [
     "electronic",
-    "markeloff",
     "b1ad3",
-    "waylander",
-    "worldedit"
+    "markeloff",
+    "worldedit",
+    "waylander"
    ]
   }
  },
@@ -1086,8 +1086,8 @@
     "olofmeister",
     "dennis",
     "krimz",
-    "disco doplan",
-    "twist"
+    "twist",
+    "disco doplan"
    ]
   }
  },
@@ -1098,8 +1098,8 @@
    "high grade": [
     "olofmeister",
     "jw",
-    "flusha",
     "krimz",
+    "flusha",
     "pronax"
    ]
   }
@@ -1123,9 +1123,9 @@
   "stickers": {
    "high grade": [
     "olofmeister",
-    "jw",
-    "flusha",
     "krimz",
+    "flusha",
+    "jw",
     "dennis"
    ]
   }
@@ -1163,8 +1163,8 @@
    "high grade": [
     "rain",
     "fox",
-    "jkaem",
     "maikelele",
+    "jkaem",
     "dennis"
    ]
   }
@@ -1177,8 +1177,8 @@
     "scream",
     "shox",
     "rpk",
-    "bodyy",
-    "smithzz"
+    "smithzz",
+    "bodyy"
    ]
   }
  },
@@ -1189,8 +1189,8 @@
    "high grade": [
     "scream",
     "shox",
-    "rpk",
     "smithzz",
+    "rpk",
     "ex6tenz"
    ]
   }
@@ -1216,8 +1216,8 @@
     "dosia",
     "mou",
     "spaze",
-    "adren",
-    "hooch"
+    "hooch",
+    "adren"
    ]
   }
  },
@@ -1259,10 +1259,10 @@
     "friberg foil",
     "f0rest foil",
     "dupreeh foil",
-    "havoc foil",
     "tarik foil",
-    "karrigan foil",
+    "havoc foil",
     "jdm64 foil",
+    "karrigan foil",
     "fns foil",
     "allu foil",
     "xyp9x foil",
@@ -1286,13 +1286,13 @@
     "happy foil",
     "coldzera foil",
     "rain foil",
+    "markeloff foil",
     "b1ad3 foil",
     "fer foil",
     "apex foil",
-    "markeloff foil",
     "nbk foil",
-    "worldedit foil",
     "boltz foil",
+    "worldedit foil",
     "steel foil",
     "maikelele foil",
     "fox foil",
@@ -1312,10 +1312,10 @@
     "maniac foil",
     "olofmeister foil",
     "jw foil",
-    "ex6tenz foil",
-    "rpk foil",
     "smithzz foil",
+    "rpk foil",
     "flusha foil",
+    "ex6tenz foil",
     "guardian foil",
     "zeus foil",
     "krimz foil",
@@ -1344,9 +1344,9 @@
     "freakazoid foil",
     "seangres foil",
     "chrisj foil",
-    "neo foil",
     "spiidi foil",
     "snax foil",
+    "neo foil",
     "nex foil",
     "denis foil",
     "gob b foil",
@@ -1386,9 +1386,9 @@
     "device foil",
     "elige foil",
     "fer foil",
-    "olofmeister foil",
     "electronic foil",
     "dennis foil",
+    "olofmeister foil",
     "zeus foil",
     "dosia foil",
     "nitr0 foil",
@@ -1401,7 +1401,6 @@
     "snax foil",
     "flamie foil",
     "pashabiceps foil",
-    "taz foil",
     "worldedit foil",
     "taco foil",
     "seized foil",
@@ -1410,8 +1409,9 @@
     "neo foil",
     "twist foil",
     "fox foil",
-    "kjaerbye foil",
+    "taz foil",
     "gla1ve foil",
+    "kjaerbye foil",
     "krimz foil",
     "byali foil",
     "hobbit foil",
@@ -1426,20 +1426,20 @@
   "stickers": {
    "exotic": [
     "kennys foil",
-    "snax foil",
     "happy foil",
+    "snax foil",
     "fallen foil",
     "device foil",
     "olofmeister foil",
     "pashabiceps foil",
     "rain foil",
     "f0rest foil",
-    "coldzera foil",
     "apex foil",
-    "dupreeh foil",
     "flusha foil",
+    "dupreeh foil",
     "neo foil",
     "fer foil",
+    "coldzera foil",
     "guardian foil",
     "jw foil",
     "getright foil",
@@ -1447,24 +1447,24 @@
     "boltz foil",
     "nbk foil",
     "seized foil",
-    "karrigan foil",
     "maikelele foil",
-    "steel foil",
+    "karrigan foil",
     "krimz foil",
-    "fox foil",
+    "steel foil",
+    "xyp9x foil",
     "friberg foil",
     "edward foil",
     "dennis foil",
     "jkaem foil",
-    "xyp9x foil",
     "byali foil",
-    "flamie foil",
-    "kioshima foil",
     "taz foil",
+    "kioshima foil",
+    "fox foil",
+    "flamie foil",
     "xizt foil",
     "cajunb foil",
-    "allu foil",
-    "pronax foil"
+    "pronax foil",
+    "allu foil"
    ]
   }
  },
@@ -1477,35 +1477,35 @@
     "device foil",
     "fallen foil",
     "pita foil",
-    "pashabiceps foil",
     "dupreeh foil",
     "hiko foil",
+    "pashabiceps foil",
     "karrigan foil",
-    "coldzera foil",
     "olofmeister foil",
+    "coldzera foil",
     "snax foil",
     "elige foil",
-    "hazed foil",
     "guardian foil",
+    "hazed foil",
     "tarik foil",
     "nitr0 foil",
     "xyp9x foil",
     "jdm64 foil",
-    "fnx foil",
     "getright foil",
+    "fnx foil",
+    "koosta foil",
     "f0rest foil",
     "gla1ve foil",
     "xizt foil",
-    "koosta foil",
     "zeus foil",
     "reltuc foil",
     "taco foil",
-    "jw foil",
     "fer foil",
+    "jw foil",
     "neo foil",
     "flusha foil",
-    "friberg foil",
     "flamie foil",
+    "friberg foil",
     "byali foil",
     "dennis foil",
     "taz foil",
@@ -1527,28 +1527,28 @@
     "happy foil",
     "coldzera foil",
     "pashabiceps foil",
+    "rain foil",
     "taco foil",
     "fnx foil",
-    "rain foil",
     "nbk foil",
     "snax foil",
     "jw foil",
     "apex foil",
     "devil foil",
-    "dupreeh foil",
     "fer foil",
-    "guardian foil",
+    "dupreeh foil",
     "karrigan foil",
-    "olofmeister foil",
+    "guardian foil",
+    "zeus foil",
     "flamie foil",
+    "olofmeister foil",
     "getright foil",
     "flusha foil",
-    "zeus foil",
-    "neo foil",
     "f0rest foil",
+    "neo foil",
     "fox foil",
-    "xyp9x foil",
     "aizy foil",
+    "xyp9x foil",
     "maikelele foil",
     "edward foil",
     "krimz foil",
@@ -1557,9 +1557,9 @@
     "jkaem foil",
     "byali foil",
     "friberg foil",
+    "cajunb foil",
     "xizt foil",
     "taz foil",
-    "cajunb foil",
     "pyth foil"
    ]
   }
@@ -1636,8 +1636,8 @@
    "high grade": [
     "spiidi",
     "chrisj",
-    "gob b",
     "denis",
+    "gob b",
     "nex"
    ]
   }
@@ -1689,8 +1689,8 @@
     "zeus",
     "guardian",
     "edward",
-    "seized",
-    "flamie"
+    "flamie",
+    "seized"
    ]
   }
  },
@@ -1700,9 +1700,9 @@
   "stickers": {
    "high grade": [
     "zeus",
-    "guardian",
     "seized",
     "edward",
+    "guardian",
     "flamie"
    ]
   }
@@ -1728,8 +1728,8 @@
     "zeus",
     "guardian",
     "edward",
-    "seized",
-    "flamie"
+    "flamie",
+    "seized"
    ]
   }
  },
@@ -1738,10 +1738,10 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLKw1H-OmnKVY51_bLI2oTvN7gwoHTxa7yNu-Alz8D7pYmjuiQ8Nj2igLkrkRyIzekI91l_IA/256fx256f",
   "stickers": {
    "high grade": [
-    "f0rest",
     "getright",
-    "friberg",
+    "f0rest",
     "xizt",
+    "friberg",
     "allu"
    ]
   }
@@ -1754,8 +1754,8 @@
     "getright",
     "f0rest",
     "friberg",
-    "xizt",
-    "allu"
+    "allu",
+    "xizt"
    ]
   }
  },
@@ -1778,8 +1778,8 @@
   "stickers": {
    "high grade": [
     "getright",
-    "friberg",
     "f0rest",
+    "friberg",
     "xizt",
     "pyth"
    ]
@@ -1871,8 +1871,8 @@
     "jasonr",
     "davey",
     "professorchaos",
-    "abe",
-    "arya"
+    "arya",
+    "abe"
    ]
   }
  },
@@ -1948,8 +1948,8 @@
    "high grade": [
     "kennys",
     "happy",
-    "nbk",
     "apex",
+    "nbk",
     "kioshima"
    ]
   }
@@ -1999,8 +1999,8 @@
   "stickers": {
    "high grade": [
     "scream",
-    "fox",
     "rain",
+    "fox",
     "dennis",
     "maikelele"
    ]
@@ -2039,8 +2039,8 @@
    "high grade": [
     "s1mple",
     "elige",
-    "hiko",
     "nitr0",
+    "hiko",
     "jdm64"
    ]
   }
@@ -2065,9 +2065,9 @@
    "high grade": [
     "device",
     "karrigan",
-    "dupreeh",
+    "cajunb",
     "xyp9x",
-    "cajunb"
+    "dupreeh"
    ]
   }
  },
@@ -2078,8 +2078,8 @@
    "high grade": [
     "device",
     "karrigan",
-    "dupreeh",
     "xyp9x",
+    "dupreeh",
     "cajunb"
    ]
   }
@@ -2105,8 +2105,8 @@
     "shox",
     "maniac",
     "smithzz",
-    "ex6tenz",
-    "rpk"
+    "rpk",
+    "ex6tenz"
    ]
   }
  },
@@ -2199,8 +2199,8 @@
    ],
    "high grade": [
     "no pats",
-    "pac ai",
     "forty two",
+    "pac ai",
     "bf 2042",
     "mr chompy",
     "knives out",
@@ -2212,8 +2212,8 @@
    "remarkable": [
     "no pats holo",
     "wingsuit holo",
-    "ptfo holo",
-    "ready for battle holo"
+    "ready for battle holo",
+    "ptfo holo"
    ]
   }
  },
@@ -2229,37 +2229,37 @@
     "rain gold",
     "jks gold",
     "fallen gold",
-    "dupreeh gold",
     "f0rest gold",
+    "dupreeh gold",
     "guardian gold",
-    "stewie2k gold",
     "olofmeister gold",
+    "stewie2k gold",
     "electronic gold",
     "xyp9x gold",
     "coldzera gold",
     "getright gold",
-    "taco gold",
     "lekr0 gold",
+    "taco gold",
     "neo gold",
-    "fer gold",
     "golden gold",
-    "elige gold",
+    "fer gold",
     "zeus gold",
-    "liazz gold",
+    "elige gold",
     "magisk gold",
+    "liazz gold",
     "lucas1 gold",
+    "nitr0 gold",
     "boombl4 gold",
-    "aleksib gold",
-    "allu gold",
     "gla1ve gold",
+    "rez gold",
+    "aleksib gold",
     "aerial gold",
     "naf gold",
-    "rez gold",
-    "nitr0 gold",
+    "allu gold",
     "jkaem gold",
-    "xseven gold",
-    "sergej gold",
     "azr gold",
+    "sergej gold",
+    "xseven gold",
     "flamie gold",
     "gratisfaction gold"
    ],
@@ -2270,10 +2270,10 @@
     "device foil",
     "fallen foil",
     "rain foil",
-    "getright foil",
     "jks foil",
     "olofmeister foil",
-    "f0rest foil"
+    "f0rest foil",
+    "stewie2k foil"
    ]
   }
  },
@@ -2282,9 +2282,9 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0m_LzNrXVhVRd6dd2j6eSpt6l2wa3qBY9ZGryJISVcgY3Yg2G-1Lokui80ZS97ZTOySNmvick-z-DyHhpzwaN/256fx256f",
   "stickers": {
    "exotic": [
+    "ninjas in pyjamas foil",
     "faze clan foil",
     "astralis foil",
-    "ninjas in pyjamas foil",
     "natus vincere foil",
     "mibr foil",
     "team liquid foil",
@@ -2312,9 +2312,9 @@
    "extraordinary": [
     "dickstacy gold",
     "ropz gold",
-    "art gold",
-    "somebody gold",
     "frozen gold",
+    "somebody gold",
+    "art gold",
     "summer gold",
     "kngv gold",
     "attacker gold",
@@ -2326,39 +2326,39 @@
     "sico gold",
     "cerq gold",
     "kinqie gold",
-    "chrisj gold",
     "bntet gold",
-    "ethan gold",
-    "woxic gold",
-    "tarik gold",
+    "chrisj gold",
     "forester gold",
+    "ethan gold",
+    "tarik gold",
+    "woxic gold",
     "malta gold",
     "dexter gold",
     "nealan gold",
     "kscerato gold",
     "jerry gold",
     "letn1 gold",
-    "destiny gold",
     "ottond gold",
-    "keoz gold",
     "aizy gold",
+    "destiny gold",
     "facecrack gold",
     "t0rick gold",
     "brehze gold",
+    "keoz gold",
     "yuurih gold",
     "ramz1kbo gold",
-    "nexa gold",
-    "espiranto gold",
     "kjaerbye gold",
-    "svyat gold",
-    "speed4k gold",
-    "jugi gold",
-    "xsepower gold",
+    "espiranto gold",
     "v4lde gold",
+    "speed4k gold",
+    "svyat gold",
+    "xsepower gold",
+    "nexa gold",
     "fl1t gold",
+    "jugi gold",
+    "yel gold",
     "stanislaw gold",
     "gade gold",
-    "erkast gold",
     "almazer gold"
    ]
   }
@@ -2369,16 +2369,16 @@
   "stickers": {
    "exotic": [
     "tyloo foil",
-    "mousesports foil",
     "cr4zy foil",
-    "dreameaters foil",
+    "mousesports foil",
     "syman gaming foil",
+    "dreameaters foil",
     "forze esports foil",
     "north foil",
-    "nrg foil",
     "furia foil",
-    "intz esports club foil",
+    "nrg foil",
     "grayhound gaming foil",
+    "intz esports club foil",
     "starladder foil"
    ],
    "remarkable": [
@@ -2388,10 +2388,10 @@
     "furia holo",
     "north holo",
     "syman gaming holo",
-    "nrg holo",
-    "dreameaters holo",
     "starladder holo",
+    "dreameaters holo",
     "intz esports club holo",
+    "nrg holo",
     "grayhound gaming holo",
     "forze esports holo"
    ]
@@ -2419,10 +2419,10 @@
     "sick gold",
     "adren gold",
     "buster gold",
-    "amanek gold",
     "lowel gold",
-    "dephh gold",
+    "amanek gold",
     "rpk gold",
+    "dephh gold",
     "deadfox gold",
     "alex gold",
     "shahzam gold",
@@ -2434,26 +2434,26 @@
     "zywoo foil",
     "jame foil",
     "obo foil",
-    "jackz foil",
     "shox foil",
-    "sick foil",
-    "amanek foil",
-    "nbk foil",
+    "jackz foil",
     "apex foil",
+    "sick foil",
     "oskar foil",
-    "deadfox foil",
-    "alex foil",
-    "lowel foil",
-    "shahzam foil",
-    "adren foil",
-    "qikert foil",
-    "buster foil",
     "issaa foil",
-    "rpk foil",
-    "sanji foil",
+    "amanek foil",
+    "deadfox foil",
+    "nbk foil",
+    "alex foil",
+    "buster foil",
     "dephh foil",
+    "rpk foil",
+    "qikert foil",
+    "lowel foil",
+    "sanji foil",
     "rickeh foil",
-    "ange1 foil"
+    "shahzam foil",
+    "ange1 foil",
+    "adren foil"
    ]
   }
  },
@@ -2474,8 +2474,8 @@
     "avangar holo",
     "g2 esports holo",
     "complexity gaming holo",
-    "starladder holo",
-    "vitality holo"
+    "vitality holo",
+    "starladder holo"
    ]
   }
  },
@@ -2485,22 +2485,22 @@
   "stickers": {
    "exotic": [
     "basilisk foil",
-    "dragon foil",
-    "phoenix reborn foil"
+    "phoenix reborn foil",
+    "dragon foil"
    ],
    "high grade": [
-    "phoenix reborn",
     "basilisk",
     "dragon",
-    "sphinx",
+    "phoenix reborn",
     "pegasus",
+    "sphinx",
     "manticore",
     "hippocamp"
    ],
    "remarkable": [
     "pegasus holo",
-    "manticore holo",
     "sphinx holo",
+    "manticore holo",
     "hippocamp holo"
    ]
   }
@@ -2512,11 +2512,11 @@
    "extraordinary": [
     "neo gold",
     "flusha gold",
-    "keev gold",
     "device gold",
+    "keev gold",
     "pashabiceps gold",
-    "fallen gold",
     "snax gold",
+    "fallen gold",
     "coldzera gold",
     "kjaerbye gold",
     "adren gold",
@@ -2526,22 +2526,22 @@
     "msl gold",
     "gla1ve gold",
     "k0nfig gold",
-    "felps gold",
     "taco gold",
+    "felps gold",
     "krimz gold",
-    "golden gold",
     "v4lde gold",
+    "golden gold",
     "gob b gold",
     "tabsen gold",
     "byali gold",
     "taz gold",
     "fitch gold",
-    "mou gold",
     "xyp9x gold",
-    "legija gold",
-    "lekr0 gold",
-    "dupreeh gold",
     "aizy gold",
+    "lekr0 gold",
+    "mou gold",
+    "legija gold",
+    "dupreeh gold",
     "cajunb gold",
     "nex gold",
     "fer gold"
@@ -2555,12 +2555,12 @@
     "snax foil",
     "fallen foil",
     "pashabiceps foil",
+    "keev foil",
     "coldzera foil",
+    "cajunb foil",
     "k0nfig foil",
     "hobbit foil",
-    "keev foil",
     "v4lde foil",
-    "nex foil",
     "fer foil"
    ]
   }
@@ -2676,8 +2676,8 @@
    "exotic": [
     "loveyy gold",
     "attacker gold",
-    "karsa gold",
     "kaze gold",
+    "karsa gold",
     "summer gold"
    ],
    "extraordinary": [
@@ -2695,9 +2695,9 @@
     "amanek gold",
     "stanislaw gold",
     "paz gold",
-    "ngin gold",
-    "nifty gold",
     "boombl4 gold",
+    "nifty gold",
+    "ngin gold",
     "sick gold",
     "shahzam gold",
     "kvik gold",
@@ -2707,15 +2707,15 @@
     "twistzz gold",
     "waterfallz gold",
     "sixer gold",
+    "happy gold",
     "jmqa gold",
+    "jks gold",
     "xms gold",
-    "seangres gold",
     "jdm64 gold",
     "naf gold",
+    "seangres gold",
     "elige gold",
-    "happy gold",
-    "balblna gold",
-    "jks gold"
+    "balblna gold"
    ],
    "remarkable": [
     "twistzz foil",
@@ -2791,12 +2791,12 @@
     "worldedit gold",
     "innocent gold",
     "b1ad3 gold",
-    "hutji gold",
-    "stewie2k gold",
-    "keshandr gold",
     "rain gold",
-    "sunny gold",
+    "stewie2k gold",
+    "hutji gold",
+    "keshandr gold",
     "flamie gold",
+    "sunny gold",
     "seized gold",
     "autimatic gold",
     "chrisj gold",
@@ -2826,8 +2826,8 @@
     "faze clan foil",
     "flipsid3 tactics foil",
     "sprout esports foil",
-    "vega squadron foil",
     "mousesports foil",
+    "vega squadron foil",
     "g2 esports foil",
     "natus vincere foil"
    ],
@@ -2854,10 +2854,10 @@
    "high grade": [
     "bukawp",
     "big clucks",
-    "nest egg",
-    "fowl play",
     "hot wings",
+    "nest egg",
     "bonehead",
+    "fowl play",
     "what what",
     "roosty boosty",
     "double dip",
@@ -2882,14 +2882,14 @@
     "flipsid3 tactics foil",
     "faze clan foil",
     "mousesports foil",
-    "team envyus foil",
     "g2 esports foil",
+    "team envyus foil",
     "gambit gaming foil"
    ],
    "remarkable": [
     "team dignitas holo",
-    "mousesports holo",
     "optic gaming holo",
+    "mousesports holo",
     "flipsid3 tactics holo",
     "faze clan holo",
     "team envyus holo",
@@ -2918,8 +2918,8 @@
     "sk gaming holo",
     "team liquid holo",
     "astralis holo",
-    "virtuspro holo",
     "fnatic holo",
+    "virtuspro holo",
     "ninjas in pyjamas holo",
     "natus vincere holo",
     "esl holo"
@@ -2936,18 +2936,18 @@
    ],
    "high grade": [
     "friendly fire",
-    "small arms",
     "bullet rain",
-    "entry fragger",
+    "small arms",
     "devouring flame",
+    "entry fragger",
     "camper",
     "retake expert",
     "dessert eagle"
    ],
    "remarkable": [
     "devouring flame holo",
-    "friendly fire holo",
     "small arms holo",
+    "friendly fire holo",
     "retake expert holo"
    ]
   }
@@ -2971,8 +2971,8 @@
     "sneaky beaky like",
     "shave master",
     "backstab",
-    "to b or not to b",
     "pocket bbq",
+    "to b or not to b",
     "burn them all"
    ],
    "remarkable": [
@@ -2993,23 +2993,23 @@
    "high grade": [
     "nuke beast",
     "friend code",
-    "pixel avenger",
     "too old for this",
-    "surfs up",
+    "pixel avenger",
     "obey sas",
+    "surfs up",
     "aztec",
     "separate pixels",
     "too late",
-    "mondays",
-    "temperance"
+    "temperance",
+    "mondays"
    ],
    "remarkable": [
     "rush 4x20 holo",
     "boost holo",
     "fire in the hole holo",
     "cs20 classic holo",
-    "guinea pig holo",
-    "clutchman holo"
+    "clutchman holo",
+    "guinea pig holo"
    ]
   }
  },
@@ -3057,11 +3057,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDEZDcQvI3jq9Da2fWhMrqBkD9TsZx1ib3F9o332QDlrRJqNzqnIIOdcAU_ZVjS8gW2ye3xxcjrugDBGBI/256fx256f",
   "stickers": {
    "exotic": [
-    "dreamhack foil",
     "luminosity gaming foil",
+    "dreamhack foil",
     "team envyus foil",
-    "g2 esports foil",
     "natus vincere foil",
+    "g2 esports foil",
     "virtuspro foil",
     "ninjas in pyjamas foil",
     "fnatic foil",
@@ -3080,8 +3080,8 @@
     "vox eminor",
     "natus vincere",
     "mousesports",
-    "clanmystik",
     "virtuspro",
+    "clanmystik",
     "3dmax",
     "reason gaming",
     "ibuypower"
@@ -3141,9 +3141,9 @@
     "skull lil boney",
     "chabo",
     "the spartan",
-    "the guru",
     "the samurai",
     "the zombie",
+    "the guru",
     "silent ninja",
     "salute",
     "skull troop",
@@ -3167,8 +3167,8 @@
     "london conspiracy",
     "vox eminor",
     "natus vincere",
-    "dat team",
     "epsilon esports",
+    "dat team",
     "mts gamegod wolf",
     "copenhagen wolves"
    ],
@@ -3221,8 +3221,8 @@
     "flipsid3 tactics foil",
     "cloud9 g2a foil",
     "counter logic gaming foil",
-    "team kinguin foil",
     "team immunity foil",
+    "team kinguin foil",
     "team ebettle foil",
     "renegades foil"
    ]
@@ -3239,8 +3239,8 @@
     "team solomid foil",
     "virtuspro foil",
     "ninjas in pyjamas foil",
-    "natus vincere foil",
     "fnatic foil",
+    "natus vincere foil",
     "esl foil"
    ]
   }
@@ -3262,8 +3262,8 @@
    "remarkable": [
     "titan holo",
     "flipsid3 tactics holo",
-    "cloud9 g2a holo",
     "lgb esports holo",
+    "cloud9 g2a holo",
     "keyd stars holo",
     "counter logic gaming holo",
     "3dmax holo",
@@ -3277,11 +3277,11 @@
   "stickers": {
    "exotic": [
     "hellraisers foil",
-    "virtuspro foil",
     "natus vincere foil",
+    "virtuspro foil",
+    "ninjas in pyjamas foil",
     "team envyus foil",
     "fnatic foil",
-    "ninjas in pyjamas foil",
     "tsm kinguin foil",
     "esl one foil",
     "penta sports foil"
@@ -3292,8 +3292,8 @@
     "fnatic holo",
     "hellraisers holo",
     "tsm kinguin holo",
-    "team envyus holo",
     "ninjas in pyjamas holo",
+    "team envyus holo",
     "penta sports holo"
    ]
   }
@@ -3309,10 +3309,10 @@
    ],
    "high grade": [
     "zap cat",
-    "not a bot",
     "run t run",
-    "spectators",
+    "not a bot",
     "explosive strength",
+    "spectators",
     "knifes edge",
     "fireball",
     "sting like a butterfly",
@@ -3342,8 +3342,8 @@
    ],
    "high grade": [
     "first blood",
-    "toxic",
     "lurker",
+    "toxic",
     "cluck",
     "baited",
     "bite me",
@@ -3396,11 +3396,11 @@
    ],
    "high grade": [
     "killjoy",
-    "assassin",
     "mister chief",
+    "assassin",
     "extermination",
-    "dirty money",
     "incineration",
+    "dirty money",
     "noble",
     "legendary",
     "spartan",
@@ -3427,10 +3427,10 @@
     "electronic gold",
     "twistzz gold",
     "dupreeh gold",
-    "stewie2k gold",
     "flamie gold",
     "taco gold",
     "rain gold",
+    "stewie2k gold",
     "xantares gold",
     "magisk gold",
     "ange1 gold",
@@ -3439,22 +3439,22 @@
     "coldzera gold",
     "guardian gold",
     "zeus gold",
-    "gob b gold",
     "tabsen gold",
     "hobbit gold",
     "dephh gold",
-    "tizian gold",
-    "smooya gold",
     "elige gold",
+    "tizian gold",
     "gla1ve gold",
+    "gob b gold",
     "issaa gold",
+    "smooya gold",
     "olofmeister gold",
     "n0thing gold",
     "edward gold",
     "naf gold",
     "nitr0 gold",
-    "shahzam gold",
     "rickeh gold",
+    "shahzam gold",
     "woxic gold",
     "adren gold",
     "stanislaw gold",
@@ -3467,10 +3467,10 @@
     "twistzz foil",
     "device foil",
     "electronic foil",
-    "rain foil",
     "stewie2k foil",
-    "fallen foil",
+    "rain foil",
     "xantares foil",
+    "fallen foil",
     "smooya foil"
    ]
   }
@@ -3480,11 +3480,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj4NrzUmG9C18lwmO7Eu47221XsqEc_Z2z3d9SUdQc7NFvQqQS_wrrojZHq7cyanScyuikhtCvD30vggYzdAQY/256fx256f",
   "stickers": {
    "exotic": [
-    "hellraisers foil",
     "complexity gaming foil",
+    "hellraisers foil",
     "faze clan foil",
-    "astralis foil",
     "team liquid foil",
+    "astralis foil",
     "big foil",
     "natus vincere foil",
     "iem foil",
@@ -3492,13 +3492,13 @@
    ],
    "remarkable": [
     "team liquid holo",
-    "natus vincere holo",
     "faze clan holo",
     "hellraisers holo",
+    "natus vincere holo",
     "astralis holo",
     "iem holo",
-    "complexity gaming holo",
     "big holo",
+    "complexity gaming holo",
     "mibr holo"
    ]
   }
@@ -3515,49 +3515,49 @@
     "dima gold",
     "apex gold",
     "kaze gold",
-    "jks gold",
-    "art gold",
     "daps gold",
+    "jks gold",
     "sdy gold",
     "ethan gold",
+    "art gold",
     "coldyy1 gold",
     "advent gold",
     "alex gold",
     "freeman gold",
+    "worldedit gold",
     "aleksib gold",
-    "buster gold",
     "rpk gold",
     "nbk gold",
     "jame gold",
     "zhoking gold",
     "kscerato gold",
-    "worldedit gold",
     "davcost gold",
     "dexter gold",
     "s0tf1k gold",
     "boombl4 gold",
     "azr gold",
     "aerial gold",
-    "xseven gold",
     "cerq gold",
+    "xseven gold",
     "allu gold",
-    "fugly gold",
+    "buster gold",
     "jkaem gold",
     "krizzen gold",
+    "fugly gold",
     "sterling gold",
-    "sergej gold",
-    "kvik gold",
-    "ablej gold",
     "gratisfaction gold",
-    "fitch gold",
+    "ablej gold",
     "yuurih gold",
+    "fitch gold",
     "erkast gold",
     "n0rb3r7 gold",
+    "sergej gold",
     "qikert gold",
     "waylander gold",
     "brehze gold",
     "liazz gold",
-    "vini gold"
+    "vini gold",
+    "kvik gold"
    ]
   }
  },
@@ -3570,9 +3570,9 @@
     "vici gaming foil",
     "furia foil",
     "avangar foil",
-    "ence foil",
     "winstrike team foil",
     "vitality foil",
+    "ence foil",
     "nrg foil",
     "grayhound gaming foil",
     "renegades foil"
@@ -3582,9 +3582,9 @@
     "team spirit holo",
     "vici gaming holo",
     "grayhound gaming holo",
-    "avangar holo",
     "vitality holo",
     "nrg holo",
+    "avangar holo",
     "ence holo",
     "winstrike team holo",
     "renegades holo"
@@ -3603,8 +3603,8 @@
     "golden gold",
     "lucky gold",
     "shox gold",
-    "jw gold",
     "somebody gold",
+    "jw gold",
     "summer gold",
     "f0rest gold",
     "bodyy gold",
@@ -3615,8 +3615,8 @@
     "dennis gold",
     "jr gold",
     "getright gold",
-    "flusha gold",
     "rez gold",
+    "flusha gold",
     "bntet gold",
     "chopper gold",
     "kioshima gold",
@@ -3632,10 +3632,10 @@
     "rush foil",
     "jr foil",
     "flusha foil",
-    "chopper foil",
     "crush foil",
     "golden foil",
     "autimatic foil",
+    "chopper foil",
     "kioshima foil",
     "somebody foil",
     "lucky foil",
@@ -3645,7 +3645,7 @@
     "jackz foil",
     "bodyy foil",
     "summer foil",
-    "attacker foil",
+    "jw foil",
     "xccurate foil",
     "f0rest foil"
    ]
@@ -3658,9 +3658,9 @@
    "exotic": [
     "cloud9 foil",
     "tyloo foil",
+    "g2 esports foil",
     "fnatic foil",
     "vega squadron foil",
-    "g2 esports foil",
     "ninjas in pyjamas foil"
    ],
    "remarkable": [
@@ -3680,8 +3680,6 @@
    "extraordinary": [
     "oskar gold",
     "nbk gold",
-    "hs gold",
-    "nex gold",
     "markeloff gold",
     "shroud gold",
     "skadoodle gold",
@@ -3692,32 +3690,34 @@
     "zehn gold",
     "kngv gold",
     "autimatic gold",
+    "apex gold",
     "gob b gold",
     "lucas1 gold",
     "krystal gold",
     "innocent gold",
     "denis gold",
-    "lowel gold",
     "steel gold",
+    "lowel gold",
     "chrisj gold",
-    "chopper gold",
     "keshandr gold",
+    "mir gold",
     "kennys gold",
     "stewie2k gold",
-    "mir gold",
+    "electronic gold",
     "tabsen gold",
+    "hutji gold",
     "shox gold",
     "ropz gold",
+    "nex gold",
     "n0thing gold",
     "worldedit gold",
-    "hutji gold",
-    "apex gold",
-    "sunny gold",
+    "legija gold",
     "keev gold",
     "waylander gold",
-    "legija gold",
-    "jr gold",
-    "electronic gold"
+    "chopper gold",
+    "hs gold",
+    "sunny gold",
+    "jr gold"
    ],
    "remarkable": [
     "ropz foil",
@@ -3726,10 +3726,10 @@
     "mir foil",
     "keev foil",
     "electronic foil",
-    "shroud foil",
     "sunny foil",
-    "hutji foil",
-    "stewie2k foil"
+    "shroud foil",
+    "stewie2k foil",
+    "hutji foil"
    ]
   }
  },
@@ -3739,10 +3739,10 @@
   "stickers": {
    "exotic": [
     "cloud9 foil",
-    "flipsid3 tactics foil",
     "g2 esports foil",
     "immortals foil",
     "mousesports foil",
+    "flipsid3 tactics foil",
     "vega squadron foil",
     "big foil",
     "penta sports foil"
@@ -3764,9 +3764,8 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjacDZN-47mxde0kOX7JqvuxCVU7JUmjO_C89un0QbjrRU-NWn2doPGIAE8MlGG_gTrlbq705e775ud1zI97TuorcB0/256fx256f",
   "stickers": {
    "extraordinary": [
-    "coldzera gold",
     "flamie gold",
-    "jw gold",
+    "coldzera gold",
     "guardian gold",
     "aizy gold",
     "snax gold",
@@ -3778,9 +3777,9 @@
     "msl gold",
     "magisk gold",
     "adren gold",
-    "edward gold",
-    "krimz gold",
     "dupreeh gold",
+    "krimz gold",
+    "edward gold",
     "karrigan gold",
     "neo gold",
     "allu gold",
@@ -3795,15 +3794,16 @@
     "kioshima gold",
     "gla1ve gold",
     "mou gold",
-    "felps gold",
-    "niko gold",
-    "k0nfig gold",
-    "taco gold",
-    "pashabiceps gold",
     "fallen gold",
+    "k0nfig gold",
+    "pashabiceps gold",
+    "taco gold",
     "s1mple gold",
+    "jw gold",
     "byali gold",
-    "seized gold"
+    "felps gold",
+    "seized gold",
+    "niko gold"
    ],
    "remarkable": [
     "s1mple foil",
@@ -3811,8 +3811,8 @@
     "msl foil",
     "fallen foil",
     "coldzera foil",
-    "magisk foil",
     "device foil",
+    "magisk foil",
     "k0nfig foil",
     "rain foil",
     "pashabiceps foil"
@@ -3825,14 +3825,14 @@
   "stickers": {
    "exotic": [
     "sk gaming foil",
-    "fnatic foil",
     "virtuspro foil",
     "north foil",
     "natus vincere foil",
     "faze clan foil",
+    "fnatic foil",
     "astralis foil",
-    "gambit foil",
-    "pgl foil"
+    "pgl foil",
+    "gambit foil"
    ],
    "remarkable": [
     "north holo",
@@ -3840,8 +3840,8 @@
     "natus vincere holo",
     "virtuspro holo",
     "fnatic holo",
-    "astralis holo",
     "sk gaming holo",
+    "astralis holo",
     "gambit holo",
     "pgl holo"
    ]
@@ -3852,58 +3852,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0kOX7Jqvumm5W7ct1mafDrdSs0QPgrxA_Yzz0coDGclc2aFrTrALox73o15G9uMicwXQyuSYn-z-DyM9i2yRi/256fx256f",
   "stickers": {
    "extraordinary": [
-    "autimatic gold",
-    "tarik gold",
     "draken gold",
+    "tarik gold",
+    "autimatic gold",
+    "golden gold",
     "kennys gold",
     "s1mple gold",
     "stewie2k gold",
-    "electronic gold",
     "skadoodle gold",
-    "xizt gold",
+    "electronic gold",
     "karrigan gold",
+    "xizt gold",
     "rain gold",
-    "golden gold",
     "fallen gold",
     "jw gold",
-    "zeus gold",
-    "shox gold",
-    "chrisj gold",
+    "edward gold",
     "balblna gold",
+    "shox gold",
+    "zeus gold",
+    "chrisj gold",
     "guardian gold",
     "jmqa gold",
-    "edward gold",
     "bodyy gold",
     "oskar gold",
     "fer gold",
     "olofmeister gold",
     "kvik gold",
     "flamie gold",
-    "ex6tenz gold",
     "snax gold",
+    "ex6tenz gold",
     "flusha gold",
     "boombl4 gold",
     "smithzz gold",
     "krimz gold",
-    "styko gold",
     "waterfallz gold",
+    "styko gold",
     "niko gold",
+    "coldzera gold",
     "sunny gold",
     "ropz gold",
-    "rush gold",
-    "coldzera gold"
+    "rush gold"
    ],
    "remarkable": [
     "kennys foil",
     "ropz foil",
     "rush foil",
-    "skadoodle foil",
-    "s1mple foil",
     "niko foil",
+    "s1mple foil",
+    "skadoodle foil",
     "autimatic foil",
-    "tarik foil",
+    "fallen foil",
     "golden foil",
-    "fallen foil"
+    "tarik foil"
    ]
   }
  },
@@ -3944,8 +3944,8 @@
     "somebody gold",
     "coldyy1 gold",
     "xccurate gold",
-    "bondik gold",
     "jkaem gold",
+    "bondik gold",
     "lekr0 gold",
     "ange1 gold",
     "dd gold",
@@ -3957,9 +3957,9 @@
     "jks gold",
     "rickeh gold",
     "cajunb gold",
-    "woxic gold",
     "bntet gold",
     "jugi gold",
+    "woxic gold",
     "hiko gold",
     "dennis gold",
     "issaa gold",
@@ -3972,9 +3972,9 @@
     "sick gold",
     "davcost gold",
     "gade gold",
+    "k0nfig gold",
     "dephh gold",
     "snappi gold",
-    "k0nfig gold",
     "ustilo gold",
     "shahzam gold",
     "android gold",
@@ -3987,10 +3987,10 @@
     "cadian foil",
     "somebody foil",
     "captainmo foil",
-    "dima foil",
     "sick foil",
     "dd foil",
     "vice foil",
+    "rickeh foil",
     "hiko foil"
    ]
   }
@@ -4000,13 +4000,13 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0lPj6J77fkm5D-4spj7qZrY6l2Vfi-kI_amnyIYWcJwdraFvY81jtlOe70MfouZTJmno3pGB8sqAq1NrI/256fx256f",
   "stickers": {
    "exotic": [
-    "complexity gaming foil",
     "optic gaming foil",
     "tyloo foil",
+    "complexity gaming foil",
     "hellraisers foil",
     "team spirit foil",
-    "ninjas in pyjamas foil",
     "rogue foil",
+    "ninjas in pyjamas foil",
     "renegades foil"
    ],
    "remarkable": [
@@ -4015,8 +4015,8 @@
     "optic gaming holo",
     "team spirit holo",
     "complexity gaming holo",
-    "ninjas in pyjamas holo",
     "rogue holo",
+    "ninjas in pyjamas holo",
     "renegades holo"
    ]
   }
@@ -4026,7 +4026,7 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0kOX7JqvulWNQ5Ml0hO7E55-7jVbj-UZsNWr2dteSJAY4MAvS_lnvxbvt1p--6s6Yz3U1vnQk5XbYzAv33097fE1jkw/256fx256f",
   "stickers": {
    "extraordinary": [
-    "hutji gold",
+    "kjaerbye gold",
     "tonyblack gold",
     "magisk gold",
     "byali gold",
@@ -4041,37 +4041,37 @@
     "device gold",
     "mou gold",
     "maj3r gold",
+    "hutji gold",
     "dupreeh gold",
     "snatchie gold",
-    "nex gold",
     "smooya gold",
+    "nex gold",
     "tizian gold",
     "msl gold",
     "tabsen gold",
     "pashabiceps gold",
     "gla1ve gold",
     "calyx gold",
-    "nitr0 gold",
     "v4lde gold",
+    "nitr0 gold",
     "gob b gold",
-    "jr gold",
     "mir gold",
     "xyp9x gold",
     "paz gold",
     "elige gold",
-    "michu gold",
-    "adren gold",
-    "niko gold",
-    "crush gold",
     "twistzz gold",
-    "kjaerbye gold",
-    "aizy gold"
+    "adren gold",
+    "jr gold",
+    "michu gold",
+    "crush gold",
+    "aizy gold",
+    "niko gold"
    ],
    "remarkable": [
     "twistzz foil",
+    "crush foil",
     "niko foil",
     "device foil",
-    "crush foil",
     "tonyblack foil",
     "msl foil",
     "chopper foil",
@@ -4097,11 +4097,11 @@
    ],
    "remarkable": [
     "north holo",
+    "team liquid holo",
     "astralis holo",
     "virtuspro holo",
-    "team liquid holo",
-    "gambit esports holo",
     "vega squadron holo",
+    "gambit esports holo",
     "space soldiers holo",
     "big holo"
    ]
@@ -4140,12 +4140,12 @@
    "exotic": [
     "luminosity gaming foil",
     "mlg foil",
-    "natus vincere foil",
+    "faze clan foil",
     "fnatic foil",
     "astralis foil",
-    "team envyus foil",
+    "natus vincere foil",
     "ninjas in pyjamas foil",
-    "faze clan foil",
+    "team envyus foil",
     "virtuspro foil"
    ],
    "remarkable": [
@@ -4154,9 +4154,9 @@
     "faze clan holo",
     "natus vincere holo",
     "mlg holo",
+    "astralis holo",
     "fnatic holo",
     "virtuspro holo",
-    "astralis holo",
     "ninjas in pyjamas holo"
    ]
   }
@@ -4171,53 +4171,53 @@
     "krad holo",
     "boros holo",
     "im holo",
+    "sdy holo",
     "jks holo",
     "keoz holo",
-    "sdy holo",
     "hooxi holo",
-    "f1ku holo"
+    "isak holo"
    ],
    "extraordinary": [
     "m0nesy gold",
     "niko gold",
     "boros gold",
-    "krad gold",
     "jks gold",
+    "krad gold",
     "im gold",
     "hooxi gold",
-    "keoz gold",
     "hunter gold",
     "siuhy gold",
     "sdy gold",
-    "jl gold",
-    "f1ku gold",
-    "niko gold",
+    "keoz gold",
     "kyxsan gold",
-    "isak gold",
     "acor gold",
+    "isak gold",
+    "f1ku gold",
+    "jl gold",
+    "niko gold",
     "headtr1ck gold",
     "flamez gold",
     "woro2k gold",
+    "degster gold",
     "rez gold",
     "zevy gold",
-    "degster gold",
     "krasnal gold",
     "demqq gold",
-    "styko gold",
     "r3salt gold",
-    "skullz gold",
-    "zorte gold",
-    "nawwk gold",
+    "styko gold",
     "jerry gold",
-    "brollan gold",
-    "jkaem gold",
     "aleksib gold",
+    "brollan gold",
+    "zorte gold",
+    "skullz gold",
+    "hardzao gold",
+    "nawwk gold",
     "k0nfig gold",
-    "biguzera gold",
+    "jkaem gold",
     "shalfey gold",
+    "biguzera gold",
     "nekiz gold",
-    "neofrag gold",
-    "hardzao gold"
+    "neofrag gold"
    ]
   }
  },
@@ -4242,21 +4242,21 @@
     "gamerlegion gold",
     "pain gaming gold",
     "monte gold",
-    "og gold",
     "forze esports gold",
+    "og gold",
     "ninjas in pyjamas gold",
     "blasttv gold"
    ],
    "high grade": [
     "apeks",
     "monte",
-    "gamerlegion",
-    "ninjas in pyjamas",
+    "g2 esports",
     "blasttv",
     "pain gaming",
     "og",
-    "g2 esports",
-    "forze esports"
+    "forze esports",
+    "gamerlegion",
+    "ninjas in pyjamas"
    ],
    "remarkable": [
     "apeks glitter",
@@ -4277,30 +4277,30 @@
   "stickers": {
    "exotic": [
     "zywoo holo champion",
-    "dupreeh holo champion",
     "apex holo champion",
-    "spinx holo champion",
-    "magisk holo champion"
+    "magisk holo champion",
+    "dupreeh holo champion",
+    "spinx holo champion"
    ],
    "extraordinary": [
     "zywoo gold champion",
     "dupreeh gold champion",
     "apex gold champion",
-    "spinx gold champion",
-    "magisk gold champion"
+    "magisk gold champion",
+    "spinx gold champion"
    ],
    "high grade": [
-    "apex champion",
     "dupreeh champion",
-    "spinx champion",
     "zywoo champion",
+    "spinx champion",
+    "apex champion",
     "magisk champion"
    ],
    "remarkable": [
     "zywoo glitter champion",
     "apex glitter champion",
-    "dupreeh glitter champion",
     "spinx glitter champion",
+    "dupreeh glitter champion",
     "magisk glitter champion"
    ]
   }
@@ -4316,10 +4316,10 @@
     "dexter holo",
     "twistzz holo",
     "frozen holo",
+    "torzsi holo",
     "jt holo",
-    "wood7 holo",
     "sk0r holo",
-    "torzsi holo"
+    "xertion holo"
    ],
    "extraordinary": [
     "ropz gold",
@@ -4339,27 +4339,27 @@
     "jt gold",
     "wood7 gold",
     "osee gold",
-    "elige gold",
     "floppy gold",
     "lucaozy gold",
+    "elige gold",
+    "techno4k gold",
     "nertz gold",
-    "hallzerk gold",
     "naf gold",
+    "hallzerk gold",
     "ins gold",
-    "fang gold",
-    "grim gold",
-    "nitr0 gold",
     "snappi gold",
-    "felps gold",
+    "nitr0 gold",
     "history gold",
-    "dycha gold",
-    "liazz gold",
+    "fang gold",
+    "felps gold",
+    "grim gold",
     "sico gold",
+    "liazz gold",
     "alistair gold",
     "maden gold",
-    "techno4k gold",
-    "blitz gold",
+    "dycha gold",
     "annihilation gold",
+    "blitz gold",
     "vexite gold",
     "bart4k gold"
    ]
@@ -4373,8 +4373,8 @@
     "mouz holo",
     "fluxo holo",
     "faze clan holo",
-    "complexity gaming holo",
     "team liquid holo",
+    "complexity gaming holo",
     "grayhound gaming holo",
     "the mongolz holo",
     "ence holo",
@@ -4383,8 +4383,8 @@
    "extraordinary": [
     "mouz gold",
     "faze clan gold",
-    "complexity gaming gold",
     "team liquid gold",
+    "complexity gaming gold",
     "fluxo gold",
     "ence gold",
     "grayhound gaming gold",
@@ -4420,56 +4420,56 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4Tdk2xU5sFiteXA54vwxlXjrhdrMD_2JNOSdQ9qYQnR-wC2krzsh5HquJjNnSA1uXRz4nmMnECpwUYbNwkMo6E/256fx256f",
   "stickers": {
    "exotic": [
-    "drop holo",
     "s1mple holo",
+    "drop holo",
     "zywoo holo",
-    "yuurih holo",
     "art holo",
-    "cadian holo",
+    "yuurih holo",
     "kscerato holo",
+    "cadian holo",
     "b1t holo",
-    "kei holo",
-    "saffee holo"
+    "saffee holo",
+    "kei holo"
    ],
    "extraordinary": [
     "zywoo gold",
     "s1mple gold",
     "cadian gold",
+    "kei gold",
+    "juanflatroo gold",
     "b1t gold",
     "drop gold",
-    "juanflatroo gold",
+    "hades gold",
     "art gold",
-    "kei gold",
     "kscerato gold",
     "goofy gold",
-    "hades gold",
-    "electronic gold",
-    "dupreeh gold",
+    "mynio gold",
     "yuurih gold",
+    "dupreeh gold",
+    "electronic gold",
+    "spinx gold",
+    "kylar gold",
     "apex gold",
     "jabbi gold",
-    "magisk gold",
     "teses gold",
     "saffee gold",
-    "spinx gold",
-    "cypher gold",
-    "mynio gold",
-    "kylar gold",
+    "magisk gold",
     "rallen gold",
-    "gxx gold",
+    "cypher gold",
     "stavn gold",
+    "gxx gold",
     "perfecto gold",
-    "npl gold",
     "krimz gold",
     "mezii gold",
     "sjuush gold",
+    "npl gold",
     "thomas gold",
-    "roej gold",
     "volt gold",
     "fashr gold",
+    "roej gold",
+    "cruc1al gold",
     "nicoodoz gold",
     "rigon gold",
-    "cruc1al gold",
     "sinnopsyy gold",
     "sener1 gold"
    ]
@@ -4494,8 +4494,8 @@
     "furia gold",
     "natus vincere gold",
     "9ine gold",
-    "fnatic gold",
     "vitality gold",
+    "fnatic gold",
     "heroic gold",
     "into the breach gold",
     "bad news eagles gold",
@@ -4503,14 +4503,14 @@
    ],
    "high grade": [
     "fnatic",
+    "9ine",
     "natus vincere",
-    "blasttv",
     "heroic",
     "into the breach",
     "bad news eagles",
     "furia",
-    "9ine",
-    "vitality"
+    "vitality",
+    "blasttv"
    ],
    "remarkable": [
     "9ine glitter",
@@ -4518,8 +4518,8 @@
     "natus vincere glitter",
     "furia glitter",
     "into the breach glitter",
-    "vitality glitter",
     "heroic glitter",
+    "vitality glitter",
     "bad news eagles glitter",
     "blasttv glitter"
    ]
@@ -4542,8 +4542,8 @@
     "terror rice",
     "mahjong rooster",
     "fancy koi",
-    "toy tiger",
     "noodles",
+    "toy tiger",
     "hotpot",
     "rice bomb"
    ],
@@ -4571,8 +4571,8 @@
     "nezha",
     "nonveg",
     "zombie hop",
-    "huaji",
-    "shaolin"
+    "shaolin",
+    "huaji"
    ],
    "remarkable": [
     "twin koi holo"
@@ -4585,16 +4585,16 @@
   "stickers": {
    "high grade": [
     "tamara",
+    "sherry",
     "ivette",
     "kimberly",
-    "sherry",
     "merietta",
     "martha"
    ],
    "remarkable": [
+    "ivette holo",
     "tamara holo",
     "sherry holo",
-    "ivette holo",
     "kimberly holo",
     "merietta holo",
     "martha holo"
@@ -4608,14 +4608,14 @@
    "high grade": [
     "poorly drawn chicken",
     "poorly drawn terrorist",
-    "poorly drawn number k",
-    "poorly drawn sas",
     "poorly drawn fbi",
-    "poorly drawn leet crew",
+    "poorly drawn sas",
+    "poorly drawn number k",
     "poorly drawn idf",
+    "poorly drawn leet crew",
     "poorly drawn bloody darryl",
-    "poorly drawn balkan",
-    "poorly drawn ava"
+    "poorly drawn ava",
+    "poorly drawn balkan"
    ],
    "remarkable": [
     "poorly drawn chicken holo",
@@ -4624,10 +4624,10 @@
     "poorly drawn sas holo",
     "poorly drawn fbi holo",
     "poorly drawn bloody darryl holo",
-    "poorly drawn balkan holo",
     "poorly drawn ava holo",
-    "poorly drawn idf holo",
-    "poorly drawn leet crew holo"
+    "poorly drawn leet crew holo",
+    "poorly drawn balkan holo",
+    "poorly drawn idf holo"
    ]
   }
  },
@@ -4642,8 +4642,8 @@
     "sh1ro holo",
     "ax1le holo",
     "nexa holo",
-    "nafany holo",
     "frozen holo",
+    "nafany holo",
     "hobbit holo",
     "dexter holo"
    ],
@@ -4653,40 +4653,40 @@
     "nqz gold",
     "nexa gold",
     "ax1le gold",
-    "sh1ro gold",
     "dexter gold",
+    "sh1ro gold",
     "frozen gold",
     "tabsen gold",
     "degster gold",
-    "gxx gold",
-    "syrson gold",
+    "apex gold",
     "flamez gold",
+    "syrson gold",
+    "gxx gold",
     "spinx gold",
     "dupreeh gold",
-    "apex gold",
     "hobbit gold",
     "nafany gold",
-    "jdc gold",
     "torzsi gold",
+    "jdc gold",
     "krimbo gold",
     "xertion gold",
     "interz gold",
     "k1to gold",
     "autimatic gold",
-    "faven gold",
     "cerq gold",
     "f1ku gold",
     "magisk gold",
-    "dgt gold",
+    "faven gold",
     "neofrag gold",
     "hext gold",
     "dav1deus gold",
     "juanflatroo gold",
-    "buda gold",
-    "nealan gold",
+    "dgt gold",
     "rigon gold",
+    "nealan gold",
     "sener1 gold",
     "brehze gold",
+    "buda gold",
     "sinnopsyy gold"
    ]
   }
@@ -4712,8 +4712,8 @@
     "cloud9 gold",
     "vitality gold",
     "9z team gold",
-    "big gold",
     "evil geniuses gold",
+    "big gold",
     "bad news eagles gold",
     "iem gold"
    ],
@@ -4733,9 +4733,9 @@
     "mouz glitter",
     "9z team glitter",
     "og glitter",
-    "evil geniuses glitter",
-    "vitality glitter",
     "bad news eagles glitter",
+    "vitality glitter",
+    "evil geniuses glitter",
     "big glitter",
     "iem glitter"
    ]
@@ -4749,8 +4749,8 @@
     "jame holo champion",
     "fame holo champion",
     "n0rb3r7 holo champion",
-    "fl1t holo champion",
-    "qikert holo champion"
+    "qikert holo champion",
+    "fl1t holo champion"
    ],
    "extraordinary": [
     "jame gold champion",
@@ -4769,8 +4769,8 @@
    "remarkable": [
     "jame glitter champion",
     "fame glitter champion",
-    "fl1t glitter champion",
     "n0rb3r7 glitter champion",
+    "fl1t glitter champion",
     "qikert glitter champion"
    ]
   }
@@ -4785,11 +4785,11 @@
     "fallen holo",
     "coldzera holo",
     "art holo",
-    "kscerato holo",
-    "sk0r holo",
     "taco holo",
-    "try holo",
-    "jame holo"
+    "sk0r holo",
+    "kscerato holo",
+    "jame holo",
+    "fer holo"
    ],
    "extraordinary": [
     "ins gold",
@@ -4797,12 +4797,12 @@
     "vini gold",
     "sk0r gold",
     "art gold",
-    "kscerato gold",
     "coldzera gold",
+    "kscerato gold",
     "im gold",
     "kabal gold",
-    "jame gold",
     "alistair gold",
+    "jame gold",
     "liazz gold",
     "krimz gold",
     "yuurih gold",
@@ -4810,28 +4810,28 @@
     "taco gold",
     "try gold",
     "saffee gold",
+    "techno4k gold",
     "drop gold",
-    "latto gold",
     "siuhy gold",
     "sico gold",
     "fame gold",
-    "fashr gold",
-    "chelo gold",
+    "latto gold",
     "qikert gold",
+    "chelo gold",
     "dumau gold",
-    "fl1t gold",
     "annihilation gold",
-    "techno4k gold",
-    "keoz gold",
+    "roej gold",
+    "isak gold",
     "boltz gold",
-    "blitz gold",
-    "acor gold",
+    "fashr gold",
     "n0rb3r7 gold",
+    "blitz gold",
+    "keoz gold",
+    "acor gold",
     "nicoodoz gold",
     "vexite gold",
-    "mezii gold",
-    "isak gold",
-    "roej gold"
+    "fl1t gold",
+    "mezii gold"
    ]
   }
  },
@@ -4853,8 +4853,8 @@
    "extraordinary": [
     "00 nation gold",
     "outsiders gold",
-    "furia gold",
     "imperial esports gold",
+    "furia gold",
     "gamerlegion gold",
     "fnatic gold",
     "grayhound gaming gold",
@@ -4878,10 +4878,10 @@
     "outsiders glitter",
     "furia glitter",
     "fnatic glitter",
-    "gamerlegion glitter",
     "ihc esports glitter",
-    "iem glitter",
-    "grayhound gaming glitter"
+    "gamerlegion glitter",
+    "grayhound gaming glitter",
+    "iem glitter"
    ]
   }
  },
@@ -4893,8 +4893,8 @@
     "s1mple holo",
     "ropz holo",
     "twistzz holo",
-    "cadian holo",
     "es3tag holo",
+    "cadian holo",
     "b1t holo",
     "rain holo",
     "w0nderful holo",
@@ -4910,38 +4910,38 @@
     "cadian gold",
     "rain gold",
     "w0nderful gold",
-    "yekindar gold",
     "karrigan gold",
+    "yekindar gold",
     "electronic gold",
-    "broky gold",
     "sdy gold",
+    "broky gold",
     "refrezh gold",
     "sunpayus gold",
-    "s1ren gold",
     "naf gold",
     "osee gold",
+    "s1ren gold",
     "aleksib gold",
-    "jabbi gold",
     "elige gold",
+    "jabbi gold",
     "stavn gold",
     "staehr gold",
     "dycha gold",
     "maden gold",
     "perfecto gold",
-    "rez gold",
     "nitr0 gold",
-    "magixx gold",
+    "rez gold",
     "chopper gold",
     "patsi gold",
     "teses gold",
+    "magixx gold",
     "brollan gold",
     "v4lde gold",
     "snappi gold",
     "hampus gold",
     "sjuush gold",
-    "slaxz gold",
+    "launx gold",
     "zyphon gold",
-    "launx gold"
+    "slaxz gold"
    ]
   }
  },
@@ -4951,9 +4951,9 @@
   "stickers": {
    "exotic": [
     "faze clan holo",
+    "sprout esports holo",
     "team spirit holo",
     "team liquid holo",
-    "sprout esports holo",
     "heroic holo",
     "natus vincere holo",
     "ninjas in pyjamas holo",
@@ -4985,10 +4985,10 @@
    "remarkable": [
     "faze clan glitter",
     "team spirit glitter",
-    "sprout esports glitter",
     "natus vincere glitter",
-    "team liquid glitter",
+    "sprout esports glitter",
     "heroic glitter",
+    "team liquid glitter",
     "ninjas in pyjamas glitter",
     "ence glitter",
     "iem glitter"
@@ -5011,16 +5011,16 @@
     "master guardian elite",
     "supreme master first class",
     "legendary eagle master",
-    "master guardian",
-    "distinguished master guardian"
+    "distinguished master guardian",
+    "master guardian"
    ],
    "remarkable": [
     "gold nova holo",
-    "supreme master first class holo",
     "distinguished master guardian holo",
+    "supreme master first class holo",
     "legendary eagle holo",
-    "legendary eagle master holo",
     "master guardian elite holo",
+    "legendary eagle master holo",
     "master guardian holo"
    ]
   }
@@ -5030,9 +5030,9 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODEeDkR09-3hJOem_LLP7rDkW4fuMZz2ujHo9v03FKy-EVrZWugcYXBdwVoYlHT8wDtlbrogcLt7p7JwGwj5HdCz_FKnA/256fx256f",
   "stickers": {
    "exotic": [
+    "boom foil",
     "move it foil",
     "countdown foil",
-    "boom foil",
     "dont worry foil",
     "hard cluck life foil"
    ],
@@ -5065,12 +5065,12 @@
     "easy peasy",
     "fearsome",
     "black dog",
+    "vigilance",
     "lucky 13",
     "seek destroy",
     "i conquered",
     "cerberus",
-    "luck skill",
-    "vigilance"
+    "luck skill"
    ],
    "remarkable": [
     "aces high holo",
@@ -5090,8 +5090,8 @@
    "high grade": [
     "good game",
     "nice shot",
-    "banana",
     "welcome to the clutch",
+    "banana",
     "bomb code",
     "good luck",
     "have fun",
@@ -5114,8 +5114,8 @@
    "exotic": [
     "mouz foil",
     "astralis foil",
-    "pain gaming foil",
     "movistar riders foil",
+    "pain gaming foil",
     "heroic foil",
     "team spirit foil",
     "big foil",
@@ -5125,11 +5125,11 @@
    "extraordinary": [
     "mouz gold",
     "movistar riders gold",
+    "heroic gold",
     "team spirit gold",
     "astralis gold",
     "big gold",
     "pain gaming gold",
-    "heroic gold",
     "ence gold",
     "pgl gold"
    ],
@@ -5138,8 +5138,8 @@
     "astralis",
     "movistar riders",
     "team spirit",
-    "pain gaming",
     "heroic",
+    "pain gaming",
     "big",
     "ence",
     "pgl"
@@ -5165,8 +5165,8 @@
     "s1mple gold",
     "b1t gold",
     "electronic gold",
-    "boombl4 gold",
-    "perfecto gold"
+    "perfecto gold",
+    "boombl4 gold"
    ],
    "high grade": [
     "s1mple",
@@ -5177,8 +5177,8 @@
    ],
    "remarkable": [
     "s1mple holo",
-    "b1t holo",
     "electronic holo",
+    "b1t holo",
     "perfecto holo",
     "boombl4 holo"
    ]
@@ -5249,30 +5249,30 @@
     "ax1le gold",
     "yekindar gold",
     "hunter gold",
-    "apex gold",
-    "shox gold",
-    "kscerato gold",
     "jackz gold",
-    "teses gold",
+    "shox gold",
+    "apex gold",
+    "kscerato gold",
     "rez gold",
     "yuurih gold",
     "hobbit gold",
-    "nafany gold",
     "stavn gold",
+    "teses gold",
+    "nafany gold",
     "vini gold",
     "lnz gold",
     "drop gold",
     "amanek gold",
-    "hampus gold",
-    "fl1t gold",
     "nexa gold",
+    "hampus gold",
     "sjuush gold",
+    "fl1t gold",
     "qikert gold",
-    "interz gold",
+    "misutaaa gold",
     "kyojin gold",
+    "interz gold",
     "refrezh gold",
     "buster gold",
-    "misutaaa gold",
     "plopski gold"
    ],
    "remarkable": [
@@ -5284,13 +5284,13 @@
     "hunter holo",
     "cadian holo",
     "vini holo",
-    "kscerato holo",
-    "sh1ro holo",
-    "apex holo",
     "jackz holo",
+    "sh1ro holo",
+    "kscerato holo",
+    "apex holo",
     "yekindar holo",
-    "rez holo",
-    "shox holo"
+    "yuurih holo",
+    "rez holo"
    ]
   }
  },
@@ -5305,16 +5305,16 @@
     "gambit gaming foil",
     "furia foil",
     "vitality foil",
-    "pgl foil",
     "ninjas in pyjamas foil",
+    "pgl foil",
     "evil geniuses foil"
    ],
    "extraordinary": [
     "g2 esports gold",
     "furia gold",
     "natus vincere gold",
-    "gambit gaming gold",
     "team liquid gold",
+    "gambit gaming gold",
     "vitality gold",
     "ninjas in pyjamas gold",
     "evil geniuses gold",
@@ -5324,12 +5324,12 @@
     "natus vincere",
     "gambit gaming",
     "g2 esports",
-    "team liquid",
     "furia",
-    "vitality",
+    "team liquid",
     "pgl",
     "ninjas in pyjamas",
-    "evil geniuses"
+    "evil geniuses",
+    "vitality"
    ],
    "remarkable": [
     "furia holo",
@@ -5378,14 +5378,14 @@
    "high grade": [
     "the ninja",
     "the baiter",
-    "the fragger",
     "the leader",
+    "the fragger",
     "the awper",
     "the bot",
     "the lurker",
     "support",
-    "the nader",
-    "the bomber"
+    "the bomber",
+    "the nader"
    ]
   }
  },
@@ -5407,8 +5407,8 @@
     "this is fine t",
     "wallbang",
     "hi my game is",
-    "get clucked",
     "little mischief",
+    "get clucked",
     "im lit",
     "run ct run",
     "rat pack"
@@ -5416,10 +5416,10 @@
    "remarkable": [
     "infinite diamond holo",
     "v for victory holo",
-    "flashblack holo",
     "phoenix balaclava co holo",
-    "t rush holo",
-    "sneaky beaky dept holo"
+    "flashblack holo",
+    "sneaky beaky dept holo",
+    "t rush holo"
    ]
   }
  },
@@ -5435,14 +5435,14 @@
    "high grade": [
     "heresy",
     "adepta sororitas",
+    "necron",
     "ork waaagh",
     "tyranids ravener",
     "space marine",
-    "necron",
     "full buy",
     "repulsor",
-    "primaris keychain",
-    "aeldari avatar"
+    "aeldari avatar",
+    "primaris keychain"
    ],
    "remarkable": [
     "heresy holo",

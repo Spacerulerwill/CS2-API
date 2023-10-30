@@ -3,6 +3,7 @@ package multiscraper
 import (
 	"fmt"
 	"gocasesapi/util"
+	"strconv"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -25,6 +26,16 @@ type callbackConstraint interface {
 		map[string]util.Pin | map[string]util.PinCapsule
 }
 
+// index of condition mapped to the bound of their condition ranges
+var (
+	skinWearLowerRanges = map[int]float32{
+		4: 0.45, 3: 0.38, 2: 0.15, 1: 0.07, 0: 0.00,
+	}
+	skinWearUpperRanges = map[int]float32{
+		4: 1.0, 3: 0.45, 2: 0.38, 1: 0.15, 0: 0.07,
+	}
+)
+
 func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 	formattedName := doc.Find(".result-box > h2:nth-child(1)").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
@@ -32,20 +43,24 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 	isDoppler := strings.Contains(formattedName, "Doppler")
 
 	var (
-		description, flavorText, minFloat, maxFloat, selectedRarity, weaponType string
-		stattrakAvailable, souvenirAvailable                                    bool
-		conditionImages, inspectUrls                                            [5]string
+		description, flavorText, minFloatString, maxFloatString, selectedRarity, weaponType string
+		minFloat, maxFloat                                                                  float32
+		stattrakAvailable, souvenirAvailable                                                bool
+		conditionImages, inspectUrls                                                        [5]string
+		worstConditionIndex, bestConditionIndex                                             int
 	)
 
 	if isVanillaKnife {
 		description = ""
 		flavorText = ""
-		minFloat = "0.00"
-		maxFloat = "1.00"
+		minFloatString = "0.00"
+		maxFloatString = "1.00"
 		selectedRarity = "covert"
 		weaponType = "knife"
 		stattrakAvailable = true
 		souvenirAvailable = false
+		worstConditionIndex = 4
+		bestConditionIndex = 0
 
 		image := doc.Find(".main-skin-img")
 		imageURL, exists := image.Attr("src")
@@ -64,10 +79,44 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 			inspectUrls[i] = inspectUrl
 		}
 	} else {
+
 		description = strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(2)").Text(), "Description: ")
 		flavorText = doc.Find(".skin-misc-details > p:nth-child(3) > em:nth-child(2) > a:nth-child(1)").Text()
-		minFloat = doc.Find("div.marker-wrapper:nth-child(1) > div:nth-child(1) > div:nth-child(1)").Text()
-		maxFloat = doc.Find("div.marker-wrapper:nth-child(2) > div:nth-child(1) > div:nth-child(1)").Text()
+		minFloatString = doc.Find("div.marker-wrapper:nth-child(1) > div:nth-child(1) > div:nth-child(1)").Text()
+		{
+			minFloat64, err := strconv.ParseFloat(minFloatString, 32)
+			if err != nil {
+				log.Err(err)
+			}
+			minFloat = float32(minFloat64)
+		}
+
+		maxFloatString = doc.Find("div.marker-wrapper:nth-child(2) > div:nth-child(1) > div:nth-child(1)").Text()
+		{
+			maxFloat64, err := strconv.ParseFloat(maxFloatString, 32)
+			if err != nil {
+				log.Err(err)
+			}
+			maxFloat = float32(maxFloat64)
+		}
+
+		// TODO: add check for possibility of failiure
+		// Determine best condition index
+		for conditionIndex, lowerBound := range skinWearLowerRanges {
+			if minFloat >= lowerBound {
+				bestConditionIndex = conditionIndex
+				break
+			}
+		}
+
+		// Determine
+		for conditionIndex, lowerBound := range skinWearLowerRanges {
+			if maxFloat > lowerBound {
+				worstConditionIndex = conditionIndex
+				break
+			}
+		}
+
 		skinTypeString := strings.TrimSpace(doc.Find("html body div.container.main-content div.row.text-center div.col-md-10 div.row div.col-md-7.col-widen div.well.result-box.nomargin a.nounderline div p.nomargin").Text())
 		stattrakAvailable = doc.Find("div.stattrak").Length() > 0
 		souvenirAvailable = doc.Find("div.souvenir").Length() > 0
@@ -104,17 +153,19 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 	}
 
 	skinData := util.Skin{
-		FormattedName:     formattedName,
-		Description:       description,
-		FlavorText:        flavorText,
-		MinFloat:          minFloat,
-		MaxFloat:          maxFloat,
-		WeaponType:        weaponType,
-		Rarity:            selectedRarity,
-		ConditionImages:   conditionImages,
-		InspectUrls:       inspectUrls,
-		StattrakAvailable: stattrakAvailable,
-		SouvenirAvailable: souvenirAvailable,
+		FormattedName:       formattedName,
+		Description:         description,
+		FlavorText:          flavorText,
+		MinFloat:            minFloatString,
+		MaxFloat:            maxFloatString,
+		WeaponType:          weaponType,
+		Rarity:              selectedRarity,
+		ConditionImages:     conditionImages,
+		WorstConditionIndex: worstConditionIndex,
+		BestConditionIndex:  bestConditionIndex,
+		InspectUrls:         inspectUrls,
+		StattrakAvailable:   stattrakAvailable,
+		SouvenirAvailable:   souvenirAvailable,
 	}
 
 	if isDoppler {

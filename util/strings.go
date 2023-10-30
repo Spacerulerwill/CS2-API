@@ -72,6 +72,14 @@ var CollectibleRarities = [NumCollectibleRarities]string{
 	"High Grade",
 }
 
+var SkinConditions = [5]string{
+	"Factory New",
+	"Minimal Wear",
+	"Field Tested",
+	"Well-Worn",
+	"Battle-Scarred",
+}
+
 func RemoveNameFormatting(str string) string {
 	str = strings.ToLower(str)
 	str = nonAlphanumericRegex.ReplaceAllString(str, "")

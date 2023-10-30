@@ -7,18 +7,20 @@ type SkinVariation struct {
 }
 
 type Skin struct {
-	FormattedName     string                   `json:"formattedName"`
-	Description       string                   `json:"description"`
-	FlavorText        string                   `json:"flavorText"`
-	MinFloat          string                   `json:"minFloat"`
-	MaxFloat          string                   `json:"maxFloat"`
-	WeaponType        string                   `json:"weaponType"`
-	Rarity            string                   `json:"rarity"`
-	ConditionImages   [5]string                `json:"conditionImages"`
-	InspectUrls       [5]string                `json:"inspectUrls"`
-	Variations        map[string]SkinVariation `json:"variations"`
-	StattrakAvailable bool                     `json:"stattrakAvailable"`
-	SouvenirAvailable bool                     `json:"souvenirAvailable"`
+	FormattedName       string                   `json:"formattedName"`
+	Description         string                   `json:"description"`
+	FlavorText          string                   `json:"flavorText"`
+	MinFloat            string                   `json:"minFloat"`
+	MaxFloat            string                   `json:"maxFloat"`
+	WeaponType          string                   `json:"weaponType"`
+	Rarity              string                   `json:"rarity"`
+	ConditionImages     [5]string                `json:"conditionImages"`
+	WorstConditionIndex int                      `json:"worstConditionIndex"`
+	BestConditionIndex  int                      `json:"bestConditionIndex"`
+	InspectUrls         [5]string                `json:"inspectUrls"`
+	Variations          map[string]SkinVariation `json:"variations"`
+	StattrakAvailable   bool                     `json:"stattrakAvailable"`
+	SouvenirAvailable   bool                     `json:"souvenirAvailable"`
 }
 
 type Case struct {

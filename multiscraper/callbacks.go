@@ -5,6 +5,7 @@ import (
 	"gocasesapi/util"
 	"strconv"
 	"strings"
+	"sync"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/rs/zerolog/log"
@@ -28,15 +29,13 @@ type callbackConstraint interface {
 
 // index of condition mapped to the bound of their condition ranges
 var (
-	skinWearLowerRanges = map[int]float32{
-		4: 0.45, 3: 0.38, 2: 0.15, 1: 0.07, 0: 0.00,
-	}
-	skinWearUpperRanges = map[int]float32{
-		4: 1.0, 3: 0.45, 2: 0.38, 1: 0.15, 0: 0.07,
+	skinWearLowerRanges = [5]float32{
+		0.45, 0.38, 0.15, 0.07, 0.00,
 	}
 )
 
-func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
+func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find(".result-box > h2:nth-child(1)").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	isVanillaKnife := strings.Contains(formattedName, "★ (Vanilla)")
@@ -55,6 +54,8 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 		flavorText = ""
 		minFloatString = "0.00"
 		maxFloatString = "1.00"
+		minFloat = 0.00
+		maxFloat = 1.00
 		selectedRarity = "covert"
 		weaponType = "knife"
 		stattrakAvailable = true
@@ -82,12 +83,14 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 
 		description = strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(2)").Text(), "Description: ")
 		flavorText = doc.Find(".skin-misc-details > p:nth-child(3) > em:nth-child(2) > a:nth-child(1)").Text()
+
 		minFloatString = doc.Find("div.marker-wrapper:nth-child(1) > div:nth-child(1) > div:nth-child(1)").Text()
 		{
 			minFloat64, err := strconv.ParseFloat(minFloatString, 32)
 			if err != nil {
 				log.Err(err)
 			}
+
 			minFloat = float32(minFloat64)
 		}
 
@@ -102,17 +105,18 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 
 		// TODO: add check for possibility of failiure
 		// Determine best condition index
-		for conditionIndex, lowerBound := range skinWearLowerRanges {
+		for i := 4; i >= 0; i++ {
+			lowerBound := skinWearLowerRanges[i]
 			if minFloat >= lowerBound {
-				bestConditionIndex = conditionIndex
+				bestConditionIndex = i
 				break
 			}
 		}
 
-		// Determine
-		for conditionIndex, lowerBound := range skinWearLowerRanges {
+		for i := 4; i <= 0; i++ {
+			lowerBound := skinWearLowerRanges[i]
 			if maxFloat > lowerBound {
-				worstConditionIndex = conditionIndex
+				worstConditionIndex = i
 				break
 			}
 		}
@@ -207,7 +211,8 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin) {
 	mtx.Unlock()
 }
 
-func ScrapeCase(doc *goquery.Document, result map[string]util.Case) {
+func ScrapeCase(doc *goquery.Document, result map[string]util.Case, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find("h1.margin-top-sm").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
@@ -276,7 +281,8 @@ func ScrapeCase(doc *goquery.Document, result map[string]util.Case) {
 	mtx.Unlock()
 }
 
-func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection) {
+func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find("div.inline-middle:nth-child(2) > h1:nth-child(1)").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
@@ -320,7 +326,8 @@ func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection) 
 	mtx.Unlock()
 }
 
-func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.SouvenirPackage) {
+func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.SouvenirPackage, wg *sync.WaitGroup) {
+	defer wg.Done()
 	boxes := doc.Find("div.well.result-box.nomargin")
 	boxes.Each(func(i int, box *goquery.Selection) {
 		formattedName := box.Find("h4").Text()
@@ -347,7 +354,8 @@ func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.Sou
 
 }
 
-func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker) {
+func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker, wg *sync.WaitGroup) {
+	defer wg.Done()
 	boxes := doc.Find("div.well.result-box.nomargin")
 	boxes.Each(func(i int, box *goquery.Selection) {
 		formattedName := box.Find("h3").Text()
@@ -387,7 +395,8 @@ func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker) {
 	})
 }
 
-func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin) {
+func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find(".result-box > h2:nth-child(1)").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	description := strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(2)").Text(), "Description: ")
@@ -422,7 +431,8 @@ func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin) {
 	mtx.Unlock()
 }
 
-func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerCapsule) {
+func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerCapsule, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find("h1.margin-top-sm").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
@@ -467,7 +477,8 @@ func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerC
 	mtx.Unlock()
 }
 
-func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti) {
+func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti, wg *sync.WaitGroup) {
+	defer wg.Done()
 	graffitiBoxes := doc.Find("div.well.result-box.nomargin")
 	graffitiBoxes.Each(func(i int, box *goquery.Selection) {
 		// formatted and unformatted name
@@ -523,7 +534,8 @@ func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti) 
 	})
 }
 
-func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graffiti) {
+func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graffiti, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName :=
 		strings.TrimSpace(
 			util.RemoveBracketsAndContentsRegex.ReplaceAllString(
@@ -566,7 +578,8 @@ func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graff
 	mtx.Unlock()
 }
 
-func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
+func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	artist := strings.TrimPrefix(doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(2)").Text(), "By ")
@@ -624,7 +637,8 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit) {
 	mtx.Unlock()
 }
 
-func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent) {
+func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text()
 	rarityText := doc.Find("div.quality").Text()
 	rarityFound := false
@@ -668,7 +682,8 @@ func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent) {
 	mtx.Unlock()
 }
 
-func ScrapePatch(doc *goquery.Document, result map[string]util.Patch) {
+func ScrapePatch(doc *goquery.Document, result map[string]util.Patch, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := strings.TrimPrefix(
 		doc.Find(".result-box > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text(),
 		"Patch | ",
@@ -710,7 +725,8 @@ func ScrapePatch(doc *goquery.Document, result map[string]util.Patch) {
 	mtx.Unlock()
 }
 
-func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack) {
+func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find(".margin-top-sm").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
@@ -753,7 +769,8 @@ func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack) {
 	mtx.Unlock()
 }
 
-func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin) {
+func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin, wg *sync.WaitGroup) {
+	defer wg.Done()
 	pinBoxes := doc.Find("div.well.result-box.nomargin")
 	pinBoxes.Each(func(i int, box *goquery.Selection) {
 		formattedName := box.Find("h3").Text()
@@ -802,7 +819,8 @@ func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin) {
 	})
 }
 
-func ScrapePinCapsule(doc *goquery.Document, result map[string]util.PinCapsule) {
+func ScrapePinCapsule(doc *goquery.Document, result map[string]util.PinCapsule, wg *sync.WaitGroup) {
+	defer wg.Done()
 	formattedName := doc.Find(".margin-top-sm").Text()
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find("img.content-header-img-margin")

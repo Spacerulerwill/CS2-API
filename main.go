@@ -145,6 +145,8 @@ func main() {
 	}
 	multiscraper.MultiScrape(pinCapsuleLinks, pinCapsuleData, 20, multiscraper.ScrapePinCapsule)
 
+	multiscraper.WaitForCompletion()
+
 	// Dump all data to files
 	util.WriteJsonToFile("skins.json", weaponSkinData)
 	util.WriteJsonToFile("cases.json", caseData)

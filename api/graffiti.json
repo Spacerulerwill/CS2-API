@@ -8369,6 +8369,14 @@
   "colorVariations": null,
   "graffitiBox": "csgo graffiti box"
  },
+ "winstrike team london 2018": {
+  "formattedName": "Winstrike Team | London 2018",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHEp9KxdosaikLQFpx_r3fTxQ69n4ldncwfShaumAxjtQ68dz3LDD94mk3ge380s9Nj2iJISTcAU3ZAnW_k_-n7kORSaLyQ/256fx256f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1971902600498097032A14786655297D11981337825242705158",
+  "colorVariations": null,
+  "graffitiBox": ""
+ },
  "worry": {
   "formattedName": "Worry",
   "rarity": "base grade",
@@ -8623,13 +8631,5 @@
    }
   },
   "graffitiBox": ""
- },
- "zombie hop": {
-  "formattedName": "Zombie Hop",
-  "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRUQEDFSu2j1tvWbF51NRdCur_qMQht0frNTjNN6M6_hJO0m_bmNL6fkjNXucQmie-Q99v2jAHl-RY_Zmmld4LGegA8YVjQr1e8w-u-h5bt6IOJlyXxlP0tqw/256fx256f",
-  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M2890608476369464022A12349168861D7242985868647892288",
-  "colorVariations": null,
-  "graffitiBox": "perfect world graffiti box"
  }
 }

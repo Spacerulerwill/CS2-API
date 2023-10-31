@@ -44,9 +44,9 @@
    "consumer grade": [
     "ppbizon facility sketch",
     "fiveseven coolant",
-    "ump45 facility dark",
     "p250 facility draft",
-    "nova mandrel"
+    "nova mandrel",
+    "ump45 facility dark"
    ],
    "industrial grade": [
     "galil ar cold fusion",
@@ -76,19 +76,19 @@
     "ssg 08 death strike"
    ],
    "consumer grade": [
+    "mp7 prey",
     "sg 553 bleached",
-    "r8 revolver desert brush",
     "p90 desert ddpat",
-    "sawedoff parched",
-    "mp7 prey"
+    "r8 revolver desert brush",
+    "sawedoff parched"
    ],
    "covert": [
     "ak47 gold arabesque"
    ],
    "industrial grade": [
     "aug spalted wood",
-    "fiveseven withered vine",
     "mp9 old roots",
+    "fiveseven withered vine",
     "m249 midnight palm"
    ],
    "mil-spec": [
@@ -123,10 +123,10 @@
     "awp desert hydra"
    ],
    "industrial grade": [
-    "cz75auto midnight palm",
     "famas calicamo",
     "p90 verdant growth",
-    "dual berettas drift wood"
+    "dual berettas drift wood",
+    "cz75auto midnight palm"
    ],
    "mil-spec": [
     "usps purple ddpat",
@@ -159,14 +159,14 @@
     "m4a1s fizzy pop",
     "aug amber fade",
     "desert eagle sputnik",
+    "tec9 safety net",
     "ump45 full stop",
-    "ssg 08 spring twilly",
-    "tec9 safety net"
+    "ssg 08 spring twilly"
    ],
    "restricted": [
     "nova red quartz",
-    "cz75auto syndicate",
     "mp5sd autumn twilly",
+    "cz75auto syndicate",
     "awp pop awp",
     "p2000 space race"
    ]
@@ -260,8 +260,8 @@
    "industrial grade": [
     "cz75auto silver",
     "p2000 panther camo",
-    "mp7 tall grass",
-    "g3sg1 ancient ritual"
+    "g3sg1 ancient ritual",
+    "mp7 tall grass"
    ],
    "mil-spec": [
     "aug carved jade",
@@ -335,8 +335,8 @@
    "consumer grade": [
     "r8 revolver bone mask",
     "tec9 urban ddpat",
-    "sawedoff forest ddpat",
     "mp7 forest ddpat",
+    "sawedoff forest ddpat",
     "sg 553 army sheen",
     "negev army sheen"
    ],
@@ -400,8 +400,8 @@
    ],
    "consumer grade": [
     "r8 revolver canal spray",
-    "negev boroque sand",
     "cz75auto indigo",
+    "negev boroque sand",
     "aug navy murano",
     "scar20 stone mosaico"
    ],
@@ -449,8 +449,8 @@
    "mil-spec": [
     "p250 whiteout",
     "mac10 fade",
-    "cz75auto emerald",
     "fiveseven nitro",
+    "cz75auto emerald",
     "mp7 full stop"
    ],
    "restricted": [
@@ -600,8 +600,8 @@
    ],
    "industrial grade": [
     "awp sun in leo",
-    "tec9 hades",
     "p2000 pathfinder",
+    "tec9 hades",
     "m249 shipping forecast"
    ],
    "mil-spec": [
@@ -634,9 +634,9 @@
    ],
    "industrial grade": [
     "nova rust coat",
-    "r8 revolver phoenix marker",
     "mp7 vault heist",
-    "ump45 houndstooth"
+    "ump45 houndstooth",
+    "r8 revolver phoenix marker"
    ],
    "mil-spec": [
     "p250 bengal tiger",
@@ -770,8 +770,8 @@
     "glock18 groundwater",
     "ssg 08 tropical storm",
     "mp7 orange peel",
-    "sg 553 gator mesh",
-    "negev calicamo"
+    "negev calicamo",
+    "sg 553 gator mesh"
    ],
    "mil-spec": [
     "mp9 hot rod",
@@ -850,8 +850,8 @@
     "famas contrast spray"
    ],
    "industrial grade": [
-    "m249 blizzard marbleized",
     "galil ar winter forest",
+    "m249 blizzard marbleized",
     "g3sg1 arctic camo"
    ],
    "mil-spec": [
@@ -871,8 +871,8 @@
     "mp9 storm",
     "mag7 storm",
     "ump45 scorched",
-    "m249 contrast spray",
-    "sawedoff sage spray"
+    "sawedoff sage spray",
+    "m249 contrast spray"
    ],
    "industrial grade": [
     "glock18 night",
@@ -963,10 +963,10 @@
    ],
    "consumer grade": [
     "m249 jungle",
-    "mac10 surfwood",
+    "sawedoff jungle thicket",
     "mp5sd bamboo garden",
     "ppbizon seabird",
-    "sawedoff jungle thicket"
+    "mac10 surfwood"
    ],
    "covert": [
     "ak47 wild lotus"
@@ -974,8 +974,8 @@
    "industrial grade": [
     "tec9 rust leaf",
     "p90 sunset lily",
-    "xm1014 banana leaf",
-    "m4a4 dark blossom"
+    "m4a4 dark blossom",
+    "xm1014 banana leaf"
    ],
    "mil-spec": [
     "ump45 day lily",

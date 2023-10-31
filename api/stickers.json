@@ -3467,6 +3467,12 @@
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M556583634914887504A7711064084D2901109150177662179",
   "rarity": "exotic"
  },
+ "bondik gold boston 2018": {
+  "formattedName": "bondik (Gold) | Boston 2018",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59IjtVubShIgxf1PzEdQJO7c6xkc6PxaaiYOvUzjtVv5Ak37CQptysi1G2-kJlZGmmI4KVI1c7YVvS_lDs366x0rX5bLVN/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1835645886674267341A13061599248D11836250408147606725",
+  "rarity": "extraordinary"
+ },
  "bondik gold london 2018": {
   "formattedName": "bondik (Gold) | London 2018",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRRQ0LUSOr_h56LHE59IjtVubShIgxf1PzEdQJO7c6xkc7axq6hZOyDlzxS7JYojLiZ89il2AXg_UQ4a2yicIaWJ1I5YQqF-lm3366x0gmURThp/260fx260f",
@@ -7138,6 +7144,12 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59IjtTv7ekOA5j2MzPfjFG09C3hoeO2aTwYb6Gz29VuJZz2r6T8dum3Fft_URkMm70cYfHcgU9Y1CB-Vi4w7zxxcjre21N4C0/260fx260f",
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1837897686486719433A13061392045D3233843802730656357",
   "rarity": "extraordinary"
+ },
+ "dinked": {
+  "formattedName": "Dinked",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9aDARJwLApcs76aJwZy1PaGKWwXtYTgkdLdxaOgNeODz24E7cZ127zH99nx3gLm80Y4a2n7JIGUJxh-Pw9XIUBfYw/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M555457735001391503A2350411760D4939544368101946473",
+  "rarity": "high grade"
  },
  "dirty money": {
   "formattedName": "Dirty Money",
@@ -14393,6 +14405,12 @@
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1653234967864209731A10931131065D6953561126285835917",
   "rarity": "remarkable"
  },
+ "hen1 gold boston 2018": {
+  "formattedName": "HEN1 (Gold) | Boston 2018",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59Ijtfs7T0FABv3_f3fTxQ69n4kdSPxKP3ar-Iwj1VucMoi-rE9I-nilfmrhJvNmjycdDDIQBqYVrY-U_-n7k_YtwP0g/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1836771786596811022A13061215839D7378102391785199265",
+  "rarity": "extraordinary"
+ },
  "hen1 gold krakow 2017": {
   "formattedName": "HEN1 (Gold) | Krakow 2017",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRWXk3bSPP_h56EHE59Ijtfs7T0FABv3_f3fTxQ69n4xoOJx6Glau7VkzMG7MNw3bGXrNTxilDnqBFsYD-id46Teg8_Y1rQrk_-n7lO3eLJHQ/260fx260f",
@@ -16761,12 +16779,6 @@
   "formattedName": "juanflatroo (Glitter) | Paris 2023",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGg5Ct7SjJwZ0wfzHTjpO5ciikZK0m_bmNL6fwm1SuJ0oj7uYp4ml3Q2y-hJvNmqhJoORdwE8Y17W-Ve9k-ftgJXuu4OJlyVDvuGH1g/260fx260f",
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4331943541794237646A30106820318D14295799506763225807",
-  "rarity": "remarkable"
- },
- "juanflatroo glitter rio 2022": {
-  "formattedName": "juanflatroo (Glitter) | Rio 2022",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJ-MAVZsLakPxVv3MzPfTRW-Nmkq4yKhfDxfe3XwWkCsZN3jLjDrI6gi1bgqBE-Mm31ItPDIQQ_NViE-gS4kLi8gJGi_MOeCZWs4-g/260fx260f",
-  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3953623418416124553A27481038704D5073317670090775203",
   "rarity": "remarkable"
  },
  "juanflatroo gold antwerp 2022": {
@@ -20705,6 +20717,12 @@
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3842153621167264148A26837956617D5657087942906449993",
   "rarity": "high grade"
  },
+ "monte glitter paris 2023": {
+  "formattedName": "Monte (Glitter) | Paris 2023",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycXlJ6MTtQurOxPwJy7P_JYzpHoo3vkoKJw_Xwa7mFlD1S7ccii--TrImtjQPnrhVuYG3wctTAcgJsNAvOug_p_QvgVT0/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4333069441704409203A30124896974D2624627860290655781",
+  "rarity": "remarkable"
+ },
  "monte gold paris 2023": {
   "formattedName": "Monte (Gold) | Paris 2023",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycXlJ6MTtQubahFAthwfTNPztEtI3iwYXbwvbyZbqBzzhS65MpjLCY9tWgjVDk_RJrYGymJtWQcFQgIQaHwQkOv0o/260fx260f",
@@ -22920,9 +22938,9 @@
   "rarity": "extraordinary"
  },
  "niko gold paris 2023": {
-  "formattedName": "NiKo (Gold) | Paris 2023",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGgpevbWaLAhs18zEcC9F6ZLilYSIw6OtYOnUkD9Q7pAoiLDDrNv32wOyqEpta2_6I4HBdQNvNV6E5BHglgrCz8tR/260fx260f",
-  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4319558642824310616A30116375305D3344003315648519371",
+  "formattedName": "niko (Gold)  | Paris 2023",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGgpevbWhIDhn3P_MTjFD_tuz2tHclPOjN-uJzzkGvpAp2-qWodul2FW2-xA6MWqgcoeVJgA7aA3Y-wSggbC44Vcv-1w/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4325188142355217982A30107033441D9288794278989779587",
   "rarity": "extraordinary"
  },
  "niko gold stockholm 2021": {
@@ -28697,6 +28715,12 @@
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1843527186022153888A13061616607D1046701271942534733",
   "rarity": "remarkable"
  },
+ "sixer gold boston 2018": {
+  "formattedName": "SIXER (Gold) | Boston 2018",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRfQ1_ESOr_h56LHE59IjtEv6KgOThn3P_MTjFD_tuz2tLZk6P1a-nUwTtT6sYi3rCY9Nmt3QTk-UFpMD3wcYXGJAY4MF2G-weggbC4WitsJDE/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1842401286114317127A13061685237D11883558682005591073",
+  "rarity": "extraordinary"
+ },
  "sjuush antwerp 2022": {
   "formattedName": "sjuush | Antwerp 2022",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQljHQva9hZ-BARJnLANopbCwPhRo7P_JYzpHot_nwoOOlKTwZu_SwW8BuZ0hiLDEp92tjAfk-0A5Zmv2cYOQI1Q7Z1nOug_p5UPDxh4/260fx260f",
@@ -28713,6 +28737,12 @@
   "formattedName": "sjuush (Glitter) | Paris 2023",
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRNTV7ZVLb9hZycQFRzGhddo6-2Izhn3_rcZThQ09C3hoeO2fX1ZO7XlzMHuMEp0u-Wp9Tzi1Xt-UJrYDqlJIacIVA9YV2Gr1Xoyejxxcjr81D6V_8/260fx260f",
   "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4322936342540316540A30106668303D5666214060122823823",
+  "rarity": "remarkable"
+ },
+ "sjuush glitter rio 2022": {
+  "formattedName": "sjuush (Glitter) | Rio 2022",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRPRUOCF7b_mNzaVGJnLxFCpbKaLAtpx-fNYwJO7c6xkc6OwKP2Mu2AlD4GsZMi2uzC99us3lfh_RZlZmyiIYbGe1RqNVrZ-AC_366x0kLDEVsa/260fx260f",
+  "inspectUrl": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3945742119062227319A27481322374D2508016263657927755",
   "rarity": "remarkable"
  },
  "sjuush gold antwerp 2022": {

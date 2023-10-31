@@ -77,8 +77,8 @@
    ],
    "consumer grade": [
     "mp7 prey",
-    "sg 553 bleached",
     "p90 desert ddpat",
+    "sg 553 bleached",
     "r8 revolver desert brush",
     "sawedoff parched"
    ],
@@ -125,8 +125,8 @@
    "industrial grade": [
     "famas calicamo",
     "p90 verdant growth",
-    "dual berettas drift wood",
-    "cz75auto midnight palm"
+    "cz75auto midnight palm",
+    "dual berettas drift wood"
    ],
    "mil-spec": [
     "usps purple ddpat",
@@ -518,8 +518,8 @@
    ],
    "mil-spec": [
     "p2000 dispatch",
-    "m4a4 global offensive",
     "scar20 magna carta",
+    "m4a4 global offensive",
     "ssg 08 threat detected"
    ],
    "restricted": [
@@ -964,9 +964,9 @@
    "consumer grade": [
     "m249 jungle",
     "sawedoff jungle thicket",
-    "mp5sd bamboo garden",
     "ppbizon seabird",
-    "mac10 surfwood"
+    "mac10 surfwood",
+    "mp5sd bamboo garden"
    ],
    "covert": [
     "ak47 wild lotus"

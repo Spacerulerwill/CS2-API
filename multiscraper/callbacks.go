@@ -105,18 +105,18 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 
 		// TODO: add check for possibility of failiure
 		// Determine best condition index
-		for i := 4; i >= 0; i++ {
+		for i := 0; i < 5; i++ {
 			lowerBound := skinWearLowerRanges[i]
 			if minFloat >= lowerBound {
-				bestConditionIndex = i
+				bestConditionIndex = 4 - i
 				break
 			}
 		}
 
-		for i := 4; i <= 0; i++ {
+		for i := 0; i < 5; i++ {
 			lowerBound := skinWearLowerRanges[i]
 			if maxFloat > lowerBound {
-				worstConditionIndex = i
+				worstConditionIndex = 4 - i
 				break
 			}
 		}

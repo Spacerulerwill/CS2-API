@@ -12,12 +12,8 @@ func main() {
 	if err != nil {
 		log.Error.Fatalln("Cannot create directory \"output\" as output already exists but is not a directory!")
 	}
-	err = os.MkdirAll("output/cs2", os.ModePerm)
-	if err != nil {
-		log.Error.Fatalln(err)
-	}
 
-	err = os.MkdirAll("output/rust", os.ModePerm)
+	err = os.MkdirAll("output/cs2", os.ModePerm)
 	if err != nil {
 		log.Error.Fatalln(err)
 	}

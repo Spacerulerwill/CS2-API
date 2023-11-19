@@ -4,10 +4,24 @@ import (
 	"gocasesapi/log"
 	"gocasesapi/multiscraper"
 	"gocasesapi/util"
+	"os"
 )
 
-// Checks if there is any new data to scrape
 func main() {
+	err := os.MkdirAll("output", os.ModePerm)
+	if err != nil {
+		log.Error.Fatalln("Cannot create directory \"output\" as output already exists but is not a directory!")
+	}
+	err = os.MkdirAll("output/cs2", os.ModePerm)
+	if err != nil {
+		log.Error.Fatalln(err)
+	}
+
+	err = os.MkdirAll("output/rust", os.ModePerm)
+	if err != nil {
+		log.Error.Fatalln(err)
+	}
+
 	weaponSkinData := make(map[string]util.Skin)
 	caseData := make(map[string]util.Case)
 	collectionData := make(map[string]util.Collection)
@@ -24,7 +38,7 @@ func main() {
 
 	// Scrape weapon skins
 	log.Info.Println("Scraping weapons skins and knives...")
-	weaponSkinLinks, err := util.ReadLines("links/skins.txt")
+	weaponSkinLinks, err := util.ReadLines("links/cs2/skins.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -32,7 +46,7 @@ func main() {
 
 	// Scrape gloves
 	log.Info.Println("Scraping gloves...")
-	gloveLinks, err := util.ReadLines("links/gloves.txt")
+	gloveLinks, err := util.ReadLines("links/cs2/gloves.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -40,7 +54,7 @@ func main() {
 
 	// Scrape cases
 	log.Info.Println("Scraping cases...")
-	caseLinks, err := util.ReadLines("links/cases.txt")
+	caseLinks, err := util.ReadLines("links/cs2/cases.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -48,14 +62,14 @@ func main() {
 
 	// Scrape collections
 	log.Info.Println("Scraping collections...")
-	collectionLinks, err := util.ReadLines("links/collections.txt")
+	collectionLinks, err := util.ReadLines("links/cs2/collections.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
 	multiscraper.MultiScrape(collectionLinks, collectionData, 20, multiscraper.ScrapeCollection)
 
 	log.Info.Println("Scraping souvenir packages...")
-	souvenirPackageLinks, err := util.ReadLines("links/souvenir_packages.txt")
+	souvenirPackageLinks, err := util.ReadLines("links/cs2/souvenir_packages.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -63,7 +77,7 @@ func main() {
 
 	// Scrape stickers
 	log.Info.Println("Scraping stickers...")
-	stickerLinks, err := util.ReadLines("links/stickers.txt")
+	stickerLinks, err := util.ReadLines("links/cs2/stickers.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -71,7 +85,7 @@ func main() {
 
 	// Scrape sticker capsules
 	log.Info.Println("Scraping sticker capsules...")
-	stickerCapsuleLinks, err := util.ReadLines("links/capsules.txt")
+	stickerCapsuleLinks, err := util.ReadLines("links/cs2/capsules.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -79,7 +93,7 @@ func main() {
 
 	// Scrape single graffitis
 	log.Info.Println("Scraping single grafittis...")
-	graffitiPageLinks, err := util.ReadLines("links/graffiti.txt")
+	graffitiPageLinks, err := util.ReadLines("links/cs2/graffiti.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -87,7 +101,7 @@ func main() {
 
 	// Scrape base grade graffiti
 	log.Info.Println("Scraping base grade graffitis...")
-	baseGradeGraffitiLinks, err := util.ReadLines("links/base_grade_graffiti.txt")
+	baseGradeGraffitiLinks, err := util.ReadLines("links/cs2/base_grade_graffiti.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -95,7 +109,7 @@ func main() {
 
 	// Scrape music kits
 	log.Info.Println("Scraping music kits...")
-	musicKitLinks, err := util.ReadLines("links/music_kits.txt")
+	musicKitLinks, err := util.ReadLines("links/cs2/music_kits.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -103,7 +117,7 @@ func main() {
 
 	// Scrape agents
 	log.Info.Println("Scraping agents...")
-	agentLinks, err := util.ReadLines("links/agents.txt")
+	agentLinks, err := util.ReadLines("links/cs2/agents.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -111,7 +125,7 @@ func main() {
 
 	// Scrape patches
 	log.Info.Println("Scraping agent patches...")
-	agentPatchesLinks, err := util.ReadLines("links/patches.txt")
+	agentPatchesLinks, err := util.ReadLines("links/cs2/patches.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -119,7 +133,7 @@ func main() {
 
 	// Scrape patch packs
 	log.Info.Println("Scraping patch packs...")
-	patchPackLinks, err := util.ReadLines("links/patch_packs.txt")
+	patchPackLinks, err := util.ReadLines("links/cs2/patch_packs.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -127,7 +141,7 @@ func main() {
 
 	// Scrape pin pages
 	log.Info.Println("Scraping pins...")
-	pinPageLinks, err := util.ReadLines("links/pins.txt")
+	pinPageLinks, err := util.ReadLines("links/cs2/pins.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
@@ -135,24 +149,25 @@ func main() {
 
 	// Scrape pin capsules
 	log.Info.Println("Scraping pin capsules...")
-	pinCapsuleLinks, err := util.ReadLines("links/pin_capsules.txt")
+	pinCapsuleLinks, err := util.ReadLines("links/cs2/pin_capsules.txt")
 	if err != nil {
 		log.Error.Println(err)
 	}
 	multiscraper.MultiScrape(pinCapsuleLinks, pinCapsuleData, 20, multiscraper.ScrapePinCapsule)
 	multiscraper.WaitForCompletion()
+
 	// Dump all data to files
-	util.WriteJsonToFile("skins.json", weaponSkinData)
-	util.WriteJsonToFile("cases.json", caseData)
-	util.WriteJsonToFile("collections.json", collectionData)
-	util.WriteJsonToFile("souvenir_packages.json", souvenirPackageData)
-	util.WriteJsonToFile("stickers.json", stickerData)
-	util.WriteJsonToFile("sticker_capsules.json", stickerCapsuleData)
-	util.WriteJsonToFile("graffiti.json", graffitiData)
-	util.WriteJsonToFile("music_kits.json", musicKitData)
-	util.WriteJsonToFile("agents.json", agentData)
-	util.WriteJsonToFile("patches.json", patchData)
-	util.WriteJsonToFile("patch_packs.json", patchPackData)
-	util.WriteJsonToFile("pins.json", pinData)
-	util.WriteJsonToFile("pin_capsules.json", pinCapsuleData)
+	util.WriteJsonToFile("output/cs2/skins.json", weaponSkinData)
+	util.WriteJsonToFile("output/cs2/cases.json", caseData)
+	util.WriteJsonToFile("output/cs2/collections.json", collectionData)
+	util.WriteJsonToFile("output/cs2/souvenir_packages.json", souvenirPackageData)
+	util.WriteJsonToFile("output/cs2/stickers.json", stickerData)
+	util.WriteJsonToFile("output/cs2/sticker_capsules.json", stickerCapsuleData)
+	util.WriteJsonToFile("output/cs2/graffiti.json", graffitiData)
+	util.WriteJsonToFile("output/cs2/music_kits.json", musicKitData)
+	util.WriteJsonToFile("output/cs2/agents.json", agentData)
+	util.WriteJsonToFile("output/cs2/patches.json", patchData)
+	util.WriteJsonToFile("output/cs2/patch_packs.json", patchPackData)
+	util.WriteJsonToFile("output/cs2/pins.json", pinData)
+	util.WriteJsonToFile("output/cs2/pin_capsules.json", pinCapsuleData)
 }

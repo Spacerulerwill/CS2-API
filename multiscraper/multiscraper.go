@@ -6,8 +6,9 @@ import (
 	"sync"
 	"time"
 
+	"gocasesapi/log"
+
 	"github.com/PuerkitoBio/goquery"
-	"github.com/rs/zerolog/log"
 )
 
 var (
@@ -62,7 +63,7 @@ func Http2Request(webUrl string) *http.Response {
 
 	// If url could not be opened, we inform the channel chFailedUrls:
 	if err != nil || res.StatusCode != 200 {
-		log.Error().Msg(fmt.Sprintf("%s: Failed to HTTP request %s: %d", err.Error(), webUrl, res.StatusCode))
+		log.Error.Println(fmt.Sprintf("%s: Failed to HTTP request %s: %d", err.Error(), webUrl, res.StatusCode))
 	}
 	return res
 }
@@ -94,7 +95,7 @@ func continuallyScrapePages[T callbackConstraint](responses *[]*http.Response, r
 				if response.StatusCode == 200 {
 					doc, err := goquery.NewDocumentFromReader(response.Body)
 					if err != nil {
-						log.Err(err)
+						log.Error.Println(err)
 					}
 					go callback(doc, result, &scrapeWg)
 				}

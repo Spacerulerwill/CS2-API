@@ -3,24 +3,23 @@ package util
 import (
 	"bufio"
 	"encoding/json"
+	"gocasesapi/log"
 	"os"
-
-	"github.com/rs/zerolog/log"
 )
 
 func WriteJsonToFile(filename string, data interface{}) {
 	jsonData, err := json.MarshalIndent(data, "", " ")
 	if err != nil {
-		log.Err(err)
+		log.Error.Println(err)
 	}
 
 	file, err := os.Create(filename)
 	if err != nil {
-		log.Err(err)
+		log.Error.Println(err)
 	}
 	_, err = file.Write(jsonData)
 	if err != nil {
-		log.Err(err)
+		log.Error.Println(err)
 	}
 }
 

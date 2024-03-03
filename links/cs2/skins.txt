@@ -32,6 +32,7 @@ https://csgostash.com/skin/602/Dual-Berettas-Moon-in-Libra
 https://csgostash.com/skin/428/Dual-Berettas-Briar
 https://csgostash.com/skin/196/Dual-Berettas-Contractor
 https://csgostash.com/skin/213/Dual-Berettas-Colony
+https://csgostash.com/skin/1575/Dual-Berettas-Hideout
 https://csgostash.com/skin/1468/Desert-Eagle-Ocean-Drive
 https://csgostash.com/skin/1284/Desert-Eagle-Printstream
 https://csgostash.com/skin/947/Desert-Eagle-Code-Red
@@ -212,6 +213,7 @@ https://csgostash.com/skin/413/MP7-Olive-Plaid
 https://csgostash.com/skin/364/MP7-Forest-DDPAT
 https://csgostash.com/skin/206/MP7-Army-Recon
 https://csgostash.com/skin/94/MP7-Groundwater
+https://csgostash.com/skin/1580/MP7-Just-Smile
 https://csgostash.com/skin/1546/UMP-45-Wild-Child
 https://csgostash.com/skin/1049/UMP-45-Momentum
 https://csgostash.com/skin/750/UMP-45-Primal-Saber
@@ -248,6 +250,7 @@ https://csgostash.com/skin/424/UMP-45-Indigo
 https://csgostash.com/skin/444/UMP-45-Scorched
 https://csgostash.com/skin/211/UMP-45-Urban-DDPAT
 https://csgostash.com/skin/7/UMP-45-Caramel
+https://csgostash.com/skin/1573/UMP-45-Motorized
 https://csgostash.com/skin/1265/MAG-7-Justice
 https://csgostash.com/skin/1162/MAG-7-Cinquedea
 https://csgostash.com/skin/1460/MAG-7-BI83-Spectrum
@@ -315,6 +318,7 @@ https://csgostash.com/skin/183/Five-SeveN-Contractor
 https://csgostash.com/skin/217/Five-SeveN-Forest-Night
 https://csgostash.com/skin/99/Five-SeveN-Anodized-Gunmetal
 https://csgostash.com/skin/57/Five-SeveN-Jungle
+https://csgostash.com/skin/1582/Five-SeveN-Hybrid
 https://csgostash.com/skin/250/Sawed-Off-The-Kraken
 https://csgostash.com/skin/1531/Sawed-Off-Kiss%E2%99%A5Love
 https://csgostash.com/skin/944/Sawed-Off-Devourer
@@ -346,6 +350,7 @@ https://csgostash.com/skin/615/Sawed-Off-Bamboo-Shadow
 https://csgostash.com/skin/443/Sawed-Off-Sage-Spray
 https://csgostash.com/skin/367/Sawed-Off-Forest-DDPAT
 https://csgostash.com/skin/30/Sawed-Off-Irradiated-Alert
+https://csgostash.com/skin/1581/Sawed-Off-Analog-Input
 https://csgostash.com/skin/406/P90-Asiimov
 https://csgostash.com/skin/70/P90-Death-by-Kitty
 https://csgostash.com/skin/1111/P90-Nostalgia
@@ -428,6 +433,7 @@ https://csgostash.com/skin/440/Glock-18-Night
 https://csgostash.com/skin/362/Glock-18-Death-Rattle
 https://csgostash.com/skin/192/Glock-18-Groundwater
 https://csgostash.com/skin/108/Glock-18-Sand-Dune
+https://csgostash.com/skin/1578/Glock-18-Block-18
 https://csgostash.com/skin/1532/USP-S-Printstream
 https://csgostash.com/skin/1376/USP-S-The-Traitor
 https://csgostash.com/skin/849/USP-S-Neo-Noir
@@ -463,6 +469,7 @@ https://csgostash.com/skin/1170/USP-S-Pathfinder
 https://csgostash.com/skin/590/USP-S-Para-Green
 https://csgostash.com/skin/427/USP-S-Royal-Blue
 https://csgostash.com/skin/207/USP-S-Forest-Leaves
+https://csgostash.com/skin/1585/USP-S-Jawbreaker
 https://csgostash.com/skin/1194/Tec-9-Decimator
 https://csgostash.com/skin/813/Tec-9-Fuel-Injector
 https://csgostash.com/skin/1016/Tec-9-Remote-Control
@@ -501,6 +508,7 @@ https://csgostash.com/skin/369/Tec-9-Urban-DDPAT
 https://csgostash.com/skin/204/Tec-9-Army-Mesh
 https://csgostash.com/skin/152/Tec-9-Groundwater
 https://csgostash.com/skin/105/Tec-9-Tornado
+https://csgostash.com/skin/1571/Tec-9-Slag
 https://csgostash.com/skin/1198/MAC-10-Stalker
 https://csgostash.com/skin/553/MAC-10-Neon-Rider
 https://csgostash.com/skin/1465/MAC-10-Toybox
@@ -546,6 +554,7 @@ https://csgostash.com/skin/1129/MAC-10-Surfwood
 https://csgostash.com/skin/425/MAC-10-Indigo
 https://csgostash.com/skin/38/MAC-10-Tornado
 https://csgostash.com/skin/51/MAC-10-Urban-DDPAT
+https://csgostash.com/skin/1577/MAC-10-Light-Box
 https://csgostash.com/skin/1051/MP5-SD-Phosphor
 https://csgostash.com/skin/1414/MP5-SD-Oxide-Oasis
 https://csgostash.com/skin/1280/MP5-SD-Kitbash
@@ -649,6 +658,7 @@ https://csgostash.com/skin/149/Nova-Predator
 https://csgostash.com/skin/221/Nova-Polar-Mesh
 https://csgostash.com/skin/43/Nova-Walnut
 https://csgostash.com/skin/59/Nova-Forest-Leaves
+https://csgostash.com/skin/1576/Nova-Dark-Sigil
 https://csgostash.com/skin/1516/MP9-Starlight-Protector
 https://csgostash.com/skin/1373/MP9-Food-Chain
 https://csgostash.com/skin/1110/MP9-Hydra
@@ -755,6 +765,7 @@ https://csgostash.com/skin/1151/AK-47-Baroque-Purple
 https://csgostash.com/skin/140/AK-47-Safari-Mesh
 https://csgostash.com/skin/60/AK-47-Jungle-Spray
 https://csgostash.com/skin/61/AK-47-Predator
+https://csgostash.com/skin/1587/AK-47-Inheritance
 https://csgostash.com/skin/512/Galil-AR-Chatterbox
 https://csgostash.com/skin/1375/Galil-AR-Chromatic-Aberration
 https://csgostash.com/skin/893/Galil-AR-Sugar-Rush
@@ -860,6 +871,7 @@ https://csgostash.com/skin/1012/AWP-Acheron
 https://csgostash.com/skin/69/AWP-Snake-Camo
 https://csgostash.com/skin/606/AWP-Sun-in-Leo
 https://csgostash.com/skin/171/AWP-Safari-Mesh
+https://csgostash.com/skin/1586/AWP-Chrome-Cannon
 https://csgostash.com/skin/275/AUG-Chameleon
 https://csgostash.com/skin/629/AUG-Akihabara-Accept
 https://csgostash.com/skin/1112/AUG-Death-by-Puppy
@@ -1056,6 +1068,7 @@ https://csgostash.com/skin/225/M4A4-Urban-DDPAT
 https://csgostash.com/skin/44/M4A4-Tornado
 https://csgostash.com/skin/64/M4A4-Desert-Storm
 https://csgostash.com/skin/55/M4A4-Jungle-Tiger
+https://csgostash.com/skin/1579/M4A4-Etch-Lord
 https://csgostash.com/skin/1525/M249-Downtown
 https://csgostash.com/skin/1105/M249-Aztec
 https://csgostash.com/skin/841/M249-Emerald-Poison-Dart
@@ -1111,6 +1124,7 @@ https://csgostash.com/skin/169/XM1014-Blue-Spruce
 https://csgostash.com/skin/98/XM1014-Jungle
 https://csgostash.com/skin/40/XM1014-Grassland
 https://csgostash.com/skin/54/XM1014-Urban-Perforated
+https://csgostash.com/skin/1572/XM1014-Irezumi
 https://csgostash.com/skin/831/SSG-08-Dragonfire
 https://csgostash.com/skin/124/SSG-08-Blood-in-the-Water
 https://csgostash.com/skin/1467/SSG-08-Turbo-Peek
@@ -1143,6 +1157,7 @@ https://csgostash.com/skin/1167/SSG-08-Red-Stone
 https://csgostash.com/skin/416/SSG-08-Sand-Dune
 https://csgostash.com/skin/199/SSG-08-Blue-Spruce
 https://csgostash.com/skin/56/SSG-08-Lichen-Dashed
+https://csgostash.com/skin/1574/SSG-08-Dezastre
 https://csgostash.com/skin/302/Bayonet-Vanilla
 https://csgostash.com/skin/779/Bayonet-Gamma-Doppler
 https://csgostash.com/skin/769/Bayonet-Lore
@@ -1252,6 +1267,7 @@ https://csgostash.com/skin/150/M4A1-S-VariCamo
 https://csgostash.com/skin/1557/M4A1-S-Mud-Spec
 https://csgostash.com/skin/1169/M4A1-S-Moss-Quartz
 https://csgostash.com/skin/155/M4A1-S-Boreal-Forest
+https://csgostash.com/skin/1583/M4A1-S-Black-Lotus
 https://csgostash.com/skin/289/Flip-Knife-Vanilla
 https://csgostash.com/skin/780/Flip-Knife-Gamma-Doppler
 https://csgostash.com/skin/770/Flip-Knife-Lore
@@ -1530,3 +1546,17 @@ https://csgostash.com/skin/1218/Skeleton-Knife-Forest-DDPAT
 https://csgostash.com/skin/1219/Skeleton-Knife-Boreal-Forest
 https://csgostash.com/skin/1222/Skeleton-Knife-Safari-Mesh
 https://csgostash.com/skin/1213/Skeleton-Knife-Fade
+https://csgostash.com/skin/1590/Kukri-Knife-Fade
+https://csgostash.com/skin/1600/Kukri-Knife-Vanilla
+https://csgostash.com/skin/1594/Kukri-Knife-Slaughter
+https://csgostash.com/skin/1589/Kukri-Knife-Crimson-Web
+https://csgostash.com/skin/1593/Kukri-Knife-Case-Hardened
+https://csgostash.com/skin/1591/Kukri-Knife-Blue-Steel
+https://csgostash.com/skin/1592/Kukri-Knife-Stained
+https://csgostash.com/skin/1597/Kukri-Knife-Urban-Masked
+https://csgostash.com/skin/1595/Kukri-Knife-Safari-Mesh
+https://csgostash.com/skin/1596/Kukri-Knife-Boreal-Forest
+https://csgostash.com/skin/1599/Kukri-Knife-Night-Stripe
+https://csgostash.com/skin/1588/Kukri-Knife-Forest-DDPAT
+https://csgostash.com/skin/1598/Kukri-Knife-Scorched
+https://csgostash.com/skin/1584/Zeus-x27-Olympus

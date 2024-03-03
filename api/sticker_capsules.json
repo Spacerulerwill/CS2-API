@@ -1,16 +1,16 @@
 {
  "10 year birthday sticker capsule": {
   "formattedName": "10 Year Birthday Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDbdjITvOO1lZCYgvvxDLfQhGxUppYh3-qUod-m21G380A9ZjinddWccFdrZAmD-1a3le_nhZW1vpzKynp9-n51K2Vm8ss/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDbdjITvOO1lZCYgvvxfeiBw2gEvJYi2ezCrd_03VWwqhBlYTimIdfGcwE3NVnY-lK3w-_shp6i_MOeyjxiOhg/256fx256f",
   "stickers": {
    "exotic": [
     "showdown foil",
-    "dust fa foil",
     "approaching site foil",
-    "ten years foil",
-    "in the fire foil",
+    "dust fa foil",
     "romanovs fire foil",
+    "in the fire foil",
     "pure malt foil",
+    "ten years foil",
     "overpass diorama foil"
    ],
    "extraordinary": [
@@ -23,33 +23,33 @@
    ],
    "high grade": [
     "baby howl",
-    "baby lore",
-    "baby medusa",
-    "dragon tale",
-    "call your flashes",
-    "zeused",
-    "greens problem",
-    "shifty tactics",
-    "go",
-    "good versus evil",
-    "baby cerberus",
-    "clicking heads",
     "co co co",
+    "baby medusa",
+    "go",
+    "shifty tactics",
+    "baby lore",
+    "zeused",
+    "rush more",
+    "good versus evil",
+    "call your flashes",
+    "greens problem",
+    "baby cerberus",
     "baby fire serpent",
-    "dragons keep",
+    "dragon tale",
+    "choose wisely",
+    "this is fine h",
+    "clicking heads",
+    "bday",
     "laser beam",
     "monster",
-    "rush more",
-    "agent select",
-    "this is fine h",
-    "press start",
+    "good sports",
     "cursed penmanship",
-    "cs on the go"
+    "agent select"
    ],
    "remarkable": [
+    "kawaii t holo",
     "leaving the station holo",
     "kawaii ct holo",
-    "kawaii t holo",
     "blue gem glitter",
     "cbbl holo",
     "get smoked holo",
@@ -65,11 +65,11 @@
  },
  "2020 rmr challengers": {
   "formattedName": "2020 RMR Challengers",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJl4iKm_vxPbzUhHhu5MRjjeyPpNik21Hh-0Jlamv7ddLBdQI6NVDQqAe5wr3thMXp6M6bmHIyuiUn5mGdwUIhAwMIWw/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJl4iKm_vxPbzUhHgfuZEg2eyUpd2s0Qbsqhc4ZG33cI6VIFA5YgvS-wLrlb291JbtvJjMymwj5HcDj7YBnA/256fx256f",
   "stickers": {
    "exotic": [
-    "g2 foil",
     "fnatic foil",
+    "g2 foil",
     "astralis foil",
     "liquid foil",
     "nemiga foil",
@@ -79,31 +79,31 @@
    ],
    "extraordinary": [
     "g2 gold",
-    "astralis gold",
+    "nemiga gold",
     "fnatic gold",
-    "big gold",
     "liquid gold",
     "godsent gold",
-    "nemiga gold",
+    "big gold",
+    "astralis gold",
     "og gold"
    ],
    "high grade": [
-    "g2",
     "astralis",
     "fnatic",
+    "g2",
+    "nemiga",
+    "big",
     "liquid",
     "godsent",
-    "big",
-    "nemiga",
     "og"
    ],
    "remarkable": [
     "liquid holo",
-    "fnatic holo",
     "astralis holo",
     "g2 holo",
-    "godsent holo",
+    "fnatic holo",
     "nemiga holo",
+    "godsent holo",
     "og holo",
     "big holo"
    ]
@@ -111,26 +111,26 @@
  },
  "2020 rmr contenders": {
   "formattedName": "2020 RMR Contenders",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJl4-Fg_L6N77DhVRd6dd2j6eVrI6ki1LjqkVqZWvyddXGJANvaVmG-ge_wO7rgJG5tZTAySdiuCYr-z-DyHRDHHHn/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJl4-Fg_L6N77DhSUFsccgie-W9Nqj3gblqhA_NWyiLIfDclA_YFjU_1a7yOfmhcO9vpvA1zI97X4HoaIB/256fx256f",
   "stickers": {
    "exotic": [
-    "tyloo foil",
     "faze foil",
-    "virtuspro foil",
+    "tyloo foil",
     "north foil",
-    "boom foil",
+    "virtuspro foil",
     "renegades foil",
-    "espada foil",
-    "geng foil"
+    "boom foil",
+    "geng foil",
+    "espada foil"
    ],
    "extraordinary": [
     "tyloo gold",
     "faze gold",
     "virtuspro gold",
     "boom gold",
-    "renegades gold",
-    "espada gold",
     "north gold",
+    "espada gold",
+    "renegades gold",
     "geng gold"
    ],
    "high grade": [
@@ -138,10 +138,10 @@
     "faze",
     "virtuspro",
     "north",
-    "geng",
-    "espada",
+    "renegades",
     "boom",
-    "renegades"
+    "geng",
+    "espada"
    ],
    "remarkable": [
     "tyloo holo",
@@ -157,86 +157,121 @@
  },
  "2020 rmr legends": {
   "formattedName": "2020 RMR Legends",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJmIWMkvnwIITdl3lW7Yt00u3H8Nzz3QOxrRE4ammgco_HI1I7YVyE-wO3kru8hsK17ZXMziRipGB8snn0xlTa/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHFY28SvoyJmIWMkvnwIPXUzm9X7ZV3377E847x0QS3rUo-Mj32JILBc1Q3Mg2D-QW3kObqgsC9ot2XnsDoW_yq/256fx256f",
   "stickers": {
    "exotic": [
     "spirit foil",
     "natus vincere foil",
     "furia foil",
     "evil geniuses foil",
-    "vitality foil",
-    "100 thieves foil",
     "heroic foil",
+    "100 thieves foil",
+    "vitality foil",
     "ninjas in pyjamas foil"
    ],
    "extraordinary": [
-    "furia gold",
-    "natus vincere gold",
     "spirit gold",
-    "100 thieves gold",
-    "ninjas in pyjamas gold",
+    "natus vincere gold",
+    "furia gold",
     "vitality gold",
-    "evil geniuses gold",
-    "heroic gold"
+    "ninjas in pyjamas gold",
+    "100 thieves gold",
+    "heroic gold",
+    "evil geniuses gold"
    ],
    "high grade": [
-    "natus vincere",
     "spirit",
+    "natus vincere",
     "100 thieves",
     "evil geniuses",
     "ninjas in pyjamas",
-    "vitality",
     "heroic",
+    "vitality",
     "furia"
    ],
    "remarkable": [
-    "furia holo",
     "spirit holo",
     "natus vincere holo",
+    "furia holo",
     "heroic holo",
     "vitality holo",
+    "100 thieves holo",
     "ninjas in pyjamas holo",
-    "evil geniuses holo",
-    "100 thieves holo"
+    "evil geniuses holo"
    ]
   }
  },
  "2021 community sticker capsule": {
   "formattedName": "2021 Community Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijdLbxabLMLrBhX5d7fp9i_vG8MLzjFHn-RE6Zjz0dtecclI_MFiCr1Dskrvth5W56pXAzHJq6CV0sX3dgVXp1kq2sQWj/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijdLbxabLMLrBhX5d7Yt3juySp47z3VHjqRJlYz3ydYbHJwdsMg3S-FK7l-bmgJa17pifnXBjpGB8smSwD1h-/256fx256f",
   "stickers": {
    "exotic": [
     "purrurists foil",
-    "ace devil foil",
-    "bullet hell foil"
+    "bullet hell foil",
+    "ace devil foil"
    ],
    "high grade": [
-    "ez",
-    "no time",
-    "speedy t",
     "fast banana",
-    "war",
+    "ez",
     "this is fine ct",
-    "dr dazzles",
-    "kitted out",
-    "clutch or kick",
+    "war",
+    "speedy t",
+    "no time",
     "retro leet",
+    "dr dazzles",
+    "clutch or kick",
     "nademan",
+    "kitted out",
     "hard carry"
    ],
    "remarkable": [
     "runtime holo",
-    "nice clutch holo",
-    "i see you holo",
     "cyber romanov holo",
+    "nice clutch holo",
     "handle with care holo",
+    "i see you holo",
     "eye contact holo"
+   ]
+  }
+ },
+ "ambush sticker capsule": {
+  "formattedName": "Ambush Sticker Capsule",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijb_Zx6WgDLjQhnhE5MA_2LiZpdnwiVHk-xVqaz_1ItDHcANvMwvQ8wS2k-_og5C0uZTMzHpkvT5iuyivC_-TCQ/256fx256f",
+  "stickers": {
+   "exotic": [
+    "ouchie foil",
+    "on an eco foil",
+    "lost in smoke foil",
+    "factory sealed foil"
+   ],
+   "extraordinary": [
+    "dystopian gaze lenticular",
+    "old school lenticular",
+    "econometer lenticular"
+   ],
+   "high grade": [
+    "akickflip47",
+    "bum a smoke",
+    "this is fine chicken",
+    "angry t",
+    "retro zeus",
+    "please return to",
+    "peekaboo",
+    "easy for ricksaw"
+   ],
+   "remarkable": [
+    "loving eyes holo",
+    "lotus glitter",
+    "cedar creek holo",
+    "lit holo",
+    "pushing smokes glitter",
+    "try hard holo"
    ]
   }
  },
  "antwerp 2022 challengers autograph capsule": {
   "formattedName": "Antwerp 2022 Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWhZ6cl9j-fG8J7mt1i1uRQ5fWzyJNLGJgdsN1qCqAS9kuzog5buusvNyXIysih243zbykDm00waP-VxxavJF9VsjpQ/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWhZ6cl9j-fG8J7mxgHl-xc_N2ihcoTHIFM9MlrX_FHsx7jrhZbttJWdz3Fl73VztyuLzhWpwUYbxPrkU3E/256fx256f",
   "stickers": {
    "exotic": [
     "m0nesy holo",
@@ -244,11 +279,11 @@
     "niko holo",
     "zywoo holo",
     "fallen holo",
-    "hunter holo",
     "boltz holo",
+    "hunter holo",
     "fer holo",
     "fnx holo",
-    "apex holo"
+    "hades holo"
    ],
    "extraordinary": [
     "m0nesy gold",
@@ -256,47 +291,47 @@
     "zywoo gold",
     "vini gold",
     "fallen gold",
-    "fnx gold",
-    "hunter gold",
-    "dupreeh gold",
-    "xyp9x gold",
-    "fer gold",
-    "blamef gold",
     "jackz gold",
-    "gla1ve gold",
-    "apex gold",
-    "boltz gold",
-    "spinx gold",
-    "magisk gold",
-    "wood7 gold",
-    "aleksib gold",
-    "gxx gold",
     "hades gold",
-    "k0nfig gold",
-    "juanflatroo gold",
-    "chelo gold",
-    "farlig gold",
-    "maden gold",
-    "dycha gold",
+    "fnx gold",
+    "xyp9x gold",
+    "blamef gold",
+    "hunter gold",
+    "apex gold",
+    "gla1ve gold",
+    "fer gold",
+    "boltz gold",
+    "dupreeh gold",
+    "aleksib gold",
+    "wood7 gold",
+    "gxx gold",
     "rigon gold",
-    "snappi gold",
+    "k0nfig gold",
+    "magisk gold",
+    "spinx gold",
+    "dycha gold",
+    "chelo gold",
     "tuurtle gold",
-    "exit gold",
-    "zorte gold",
-    "jota gold",
-    "sener1 gold",
-    "shalfey gold",
-    "sinnopsyy gold",
+    "maden gold",
     "jerry gold",
+    "jota gold",
+    "zorte gold",
+    "farlig gold",
     "norwi gold",
+    "exit gold",
+    "misutaaa gold",
+    "juanflatroo gold",
+    "snappi gold",
+    "shalfey gold",
+    "sener1 gold",
     "kensi gold",
-    "misutaaa gold"
+    "sinnopsyy gold"
    ]
   }
  },
  "antwerp 2022 challengers sticker capsule": {
   "formattedName": "Antwerp 2022 Challengers Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPT8Mrfdk2VW7dditeXA54vwxgLsrRc9ZWDxJIScdVQ7NwvT_1nsyL-6gsO97sjIzCcxuyQq4HnamRapwUYblVqwxFk/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPT8Mrfdk2VW7ddixL-Z84j03g3m-0FlZDv2ctWWdw5saAmF_QS_k7vugMPuvZnBzHRkvCM8pSGKhh-kKtc/256fx256f",
   "stickers": {
    "exotic": [
     "imperial esports holo",
@@ -315,27 +350,27 @@
     "astralis gold",
     "vitality gold",
     "mibr gold",
-    "bad news eagles gold",
     "pgl gold",
-    "forze esports gold",
-    "ence gold"
+    "bad news eagles gold",
+    "ence gold",
+    "forze esports gold"
    ],
    "high grade": [
     "imperial esports",
     "astralis",
-    "g2 esports",
     "mibr",
+    "g2 esports",
+    "pgl",
+    "bad news eagles",
     "ence",
     "vitality",
-    "pgl",
-    "forze esports",
-    "bad news eagles"
+    "forze esports"
    ],
    "remarkable": [
     "imperial esports glitter",
     "astralis glitter",
-    "g2 esports glitter",
     "pgl glitter",
+    "g2 esports glitter",
     "vitality glitter",
     "mibr glitter",
     "bad news eagles glitter",
@@ -346,7 +381,7 @@
  },
  "antwerp 2022 champions autograph capsule": {
   "formattedName": "Antwerp 2022 Champions Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWhZ6chhg-bP5rP5iUazrl1vNmzyJ9CVcVVsaVGB_VC3k-3sjZa_tZTNwSdkvCkq5iqMmEC1100fcKUx0r9DH9yk/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWhZ6chhg-bP5sKmjQHl-BVsYDqhLI_EdQc3M1vT8lG9yOfrjcO7upTByicyvXUgsyqOgVXp1k7IHLMK/256fx256f",
   "stickers": {
    "exotic": [
     "ropz holo champion",
@@ -364,14 +399,14 @@
    ],
    "high grade": [
     "karrigan champion",
-    "rain champion",
-    "twistzz champion",
     "ropz champion",
-    "broky champion"
+    "broky champion",
+    "rain champion",
+    "twistzz champion"
    ],
    "remarkable": [
-    "twistzz glitter champion",
     "ropz glitter champion",
+    "twistzz glitter champion",
     "rain glitter champion",
     "karrigan glitter champion",
     "broky glitter champion"
@@ -380,59 +415,59 @@
  },
  "antwerp 2022 contenders autograph capsule": {
   "formattedName": "Antwerp 2022 Contenders Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWhe5tF0hO3E55_KhFWmrBZyY2Cgd4TDc1A3MA2G8ljryevmjJG5v57JmnoyvSMqsXeJnRPkhBtIbfsv26Jpa8aQxw/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWhe5tF0hO3E55-72A23qEE6Yj_6ddPDeg9raV3Z81a7wu3v1p7tu57BnXo3uCZx4HzZnAv330_8xUZ40w/256fx256f",
   "stickers": {
    "exotic": [
     "rox holo",
     "max holo",
     "jt holo",
     "jame holo",
-    "liazz holo",
-    "xantares holo",
     "dgt holo",
-    "yekindar holo",
+    "liazz holo",
+    "luken holo",
+    "xantares holo",
     "dav1d holo",
-    "luken holo"
+    "yekindar holo"
    ],
    "extraordinary": [
     "rox gold",
-    "xantares gold",
     "max gold",
+    "xantares gold",
     "jame gold",
-    "liazz gold",
-    "yekindar gold",
     "elige gold",
-    "naf gold",
+    "yekindar gold",
+    "liazz gold",
+    "magixx gold",
+    "jt gold",
     "degster gold",
     "shox gold",
-    "dav1d gold",
-    "osee gold",
-    "nin9 gold",
-    "s1ren gold",
-    "jt gold",
-    "luken gold",
     "woxic gold",
-    "floppy gold",
+    "naf gold",
     "chopper gold",
     "patsi gold",
-    "nitr0 gold",
-    "magixx gold",
-    "dgt gold",
-    "grim gold",
-    "qikert gold",
+    "nin9 gold",
+    "osee gold",
+    "dav1d gold",
     "junior gold",
-    "xfl0ud gold",
     "fl1t gold",
-    "fang gold",
-    "buster gold",
+    "luken gold",
+    "floppy gold",
+    "dgt gold",
+    "s1ren gold",
     "imorr gold",
+    "nitr0 gold",
+    "qikert gold",
     "calyx gold",
-    "techno4k gold",
-    "blitz gold",
-    "sk0r gold",
+    "xfl0ud gold",
     "sico gold",
+    "buster gold",
     "ins gold",
     "alistair gold",
+    "techno4k gold",
+    "sk0r gold",
+    "grim gold",
+    "fang gold",
+    "blitz gold",
     "kabal gold",
     "hatz gold"
    ]
@@ -440,48 +475,48 @@
  },
  "antwerp 2022 contenders sticker capsule": {
   "formattedName": "Antwerp 2022 Contenders Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPT7Pa_UmG9U-tZOhujT8om72VGx-0RqZTigd4TGIQ5oMgnZqwS-kr_qhZO1vZjPyXRm7CEr5HyJlwv3309YZDeTow/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPT7Pa_UmG9U-tY_2-zEpduj3lW3qEE_MGGld9ecI1M-MgnV-lS3wOvphZC56pzAyHE3sj5iuyijnFdd4A/256fx256f",
   "stickers": {
    "exotic": [
     "outsiders holo",
-    "9z team holo",
     "eternal fire holo",
+    "9z team holo",
     "team liquid holo",
-    "complexity gaming holo",
     "team spirit holo",
+    "complexity gaming holo",
     "pgl holo",
     "renegades holo",
     "ihc esports holo"
    ],
    "extraordinary": [
     "outsiders gold",
-    "eternal fire gold",
     "team spirit gold",
+    "eternal fire gold",
     "complexity gaming gold",
     "9z team gold",
     "team liquid gold",
-    "renegades gold",
     "pgl gold",
+    "renegades gold",
     "ihc esports gold"
    ],
    "high grade": [
-    "eternal fire",
     "9z team",
+    "eternal fire",
     "outsiders",
-    "complexity gaming",
     "team spirit",
+    "complexity gaming",
     "team liquid",
     "pgl",
-    "renegades",
-    "ihc esports"
+    "ihc esports",
+    "renegades"
    ],
    "remarkable": [
-    "eternal fire glitter",
     "9z team glitter",
+    "eternal fire glitter",
     "team spirit glitter",
+    "pgl glitter",
     "complexity gaming glitter",
     "outsiders glitter",
-    "pgl glitter",
     "team liquid glitter",
     "ihc esports glitter",
     "renegades glitter"
@@ -490,67 +525,67 @@
  },
  "antwerp 2022 legends autograph capsule": {
   "formattedName": "Antwerp 2022 Legends Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWdU78B_jvr--Y3nj1H6_kdla2_0cYWUcQRsaVrZ-1Lvw-_o1pe47c7BwHpk6HEkt3-MnEa2iAYMMLJsjGVl3A/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPDmPK7BqWdU78B_jvqPoNis0ALjrkBtYGuhLISccwVvY1nXqVC6kL3njJ677szPm3IyuXMj7GGdwUISIncF3Q/256fx256f",
   "stickers": {
    "exotic": [
     "s1mple holo",
     "sh1ro holo",
+    "ropz holo",
     "twistzz holo",
     "ax1le holo",
-    "ropz holo",
+    "interz holo",
+    "art holo",
     "hobbit holo",
     "nafany holo",
-    "art holo",
-    "rain holo",
-    "interz holo"
+    "rain holo"
    ],
    "extraordinary": [
     "s1mple gold",
     "twistzz gold",
     "sh1ro gold",
     "ropz gold",
-    "ax1le gold",
-    "karrigan gold",
-    "art gold",
     "rain gold",
+    "karrigan gold",
     "cadian gold",
-    "hooxi gold",
-    "b1t gold",
+    "art gold",
+    "ax1le gold",
     "broky gold",
-    "hobbit gold",
+    "hooxi gold",
     "tabsen gold",
-    "kscerato gold",
-    "electronic gold",
-    "nafany gold",
-    "jabbi gold",
     "krimbo gold",
-    "yuurih gold",
-    "drop gold",
-    "boombl4 gold",
+    "b1t gold",
+    "electronic gold",
+    "hobbit gold",
     "syrson gold",
+    "kscerato gold",
+    "jabbi gold",
+    "drop gold",
+    "nafany gold",
+    "yuurih gold",
     "interz gold",
+    "boombl4 gold",
     "saffee gold",
+    "nicoodoz gold",
     "teses gold",
+    "zyphon gold",
     "faven gold",
     "perfecto gold",
-    "stavn gold",
-    "nicoodoz gold",
-    "rez gold",
-    "roej gold",
-    "zyphon gold",
-    "brollan gold",
     "tizian gold",
-    "sjuush gold",
+    "rez gold",
     "hampus gold",
-    "refrezh gold",
+    "roej gold",
+    "brollan gold",
+    "stavn gold",
     "plopski gold",
+    "refrezh gold",
+    "sjuush gold",
     "es3tag gold"
    ]
   }
  },
  "antwerp 2022 legends sticker capsule": {
   "formattedName": "Antwerp 2022 Legends Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPvxNL7fknhu5MRjjeyP8Y333wOx_EI4ZWCmcoWXIQ4-NAuD-1C-kuy9gZ7uuZ-dznBq6HIrt2GdwUJ3KamKdA/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLGZSpH_szkxNLZqPvxNL7fkngf7MRz3b7Eot3x3g2xrUBuMGHzcdXGcwc-MlqC_lnsxOy7gpS17s_Am2wj5Hf2Jj6PYw/256fx256f",
   "stickers": {
    "exotic": [
     "cloud9 holo",
@@ -560,37 +595,37 @@
     "natus vincere holo",
     "heroic holo",
     "pgl holo",
-    "ninjas in pyjamas holo",
-    "big holo"
+    "big holo",
+    "ninjas in pyjamas holo"
    ],
    "extraordinary": [
     "cloud9 gold",
     "faze clan gold",
-    "furia gold",
-    "copenhagen flames gold",
     "natus vincere gold",
-    "heroic gold",
+    "copenhagen flames gold",
+    "furia gold",
     "big gold",
-    "ninjas in pyjamas gold",
-    "pgl gold"
+    "pgl gold",
+    "heroic gold",
+    "ninjas in pyjamas gold"
    ],
    "high grade": [
     "cloud9",
-    "faze clan",
-    "copenhagen flames",
     "natus vincere",
-    "furia",
+    "copenhagen flames",
+    "faze clan",
     "heroic",
-    "pgl",
     "big",
-    "ninjas in pyjamas"
+    "pgl",
+    "ninjas in pyjamas",
+    "furia"
    ],
    "remarkable": [
     "cloud9 glitter",
-    "faze clan glitter",
-    "copenhagen flames glitter",
-    "natus vincere glitter",
     "pgl glitter",
+    "faze clan glitter",
+    "natus vincere glitter",
+    "copenhagen flames glitter",
     "heroic glitter",
     "furia glitter",
     "ninjas in pyjamas glitter",
@@ -603,9 +638,9 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLcfTxM-N3kxNHcqKemfb6DkzoJ7Z11ibnC94jw0VCwrxdpNmz6JYKXcgc9NAzR8gfvwObogpKi_MOe622M7IM/256fx256f",
   "stickers": {
    "exotic": [
-    "faze clan foil",
     "optic gaming foil",
     "hellraisers foil",
+    "faze clan foil",
     "g2 esports foil",
     "mousesports foil",
     "north foil",
@@ -614,13 +649,13 @@
    ],
    "remarkable": [
     "optic gaming holo",
-    "hellraisers holo",
     "g2 esports holo",
-    "faze clan holo",
-    "mousesports holo",
     "team envyus holo",
-    "north holo",
-    "godsent holo"
+    "hellraisers holo",
+    "mousesports holo",
+    "faze clan holo",
+    "godsent holo",
+    "north holo"
    ]
   }
  },
@@ -630,10 +665,10 @@
   "stickers": {
    "exotic": [
     "team liquid foil",
-    "flipsid3 tactics foil",
     "fnatic foil",
-    "natus vincere foil",
+    "flipsid3 tactics foil",
     "astralis foil",
+    "natus vincere foil",
     "virtuspro foil",
     "sk gaming foil",
     "gambit gaming foil",
@@ -644,9 +679,9 @@
     "sk gaming holo",
     "flipsid3 tactics holo",
     "fnatic holo",
+    "virtuspro holo",
     "astralis holo",
     "natus vincere holo",
-    "virtuspro holo",
     "gambit gaming holo",
     "eleague holo"
    ]
@@ -660,8 +695,8 @@
     "device",
     "xyp9x",
     "dupreeh",
-    "gla1ve",
-    "kjaerbye"
+    "kjaerbye",
+    "gla1ve"
    ]
   }
  },
@@ -685,9 +720,9 @@
    "high grade": [
     "device",
     "karrigan",
-    "dupreeh",
+    "cajunb",
     "xyp9x",
-    "cajunb"
+    "dupreeh"
    ]
   }
  },
@@ -696,44 +731,44 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PLcfTxM-N3kxNHcqPDmPK7BqTofsJEg3riRrNWk0Azj_EVoZWj1I4WWcQVtYA7R_Afowr3v1MK57pjBnWwj5Hcy8j7yqA/256fx256f",
   "stickers": {
    "exotic": [
-    "rubino foil",
     "niko foil",
-    "karrigan foil",
+    "cajunb foil",
+    "magisk foil",
     "kennys foil",
+    "apex foil",
+    "msl foil",
+    "karrigan foil",
     "scream foil",
     "rush foil",
+    "k0nfig foil",
+    "rubino foil",
+    "happy foil",
+    "rain foil",
+    "tarik foil",
+    "naf foil",
+    "sixer foil",
+    "nbk foil",
+    "mixwell foil",
     "zero foil",
     "ange1 foil",
-    "rain foil",
-    "happy foil",
-    "naf foil",
-    "msl foil",
-    "spiidi foil",
-    "tarik foil",
-    "denis foil",
     "bodyy foil",
-    "shox foil",
-    "magisk foil",
-    "kioshima foil",
-    "k0nfig foil",
-    "cajunb foil",
     "rpk foil",
+    "spiidi foil",
     "lekr0 foil",
-    "apex foil",
-    "mixwell foil",
-    "styko foil",
-    "sixer foil",
-    "aizy foil",
+    "denis foil",
+    "kioshima foil",
+    "shox foil",
     "jw foil",
-    "flusha foil",
-    "deadfox foil",
+    "aizy foil",
     "allu foil",
     "smithzz foil",
-    "nbk foil",
+    "styko foil",
     "stanislaw foil",
-    "chrisj foil",
+    "flusha foil",
     "bondik foil",
+    "deadfox foil",
     "znajder foil",
+    "chrisj foil",
     "pronax foil",
     "lowel foil"
    ]
@@ -744,46 +779,46 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDEZDcQvI3jq4eZmOLkDOqfwGoH6pwhjOuSpdig3Azh8hJuZmygdYXBcw42aQnZ-1S2l7i905e0vIOJlyWLUNoYXg/256fx256f",
   "stickers": {
    "exotic": [
-    "niko foil",
-    "tenzki foil",
-    "seangres foil",
     "scream foil",
+    "niko foil",
     "shroud foil",
     "pimp foil",
-    "shox foil",
-    "b1ad3 foil",
-    "n0thing foil",
-    "gob b foil",
     "skadoodle foil",
-    "hazed foil",
-    "worldedit foil",
-    "hiko foil",
-    "tarik foil",
-    "ex6tenz foil",
-    "rpk foil",
-    "aizy foil",
+    "shox foil",
+    "n0thing foil",
     "smithzz foil",
-    "gruby foil",
-    "chrisj foil",
-    "freakazoid foil",
-    "nitr0 foil",
-    "elige foil",
+    "kjaerbye foil",
+    "ex6tenz foil",
+    "worldedit foil",
+    "markeloff foil",
+    "aizy foil",
+    "tenzki foil",
+    "rpk foil",
     "msl foil",
+    "freakazoid foil",
+    "b1ad3 foil",
+    "gob b foil",
+    "tarik foil",
+    "hyper foil",
+    "chrisj foil",
+    "nitr0 foil",
+    "fns foil",
+    "gruby foil",
     "denis foil",
     "reltuc foil",
-    "jdm64 foil",
-    "markeloff foil",
+    "elige foil",
+    "seangres foil",
+    "hiko foil",
+    "hazed foil",
     "nex foil",
-    "hyper foil",
-    "rallen foil",
-    "fns foil",
-    "kjaerbye foil",
-    "bondik foil",
     "fugly foil",
-    "furlan foil",
+    "adren foil",
+    "rallen foil",
     "davcost foil",
+    "bondik foil",
     "peet foil",
-    "adren foil"
+    "jdm64 foil",
+    "furlan foil"
    ]
   }
  },
@@ -794,43 +829,43 @@
    "exotic": [
     "scream foil",
     "kennys foil",
+    "shox foil",
     "niko foil",
     "rain foil",
-    "chrisj foil",
-    "happy foil",
-    "shox foil",
-    "k0nfig foil",
-    "dosia foil",
-    "spiidi foil",
-    "markeloff foil",
-    "naf foil",
-    "msl foil",
-    "b1ad3 foil",
-    "apex foil",
-    "mixwell foil",
-    "rubino foil",
-    "devil foil",
-    "nbk foil",
-    "rush foil",
-    "shara foil",
-    "worldedit foil",
     "fox foil",
+    "aizy foil",
+    "happy foil",
+    "chrisj foil",
+    "dosia foil",
+    "naf foil",
+    "apex foil",
+    "msl foil",
+    "nbk foil",
+    "markeloff foil",
+    "rush foil",
+    "mixwell foil",
+    "k0nfig foil",
+    "daps foil",
+    "jkaem foil",
+    "rubino foil",
+    "shara foil",
+    "b1ad3 foil",
+    "worldedit foil",
+    "smithzz foil",
+    "spiidi foil",
     "stanislaw foil",
+    "mou foil",
     "waylander foil",
     "nex foil",
-    "mou foil",
-    "smithzz foil",
-    "aizy foil",
-    "adren foil",
-    "daps foil",
+    "devil foil",
     "tenzki foil",
-    "jkaem foil",
+    "cajunb foil",
     "hooch foil",
     "rpk foil",
-    "cajunb foil",
-    "denis foil",
-    "kioshima foil",
     "bodyy foil",
+    "denis foil",
+    "adren foil",
+    "kioshima foil",
     "spaze foil"
    ]
   }
@@ -842,44 +877,44 @@
    "exotic": [
     "s1mple foil",
     "shroud foil",
-    "skadoodle foil",
     "niko foil",
     "scream foil",
     "stewie2k foil",
-    "jasonr foil",
-    "hiko foil",
-    "shox foil",
-    "dosia foil",
+    "skadoodle foil",
     "freakazoid foil",
-    "n0thing foil",
     "elige foil",
-    "reltuc foil",
-    "jdm64 foil",
+    "shox foil",
+    "jasonr foil",
+    "n0thing foil",
+    "hiko foil",
     "nitr0 foil",
     "tarik foil",
-    "bondik foil",
-    "chrisj foil",
-    "markeloff foil",
-    "b1ad3 foil",
-    "fugly foil",
-    "worldedit foil",
-    "nex foil",
     "shara foil",
-    "denis foil",
+    "fugly foil",
+    "reltuc foil",
+    "markeloff foil",
     "davey foil",
-    "arya foil",
-    "hazed foil",
-    "adren foil",
+    "b1ad3 foil",
+    "chrisj foil",
+    "bondik foil",
     "ex6tenz foil",
-    "smithzz foil",
-    "professorchaos foil",
-    "spiidi foil",
+    "worldedit foil",
+    "jdm64 foil",
+    "dosia foil",
+    "hazed foil",
     "mou foil",
-    "rpk foil",
-    "waylander foil",
     "adren foil",
+    "smithzz foil",
     "hooch foil",
-    "abe foil"
+    "arya foil",
+    "professorchaos foil",
+    "nex foil",
+    "abe foil",
+    "rpk foil",
+    "spiidi foil",
+    "denis foil",
+    "waylander foil",
+    "adren foil"
    ]
   }
  },
@@ -890,8 +925,8 @@
    "high grade": [
     "shroud",
     "skadoodle",
-    "n0thing",
     "freakazoid",
+    "n0thing",
     "seangres"
    ]
   }
@@ -927,11 +962,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLJghQ-LnweAM40qSfIG8budizx9nblaShMuKHkjJVu8d1ie_D99ik0VftrhZyIzek5T2RaL8/256fx256f",
   "stickers": {
    "high grade": [
-    "tarik",
     "reltuc",
-    "jdm64",
+    "hazed",
     "fns",
-    "hazed"
+    "tarik",
+    "jdm64"
    ]
   }
  },
@@ -940,11 +975,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFFotbaiZVMw1fLOJ2oXtYS1wNfakvGkN7mDw2hTuJYo3byUo9-kjlLl_xU-Zz_tZNjCSM6AXrE/256fx256f",
   "stickers": {
    "high grade": [
+    "reltuc",
     "hazed",
     "tarik",
-    "jdm64",
     "fns",
-    "reltuc"
+    "jdm64"
    ]
   }
  },
@@ -953,11 +988,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJotbaiZQMygaLKcG0Qvdniw9bSw6b2MLiJz20Bu5Ik3r_AodSk3gDl80o6ZGvtZNjC23PKdYc/256fx256f",
   "stickers": {
    "high grade": [
+    "reltuc",
     "koosta",
     "hazed",
-    "reltuc",
-    "tarik",
-    "pita"
+    "pita",
+    "tarik"
    ]
   }
  },
@@ -967,9 +1002,9 @@
   "stickers": {
    "high grade": [
     "tarik",
-    "jdm64",
-    "reltuc",
     "fugly",
+    "reltuc",
+    "jdm64",
     "hazed"
    ]
   }
@@ -981,8 +1016,8 @@
    "high grade": [
     "rain",
     "karrigan",
-    "kioshima",
     "allu",
+    "kioshima",
     "aizy"
    ]
   }
@@ -992,11 +1027,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJosLu_LkliiqTJdG5EuIm0xdnYk6D1NuuHkGhS6ZAj3urHpo-sjAfn_Es4ZGuiOsbLJd9HuwM6/256fx256f",
   "stickers": {
    "high grade": [
+    "aizy",
     "rain",
     "fox",
-    "aizy",
-    "kioshima",
-    "jkaem"
+    "jkaem",
+    "kioshima"
    ]
   }
  },
@@ -1007,9 +1042,9 @@
    "high grade": [
     "fox",
     "rain",
-    "jkaem",
+    "maikelele",
     "aizy",
-    "maikelele"
+    "jkaem"
    ]
   }
  },
@@ -1019,10 +1054,10 @@
   "stickers": {
    "high grade": [
     "electronic",
-    "b1ad3",
-    "markeloff",
     "worldedit",
-    "waylander"
+    "waylander",
+    "markeloff",
+    "b1ad3"
    ]
   }
  },
@@ -1031,11 +1066,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLIwhepvT2e183gKCZIGob747vxNXawvGmZuKJlz0CuZEjj7uXp9Wh3QCyrxVpfSmtcxPyu0gt/256fx256f",
   "stickers": {
    "high grade": [
+    "worldedit",
     "markeloff",
     "bondik",
     "b1ad3",
-    "davcost",
-    "worldedit"
+    "davcost"
    ]
   }
  },
@@ -1044,11 +1079,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFFosLasOxRp1_aGIWxDv93jloaJxK-hNejUx28E7cd3jr3Dp9-m3AfiqEs-Y277LIOWehh-Pw-8bSGOCQ/256fx256f",
   "stickers": {
    "high grade": [
-    "markeloff",
     "b1ad3",
-    "davcost",
+    "markeloff",
+    "bondik",
     "worldedit",
-    "bondik"
+    "davcost"
    ]
   }
  },
@@ -1060,8 +1095,8 @@
     "markeloff",
     "b1ad3",
     "waylander",
-    "shara",
-    "worldedit"
+    "worldedit",
+    "shara"
    ]
   }
  },
@@ -1070,11 +1105,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuhwsLRRk4mdVUBibypIhcu0vHOI24W6t_mwNjek_alMeuIl28E65Rw0rrC8Ij2iQbn-Uo_NWuhcZjVLFGLqDN4ZA/256fx256f",
   "stickers": {
    "high grade": [
-    "b1ad3",
-    "worldedit",
-    "markeloff",
+    "bondik",
     "shara",
-    "bondik"
+    "markeloff",
+    "worldedit",
+    "b1ad3"
    ]
   }
  },
@@ -1084,10 +1119,10 @@
   "stickers": {
    "high grade": [
     "olofmeister",
-    "dennis",
     "krimz",
-    "twist",
-    "disco doplan"
+    "disco doplan",
+    "dennis",
+    "twist"
    ]
   }
  },
@@ -1096,11 +1131,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLIwpDtfSjewJhhKaeIWwV7d3jl9mIlq-hMuyDxmhVvpYjjr_DoI-giQa2qUU9fSmtcwOoufbb/256fx256f",
   "stickers": {
    "high grade": [
-    "olofmeister",
     "jw",
-    "flusha",
+    "olofmeister",
     "krimz",
-    "pronax"
+    "pronax",
+    "flusha"
    ]
   }
  },
@@ -1109,9 +1144,9 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFFosLSkPw5jnaKbIDtAut3vldffxKejYeKFxD5Sv5cij76R9NSgjlHk_hJramn2JI-LMlhpdm1LwTA/256fx256f",
   "stickers": {
    "high grade": [
-    "jw",
     "olofmeister",
     "flusha",
+    "jw",
     "krimz",
     "pronax"
    ]
@@ -1123,9 +1158,9 @@
   "stickers": {
    "high grade": [
     "olofmeister",
+    "jw",
     "krimz",
     "flusha",
-    "jw",
     "dennis"
    ]
   }
@@ -1135,11 +1170,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuhwsLRRk4mdVUBibyrPwQugvKecGhEud7kzNPaz6ejYO2IlzkGuZUk3O3H9tyt3AW2rUduajjzJJjVLFEwsavJxA/256fx256f",
   "stickers": {
    "high grade": [
-    "jw",
     "olofmeister",
+    "jw",
     "flusha",
-    "krimz",
-    "dennis"
+    "dennis",
+    "krimz"
    ]
   }
  },
@@ -1151,8 +1186,8 @@
     "scream",
     "shox",
     "bodyy",
-    "smithzz",
-    "rpk"
+    "rpk",
+    "smithzz"
    ]
   }
  },
@@ -1163,9 +1198,9 @@
    "high grade": [
     "rain",
     "fox",
-    "maikelele",
+    "jkaem",
     "dennis",
-    "jkaem"
+    "maikelele"
    ]
   }
  },
@@ -1176,9 +1211,9 @@
    "high grade": [
     "scream",
     "shox",
+    "smithzz",
     "rpk",
-    "bodyy",
-    "smithzz"
+    "bodyy"
    ]
   }
  },
@@ -1189,8 +1224,8 @@
    "high grade": [
     "scream",
     "shox",
-    "smithzz",
     "rpk",
+    "smithzz",
     "ex6tenz"
    ]
   }
@@ -1202,9 +1237,9 @@
    "high grade": [
     "dosia",
     "adren",
+    "mou",
     "zeus",
-    "hobbit",
-    "mou"
+    "hobbit"
    ]
   }
  },
@@ -1213,11 +1248,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJosbuoKUk10aHMd2savou3kdDaxKPwauiFlG9V7ZEo37CX99yg31fj-EA6Mm_1OsbLJX8BvZga/256fx256f",
   "stickers": {
    "high grade": [
+    "hooch",
     "dosia",
     "mou",
     "spaze",
-    "adren",
-    "hooch"
+    "adren"
    ]
   }
  },
@@ -1226,10 +1261,10 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuhwsLRRk4mdVUBib2kJgUuivLOc29E7Y20xtSKzqWlYb7Txj0BsMcg0u-Yp9yljgHt8hc6YGj6dpjVLFFb3UjHxg/256fx256f",
   "stickers": {
    "high grade": [
+    "mou",
+    "hooch",
     "dosia",
     "adren",
-    "hooch",
-    "mou",
     "waylander"
    ]
   }
@@ -1239,11 +1274,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRvCh1sHHUg8kdFNosbWhZQFl1_Wbc21HuovjloOOxaSgZeiCx20GvJwgj-qU896t2wK1-Bc4MW7tZNjC-nQbpVs/256fx256f",
   "stickers": {
    "high grade": [
-    "jw",
-    "flusha",
+    "pronax",
     "lekr0",
-    "znajder",
-    "pronax"
+    "flusha",
+    "jw",
+    "znajder"
    ]
   }
  },
@@ -1253,25 +1288,25 @@
   "stickers": {
    "exotic": [
     "jks foil",
-    "device foil",
-    "getright foil",
-    "spunj foil",
-    "friberg foil",
-    "f0rest foil",
-    "dupreeh foil",
-    "tarik foil",
-    "havoc foil",
-    "jdm64 foil",
-    "karrigan foil",
-    "fns foil",
-    "allu foil",
-    "hazed foil",
-    "xyp9x foil",
-    "reltuc foil",
-    "yam foil",
-    "xizt foil",
     "azr foil",
-    "cajunb foil"
+    "device foil",
+    "reltuc foil",
+    "f0rest foil",
+    "tarik foil",
+    "friberg foil",
+    "getright foil",
+    "fns foil",
+    "spunj foil",
+    "jdm64 foil",
+    "hazed foil",
+    "havoc foil",
+    "xyp9x foil",
+    "yam foil",
+    "dupreeh foil",
+    "cajunb foil",
+    "karrigan foil",
+    "allu foil",
+    "xizt foil"
    ]
   }
  },
@@ -1283,21 +1318,21 @@
     "kennys foil",
     "scream foil",
     "fallen foil",
+    "coldzera foil",
     "happy foil",
     "rain foil",
-    "coldzera foil",
-    "b1ad3 foil",
-    "fer foil",
-    "apex foil",
     "markeloff foil",
-    "worldedit foil",
     "nbk foil",
-    "boltz foil",
-    "steel foil",
-    "maikelele foil",
-    "dennis foil",
+    "fer foil",
+    "b1ad3 foil",
     "fox foil",
+    "apex foil",
+    "worldedit foil",
+    "steel foil",
+    "dennis foil",
+    "boltz foil",
     "kioshima foil",
+    "maikelele foil",
     "bondik foil",
     "davcost foil"
    ]
@@ -1308,25 +1343,25 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PbbfT5N4NOxmoXZx6ahDLzDmX5B15Y_i72Too_x2Aft_Rc9Nzyld9XHIA5oYg7T-1m-lLi908e_vsyfwXQ2uj5iuyic9D_Zxg/256fx256f",
   "stickers": {
    "exotic": [
-    "shox foil",
     "maniac foil",
-    "olofmeister foil",
-    "jw foil",
+    "shox foil",
     "smithzz foil",
-    "rpk foil",
     "ex6tenz foil",
+    "olofmeister foil",
+    "rpk foil",
     "flusha foil",
+    "jw foil",
     "guardian foil",
     "zeus foil",
-    "krimz foil",
     "hyper foil",
-    "flamie foil",
     "peet foil",
     "edward foil",
-    "gruby foil",
-    "rallen foil",
     "furlan foil",
+    "krimz foil",
+    "gruby foil",
+    "flamie foil",
     "seized foil",
+    "rallen foil",
     "pronax foil"
    ]
   }
@@ -1338,23 +1373,23 @@
    "exotic": [
     "shroud foil",
     "skadoodle foil",
-    "freakazoid foil",
-    "pashabiceps foil",
-    "n0thing foil",
     "james foil",
-    "seangres foil",
-    "chrisj foil",
+    "n0thing foil",
+    "pashabiceps foil",
+    "freakazoid foil",
     "snax foil",
-    "neo foil",
-    "nex foil",
-    "denis foil",
     "gob b foil",
-    "spiidi foil",
+    "chrisj foil",
+    "seangres foil",
     "snyper foil",
+    "ustilo foil",
+    "nex foil",
+    "spiidi foil",
+    "denis foil",
+    "neo foil",
     "emagine foil",
     "rickeh foil",
     "taz foil",
-    "ustilo foil",
     "byali foil"
    ]
   }
@@ -1364,11 +1399,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRvCh1sHHUg8kdFNovra3ZVE0gvKYdGgXvIqyxIGKx6aiZ-iCxjkGvsQj2LCV9Nul2lew8kpqZGrtZNjC_XSYpk8/256fx256f",
   "stickers": {
    "high grade": [
-    "ange1",
     "zero",
-    "deadfox",
+    "ange1",
     "styko",
-    "bondik"
+    "bondik",
+    "deadfox"
    ]
   }
  },
@@ -1379,44 +1414,44 @@
    "exotic": [
     "s1mple foil",
     "jdm64 foil",
-    "dupreeh foil",
     "pimp foil",
     "guardian foil",
-    "device foil",
     "elige foil",
-    "fer foil",
     "electronic foil",
-    "dennis foil",
-    "adren foil",
+    "dupreeh foil",
     "olofmeister foil",
-    "zeus foil",
-    "dosia foil",
     "nitr0 foil",
-    "fallen foil",
-    "markeloff foil",
-    "hiko foil",
-    "xyp9x foil",
-    "coldzera foil",
-    "b1ad3 foil",
-    "snax foil",
-    "flamie foil",
+    "zeus foil",
     "pashabiceps foil",
-    "seized foil",
-    "worldedit foil",
-    "waylander foil",
+    "adren foil",
+    "dennis foil",
+    "markeloff foil",
+    "fallen foil",
+    "xyp9x foil",
+    "fox foil",
+    "b1ad3 foil",
     "edward foil",
+    "flamie foil",
+    "hiko foil",
+    "seized foil",
+    "dosia foil",
+    "fer foil",
+    "snax foil",
+    "coldzera foil",
+    "krimz foil",
+    "worldedit foil",
+    "gla1ve foil",
     "neo foil",
+    "kjaerbye foil",
+    "waylander foil",
     "taco foil",
     "twist foil",
-    "fox foil",
     "taz foil",
-    "gla1ve foil",
-    "kjaerbye foil",
-    "krimz foil",
     "byali foil",
     "hobbit foil",
+    "mou foil",
     "disco doplan foil",
-    "mou foil"
+    "device foil"
    ]
   }
  },
@@ -1426,44 +1461,44 @@
   "stickers": {
    "exotic": [
     "kennys foil",
-    "happy foil",
-    "fallen foil",
-    "device foil",
-    "olofmeister foil",
-    "flusha foil",
-    "pashabiceps foil",
+    "nbk foil",
+    "kioshima foil",
     "rain foil",
-    "snax foil",
-    "f0rest foil",
+    "fallen foil",
+    "happy foil",
+    "device foil",
+    "pashabiceps foil",
     "apex foil",
     "coldzera foil",
-    "jw foil",
-    "dupreeh foil",
+    "flusha foil",
     "neo foil",
+    "f0rest foil",
+    "olofmeister foil",
+    "snax foil",
+    "friberg foil",
+    "xyp9x foil",
+    "jw foil",
+    "zeus foil",
     "guardian foil",
     "fer foil",
     "getright foil",
-    "zeus foil",
-    "steel foil",
-    "nbk foil",
+    "dupreeh foil",
     "boltz foil",
+    "byali foil",
+    "krimz foil",
     "karrigan foil",
     "maikelele foil",
-    "krimz foil",
-    "xyp9x foil",
-    "seized foil",
+    "steel foil",
     "fox foil",
-    "friberg foil",
+    "jkaem foil",
+    "pronax foil",
+    "taz foil",
     "dennis foil",
     "edward foil",
-    "jkaem foil",
-    "byali foil",
-    "kioshima foil",
-    "taz foil",
+    "seized foil",
     "flamie foil",
-    "xizt foil",
     "cajunb foil",
-    "pronax foil",
+    "xizt foil",
     "allu foil"
    ]
   }
@@ -1474,44 +1509,44 @@
   "stickers": {
    "exotic": [
     "s1mple foil",
+    "jdm64 foil",
     "device foil",
     "fallen foil",
-    "pita foil",
-    "hiko foil",
-    "karrigan foil",
-    "snax foil",
-    "coldzera foil",
-    "pashabiceps foil",
     "elige foil",
-    "guardian foil",
-    "dupreeh foil",
     "hazed foil",
-    "nitr0 foil",
-    "tarik foil",
-    "xyp9x foil",
-    "jdm64 foil",
-    "olofmeister foil",
-    "f0rest foil",
-    "getright foil",
-    "gla1ve foil",
-    "koosta foil",
+    "karrigan foil",
+    "hiko foil",
+    "neo foil",
     "zeus foil",
     "reltuc foil",
+    "pashabiceps foil",
+    "pita foil",
+    "coldzera foil",
+    "dupreeh foil",
+    "guardian foil",
+    "koosta foil",
+    "nitr0 foil",
+    "snax foil",
+    "tarik foil",
+    "gla1ve foil",
+    "xyp9x foil",
+    "f0rest foil",
+    "getright foil",
     "jw foil",
-    "fnx foil",
-    "xizt foil",
     "fer foil",
-    "flamie foil",
-    "neo foil",
     "flusha foil",
+    "olofmeister foil",
+    "xizt foil",
+    "fnx foil",
+    "flamie foil",
+    "edward foil",
     "taco foil",
     "friberg foil",
-    "edward foil",
-    "byali foil",
     "dennis foil",
-    "taz foil",
+    "byali foil",
     "seized foil",
     "krimz foil",
+    "taz foil",
     "pyth foil"
    ]
   }
@@ -1523,44 +1558,44 @@
    "exotic": [
     "kennys foil",
     "fallen foil",
-    "device foil",
-    "coldzera foil",
     "happy foil",
-    "pashabiceps foil",
+    "device foil",
     "rain foil",
-    "taco foil",
+    "coldzera foil",
+    "pashabiceps foil",
     "fnx foil",
-    "snax foil",
-    "jw foil",
-    "apex foil",
     "devil foil",
-    "fer foil",
-    "dupreeh foil",
-    "nbk foil",
-    "guardian foil",
-    "karrigan foil",
-    "flusha foil",
-    "olofmeister foil",
-    "zeus foil",
-    "flamie foil",
-    "getright foil",
-    "neo foil",
-    "f0rest foil",
-    "maikelele foil",
-    "edward foil",
-    "xyp9x foil",
     "fox foil",
-    "friberg foil",
-    "seized foil",
-    "dennis foil",
-    "jkaem foil",
-    "aizy foil",
-    "krimz foil",
-    "xizt foil",
+    "neo foil",
+    "snax foil",
+    "taco foil",
+    "apex foil",
+    "dupreeh foil",
+    "guardian foil",
+    "nbk foil",
+    "fer foil",
+    "jw foil",
+    "karrigan foil",
+    "getright foil",
+    "flusha foil",
     "cajunb foil",
+    "zeus foil",
+    "xyp9x foil",
+    "f0rest foil",
     "taz foil",
-    "byali foil",
-    "pyth foil"
+    "olofmeister foil",
+    "xizt foil",
+    "krimz foil",
+    "dennis foil",
+    "edward foil",
+    "seized foil",
+    "aizy foil",
+    "maikelele foil",
+    "jkaem foil",
+    "friberg foil",
+    "flamie foil",
+    "pyth foil",
+    "byali foil"
    ]
   }
  },
@@ -1570,10 +1605,10 @@
   "stickers": {
    "high grade": [
     "fallen",
+    "steel",
     "coldzera",
-    "fer",
     "boltz",
-    "steel"
+    "fer"
    ]
   }
  },
@@ -1583,10 +1618,10 @@
   "stickers": {
    "high grade": [
     "fallen",
-    "coldzera",
     "fer",
-    "boltz",
-    "steel"
+    "coldzera",
+    "steel",
+    "boltz"
    ]
   }
  },
@@ -1609,9 +1644,9 @@
   "stickers": {
    "high grade": [
     "niko",
-    "denis",
-    "chrisj",
     "spiidi",
+    "chrisj",
+    "denis",
     "lowel"
    ]
   }
@@ -1623,9 +1658,9 @@
    "high grade": [
     "niko",
     "nex",
+    "gob b",
     "denis",
-    "chrisj",
-    "gob b"
+    "chrisj"
    ]
   }
  },
@@ -1634,10 +1669,10 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFFou7WwOAJzw_zaZS4MtN_vwYXfzqOlYuuGlW4CuMZzj-uUpIqg2lfl80VtNW7xIoSSelI8N0aQpAbxE6eXCA/256fx256f",
   "stickers": {
    "high grade": [
-    "chrisj",
     "spiidi",
-    "nex",
     "gob b",
+    "chrisj",
+    "nex",
     "denis"
    ]
   }
@@ -1648,10 +1683,10 @@
   "stickers": {
    "high grade": [
     "niko",
-    "chrisj",
     "nex",
+    "spiidi",
     "denis",
-    "spiidi"
+    "chrisj"
    ]
   }
  },
@@ -1660,11 +1695,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuhwsLRRk4mdVUBibe2OElh0ffLcG5Bvdngx9newK_yZOjUxz1SuZEkiOyYo9Xz3gzg-UprYD3wOsbLJb3IGpKQ/256fx256f",
   "stickers": {
    "high grade": [
+    "nex",
     "niko",
-    "spiidi",
     "chrisj",
     "denis",
-    "nex"
+    "spiidi"
    ]
   }
  },
@@ -1675,8 +1710,8 @@
    "high grade": [
     "s1mple",
     "guardian",
-    "flamie",
     "edward",
+    "flamie",
     "seized"
    ]
   }
@@ -1686,10 +1721,10 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLKwVBv_T8cwYy1vWeJW5D6orildnTlq-ga-yIkzMDvJMg2bCT9tul3AWy_EVofSmtc3pMizym/256fx256f",
   "stickers": {
    "high grade": [
-    "guardian",
     "zeus",
     "edward",
     "flamie",
+    "guardian",
     "seized"
    ]
   }
@@ -1701,8 +1736,8 @@
    "high grade": [
     "zeus",
     "guardian",
-    "seized",
     "edward",
+    "seized",
     "flamie"
    ]
   }
@@ -1713,8 +1748,8 @@
   "stickers": {
    "high grade": [
     "zeus",
-    "guardian",
     "edward",
+    "guardian",
     "flamie",
     "seized"
    ]
@@ -1727,8 +1762,8 @@
    "high grade": [
     "zeus",
     "guardian",
-    "edward",
     "flamie",
+    "edward",
     "seized"
    ]
   }
@@ -1738,11 +1773,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLKw1H-OmnKVY51_bLI2oTvN7gwoHTxa7yNu-Alz8D7pYmjuiQ8Nj2igLkrkRyIzekI91l_IA/256fx256f",
   "stickers": {
    "high grade": [
-    "f0rest",
     "getright",
+    "friberg",
     "xizt",
-    "allu",
-    "friberg"
+    "f0rest",
+    "allu"
    ]
   }
  },
@@ -1754,8 +1789,8 @@
     "getright",
     "f0rest",
     "friberg",
-    "allu",
-    "xizt"
+    "xizt",
+    "allu"
    ]
   }
  },
@@ -1765,10 +1800,10 @@
   "stickers": {
    "high grade": [
     "getright",
-    "f0rest",
-    "friberg",
     "xizt",
-    "pyth"
+    "f0rest",
+    "pyth",
+    "friberg"
    ]
   }
  },
@@ -1778,10 +1813,10 @@
   "stickers": {
    "high grade": [
     "getright",
-    "f0rest",
+    "pyth",
     "friberg",
-    "xizt",
-    "pyth"
+    "f0rest",
+    "xizt"
    ]
   }
  },
@@ -1804,9 +1839,9 @@
   "stickers": {
    "high grade": [
     "tarik",
+    "rush",
     "mixwell",
     "naf",
-    "rush",
     "stanislaw"
    ]
   }
@@ -1816,11 +1851,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJouaqxKEk50aPNIWhHvI6zldaNxqfwZ7qElz4GvsYi2OiY847321C38kZkMm_yOsbLJZ48rfnZ/256fx256f",
   "stickers": {
    "high grade": [
-    "mixwell",
-    "naf",
-    "rush",
     "daps",
-    "stanislaw"
+    "stanislaw",
+    "mixwell",
+    "rush",
+    "naf"
    ]
   }
  },
@@ -1829,11 +1864,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFFopL-rLgBh1_bbP2VD74rlxoTbxqT3auvSkj1Xupxy3OzH9tWl0Qexqkpva23zLIOdJlQgIQaHuPSm3Gg/256fx256f",
   "stickers": {
    "high grade": [
-    "spunj",
     "jks",
+    "azr",
     "yam",
     "havoc",
-    "azr"
+    "spunj"
    ]
   }
  },
@@ -1842,11 +1877,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRvCh1sHHUg8kdFNopbHrf1Y1hKbOcG9EvI7jktPTwKegZ72FwToH7ZV12u_E99qg0Ay3_Eo6MnezetEKxiFSlw/256fx256f",
   "stickers": {
    "high grade": [
+    "fer",
     "fox",
-    "fallen",
-    "coldzera",
     "taco",
-    "fer"
+    "fallen",
+    "coldzera"
    ]
   }
  },
@@ -1855,10 +1890,10 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJopbHrflU1hqKeIGsR6YjlwdaOkfakarjVwmgI7JAn2LDE89qm3VXk_RY5ZXezetFC0R16oQ/256fx256f",
   "stickers": {
    "high grade": [
+    "fer",
     "fallen",
     "coldzera",
     "fnx",
-    "fer",
     "taco"
    ]
   }
@@ -1869,10 +1904,10 @@
   "stickers": {
    "high grade": [
     "jasonr",
-    "davey",
-    "professorchaos",
     "abe",
-    "arya"
+    "professorchaos",
+    "arya",
+    "davey"
    ]
   }
  },
@@ -1881,11 +1916,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLIQ1Q-Ov1LVBkgavJcGRA6t3uzYLbxvGtZb7Xz2lT7MRyjriVrdqs3APi-0JyIzekcBu1t2U/256fx256f",
   "stickers": {
    "high grade": [
-    "tenzki",
     "pimp",
-    "msl",
     "kjaerbye",
-    "aizy"
+    "msl",
+    "aizy",
+    "tenzki"
    ]
   }
  },
@@ -1894,11 +1929,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJosrOiZVRm0aLLdzkWvI7kktWJk6P2a-jQkjNQuZUojr2UpY6nilDg_hBkYGjtZNjCxjA7b_c/256fx256f",
   "stickers": {
    "high grade": [
+    "rubino",
     "msl",
     "k0nfig",
     "tenzki",
-    "cajunb",
-    "rubino"
+    "cajunb"
    ]
   }
  },
@@ -1907,11 +1942,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFFos7igPxNs1r3Nc2gRuNmwxNeNwK-iY-mDlTsGvpUojuzH84mn0Qfg_kM5ZGz6cITBbEZgNpPBlu9F/256fx256f",
   "stickers": {
    "high grade": [
-    "rallen",
     "peet",
     "hyper",
+    "furlan",
     "gruby",
-    "furlan"
+    "rallen"
    ]
   }
  },
@@ -1922,8 +1957,8 @@
    "high grade": [
     "kennys",
     "happy",
-    "apex",
     "nbk",
+    "apex",
     "sixer"
    ]
   }
@@ -1934,9 +1969,9 @@
   "stickers": {
    "high grade": [
     "kennys",
-    "happy",
     "nbk",
     "apex",
+    "happy",
     "kioshima"
    ]
   }
@@ -1948,8 +1983,8 @@
    "high grade": [
     "kennys",
     "happy",
-    "apex",
     "nbk",
+    "apex",
     "kioshima"
    ]
   }
@@ -1961,9 +1996,9 @@
    "high grade": [
     "kennys",
     "happy",
+    "devil",
     "apex",
-    "nbk",
-    "devil"
+    "nbk"
    ]
   }
  },
@@ -1974,9 +2009,9 @@
    "high grade": [
     "kennys",
     "happy",
-    "apex",
     "nbk",
-    "devil"
+    "devil",
+    "apex"
    ]
   }
  },
@@ -1986,10 +2021,10 @@
   "stickers": {
    "high grade": [
     "james",
-    "emagine",
-    "rickeh",
+    "ustilo",
     "snyper",
-    "ustilo"
+    "emagine",
+    "rickeh"
    ]
   }
  },
@@ -2001,8 +2036,8 @@
     "scream",
     "fox",
     "rain",
-    "maikelele",
-    "dennis"
+    "dennis",
+    "maikelele"
    ]
   }
  },
@@ -2025,10 +2060,10 @@
   "stickers": {
    "high grade": [
     "elige",
-    "nitr0",
+    "fugly",
     "hiko",
     "adren",
-    "fugly"
+    "nitr0"
    ]
   }
  },
@@ -2038,10 +2073,10 @@
   "stickers": {
    "high grade": [
     "s1mple",
-    "elige",
-    "nitr0",
+    "hiko",
     "jdm64",
-    "hiko"
+    "elige",
+    "nitr0"
    ]
   }
  },
@@ -2052,9 +2087,9 @@
    "high grade": [
     "s1mple",
     "elige",
-    "hiko",
     "nitr0",
-    "adren"
+    "adren",
+    "hiko"
    ]
   }
  },
@@ -2063,11 +2098,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLMRdYurXrL1Zkg6DOJmxDtdm0kdPczq6tZeuHlzgGuZUhj-yRotqm0Qbl-UI5MXezetHDMhkVVA/256fx256f",
   "stickers": {
    "high grade": [
-    "device",
     "xyp9x",
-    "karrigan",
+    "device",
     "dupreeh",
-    "cajunb"
+    "cajunb",
+    "karrigan"
    ]
   }
  },
@@ -2077,9 +2112,9 @@
   "stickers": {
    "high grade": [
     "device",
+    "xyp9x",
     "karrigan",
     "dupreeh",
-    "xyp9x",
     "cajunb"
    ]
   }
@@ -2092,8 +2127,8 @@
     "scream",
     "shox",
     "ex6tenz",
-    "rpk",
-    "smithzz"
+    "smithzz",
+    "rpk"
    ]
   }
  },
@@ -2103,10 +2138,10 @@
   "stickers": {
    "high grade": [
     "maniac",
+    "ex6tenz",
     "shox",
-    "smithzz",
     "rpk",
-    "ex6tenz"
+    "smithzz"
    ]
   }
  },
@@ -2115,11 +2150,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROi43Z2DAghLMwFP-L_3KlAwhaGaIW0WvY3nxYKJxaDwMr7Vk2pX7ZIi3OuSpdTx3QDi-hdyIzekpKH8ujk/256fx256f",
   "stickers": {
    "high grade": [
-    "gruby",
+    "peet",
     "hyper",
+    "gruby",
     "rallen",
-    "furlan",
-    "peet"
+    "furlan"
    ]
   }
  },
@@ -2129,8 +2164,8 @@
   "stickers": {
    "high grade": [
     "pashabiceps",
-    "snax",
     "neo",
+    "snax",
     "byali",
     "taz"
    ]
@@ -2143,9 +2178,9 @@
    "high grade": [
     "pashabiceps",
     "snax",
+    "taz",
     "neo",
-    "byali",
-    "taz"
+    "byali"
    ]
   }
  },
@@ -2167,11 +2202,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuh2MjdVg8kdFJooKrrKl5ihaWfJm4Xvd_nwtLZwPKgZOiCkm5SsZR33r3AoY_33wSwrUBtZHezetHn3LmZAw/256fx256f",
   "stickers": {
    "high grade": [
+    "snax",
     "pashabiceps",
     "neo",
-    "byali",
-    "snax",
-    "taz"
+    "taz",
+    "byali"
    ]
   }
  },
@@ -2180,17 +2215,17 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fROuhwsLRRk4mdVUBiay1ZVY00KLJcDtGu4nul9Tdx6KjMu3UlTsCvJdz07uVp9_02gTg_BVuam3tZNjCCnDoyy0/256fx256f",
   "stickers": {
    "high grade": [
-    "pashabiceps",
-    "snax",
     "neo",
-    "taz",
-    "byali"
+    "snax",
+    "pashabiceps",
+    "byali",
+    "taz"
    ]
   }
  },
  "battlefield 2042 sticker capsule": {
   "formattedName": "Battlefield 2042 Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHOI20WvuO1lZCYgvvxDLfQhGxUpsQl2L6Voojw0Ffjr0I4MG77co6WIw82Z1jT-VG2xujn05C9vc6cnCZ9-n513Js5_54/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHOI20WvuO1lZCYgvvxfbqFxDwFv8F00uqW8d3xiwPsrUtvMmD7IoaWcQY2Zl7YrFe_wL260MKi_MOePiOsZeo/256fx256f",
   "stickers": {
    "exotic": [
     "tornado chaos foil",
@@ -2199,92 +2234,92 @@
    ],
    "high grade": [
     "no pats",
-    "pac ai",
     "forty two",
+    "pac ai",
     "bf 2042",
     "mr chompy",
-    "ptfo",
     "knives out",
+    "ptfo",
     "battlefield portal",
     "ready for battle",
     "come here boy"
    ],
    "remarkable": [
     "no pats holo",
-    "wingsuit holo",
     "ready for battle holo",
+    "wingsuit holo",
     "ptfo holo"
    ]
   }
  },
  "berlin 2019 legends autograph capsule": {
   "formattedName": "Berlin 2019 Legends Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7Jqvumm5W7ct1mdbN9J7yjRqwqRFlNz_xLNeTJ1U_MwqF_VPrxrzpgsK078iYyyRj6HEltimJnBayn1gSORRnguVr/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7Jqvumm5W7ct1mafF946sjFLm8xJqNjrydtTAdQRrZgrW_QW2kru-h8C87szOmiQ3uSMn-z-DyMDJHlIp/256fx256f",
   "stickers": {
    "extraordinary": [
     "s1mple gold",
-    "device gold",
     "niko gold",
+    "device gold",
     "twistzz gold",
     "rain gold",
-    "jks gold",
-    "dupreeh gold",
-    "fallen gold",
-    "f0rest gold",
     "guardian gold",
-    "stewie2k gold",
-    "olofmeister gold",
-    "xyp9x gold",
-    "electronic gold",
-    "coldzera gold",
-    "getright gold",
-    "taco gold",
-    "golden gold",
-    "lekr0 gold",
-    "neo gold",
-    "elige gold",
-    "zeus gold",
+    "jks gold",
     "fer gold",
+    "olofmeister gold",
+    "f0rest gold",
+    "fallen gold",
+    "stewie2k gold",
+    "coldzera gold",
+    "azr gold",
+    "dupreeh gold",
+    "neo gold",
+    "golden gold",
+    "elige gold",
+    "getright gold",
+    "lekr0 gold",
+    "naf gold",
     "magisk gold",
-    "lucas1 gold",
-    "liazz gold",
+    "zeus gold",
+    "electronic gold",
+    "xyp9x gold",
+    "taco gold",
     "aleksib gold",
+    "liazz gold",
     "rez gold",
     "gla1ve gold",
-    "boombl4 gold",
-    "nitr0 gold",
     "allu gold",
-    "naf gold",
+    "lucas1 gold",
+    "nitr0 gold",
     "jkaem gold",
     "aerial gold",
-    "azr gold",
     "xseven gold",
-    "flamie gold",
+    "sergej gold",
+    "boombl4 gold",
     "gratisfaction gold",
-    "sergej gold"
+    "flamie gold"
    ],
    "remarkable": [
     "niko foil",
-    "twistzz foil",
     "s1mple foil",
+    "twistzz foil",
+    "jks foil",
     "device foil",
     "fallen foil",
     "rain foil",
-    "jks foil",
-    "lucas1 foil",
-    "getright foil",
-    "liazz foil"
+    "fer foil",
+    "neo foil",
+    "lucas1 foil"
    ]
   }
  },
  "berlin 2019 legends holofoil": {
   "formattedName": "Berlin 2019 Legends (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0m_LzNrXVhVRd6dd2j6eSpt6l2wa3qBY9ZGryJISVcgY3Yg2G-1Lokui80ZS97ZTOySNmvick-z-DyHhpzwaN/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0m_LzNrXVhSUCu5ch2bvC9on03wfl-0FsY2n6J9PDcwVoMl6DrlO_kOfohce5uJrP1zI97TMT-c_9/256fx256f",
   "stickers": {
    "exotic": [
     "faze clan foil",
-    "ninjas in pyjamas foil",
     "astralis foil",
+    "ninjas in pyjamas foil",
     "natus vincere foil",
     "mibr foil",
     "team liquid foil",
@@ -2293,79 +2328,79 @@
     "starladder foil"
    ],
    "remarkable": [
+    "natus vincere holo",
     "faze clan holo",
     "mibr holo",
-    "natus vincere holo",
     "astralis holo",
     "ninjas in pyjamas holo",
     "ence holo",
     "team liquid holo",
-    "starladder holo",
-    "renegades holo"
+    "renegades holo",
+    "starladder holo"
    ]
   }
  },
  "berlin 2019 minor challengers autograph capsule": {
   "formattedName": "Berlin 2019 Minor Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7JqvulWRf_MB_juzT5rP5iUazrl0-Mjymd4GcdgU5NFHT81O8xOjt18Ltv8udmiZiuSkr5H7Ulka2gB0ecKUx0k0KoE3C/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7JqvulWRf_MB_juzT5sL3iVGxqERlZ2r0cY-WewQ8ZF7SqAXvwri71sK9v5TAyHNqs3Mj5HqPgVXp1vkVsfBs/256fx256f",
   "stickers": {
    "extraordinary": [
     "dickstacy gold",
+    "kngv gold",
+    "cerq gold",
     "ropz gold",
     "art gold",
-    "frozen gold",
     "somebody gold",
+    "frozen gold",
+    "forester gold",
     "summer gold",
-    "kngv gold",
-    "attacker gold",
+    "yel gold",
     "freeman gold",
-    "karrigan gold",
     "hunter gold",
+    "karrigan gold",
     "chelo gold",
-    "perfecto gold",
+    "attacker gold",
+    "kinqie gold",
+    "dexter gold",
     "sico gold",
     "bntet gold",
-    "cerq gold",
-    "kinqie gold",
     "chrisj gold",
-    "forester gold",
+    "woxic gold",
+    "perfecto gold",
+    "jerry gold",
+    "kscerato gold",
+    "nealan gold",
+    "facecrack gold",
     "tarik gold",
     "ethan gold",
-    "malta gold",
-    "woxic gold",
-    "nealan gold",
-    "dexter gold",
-    "kscerato gold",
-    "jerry gold",
-    "letn1 gold",
-    "ottond gold",
-    "facecrack gold",
-    "aizy gold",
-    "brehze gold",
-    "keoz gold",
-    "ramz1kbo gold",
     "destiny gold",
-    "yuurih gold",
-    "espiranto gold",
+    "malta gold",
+    "nexa gold",
     "kjaerbye gold",
-    "speed4k gold",
+    "ottond gold",
+    "aizy gold",
+    "xand gold",
+    "letn1 gold",
+    "yuurih gold",
+    "ramz1kbo gold",
+    "erkast gold",
     "t0rick gold",
     "svyat gold",
-    "nexa gold",
-    "xsepower gold",
-    "jugi gold",
-    "stanislaw gold",
-    "yel gold",
-    "fl1t gold",
+    "espiranto gold",
+    "krad gold",
+    "almazer gold",
     "gade gold",
-    "v4lde gold",
-    "almazer gold"
+    "fl1t gold",
+    "keoz gold",
+    "jugi gold",
+    "speed4k gold",
+    "vini gold"
    ]
   }
  },
  "berlin 2019 minor challengers holofoil": {
   "formattedName": "Berlin 2019 Minor Challengers (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0lPj6J77fkm5D-_p9i_vG8MKs3wW2-kBtZGClcYfDdFNqM1CB81C3lei80ZHuu5-bynJluHR05yqMgVXp1v9P5g4k/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0lPj6J77fkm5D-4so3bjDpN-k3w2yrkI6ZTyndo7Eewc3NV6Drlbsxuy9hpa6vsmfyycypGB8suuDYvF_/256fx256f",
   "stickers": {
    "exotic": [
     "tyloo foil",
@@ -2373,60 +2408,60 @@
     "cr4zy foil",
     "syman gaming foil",
     "forze esports foil",
-    "dreameaters foil",
-    "furia foil",
     "nrg foil",
     "north foil",
-    "intz esports club foil",
+    "dreameaters foil",
     "grayhound gaming foil",
+    "furia foil",
+    "intz esports club foil",
     "starladder foil"
    ],
    "remarkable": [
     "tyloo holo",
+    "grayhound gaming holo",
     "mousesports holo",
-    "furia holo",
     "cr4zy holo",
-    "north holo",
-    "syman gaming holo",
-    "dreameaters holo",
-    "starladder holo",
-    "intz esports club holo",
     "nrg holo",
+    "furia holo",
+    "dreameaters holo",
+    "syman gaming holo",
+    "north holo",
     "forze esports holo",
-    "grayhound gaming holo"
+    "intz esports club holo",
+    "starladder holo"
    ]
   }
  },
  "berlin 2019 returning challengers autograph capsule": {
   "formattedName": "Berlin 2019 Returning Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7JqvulWNQ5Ml0hO7E55_KhFWmrBZyZDr0cYDDJABrZQnRqQC4xevohpe8uM7OwHA17ycj7S3fzh3mhR9MOvsv26Ldi-WrtQ/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0kOX7JqvulWNQ5Ml0hO7E55-731fjrkU6NW-mINeUIVc4ZV3X-VC-xb3ojJTq6ZrIwSBh6yhz4Xjdywv330-4zf1YeQ/256fx256f",
   "stickers": {
    "extraordinary": [
     "kennys gold",
     "zywoo gold",
     "lucky gold",
     "jame gold",
+    "obo gold",
+    "oskar gold",
+    "issaa gold",
+    "jackz gold",
+    "sanji gold",
+    "rickeh gold",
     "shox gold",
     "apex gold",
-    "obo gold",
-    "nbk gold",
-    "jackz gold",
-    "qikert gold",
-    "issaa gold",
-    "oskar gold",
-    "ange1 gold",
-    "sanji gold",
-    "sick gold",
-    "adren gold",
-    "amanek gold",
-    "lowel gold",
-    "dephh gold",
-    "deadfox gold",
-    "rpk gold",
-    "shahzam gold",
-    "buster gold",
     "alex gold",
-    "rickeh gold"
+    "sick gold",
+    "shahzam gold",
+    "lowel gold",
+    "deadfox gold",
+    "adren gold",
+    "qikert gold",
+    "nbk gold",
+    "rpk gold",
+    "dephh gold",
+    "ange1 gold",
+    "amanek gold",
+    "buster gold"
    ],
    "remarkable": [
     "kennys foil",
@@ -2434,32 +2469,32 @@
     "zywoo foil",
     "jame foil",
     "obo foil",
-    "shox foil",
-    "apex foil",
-    "nbk foil",
-    "jackz foil",
     "sick foil",
-    "deadfox foil",
     "issaa foil",
-    "oskar foil",
-    "amanek foil",
-    "alex foil",
-    "buster foil",
+    "shox foil",
+    "nbk foil",
+    "apex foil",
     "sanji foil",
-    "qikert foil",
-    "rpk foil",
-    "shahzam foil",
-    "ange1 foil",
+    "amanek foil",
     "adren foil",
+    "shahzam foil",
+    "alex foil",
     "lowel foil",
-    "dephh foil",
-    "rickeh foil"
+    "buster foil",
+    "jackz foil",
+    "deadfox foil",
+    "rickeh foil",
+    "oskar foil",
+    "rpk foil",
+    "qikert foil",
+    "ange1 foil",
+    "dephh foil"
    ]
   }
  },
  "berlin 2019 returning challengers holofoil": {
   "formattedName": "Berlin 2019 Returning Challengers (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0lP_1P7fUmGxU-tZOhujT8om72QXh_hE-YDzzLY_HcVJtaAyCr1K-lOa7hcS07c_KzHFkuCEk5X3czAv330_5MjkhaQ/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYzFL4o7mxdm0lP_1P7fUmGxU-tY_27iUoI7321Hk8ko-YD2gLdLHJwU-NFCE-gO2kLzsgJW7vpzPyXBi6T5iuyjNNpzpWg/256fx256f",
   "stickers": {
    "exotic": [
     "hellraisers foil",
@@ -2473,27 +2508,27 @@
     "hellraisers holo",
     "avangar holo",
     "g2 esports holo",
-    "complexity gaming holo",
     "vitality holo",
+    "complexity gaming holo",
     "starladder holo"
    ]
   }
  },
  "bestiary capsule": {
   "formattedName": "Bestiary Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYilL7c6vq4OKh-ThP77ummpD78A_ibrD8N2g2AHn8ko-Mm31I4eXdwFsMw6D-lW6yO7mhZ_utczMyHcw7z5iuygpUzRPEA/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHNYilL7c6vq4OKh-ThP76flThT7ZQk2rySrNX3iQDi_EJuZm6hdtDGcgI6aFjZ-ljsyL_qhJPv6YOJlyUdAXQqRA/256fx256f",
   "stickers": {
    "exotic": [
     "basilisk foil",
-    "dragon foil",
-    "phoenix reborn foil"
+    "phoenix reborn foil",
+    "dragon foil"
    ],
    "high grade": [
-    "basilisk",
     "phoenix reborn",
-    "dragon",
+    "basilisk",
     "pegasus",
     "sphinx",
+    "dragon",
     "manticore",
     "hippocamp"
    ],
@@ -2510,58 +2545,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7Jqvumm5W7ct1mdbP4Zq72AHg80s-Nm7wINCdewNtZ1rR_QO4xu6-gMC6vc7Om3Nqs3V35XnenAv330_GpgijxA/256fx256f",
   "stickers": {
    "extraordinary": [
-    "flusha gold",
-    "device gold",
     "keev gold",
-    "pashabiceps gold",
-    "fallen gold",
-    "snax gold",
-    "coldzera gold",
+    "flusha gold",
     "kjaerbye gold",
-    "adren gold",
+    "device gold",
+    "snax gold",
+    "fallen gold",
+    "neo gold",
+    "felps gold",
     "hobbit gold",
+    "pashabiceps gold",
     "jw gold",
-    "dosia gold",
+    "adren gold",
     "msl gold",
+    "coldzera gold",
+    "legija gold",
     "gla1ve gold",
     "k0nfig gold",
-    "taco gold",
-    "felps gold",
-    "krimz gold",
-    "neo gold",
+    "nex gold",
     "v4lde gold",
+    "krimz gold",
     "golden gold",
     "gob b gold",
+    "dosia gold",
+    "taco gold",
     "tabsen gold",
-    "byali gold",
-    "fitch gold",
     "taz gold",
+    "fitch gold",
+    "byali gold",
+    "mou gold",
     "xyp9x gold",
     "aizy gold",
-    "lekr0 gold",
-    "mou gold",
-    "legija gold",
     "cajunb gold",
-    "dupreeh gold",
-    "nex gold",
-    "fer gold"
+    "fer gold",
+    "lekr0 gold",
+    "dupreeh gold"
    ],
    "remarkable": [
-    "lekr0 foil",
     "device foil",
+    "lekr0 foil",
     "msl foil",
     "flusha foil",
-    "dupreeh foil",
     "fallen foil",
-    "snax foil",
-    "pashabiceps foil",
-    "v4lde foil",
     "keev foil",
-    "coldzera foil",
-    "taco foil",
-    "cajunb foil",
+    "pashabiceps foil",
+    "fer foil",
+    "dupreeh foil",
+    "dosia foil",
     "k0nfig foil",
-    "hobbit foil"
+    "nex foil",
+    "mou foil",
+    "gla1ve foil",
+    "cajunb foil"
    ]
   }
  },
@@ -2571,8 +2606,8 @@
   "stickers": {
    "exotic": [
     "astralis foil",
-    "sk gaming foil",
     "north foil",
+    "sk gaming foil",
     "fnatic foil",
     "virtuspro foil",
     "big foil",
@@ -2581,11 +2616,11 @@
    ],
    "remarkable": [
     "astralis holo",
-    "gambit esports holo",
     "virtuspro holo",
+    "gambit esports holo",
+    "north holo",
     "sk gaming holo",
     "fnatic holo",
-    "north holo",
     "big holo",
     "eleague holo"
    ]
@@ -2596,24 +2631,24 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7Jqvumm5W7ct1maeUpN_zjQK3_kJvZT2lJoKWd1I_aQvXq1W5xOi8gp-7tc7NynBrvSIl-z-DyA0IGHvw/256fx256f",
   "stickers": {
    "extraordinary": [
-    "fnx gold",
+    "kngv gold",
     "lucas1 gold",
     "bit gold",
-    "kngv gold",
-    "hen1 gold"
+    "hen1 gold",
+    "fnx gold"
    ],
    "high grade": [
+    "bit",
     "fnx",
     "hen1",
-    "lucas1",
-    "bit",
-    "kngv"
+    "kngv",
+    "lucas1"
    ],
    "remarkable": [
     "fnx foil",
     "lucas1 foil",
-    "kngv foil",
     "hen1 foil",
+    "kngv foil",
     "bit foil"
    ]
   }
@@ -2635,25 +2670,25 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7JqvulWRf_MB_juzT5sKkjVKy_Uc_ZjjycdLDIQU-NV6EqwW_wrrrgZbvvZ3OyiZluCgis32LgVXp1u2ZbG5Y/256fx256f",
   "stickers": {
    "extraordinary": [
-    "dd gold",
     "bondik gold",
-    "captainmo gold",
+    "somebody gold",
     "bntet gold",
-    "somebody gold"
+    "dd gold",
+    "captainmo gold"
    ],
    "high grade": [
-    "somebody",
-    "captainmo",
     "dd",
+    "captainmo",
+    "somebody",
     "bntet",
     "bondik"
    ],
    "remarkable": [
+    "captainmo foil",
     "dd foil",
     "somebody foil",
     "bntet foil",
-    "bondik foil",
-    "captainmo foil"
+    "bondik foil"
    ]
   }
  },
@@ -2674,60 +2709,60 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7JqvulWRf_MB_juzT5rPzhFP6_EFsYm2mJoSTdwY5ZQyErgfrk-7t1pG778vPynNivil3sXfclkPh1wYMMLIFG2n7_Q/256fx256f",
   "stickers": {
    "exotic": [
+    "summer gold",
     "loveyy gold",
-    "attacker gold",
     "karsa gold",
-    "kaze gold",
-    "summer gold"
+    "attacker gold",
+    "kaze gold"
    ],
    "extraordinary": [
     "balblna gold",
-    "xantares gold",
-    "scream gold",
-    "dimasick gold",
-    "azr gold",
-    "jame gold",
     "devoduvek gold",
+    "jks gold",
+    "scream gold",
+    "xantares gold",
+    "elige gold",
+    "dimasick gold",
+    "jame gold",
     "ustilo gold",
     "rpk gold",
+    "waterfallz gold",
     "nitr0 gold",
     "krizzen gold",
-    "calyx gold",
-    "amanek gold",
     "paz gold",
+    "amanek gold",
+    "calyx gold",
     "boombl4 gold",
     "stanislaw gold",
-    "ngin gold",
     "nifty gold",
+    "ngin gold",
     "sick gold",
     "shahzam gold",
     "kvik gold",
     "maj3r gold",
+    "azr gold",
     "buster gold",
     "qikert gold",
     "twistzz gold",
-    "jks gold",
-    "naf gold",
     "sixer gold",
-    "elige gold",
-    "xms gold",
-    "jdm64 gold",
-    "seangres gold",
-    "jmqa gold",
     "happy gold",
-    "waterfallz gold"
+    "jdm64 gold",
+    "naf gold",
+    "xms gold",
+    "seangres gold",
+    "jmqa gold"
    ],
    "remarkable": [
-    "twistzz foil",
     "seangres foil",
+    "twistzz foil",
     "scream foil",
-    "happy foil",
     "summer foil",
-    "kaze foil",
-    "loveyy foil",
     "jks foil",
+    "loveyy foil",
+    "happy foil",
+    "naf foil",
     "elige foil",
-    "dimasick foil"
+    "kaze foil"
    ]
   }
  },
@@ -2739,10 +2774,10 @@
     "team liquid foil",
     "flash gaming foil",
     "avangar foil",
-    "space soldiers foil",
     "team envyus foil",
-    "renegades foil",
+    "space soldiers foil",
     "misfits gaming foil",
+    "renegades foil",
     "quantum bellator fire foil"
    ],
    "remarkable": [
@@ -2750,8 +2785,8 @@
     "avangar holo",
     "team liquid holo",
     "team envyus holo",
-    "space soldiers holo",
     "quantum bellator fire holo",
+    "space soldiers holo",
     "misfits gaming holo",
     "renegades holo"
    ]
@@ -2762,58 +2797,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PHHYilN4o7mxdi0kOX7JqvulWNQ5Ml0hO7E55-72FHjrxdramn2I9OdIAM7Y13Z_VC7lb-6hZG8uM7MmnswvXYnsXfamgv33091Y64WxQ/256fx256f",
   "stickers": {
    "extraordinary": [
-    "ropz gold",
     "kennys gold",
-    "shox gold",
     "skadoodle gold",
-    "niko gold",
-    "apex gold",
     "rush gold",
+    "apex gold",
     "karrigan gold",
-    "styko gold",
     "spiidi gold",
+    "styko gold",
     "tarik gold",
     "electronic gold",
+    "guardian gold",
     "olofmeister gold",
-    "zehn gold",
     "nbk gold",
     "jr gold",
-    "chopper gold",
+    "flamie gold",
+    "krystal gold",
+    "zehn gold",
+    "sunny gold",
+    "innocent gold",
+    "zeus gold",
     "edward gold",
     "bodyy gold",
     "waylander gold",
-    "krystal gold",
     "mir gold",
-    "oskar gold",
-    "autimatic gold",
     "denis gold",
+    "oskar gold",
+    "chopper gold",
     "markeloff gold",
-    "zeus gold",
-    "worldedit gold",
-    "innocent gold",
     "b1ad3 gold",
+    "worldedit gold",
+    "shox gold",
+    "s1mple gold",
     "stewie2k gold",
-    "flamie gold",
-    "sunny gold",
-    "chrisj gold",
+    "ropz gold",
     "rain gold",
     "keshandr gold",
-    "s1mple gold",
+    "hutji gold",
     "seized gold",
-    "guardian gold",
-    "hutji gold"
+    "autimatic gold",
+    "chrisj gold",
+    "niko gold"
    ],
    "remarkable": [
-    "stewie2k foil",
-    "kennys foil",
     "keshandr foil",
+    "stewie2k foil",
     "niko foil",
+    "kennys foil",
     "s1mple foil",
     "skadoodle foil",
     "ropz foil",
-    "rain foil",
-    "autimatic foil",
-    "tarik foil"
+    "rush foil",
+    "tarik foil",
+    "rain foil"
    ]
   }
  },
@@ -2823,21 +2858,21 @@
   "stickers": {
    "exotic": [
     "cloud9 foil",
+    "sprout esports foil",
     "faze clan foil",
     "flipsid3 tactics foil",
-    "sprout esports foil",
-    "g2 esports foil",
-    "mousesports foil",
     "vega squadron foil",
+    "mousesports foil",
+    "g2 esports foil",
     "natus vincere foil"
    ],
    "remarkable": [
     "cloud9 holo",
     "faze clan holo",
-    "flipsid3 tactics holo",
     "mousesports holo",
-    "sprout esports holo",
+    "flipsid3 tactics holo",
     "vega squadron holo",
+    "sprout esports holo",
     "natus vincere holo",
     "g2 esports holo"
    ]
@@ -2853,22 +2888,22 @@
    ],
    "high grade": [
     "bukawp",
+    "hot wings",
     "big clucks",
     "bonehead",
-    "fowl play",
-    "hot wings",
-    "nest egg",
     "what what",
+    "fowl play",
+    "nest egg",
+    "heads up",
     "roosty boosty",
-    "double dip",
-    "heads up"
+    "double dip"
    ],
    "remarkable": [
     "hot wings holo",
     "fowl play holo",
+    "nest egg holo",
     "bonehead holo",
-    "double dip holo",
-    "nest egg holo"
+    "double dip holo"
    ]
   }
  },
@@ -2883,18 +2918,18 @@
     "faze clan foil",
     "mousesports foil",
     "team envyus foil",
-    "g2 esports foil",
-    "gambit gaming foil"
+    "gambit gaming foil",
+    "g2 esports foil"
    ],
    "remarkable": [
     "team dignitas holo",
-    "mousesports holo",
     "optic gaming holo",
-    "flipsid3 tactics holo",
     "faze clan holo",
+    "flipsid3 tactics holo",
+    "mousesports holo",
     "team envyus holo",
-    "g2 esports holo",
-    "gambit gaming holo"
+    "gambit gaming holo",
+    "g2 esports holo"
    ]
   }
  },
@@ -2906,17 +2941,17 @@
     "counter logic gaming foil",
     "team liquid foil",
     "astralis foil",
-    "sk gaming foil",
     "virtuspro foil",
+    "sk gaming foil",
     "fnatic foil",
     "ninjas in pyjamas foil",
     "natus vincere foil",
     "esl foil"
    ],
    "remarkable": [
-    "team liquid holo",
     "sk gaming holo",
     "counter logic gaming holo",
+    "team liquid holo",
     "astralis holo",
     "virtuspro holo",
     "fnatic holo",
@@ -2928,7 +2963,7 @@
  },
  "community capsule 2018": {
   "formattedName": "Community Capsule 2018",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDAQvI3uq9DaqPT1I6jEmm5u5MRjjeyP9o3z2Abs-ks6Nm3zI4-XelM9NAvR_VK6xui60ZW46MmYyCdluiBwt2GdwUJeXg834g/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDAQvI3uq9DaqPT1I6jEmm4f68R32ruZpNTzjQDk_EpuazzwcdWUdQU6Zl6FrlK6lbq-hMO6vJ2bm2wj5HfVqNDQsQ/256fx256f",
   "stickers": {
    "exotic": [
     "bullet rain foil",
@@ -2936,8 +2971,8 @@
    ],
    "high grade": [
     "friendly fire",
-    "bullet rain",
     "small arms",
+    "bullet rain",
     "entry fragger",
     "devouring flame",
     "camper",
@@ -2967,17 +3002,17 @@
     "rising skull",
     "my other awp",
     "death comes",
-    "llama cannon",
+    "burn them all",
     "shave master",
-    "sneaky beaky like",
+    "llama cannon",
     "backstab",
+    "sneaky beaky like",
     "pocket bbq",
-    "to b or not to b",
-    "burn them all"
+    "to b or not to b"
    ],
    "remarkable": [
-    "rekt holo",
-    "teamwork holo"
+    "teamwork holo",
+    "rekt holo"
    ]
   }
  },
@@ -2992,21 +3027,21 @@
    ],
    "high grade": [
     "nuke beast",
+    "surfs up",
+    "obey sas",
     "pixel avenger",
     "friend code",
-    "too old for this",
-    "surfs up",
     "aztec",
+    "too old for this",
     "separate pixels",
-    "obey sas",
     "too late",
     "mondays",
     "temperance"
    ],
    "remarkable": [
+    "fire in the hole holo",
     "rush 4x20 holo",
     "boost holo",
-    "fire in the hole holo",
     "cs20 classic holo",
     "clutchman holo",
     "guinea pig holo"
@@ -3015,21 +3050,21 @@
  },
  "dreamhack 2014 legends holofoil": {
   "formattedName": "DreamHack 2014 Legends (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PfAZm8SvYiJxNG0m_bmNL6fkjkCscAhi-3A8dij21Ky80dpMWz2ctKRegA6ZFzTrgO7ku7qjcPquoOJlyXv9bXSKA/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PfAZm8SvYiJxNHFk6Wnar6Bl29Q7JEn2e_HrdigigHhrRdoa2_3IYKWJlQ7MljV8gTox_Cv28H9cP96DA/256fx256f",
   "stickers": {
    "exotic": [
     "team dignitas foil",
-    "cloud9 foil",
-    "fnatic foil",
-    "natus vincere foil",
-    "dreamhack winter 2014 foil",
     "ninjas in pyjamas foil",
-    "virtuspro foil"
+    "cloud9 foil",
+    "dreamhack winter 2014 foil",
+    "fnatic foil",
+    "virtuspro foil",
+    "natus vincere foil"
    ],
    "remarkable": [
     "cloud9 holo",
-    "team dignitas holo",
     "fnatic holo",
+    "team dignitas holo",
     "natus vincere holo",
     "virtuspro holo",
     "ninjas in pyjamas holo"
@@ -3043,11 +3078,11 @@
    "exotic": [
     "titan foil",
     "team dignitas foil",
-    "cloud9 foil",
-    "counter logic gaming foil",
     "team liquid foil",
+    "cloud9 foil",
     "mousesports foil",
     "flipsid3 tactics foil",
+    "counter logic gaming foil",
     "vexed gaming foil"
    ]
   }
@@ -3057,14 +3092,14 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDEZDcQvI3jq9Da2fWhMrqBkD9TsZx1ib3F9o332QDlrRJqNzqnIIOdcAU_ZVjS8gW2ye3xxcjrugDBGBI/256fx256f",
   "stickers": {
    "exotic": [
-    "luminosity gaming foil",
     "dreamhack foil",
+    "luminosity gaming foil",
     "team envyus foil",
     "g2 esports foil",
+    "ninjas in pyjamas foil",
     "natus vincere foil",
     "virtuspro foil",
     "fnatic foil",
-    "ninjas in pyjamas foil",
     "team solomid foil"
    ]
   }
@@ -3079,12 +3114,12 @@
    "high grade": [
     "vox eminor",
     "natus vincere",
-    "mousesports",
     "virtuspro",
-    "clanmystik",
+    "mousesports",
     "3dmax",
-    "reason gaming",
-    "ibuypower"
+    "clanmystik",
+    "ibuypower",
+    "reason gaming"
    ],
    "remarkable": [
     "vox eminor holo",
@@ -3106,19 +3141,19 @@
     "esl skull foil"
    ],
    "high grade": [
+    "team ldlccom",
     "team dignitas",
     "lgb esports",
     "fnatic",
-    "hellraisers",
     "ninjas in pyjamas",
+    "hellraisers",
     "complexity gaming",
-    "team ldlccom",
     "titan"
    ],
    "remarkable": [
+    "fnatic holo",
     "complexity gaming holo",
     "team dignitas holo",
-    "fnatic holo",
     "hellraisers holo",
     "team ldlccom holo",
     "lgb esports holo",
@@ -3129,21 +3164,21 @@
  },
  "enfu sticker capsule": {
   "formattedName": "Enfu Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PbGdyh9792mh5WHksj4MqnWkyUBupNz3ruYod_2i1fsqBI-ZWzycdTGIFQ4NFiBrlK7l7zs0ZO_78mf1zI97ZyIySKo/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PbGdyh9792mh5WHkrmkYe3TwjkIvJZyieqZ9o333gHlrhE_MTv1cYbEJgU7NwrTrlS9krq5m9bi62Q_e5lE/256fx256f",
   "stickers": {
    "exotic": [
     "silent ninja foil",
     "bombsquad foil"
    ],
    "high grade": [
-    "unicorn",
     "skulltorgeist",
-    "skull lil boney",
+    "unicorn",
     "chabo",
-    "the spartan",
+    "skull lil boney",
     "the samurai",
-    "the zombie",
+    "the spartan",
     "the guru",
+    "the zombie",
     "silent ninja",
     "salute",
     "skull troop",
@@ -3166,22 +3201,22 @@
     "titan",
     "london conspiracy",
     "vox eminor",
-    "natus vincere",
     "epsilon esports",
+    "natus vincere",
     "dat team",
     "mts gamegod wolf",
     "copenhagen wolves"
    ],
    "remarkable": [
     "ibuypower holo",
-    "dat team holo",
     "titan holo",
     "london conspiracy holo",
+    "dat team holo",
     "vox eminor holo",
-    "natus vincere holo",
     "copenhagen wolves holo",
-    "mts gamegod wolf holo",
-    "epsilon esports holo"
+    "natus vincere holo",
+    "epsilon esports holo",
+    "mts gamegod wolf holo"
    ]
   }
  },
@@ -3197,8 +3232,8 @@
     "team ldlccom",
     "cloud9",
     "hellraisers",
-    "fnatic",
     "virtuspro",
+    "fnatic",
     "ninjas in pyjamas"
    ],
    "remarkable": [
@@ -3218,13 +3253,13 @@
   "stickers": {
    "exotic": [
     "titan foil",
-    "flipsid3 tactics foil",
     "cloud9 g2a foil",
-    "team kinguin foil",
+    "flipsid3 tactics foil",
     "counter logic gaming foil",
+    "team kinguin foil",
     "team immunity foil",
-    "renegades foil",
-    "team ebettle foil"
+    "team ebettle foil",
+    "renegades foil"
    ]
   }
  },
@@ -3235,11 +3270,11 @@
    "exotic": [
     "luminosity gaming foil",
     "mousesports foil",
-    "team envyus foil",
-    "team solomid foil",
     "virtuspro foil",
-    "natus vincere foil",
+    "team envyus foil",
     "fnatic foil",
+    "team solomid foil",
+    "natus vincere foil",
     "ninjas in pyjamas foil",
     "esl foil"
    ]
@@ -3252,22 +3287,22 @@
    "exotic": [
     "lgb esports foil",
     "titan foil",
-    "vox eminor foil",
     "3dmax foil",
+    "vox eminor foil",
     "cloud9 g2a foil",
     "counter logic gaming foil",
     "flipsid3 tactics foil",
     "keyd stars foil"
    ],
    "remarkable": [
+    "vox eminor holo",
     "titan holo",
+    "lgb esports holo",
     "flipsid3 tactics holo",
     "cloud9 g2a holo",
-    "lgb esports holo",
-    "keyd stars holo",
     "counter logic gaming holo",
     "3dmax holo",
-    "vox eminor holo"
+    "keyd stars holo"
    ]
   }
  },
@@ -3276,11 +3311,11 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PbbfTZD-NOhnYOOxaelZoSBxyUE65Ih377H99jx3lHm-xJlazigJIGWI1NsZFyC_AW2xefo0ZfuuJ6Y1zI97Q8etil9/256fx256f",
   "stickers": {
    "exotic": [
-    "natus vincere foil",
     "hellraisers foil",
+    "natus vincere foil",
+    "team envyus foil",
     "virtuspro foil",
     "fnatic foil",
-    "team envyus foil",
     "ninjas in pyjamas foil",
     "tsm kinguin foil",
     "esl one foil",
@@ -3289,18 +3324,18 @@
    "remarkable": [
     "natus vincere holo",
     "virtuspro holo",
-    "fnatic holo",
     "hellraisers holo",
+    "fnatic holo",
     "tsm kinguin holo",
-    "ninjas in pyjamas holo",
     "team envyus holo",
+    "ninjas in pyjamas holo",
     "penta sports holo"
    ]
   }
  },
  "espionage sticker capsule": {
   "formattedName": "Espionage Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijdLbxaXLMLrBhX5d7fp9i_vG8ML23ALmrRE5NzimI4KTdlA4Z17YqVDrw7jphZC86c_OnXRnuyEl5yvfgVXp1uNg3n1a/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PDHfDBX4tWijdLbxaXLMLrBhX5d7Yty3r-T847wjFWx_EdqZz_1IoCdIQdrYw7W-le-lLzo0ZC4vZzOyyZhpGB8sv_3oFFS/256fx256f",
   "stickers": {
    "exotic": [
     "hidden hero foil",
@@ -3308,18 +3343,18 @@
     "peek me foil"
    ],
    "high grade": [
-    "zap cat",
     "run t run",
     "not a bot",
-    "explosive strength",
     "spectators",
-    "knifes edge",
-    "fireball",
-    "sting like a butterfly",
-    "batter up",
-    "well played",
+    "zap cat",
+    "explosive strength",
     "360 no scope",
-    "aim and fire"
+    "sting like a butterfly",
+    "well played",
+    "batter up",
+    "aim and fire",
+    "fireball",
+    "knifes edge"
    ],
    "remarkable": [
     "infinite triangle holo",
@@ -3342,10 +3377,10 @@
    ],
    "high grade": [
     "first blood",
-    "toxic",
-    "lurker",
     "cluck",
     "baited",
+    "lurker",
+    "toxic",
     "bite me",
     "one sting",
     "scavenger",
@@ -3356,14 +3391,14 @@
     "baited holo",
     "one sting holo",
     "cluck holo",
-    "free hugs holo",
-    "scavenger holo"
+    "scavenger holo",
+    "free hugs holo"
    ]
   }
  },
  "halflife alyx sticker capsule": {
   "formattedName": "Half-Life: Alyx Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PvEcDFb9OO1lZCYgvvxDLfQhGxUppcp3bHCrYjz3w2y80JlY2zxJ9DHJgQ7YlHW_VG2xOzqg8W7uM-ayyR9-n51PY2K7uk/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PvEcDFb9OO1lZCYgvvxfemJwTNSsMF33bDHrd2s2AHm-BU-N2v2J4-TdQY2ZFrV_AK5xby8h8Ci_MOe9Ip_AsM/256fx256f",
   "stickers": {
    "exotic": [
     "health gold",
@@ -3388,20 +3423,20 @@
  },
  "halo capsule": {
   "formattedName": "Halo Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PvJfTJ9792mh5WHksj4MqnWkyVTvcMgjriWrdms2le3_0A4MW7zLNLGcg85Yl2E_FLtlerp1pbpuZia1zI97aXmd-Zf/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PvJfTJ9792mh5WHkrn2Zr2AkjoGsJAo2OrCod_xigPk8xc_Y2D0J4PBdAVtNVzWqVHrxOu8m9bi6-b807xC/256fx256f",
   "stickers": {
    "exotic": [
     "legendary foil",
     "chief foil"
    ],
    "high grade": [
-    "killjoy",
-    "assassin",
-    "mister chief",
-    "extermination",
-    "dirty money",
-    "noble",
     "incineration",
+    "assassin",
+    "killjoy",
+    "mister chief",
+    "noble",
+    "dirty money",
+    "extermination",
     "legendary",
     "spartan",
     "chief"
@@ -3417,75 +3452,75 @@
  },
  "katowice 2019 legends autograph capsule": {
   "formattedName": "Katowice 2019 Legends Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsjzIbTEhlRd7cJ0hO3SyoD0mlOx5UNpZmqmcoGRJgc_Mw3Y-Fm_yOzpg8Pu6JWbyydkuCcltCvenEO20htSLrs4sTHHlx8/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsjzIbTEhlRd7cJ0hO3Su9yg3QexrURoN2jydtOdcA4_aFrW_ATslea9h8O7vprOmCZguXYjtnzD30vgnuEff8A/256fx256f",
   "stickers": {
    "extraordinary": [
     "s1mple gold",
     "niko gold",
     "device gold",
     "fallen gold",
-    "electronic gold",
     "twistzz gold",
-    "taco gold",
-    "flamie gold",
-    "rain gold",
-    "magisk gold",
-    "dupreeh gold",
-    "ange1 gold",
     "stewie2k gold",
-    "xantares gold",
-    "xyp9x gold",
+    "rain gold",
     "fer gold",
-    "coldzera gold",
-    "guardian gold",
-    "zeus gold",
-    "tabsen gold",
-    "hobbit gold",
-    "dephh gold",
-    "elige gold",
-    "tizian gold",
-    "gob b gold",
-    "issaa gold",
+    "dupreeh gold",
+    "magisk gold",
     "smooya gold",
+    "xantares gold",
     "olofmeister gold",
-    "gla1ve gold",
-    "n0thing gold",
+    "electronic gold",
+    "guardian gold",
+    "ange1 gold",
+    "coldzera gold",
+    "flamie gold",
+    "zeus gold",
+    "taco gold",
+    "dephh gold",
     "edward gold",
-    "naf gold",
+    "gla1ve gold",
+    "xyp9x gold",
+    "hobbit gold",
+    "issaa gold",
+    "gob b gold",
+    "tabsen gold",
+    "elige gold",
+    "deadfox gold",
+    "felps gold",
+    "tizian gold",
     "nitr0 gold",
+    "n0thing gold",
     "rickeh gold",
     "shahzam gold",
     "woxic gold",
-    "adren gold",
+    "naf gold",
     "stanislaw gold",
-    "felps gold",
-    "deadfox gold"
+    "adren gold"
    ],
    "remarkable": [
     "niko foil",
     "s1mple foil",
     "twistzz foil",
     "device foil",
-    "electronic foil",
     "stewie2k foil",
     "rain foil",
+    "electronic foil",
+    "ange1 foil",
     "fallen foil",
-    "xantares foil",
-    "smooya foil"
+    "woxic foil"
    ]
   }
  },
  "katowice 2019 legends holofoil": {
   "formattedName": "Katowice 2019 Legends (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj4NrzUmG9C18lwmO7Eu47221XsqEc_Z2z3d9SUdQc7NFvQqQS_wrrojZHq7cyanScyuikhtCvD30vggYzdAQY/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj4NrzUmG9Cpsdy2eiZ9tj23AHgqBFtZGj2cYWVIVM_YgzX8lbokL-80cPtvJTKmCZ9-n51OhUzvDk/256fx256f",
   "stickers": {
    "exotic": [
+    "faze clan foil",
     "complexity gaming foil",
     "hellraisers foil",
-    "faze clan foil",
-    "astralis foil",
     "team liquid foil",
     "big foil",
+    "astralis foil",
     "natus vincere foil",
     "iem foil",
     "mibr foil"
@@ -3494,10 +3529,10 @@
     "team liquid holo",
     "hellraisers holo",
     "natus vincere holo",
-    "faze clan holo",
-    "astralis holo",
-    "iem holo",
     "big holo",
+    "astralis holo",
+    "faze clan holo",
+    "iem holo",
     "complexity gaming holo",
     "mibr holo"
    ]
@@ -3505,76 +3540,76 @@
  },
  "katowice 2019 minor challengers autograph capsule": {
   "formattedName": "Katowice 2019 Minor Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsjzIbTEhlRS58tlj-fF8J7mt1i1uRQ5fWv6JoOddg47MFjX8gPtlOvt0MW96pqbnHtkuCQqsH_am0Sy0h8Yae1xxavJPvhz11g/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsjzIbTEhlRS58tlj-fF8J7mxgbt-UZkZ2H2dYaSelRtNF3SrwK_l-m90J-7vpnBnHJkvnEntniJmB2pwUYbEY_WVyU/256fx256f",
   "stickers": {
    "extraordinary": [
-    "malta gold",
     "dickstacy gold",
     "zywoo gold",
-    "auman gold",
     "dima gold",
-    "apex gold",
-    "kaze gold",
-    "jks gold",
-    "art gold",
-    "sdy gold",
     "ethan gold",
-    "advent gold",
-    "coldyy1 gold",
-    "alex gold",
-    "worldedit gold",
-    "freeman gold",
-    "rpk gold",
-    "nbk gold",
-    "jame gold",
+    "jks gold",
+    "kaze gold",
+    "sdy gold",
+    "art gold",
     "zhoking gold",
-    "davcost gold",
-    "aleksib gold",
+    "advent gold",
+    "alex gold",
+    "malta gold",
     "daps gold",
-    "kscerato gold",
-    "dexter gold",
+    "freeman gold",
+    "worldedit gold",
+    "apex gold",
+    "rpk gold",
     "s0tf1k gold",
+    "davcost gold",
+    "fugly gold",
+    "jame gold",
+    "aleksib gold",
+    "auman gold",
     "boombl4 gold",
-    "azr gold",
+    "nbk gold",
+    "kscerato gold",
+    "coldyy1 gold",
     "aerial gold",
+    "fitch gold",
     "cerq gold",
-    "xseven gold",
     "allu gold",
+    "xseven gold",
+    "azr gold",
+    "dexter gold",
+    "sergej gold",
     "buster gold",
     "sterling gold",
     "jkaem gold",
-    "krizzen gold",
-    "fugly gold",
-    "kvik gold",
-    "gratisfaction gold",
-    "ablej gold",
-    "yuurih gold",
-    "erkast gold",
-    "n0rb3r7 gold",
-    "waylander gold",
-    "brehze gold",
     "liazz gold",
-    "sergej gold",
+    "ablej gold",
+    "n0rb3r7 gold",
+    "kvik gold",
+    "erkast gold",
+    "yuurih gold",
+    "gratisfaction gold",
     "vini gold",
-    "fitch gold",
+    "brehze gold",
+    "waylander gold",
+    "krizzen gold",
     "qikert gold"
    ]
   }
  },
  "katowice 2019 minor challengers holofoil": {
   "formattedName": "Katowice 2019 Minor Challengers (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj3PLXFk2VV7dditeXA54vwxgfj8hZqNm6gcdWRewY5YV6C_AC-lO7tgp7o6JmdzyM26CFw4H6LnUGpwUYb0x5w5XQ/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj3PLXFk2VV7ddixLqWrImjjQO3rhBoamn0JIDHdFc-NFjS_Vnqleq7g8fp7pybzHM1uHQ8pSGKLQIoWpk/256fx256f",
   "stickers": {
    "exotic": [
     "team spirit foil",
     "vici gaming foil",
-    "furia foil",
-    "avangar foil",
-    "vitality foil",
-    "winstrike team foil",
-    "ence foil",
-    "nrg foil",
     "grayhound gaming foil",
+    "furia foil",
+    "nrg foil",
+    "ence foil",
+    "vitality foil",
+    "avangar foil",
+    "winstrike team foil",
     "renegades foil"
    ],
    "remarkable": [
@@ -3582,10 +3617,10 @@
     "team spirit holo",
     "vici gaming holo",
     "grayhound gaming holo",
-    "vitality holo",
     "avangar holo",
-    "ence holo",
     "nrg holo",
+    "vitality holo",
+    "ence holo",
     "winstrike team holo",
     "renegades holo"
    ]
@@ -3593,58 +3628,58 @@
  },
  "katowice 2019 returning challengers autograph capsule": {
   "formattedName": "Katowice 2019 Returning Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsjzIbTEhlRS4MR9huzP8onnm2u4qgE7Nnf2doKUdFI8ZlHU81m8x-jqhJW6uZrIyidgv3Qq5H3ZnRTh1Bseb-Brm7XAHhguVCAd/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsjzIbTEhlRS4MR9huzP8onnmxrhqUdtZT3xI4-Rew48Z17V-1K4xOnuhsO_ucnByHBnuCF0sHyPnhCzn1gSOYVKoD7t/256fx256f",
   "stickers": {
    "extraordinary": [
-    "jackz gold",
-    "autimatic gold",
+    "kennys gold",
     "rush gold",
-    "hutji gold",
-    "golden gold",
-    "shox gold",
-    "lucky gold",
-    "somebody gold",
-    "jw gold",
-    "summer gold",
-    "f0rest gold",
-    "bodyy gold",
-    "crush gold",
-    "attacker gold",
-    "xccurate gold",
-    "lekr0 gold",
-    "dennis gold",
-    "jr gold",
-    "getright gold",
-    "rez gold",
-    "flusha gold",
-    "chopper gold",
     "kioshima gold",
-    "bntet gold",
+    "golden gold",
+    "somebody gold",
+    "f0rest gold",
+    "autimatic gold",
+    "shox gold",
+    "summer gold",
+    "bodyy gold",
+    "chopper gold",
+    "jackz gold",
+    "jw gold",
+    "lucky gold",
+    "crush gold",
+    "hutji gold",
+    "xccurate gold",
+    "dennis gold",
+    "attacker gold",
+    "getright gold",
+    "jr gold",
+    "lekr0 gold",
+    "twist gold",
+    "flusha gold",
+    "rez gold",
     "xizt gold",
     "tonyblack gold",
     "krimz gold",
-    "twist gold",
-    "brollan gold",
-    "kennys gold"
+    "bntet gold",
+    "brollan gold"
    ],
    "remarkable": [
     "kennys foil",
     "rush foil",
-    "jr foil",
-    "flusha foil",
-    "chopper foil",
     "golden foil",
-    "autimatic foil",
+    "chopper foil",
     "crush foil",
-    "kioshima foil",
+    "flusha foil",
+    "autimatic foil",
+    "jr foil",
+    "tonyblack foil",
     "lucky foil",
+    "kioshima foil",
     "somebody foil",
     "shox foil",
-    "tonyblack foil",
-    "hutji foil",
-    "summer foil",
     "jackz foil",
+    "hutji foil",
     "bodyy foil",
+    "summer foil",
     "jw foil",
     "xccurate foil",
     "attacker foil"
@@ -3653,7 +3688,7 @@
  },
  "katowice 2019 returning challengers holofoil": {
   "formattedName": "Katowice 2019 Returning Challengers (Holo/Foil)",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj3O7rdmm5f78BjmdbN9J7yjRrnr0Y9YDqhINOWcwU7MlzW-Fi8lers18C86pzKwHVmuHJw4nbUlhXhn1gSORm6KwsJ/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjJZTJV5d-zxtDazsj3O7rdmm5f78BjmaeS8dn021e2_xZvYmr2d4KTcA88NVzTqAe-l-_sjJG5vs-bzntqsyB0-z-DyOVfQdeW/256fx256f",
   "stickers": {
    "exotic": [
     "cloud9 foil",
@@ -3678,58 +3713,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjacDZN-47mxde0kOX7JqvuxyVS7MQljrCQodyh2QaxrRVuMmnyJ4WcJwM-YVvX-QXskOvr0MS_6ZTA1zI97b7gUMWq/256fx256f",
   "stickers": {
    "extraordinary": [
-    "n0thing gold",
-    "oskar gold",
-    "nbk gold",
-    "markeloff gold",
-    "shroud gold",
-    "skadoodle gold",
-    "hen1 gold",
-    "b1ad3 gold",
-    "bodyy gold",
-    "zehn gold",
-    "kngv gold",
-    "autimatic gold",
     "apex gold",
-    "krystal gold",
-    "gob b gold",
-    "lucas1 gold",
-    "innocent gold",
-    "boltz gold",
-    "denis gold",
-    "steel gold",
-    "lowel gold",
-    "chrisj gold",
-    "shox gold",
-    "mir gold",
-    "kennys gold",
-    "stewie2k gold",
-    "keshandr gold",
-    "tabsen gold",
-    "nex gold",
-    "ropz gold",
-    "sunny gold",
+    "hs gold",
+    "skadoodle gold",
+    "electronic gold",
+    "oskar gold",
     "chopper gold",
-    "waylander gold",
-    "keev gold",
+    "nbk gold",
+    "nex gold",
+    "shroud gold",
+    "hen1 gold",
+    "gob b gold",
+    "bodyy gold",
+    "tabsen gold",
+    "lucas1 gold",
+    "autimatic gold",
+    "zehn gold",
+    "krystal gold",
+    "innocent gold",
+    "markeloff gold",
+    "steel gold",
+    "n0thing gold",
+    "b1ad3 gold",
+    "denis gold",
+    "kngv gold",
+    "boltz gold",
+    "chrisj gold",
+    "lowel gold",
+    "ropz gold",
+    "shox gold",
     "hutji gold",
-    "worldedit gold",
+    "waylander gold",
+    "kennys gold",
+    "mir gold",
+    "sunny gold",
     "jr gold",
     "legija gold",
-    "electronic gold",
-    "hs gold"
+    "keev gold",
+    "worldedit gold",
+    "stewie2k gold",
+    "keshandr gold"
    ],
    "remarkable": [
     "ropz foil",
     "keshandr foil",
     "kennys foil",
     "mir foil",
+    "shroud foil",
     "keev foil",
     "electronic foil",
-    "shroud foil",
-    "sunny foil",
+    "skadoodle foil",
     "stewie2k foil",
-    "hutji foil"
+    "sunny foil"
    ]
   }
  },
@@ -3739,19 +3774,19 @@
   "stickers": {
    "exotic": [
     "cloud9 foil",
-    "flipsid3 tactics foil",
     "g2 esports foil",
+    "vega squadron foil",
+    "flipsid3 tactics foil",
     "immortals foil",
     "mousesports foil",
-    "vega squadron foil",
-    "penta sports foil",
-    "big foil"
+    "big foil",
+    "penta sports foil"
    ],
    "remarkable": [
     "cloud9 holo",
     "immortals holo",
-    "flipsid3 tactics holo",
     "mousesports holo",
+    "flipsid3 tactics holo",
     "vega squadron holo",
     "g2 esports holo",
     "penta sports holo",
@@ -3764,58 +3799,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PjacDZN-47mxde0kOX7JqvuxCVU7JUmjO_C89un0QbjrRU-NWn2doPGIAE8MlGG_gTrlbq705e775ud1zI97TuorcB0/256fx256f",
   "stickers": {
    "extraordinary": [
-    "flamie gold",
     "coldzera gold",
+    "flamie gold",
+    "jw gold",
     "guardian gold",
     "aizy gold",
     "snax gold",
-    "device gold",
-    "xyp9x gold",
-    "fer gold",
-    "olofmeister gold",
-    "msl gold",
-    "magisk gold",
-    "rain gold",
     "adren gold",
-    "dupreeh gold",
-    "edward gold",
-    "krimz gold",
-    "karrigan gold",
-    "neo gold",
-    "allu gold",
+    "device gold",
+    "fer gold",
+    "rain gold",
+    "xyp9x gold",
+    "olofmeister gold",
     "dennis gold",
-    "cajunb gold",
-    "dosia gold",
+    "mou gold",
+    "msl gold",
+    "byali gold",
+    "magisk gold",
+    "felps gold",
     "hobbit gold",
-    "taz gold",
+    "edward gold",
+    "neo gold",
+    "dupreeh gold",
     "zeus gold",
+    "cajunb gold",
+    "taz gold",
     "flusha gold",
     "kjaerbye gold",
-    "kioshima gold",
-    "gla1ve gold",
-    "mou gold",
-    "fallen gold",
-    "felps gold",
-    "pashabiceps gold",
     "k0nfig gold",
-    "s1mple gold",
+    "dosia gold",
+    "gla1ve gold",
     "taco gold",
+    "kioshima gold",
+    "s1mple gold",
+    "pashabiceps gold",
+    "karrigan gold",
+    "krimz gold",
+    "allu gold",
+    "fallen gold",
     "seized gold",
-    "jw gold",
-    "byali gold",
     "niko gold"
    ],
    "remarkable": [
-    "s1mple foil",
     "niko foil",
-    "msl foil",
-    "coldzera foil",
-    "device foil",
+    "s1mple foil",
     "fallen foil",
+    "msl foil",
+    "device foil",
     "magisk foil",
     "rain foil",
-    "k0nfig foil",
-    "pashabiceps foil"
+    "coldzera foil",
+    "pashabiceps foil",
+    "adren foil"
    ]
   }
  },
@@ -3826,11 +3861,11 @@
    "exotic": [
     "sk gaming foil",
     "virtuspro foil",
-    "north foil",
-    "natus vincere foil",
-    "faze clan foil",
     "fnatic foil",
+    "north foil",
+    "faze clan foil",
     "astralis foil",
+    "natus vincere foil",
     "pgl foil",
     "gambit foil"
    ],
@@ -3841,8 +3876,8 @@
     "virtuspro holo",
     "sk gaming holo",
     "fnatic holo",
-    "astralis holo",
     "gambit holo",
+    "astralis holo",
     "pgl holo"
    ]
   }
@@ -3852,46 +3887,46 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0kOX7Jqvumm5W7ct1mafDrdSs0QPgrxA_Yzz0coDGclc2aFrTrALox73o15G9uMicwXQyuSYn-z-DyM9i2yRi/256fx256f",
   "stickers": {
    "extraordinary": [
-    "draken gold",
-    "autimatic gold",
-    "golden gold",
     "kennys gold",
-    "tarik gold",
+    "ropz gold",
     "fer gold",
     "stewie2k gold",
+    "jw gold",
+    "niko gold",
+    "tarik gold",
+    "flusha gold",
+    "karrigan gold",
     "skadoodle gold",
     "electronic gold",
-    "karrigan gold",
     "rain gold",
+    "golden gold",
     "fallen gold",
-    "jw gold",
-    "edward gold",
-    "balblna gold",
-    "chrisj gold",
     "zeus gold",
-    "shox gold",
-    "guardian gold",
-    "jmqa gold",
-    "olofmeister gold",
     "bodyy gold",
     "oskar gold",
+    "guardian gold",
+    "jmqa gold",
+    "coldzera gold",
+    "autimatic gold",
     "boombl4 gold",
+    "edward gold",
+    "shox gold",
     "kvik gold",
-    "flamie gold",
+    "balblna gold",
+    "draken gold",
     "xizt gold",
-    "snax gold",
+    "flamie gold",
     "ex6tenz gold",
-    "flusha gold",
-    "krimz gold",
-    "smithzz gold",
-    "waterfallz gold",
+    "snax gold",
+    "chrisj gold",
     "styko gold",
-    "niko gold",
+    "krimz gold",
+    "waterfallz gold",
+    "smithzz gold",
+    "olofmeister gold",
     "sunny gold",
-    "s1mple gold",
-    "ropz gold",
     "rush gold",
-    "coldzera gold"
+    "s1mple gold"
    ],
    "remarkable": [
     "kennys foil",
@@ -3900,10 +3935,10 @@
     "s1mple foil",
     "rush foil",
     "skadoodle foil",
-    "styko foil",
     "autimatic foil",
+    "tarik foil",
     "golden foil",
-    "tarik foil"
+    "stewie2k foil"
    ]
   }
  },
@@ -3913,20 +3948,20 @@
   "stickers": {
    "exotic": [
     "cloud9 foil",
-    "g2 esports foil",
     "faze clan foil",
-    "mousesports foil",
+    "g2 esports foil",
     "natus vincere foil",
-    "faceit foil",
+    "mousesports foil",
     "fnatic foil",
     "mibr foil",
+    "faceit foil",
     "winstrike team foil"
    ],
    "remarkable": [
     "cloud9 holo",
     "mousesports holo",
-    "faze clan holo",
     "natus vincere holo",
+    "faze clan holo",
     "g2 esports holo",
     "mibr holo",
     "fnatic holo",
@@ -3940,58 +3975,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0kOX7JqvulWRf_MB_juzT5sL3jAa2rhc-amH7LdDGIwI4NFrQ_Va4wuvmhpK4vZ-aznNq7iIl43yOgVXp1j_wLD9D/256fx256f",
   "stickers": {
    "extraordinary": [
-    "jkaem gold",
-    "shahzam gold",
     "sdy gold",
     "somebody gold",
-    "coldyy1 gold",
-    "vice gold",
-    "xccurate gold",
-    "bondik gold",
-    "lekr0 gold",
-    "ange1 gold",
+    "sick gold",
     "dd gold",
-    "azr gold",
     "stanislaw gold",
-    "rez gold",
+    "ange1 gold",
     "cadian gold",
-    "s0tf1k gold",
+    "rez gold",
+    "coldyy1 gold",
     "bntet gold",
     "jks gold",
-    "rickeh gold",
-    "cajunb gold",
+    "azr gold",
     "woxic gold",
     "jugi gold",
-    "hiko gold",
-    "dennis gold",
-    "issaa gold",
-    "f0rest gold",
-    "yay gold",
-    "deadfox gold",
-    "dima gold",
-    "nifty gold",
     "android gold",
-    "sick gold",
-    "davcost gold",
+    "hiko gold",
+    "deadfox gold",
+    "f0rest gold",
+    "rickeh gold",
+    "ustilo gold",
+    "s0tf1k gold",
+    "issaa gold",
+    "getright gold",
+    "nifty gold",
+    "lekr0 gold",
+    "shahzam gold",
     "gade gold",
     "snappi gold",
     "k0nfig gold",
+    "dima gold",
+    "cajunb gold",
     "dephh gold",
-    "ustilo gold",
+    "davcost gold",
+    "yay gold",
+    "xccurate gold",
+    "vice gold",
     "captainmo gold",
-    "getright gold"
+    "bondik gold",
+    "jkaem gold",
+    "dennis gold"
    ],
    "remarkable": [
     "sdy foil",
-    "captainmo foil",
-    "cadian foil",
     "bondik foil",
-    "sick foil",
-    "dd foil",
-    "jks foil",
+    "cadian foil",
+    "captainmo foil",
     "somebody foil",
+    "dd foil",
+    "hiko foil",
     "vice foil",
-    "hiko foil"
+    "jks foil",
+    "dima foil"
    ]
   }
  },
@@ -4001,10 +4036,10 @@
   "stickers": {
    "exotic": [
     "optic gaming foil",
-    "tyloo foil",
-    "complexity gaming foil",
     "hellraisers foil",
+    "tyloo foil",
     "team spirit foil",
+    "complexity gaming foil",
     "rogue foil",
     "ninjas in pyjamas foil",
     "renegades foil"
@@ -4026,57 +4061,57 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0kOX7JqvulWNQ5Ml0hO7E55-7jVbj-UZsNWr2dteSJAY4MAvS_lnvxbvt1p--6s6Yz3U1vnQk5XbYzAv33097fE1jkw/256fx256f",
   "stickers": {
    "extraordinary": [
+    "niko gold",
     "tonyblack gold",
+    "maj3r gold",
     "magisk gold",
-    "byali gold",
-    "taco gold",
-    "hobbit gold",
+    "mir gold",
+    "hutji gold",
+    "smooya gold",
     "chopper gold",
+    "byali gold",
     "dosia gold",
-    "neo gold",
+    "jr gold",
     "naf gold",
+    "michu gold",
     "xantares gold",
-    "ngin gold",
+    "neo gold",
     "device gold",
     "mou gold",
-    "maj3r gold",
-    "hutji gold",
+    "tizian gold",
     "dupreeh gold",
     "pashabiceps gold",
     "snatchie gold",
+    "hobbit gold",
     "nex gold",
-    "tizian gold",
-    "msl gold",
     "tabsen gold",
+    "xyp9x gold",
     "gla1ve gold",
-    "michu gold",
+    "nitr0 gold",
+    "paz gold",
+    "gob b gold",
     "calyx gold",
     "v4lde gold",
-    "nitr0 gold",
-    "mir gold",
-    "xyp9x gold",
-    "smooya gold",
-    "paz gold",
+    "ngin gold",
     "elige gold",
+    "twistzz gold",
+    "kjaerbye gold",
     "aizy gold",
-    "gob b gold",
-    "jr gold",
-    "niko gold",
     "adren gold",
     "crush gold",
-    "twistzz gold",
-    "kjaerbye gold"
+    "taco gold",
+    "msl gold"
    ],
    "remarkable": [
     "twistzz foil",
     "niko foil",
     "device foil",
     "crush foil",
-    "msl foil",
-    "tonyblack foil",
-    "chopper foil",
     "smooya foil",
+    "tonyblack foil",
+    "msl foil",
     "jr foil",
+    "chopper foil",
     "pashabiceps foil"
    ]
   }
@@ -4086,24 +4121,24 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7P_HfzlN4o7mxdi0lP_1P7fUmGxU-tY_37qSrNql2A3k-UFtajr0cdCVIw9oNF3X-AS_x-rm157vvprNmyRr6D5iuyivYw18Tg/256fx256f",
   "stickers": {
    "exotic": [
+    "big foil",
     "team liquid foil",
     "astralis foil",
     "north foil",
-    "big foil",
-    "vega squadron foil",
     "virtuspro foil",
     "space soldiers foil",
+    "vega squadron foil",
     "gambit esports foil"
    ],
    "remarkable": [
     "north holo",
-    "team liquid holo",
-    "astralis holo",
     "virtuspro holo",
+    "vega squadron holo",
+    "astralis holo",
     "space soldiers holo",
     "gambit esports holo",
-    "big holo",
-    "vega squadron holo"
+    "team liquid holo",
+    "big holo"
    ]
   }
  },
@@ -4114,9 +4149,9 @@
    "exotic": [
     "team liquid foil",
     "counter logic gaming foil",
-    "cloud9 foil",
     "splyce foil",
     "flipsid3 tactics foil",
+    "cloud9 foil",
     "g2 esports foil",
     "mousesports foil",
     "gambit gaming foil"
@@ -4127,8 +4162,8 @@
     "counter logic gaming holo",
     "splyce holo",
     "mousesports holo",
-    "g2 esports holo",
     "flipsid3 tactics holo",
+    "g2 esports holo",
     "gambit gaming holo"
    ]
   }
@@ -4142,20 +4177,20 @@
     "mlg foil",
     "natus vincere foil",
     "faze clan foil",
+    "ninjas in pyjamas foil",
     "astralis foil",
     "fnatic foil",
-    "ninjas in pyjamas foil",
     "team envyus foil",
     "virtuspro foil"
    ],
    "remarkable": [
     "luminosity gaming holo",
+    "natus vincere holo",
     "team envyus holo",
     "faze clan holo",
     "mlg holo",
-    "natus vincere holo",
-    "fnatic holo",
     "astralis holo",
+    "fnatic holo",
     "virtuspro holo",
     "ninjas in pyjamas holo"
    ]
@@ -4163,19 +4198,19 @@
  },
  "paris 2023 challengers autograph capsule": {
   "formattedName": "Paris 2023 Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4TSnmpd5MB_jezT5rP5iUazrl1vY276ItWQcARoMguG-1TslOnmgJe46J_LmHcy6Skm5HaJnBDjhUsecKUx0tZE_SXB/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4TSnmpd5MB_jezT5sKm2APt_RBpYWuld9XDcwNsNF_Z_1C6lezt1JPt75TNyHs3uSV24SyPgVXp1tW5Re-4/256fx256f",
   "stickers": {
    "exotic": [
     "m0nesy holo",
     "niko holo",
-    "boros holo",
     "krad holo",
-    "im holo",
+    "boros holo",
     "jks holo",
+    "im holo",
     "sdy holo",
-    "keoz holo",
+    "hooxi holo",
     "isak holo",
-    "hooxi holo"
+    "keoz holo"
    ],
    "extraordinary": [
     "m0nesy gold",
@@ -4183,88 +4218,88 @@
     "boros gold",
     "jks gold",
     "im gold",
+    "hunter gold",
     "krad gold",
     "hooxi gold",
-    "siuhy gold",
-    "acor gold",
-    "keoz gold",
-    "hunter gold",
-    "kyxsan gold",
-    "sdy gold",
-    "f1ku gold",
-    "isak gold",
-    "jl gold",
     "niko gold",
-    "headtr1ck gold",
+    "siuhy gold",
+    "sdy gold",
+    "keoz gold",
+    "jl gold",
     "flamez gold",
-    "woro2k gold",
-    "zevy gold",
-    "rez gold",
-    "degster gold",
-    "brollan gold",
-    "krasnal gold",
-    "demqq gold",
-    "nawwk gold",
-    "styko gold",
-    "neofrag gold",
-    "jerry gold",
+    "isak gold",
+    "acor gold",
+    "headtr1ck gold",
+    "f1ku gold",
     "aleksib gold",
-    "jkaem gold",
-    "hardzao gold",
+    "kyxsan gold",
     "skullz gold",
-    "zorte gold",
-    "k0nfig gold",
-    "shalfey gold",
-    "r3salt gold",
+    "zevy gold",
+    "brollan gold",
+    "woro2k gold",
+    "degster gold",
+    "jerry gold",
+    "hardzao gold",
+    "demqq gold",
+    "styko gold",
+    "krasnal gold",
     "biguzera gold",
-    "nekiz gold"
+    "r3salt gold",
+    "nawwk gold",
+    "k0nfig gold",
+    "rez gold",
+    "jkaem gold",
+    "neofrag gold",
+    "nekiz gold",
+    "shalfey gold",
+    "zorte gold"
    ]
   }
  },
  "paris 2023 challengers sticker capsule": {
   "formattedName": "Paris 2023 Challengers Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-In_b4P77fkW5D-_p9i_vG8ML3jVfn8kVlamGlJoCRegNqYFiB_VO4wbvujcW4tZnAnSY2v3Qg5ymJgVXp1jmUBigt/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-In_b4P77fkW5D-4tzj-qSrNqs0Qyy-UVoa2ynJYbEdQQ4YQ3R8gK6yOrm0cLpucnLyyQ3pGB8sra-ceDq/256fx256f",
   "stickers": {
    "exotic": [
     "gamerlegion holo",
     "apeks holo",
-    "g2 esports holo",
     "pain gaming holo",
+    "g2 esports holo",
     "monte holo",
-    "og holo",
     "forze esports holo",
+    "og holo",
     "ninjas in pyjamas holo",
     "blasttv holo"
    ],
    "extraordinary": [
-    "g2 esports gold",
     "apeks gold",
+    "g2 esports gold",
     "gamerlegion gold",
-    "pain gaming gold",
     "monte gold",
+    "pain gaming gold",
     "forze esports gold",
     "og gold",
     "ninjas in pyjamas gold",
     "blasttv gold"
    ],
    "high grade": [
+    "apeks",
     "monte",
     "g2 esports",
-    "apeks",
-    "blasttv",
-    "pain gaming",
     "og",
     "forze esports",
+    "blasttv",
     "gamerlegion",
-    "ninjas in pyjamas"
+    "ninjas in pyjamas",
+    "pain gaming"
    ],
    "remarkable": [
     "apeks glitter",
     "monte glitter",
     "g2 esports glitter",
     "pain gaming glitter",
-    "gamerlegion glitter",
     "forze esports glitter",
+    "gamerlegion glitter",
     "ninjas in pyjamas glitter",
     "og glitter",
     "blasttv glitter"
@@ -4273,94 +4308,94 @@
  },
  "paris 2023 champions autograph capsule": {
   "formattedName": "Paris 2023 Champions Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4TSnmpc-Mx-hPr--Y3nj1H6-hU-ZGvwIdDEcAM9Zl6D-lPsxee6hcLqvc_KnXFl7CV3tCvYm0G0gwYMMLJzSLZ7oQ/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4TSnmpc-Mx-hPqPpIr33wbn_hU9YWzwI4DGcgRsZVGF-gXowLzs0ZW66picmCZmvnQh52GdwULEMZFVcg/256fx256f",
   "stickers": {
    "exotic": [
     "zywoo holo champion",
-    "dupreeh holo champion",
     "apex holo champion",
+    "dupreeh holo champion",
     "magisk holo champion",
     "spinx holo champion"
    ],
    "extraordinary": [
     "zywoo gold champion",
-    "dupreeh gold champion",
     "apex gold champion",
-    "spinx gold champion",
-    "magisk gold champion"
+    "dupreeh gold champion",
+    "magisk gold champion",
+    "spinx gold champion"
    ],
    "high grade": [
+    "apex champion",
     "dupreeh champion",
     "zywoo champion",
-    "spinx champion",
-    "apex champion",
-    "magisk champion"
+    "magisk champion",
+    "spinx champion"
    ],
    "remarkable": [
     "zywoo glitter champion",
-    "apex glitter champion",
-    "spinx glitter champion",
+    "magisk glitter champion",
     "dupreeh glitter champion",
-    "magisk glitter champion"
+    "spinx glitter champion",
+    "apex glitter champion"
    ]
   }
  },
  "paris 2023 contenders autograph capsule": {
   "formattedName": "Paris 2023 Contenders Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4TSmWVF7ct1j_vSyoD0mlOx5RJvZTqncoXDJFRsZA7V-wC7wOzq0J-5tMufz3E1uCkisHnbyRSz00tSLrs4gnePPD0/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4TSmWVF7ct1j_vSu42m3lewrUA6NTuhIdCQc1c7YFrVr1i7ybi5g5XqvpTJnHRl7CEmtyzD30vgFVNUTx4/256fx256f",
   "stickers": {
    "exotic": [
     "vm holo",
     "ropz holo",
     "jdc holo",
     "dexter holo",
+    "twistzz holo",
+    "wood7 holo",
     "frozen holo",
     "torzsi holo",
-    "twistzz holo",
-    "xertion holo",
-    "wood7 holo",
-    "sk0r holo"
+    "sk0r holo",
+    "karrigan holo"
    ],
    "extraordinary": [
     "ropz gold",
-    "jdc gold",
     "dexter gold",
+    "jdc gold",
     "twistzz gold",
     "frozen gold",
-    "vm gold",
     "karrigan gold",
     "rain gold",
-    "sunpayus gold",
-    "torzsi gold",
+    "vm gold",
     "broky gold",
-    "xertion gold",
-    "sk0r gold",
-    "yekindar gold",
-    "jt gold",
+    "torzsi gold",
     "wood7 gold",
+    "jt gold",
+    "sunpayus gold",
+    "yekindar gold",
+    "xertion gold",
     "ins gold",
-    "lucaozy gold",
-    "osee gold",
     "elige gold",
+    "sk0r gold",
+    "lucaozy gold",
     "floppy gold",
-    "snappi gold",
     "naf gold",
+    "osee gold",
     "nertz gold",
-    "felps gold",
-    "nitr0 gold",
-    "liazz gold",
-    "hallzerk gold",
-    "sico gold",
-    "history gold",
-    "grim gold",
-    "maden gold",
-    "fang gold",
-    "alistair gold",
-    "dycha gold",
-    "vexite gold",
-    "blitz gold",
     "techno4k gold",
+    "blitz gold",
+    "nitr0 gold",
+    "snappi gold",
+    "felps gold",
+    "hallzerk gold",
+    "liazz gold",
+    "history gold",
     "annihilation gold",
+    "sico gold",
+    "dycha gold",
+    "grim gold",
+    "alistair gold",
+    "fang gold",
+    "vexite gold",
+    "maden gold",
     "bart4k gold"
    ]
   }
@@ -4372,9 +4407,9 @@
    "exotic": [
     "mouz holo",
     "fluxo holo",
-    "faze clan holo",
-    "team liquid holo",
     "complexity gaming holo",
+    "team liquid holo",
+    "faze clan holo",
     "grayhound gaming holo",
     "the mongolz holo",
     "ence holo",
@@ -4383,31 +4418,31 @@
    "extraordinary": [
     "mouz gold",
     "faze clan gold",
-    "team liquid gold",
     "complexity gaming gold",
     "fluxo gold",
-    "ence gold",
+    "team liquid gold",
     "grayhound gaming gold",
     "the mongolz gold",
+    "ence gold",
     "blasttv gold"
    ],
    "high grade": [
     "mouz",
+    "blasttv",
     "the mongolz",
     "team liquid",
     "fluxo",
     "ence",
     "faze clan",
     "complexity gaming",
-    "grayhound gaming",
-    "blasttv"
+    "grayhound gaming"
    ],
    "remarkable": [
     "mouz glitter",
-    "faze clan glitter",
     "complexity gaming glitter",
-    "team liquid glitter",
+    "faze clan glitter",
     "fluxo glitter",
+    "team liquid glitter",
     "the mongolz glitter",
     "ence glitter",
     "grayhound gaming glitter",
@@ -4420,58 +4455,58 @@
   "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPJYzRRvozkx7-MhfjhI4Tdk2xU5sFiteXA54vwxlXjrhdrMD_2JNOSdQ9qYQnR-wC2krzsh5HquJjNnSA1uXRz4nmMnECpwUYbNwkMo6E/256fx256f",
   "stickers": {
    "exotic": [
-    "drop holo",
     "s1mple holo",
-    "yuurih holo",
-    "art holo",
     "zywoo holo",
-    "b1t holo",
-    "kscerato holo",
     "cadian holo",
-    "saffee holo",
-    "kei holo"
+    "b1t holo",
+    "drop holo",
+    "art holo",
+    "yuurih holo",
+    "kei holo",
+    "kscerato holo",
+    "hades holo"
    ],
    "extraordinary": [
     "s1mple gold",
     "zywoo gold",
     "cadian gold",
-    "juanflatroo gold",
     "kei gold",
-    "b1t gold",
     "hades gold",
-    "art gold",
+    "juanflatroo gold",
+    "b1t gold",
     "drop gold",
-    "kscerato gold",
+    "electronic gold",
+    "art gold",
     "goofy gold",
     "kylar gold",
     "dupreeh gold",
-    "mynio gold",
-    "electronic gold",
-    "yuurih gold",
-    "jabbi gold",
-    "magisk gold",
-    "saffee gold",
-    "apex gold",
-    "mezii gold",
-    "teses gold",
     "spinx gold",
+    "yuurih gold",
+    "mynio gold",
+    "kscerato gold",
+    "apex gold",
+    "teses gold",
     "rallen gold",
-    "stavn gold",
-    "cypher gold",
     "gxx gold",
-    "perfecto gold",
-    "roej gold",
-    "sjuush gold",
+    "mezii gold",
     "krimz gold",
-    "npl gold",
     "thomas gold",
+    "saffee gold",
+    "roej gold",
+    "cypher gold",
+    "perfecto gold",
+    "npl gold",
+    "sjuush gold",
+    "jabbi gold",
     "volt gold",
+    "magisk gold",
+    "stavn gold",
+    "rigon gold",
     "fashr gold",
     "nicoodoz gold",
     "cruc1al gold",
-    "rigon gold",
-    "sener1 gold",
-    "sinnopsyy gold"
+    "sinnopsyy gold",
+    "sener1 gold"
    ]
   }
  },
@@ -4481,42 +4516,42 @@
   "stickers": {
    "exotic": [
     "furia holo",
-    "9ine holo",
     "fnatic holo",
+    "9ine holo",
     "natus vincere holo",
+    "into the breach holo",
     "vitality holo",
     "heroic holo",
-    "into the breach holo",
     "bad news eagles holo",
     "blasttv holo"
    ],
    "extraordinary": [
     "furia gold",
-    "natus vincere gold",
-    "9ine gold",
-    "vitality gold",
     "fnatic gold",
-    "heroic gold",
+    "9ine gold",
+    "natus vincere gold",
+    "vitality gold",
     "into the breach gold",
+    "heroic gold",
     "bad news eagles gold",
     "blasttv gold"
    ],
    "high grade": [
-    "fnatic",
     "natus vincere",
-    "heroic",
+    "9ine",
+    "fnatic",
     "bad news eagles",
     "into the breach",
-    "vitality",
+    "heroic",
     "furia",
-    "9ine",
+    "vitality",
     "blasttv"
    ],
    "remarkable": [
     "9ine glitter",
     "fnatic glitter",
-    "into the breach glitter",
     "natus vincere glitter",
+    "into the breach glitter",
     "furia glitter",
     "heroic glitter",
     "vitality glitter",
@@ -4527,24 +4562,24 @@
  },
  "perfect world sticker capsule 1": {
   "formattedName": "Perfect World Sticker Capsule 1",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PrEfShP5dK3gIW0lPbkIK7dk1QBufp9i_vG8MKm0AHlqUFlZ27yJNWRJ1RoaA2FrFPowOjs0ZC97p7IzSAyvyMl432JgVXp1loShoHD/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PrEfShP5dK3gIW0lPbkIK7dk1QBuYsi0ryQ996s3APl-xBoNjulLdPAJARoYF7Trle_k-3ugcTtuZ7Oz3A3pGB8svXmZgL1/256fx256f",
   "stickers": {
    "exotic": [
     "guardian dragon foil",
     "fancy koi foil"
    ],
    "high grade": [
-    "guardian dragon",
-    "water gun",
     "cheongsam",
-    "mahjong zhong",
+    "water gun",
     "mahjong fa",
+    "mahjong zhong",
     "terror rice",
+    "guardian dragon",
     "mahjong rooster",
     "fancy koi",
+    "rice bomb",
     "toy tiger",
     "noodles",
-    "rice bomb",
     "hotpot"
    ],
    "remarkable": [
@@ -4554,7 +4589,7 @@
  },
  "perfect world sticker capsule 2": {
   "formattedName": "Perfect World Sticker Capsule 2",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PrEfShP5dK3gIW0lPbkIK7dk1QBuvp9i_vG8MKsiwy3_hc_Mj2ncoScJAY8YlzX-QC3l73t0ZW96MzIwSRi6yQr4H-IgVXp1jnLKI95/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7PrEfShP5dK3gIW0lPbkIK7dk1QBuosoibHCoIj2iVCwrUFlNWnxJ4KScVc3NwvSrlK_lb_ujcC97ZnAzHI2pGB8sqhYbW3L/256fx256f",
   "stickers": {
    "exotic": [
     "longevity foil",
@@ -4564,13 +4599,13 @@
     "rage",
     "god of fortune",
     "longevity",
-    "twin koi",
     "blue swallow",
-    "pixiu",
     "green swallow",
-    "nezha",
+    "pixiu",
     "nonveg",
+    "nezha",
     "zombie hop",
+    "twin koi",
     "huaji",
     "shaolin"
    ],
@@ -4581,20 +4616,20 @@
  },
  "pinups capsule": {
   "formattedName": "Pinups Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPBfyhS_-O1lZCYgvvxDLfQhGxUppZ1jrnA9Nqj0AC2-Ec-YGrxJIaSJA5qN1_T_1C8wezq0Ze46JudzXN9-n51xkfXmAU/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPBfyhS_-O1lZCYgvvxfejVkjtQ6ZMn0r3Dptj32wfm-0NrNWGncoGWdwc8YVrVrlC6lei7gZei_MOefDmeoXM/256fx256f",
   "stickers": {
    "high grade": [
     "tamara",
-    "ivette",
-    "kimberly",
     "sherry",
+    "kimberly",
+    "ivette",
     "merietta",
     "martha"
    ],
    "remarkable": [
     "tamara holo",
-    "ivette holo",
     "sherry holo",
+    "ivette holo",
     "kimberly holo",
     "merietta holo",
     "martha holo"
@@ -4603,101 +4638,101 @@
  },
  "poorly drawn capsule": {
   "formattedName": "Poorly Drawn Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPHfi9O9eOyhoGcmcj3MqvCg2dU18lwmO7Eu42hjVfi_UU5MWvwddfAJwRqaFDR8lS-xLzr1pa06ZTMnXJmvnEq7X7D30vgNJp29DY/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OPHfi9O9eOyhoGcmcj3MqvCg2dUpsQlj-qXo9rwigbnqhI5NmunLY6UegM-ZArUqVG2lOfq0Za5uMzBwXN9-n51fgkVnD0/256fx256f",
   "stickers": {
    "high grade": [
-    "poorly drawn chicken",
     "poorly drawn terrorist",
-    "poorly drawn fbi",
-    "poorly drawn number k",
+    "poorly drawn chicken",
     "poorly drawn sas",
-    "poorly drawn leet crew",
-    "poorly drawn idf",
+    "poorly drawn number k",
+    "poorly drawn fbi",
     "poorly drawn bloody darryl",
     "poorly drawn balkan",
+    "poorly drawn leet crew",
+    "poorly drawn idf",
     "poorly drawn ava"
    ],
    "remarkable": [
-    "poorly drawn chicken holo",
     "poorly drawn terrorist holo",
-    "poorly drawn number k holo",
+    "poorly drawn chicken holo",
     "poorly drawn sas holo",
+    "poorly drawn number k holo",
     "poorly drawn fbi holo",
     "poorly drawn balkan holo",
+    "poorly drawn bloody darryl holo",
     "poorly drawn leet crew holo",
     "poorly drawn ava holo",
-    "poorly drawn bloody darryl holo",
     "poorly drawn idf holo"
    ]
   }
  },
  "rio 2022 challengers autograph capsule": {
   "formattedName": "Rio 2022 Challengers Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLMLPQmmdU5sJ0mPr--Y3nj1H68kU9MWmhLdOXcgM5ZgzYqwe7k-bq0MS5uZSdzXBjuXEltymPzRHmhQYMMLKojvp-0g/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLMLPQmmdU5sJ0mPqPrNr0igS28hZuY2z0I9KdI1A7M1DVrwO7xOe7gZS8v8zOmyQx6CRz4WGdwUK4yu2n4w/256fx256f",
   "stickers": {
    "exotic": [
     "nqz holo",
-    "max holo",
     "zywoo holo",
+    "max holo",
+    "nexa holo",
     "sh1ro holo",
     "ax1le holo",
-    "nexa holo",
+    "buda holo",
     "frozen holo",
-    "dexter holo",
-    "nafany holo",
+    "dav1deus holo",
     "dgt holo"
    ],
    "extraordinary": [
-    "max gold",
-    "zywoo gold",
     "nqz gold",
+    "zywoo gold",
+    "max gold",
     "nexa gold",
     "ax1le gold",
-    "dexter gold",
     "sh1ro gold",
+    "jdc gold",
+    "dexter gold",
+    "syrson gold",
     "tabsen gold",
+    "frozen gold",
     "degster gold",
     "flamez gold",
-    "frozen gold",
-    "syrson gold",
-    "jdc gold",
-    "apex gold",
-    "gxx gold",
     "spinx gold",
-    "dupreeh gold",
-    "hobbit gold",
-    "torzsi gold",
-    "nafany gold",
     "krimbo gold",
-    "xertion gold",
-    "k1to gold",
-    "interz gold",
+    "gxx gold",
+    "dupreeh gold",
+    "apex gold",
+    "nafany gold",
+    "hobbit gold",
     "autimatic gold",
-    "magisk gold",
-    "dgt gold",
-    "f1ku gold",
-    "cerq gold",
-    "hext gold",
-    "neofrag gold",
-    "dav1deus gold",
-    "faven gold",
+    "k1to gold",
+    "torzsi gold",
+    "xertion gold",
+    "interz gold",
     "juanflatroo gold",
-    "sinnopsyy gold",
-    "sener1 gold",
-    "nealan gold",
-    "rigon gold",
+    "magisk gold",
     "buda gold",
-    "brehze gold"
+    "hext gold",
+    "dav1deus gold",
+    "cerq gold",
+    "faven gold",
+    "f1ku gold",
+    "dgt gold",
+    "sinnopsyy gold",
+    "neofrag gold",
+    "nealan gold",
+    "brehze gold",
+    "sener1 gold",
+    "rigon gold"
    ]
   }
  },
  "rio 2022 challengers sticker capsule": {
   "formattedName": "Rio 2022 Challengers Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jl4iKm_vxPbzUhHhu5MRjjeyP8dSn3w218xZpZmGgI9LBIwQ_MlCGqVbqlLzqjJDo78ibwHBgvnQhs2GdwUJEwzlANg/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jl4iKm_vxPbzUhHgf7J0j3bDArYmg3Qy3_Bc4Mmvyd47DIQFqNArV81fqkru9jJS_uMnKn2wj5HesI3GeZA/256fx256f",
   "stickers": {
    "exotic": [
-    "mouz holo",
     "cloud9 holo",
+    "mouz holo",
     "9z team holo",
     "bad news eagles holo",
     "vitality holo",
@@ -4711,8 +4746,8 @@
     "og gold",
     "cloud9 gold",
     "vitality gold",
-    "big gold",
     "9z team gold",
+    "big gold",
     "evil geniuses gold",
     "bad news eagles gold",
     "iem gold"
@@ -4721,42 +4756,42 @@
     "cloud9",
     "mouz",
     "9z team",
-    "evil geniuses",
     "iem",
-    "bad news eagles",
+    "evil geniuses",
+    "og",
     "big",
     "vitality",
-    "og"
+    "bad news eagles"
    ],
    "remarkable": [
     "cloud9 glitter",
-    "mouz glitter",
     "9z team glitter",
+    "mouz glitter",
     "og glitter",
-    "evil geniuses glitter",
-    "vitality glitter",
     "bad news eagles glitter",
     "big glitter",
+    "evil geniuses glitter",
+    "vitality glitter",
     "iem glitter"
    ]
   }
  },
  "rio 2022 champions autograph capsule": {
   "formattedName": "Rio 2022 Champions Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLMLPQm3tY58titeXA54vwxlLl80Y5MGv3d4SQegc6YVvVq1Lrlb--jcTutMvIn3FnuXVxsy2OyRypwUYbBuBMdY0/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLMLPQm3tY58tixO-QrdnwiwbgqEFpa2j3JIWQIwVrNQmB8gPsybju05W4v8ianyAw7Ck8pSGK2nhqsfo/256fx256f",
   "stickers": {
    "exotic": [
     "jame holo champion",
     "fame holo champion",
-    "qikert holo champion",
+    "n0rb3r7 holo champion",
     "fl1t holo champion",
-    "n0rb3r7 holo champion"
+    "qikert holo champion"
    ],
    "extraordinary": [
     "jame gold champion",
     "fame gold champion",
-    "n0rb3r7 gold champion",
     "qikert gold champion",
+    "n0rb3r7 gold champion",
     "fl1t gold champion"
    ],
    "high grade": [
@@ -4768,16 +4803,16 @@
    ],
    "remarkable": [
     "jame glitter champion",
+    "n0rb3r7 glitter champion",
     "fame glitter champion",
     "fl1t glitter champion",
-    "n0rb3r7 glitter champion",
     "qikert glitter champion"
    ]
   }
  },
  "rio 2022 contenders autograph capsule": {
   "formattedName": "Rio 2022 Contenders Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLMLTfgm5f7MBjmdbN9J7yjRrj-0NuNm36coeXe1Q-ZwvS-1S3w7rqhpe0usjBy3A3uCIk7S7fmEG-n1gSOdM5tOii/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLMLTfgm5f7MBjmaeWpdynjQDtrUJuajvzItWXcwM3YwzV-VC2x7vnh5Tovp_PwSNhvXQr-z-DyMjuiODZ/256fx256f",
   "stickers": {
    "exotic": [
     "ins holo",
@@ -4785,68 +4820,68 @@
     "fallen holo",
     "art holo",
     "coldzera holo",
-    "sk0r holo",
-    "kscerato holo",
-    "taco holo",
+    "try holo",
+    "kabal holo",
+    "liazz holo",
     "fer holo",
-    "kabal holo"
+    "sk0r holo"
    ],
    "extraordinary": [
     "ins gold",
     "fallen gold",
     "vini gold",
     "sk0r gold",
-    "kscerato gold",
-    "kabal gold",
     "art gold",
-    "coldzera gold",
-    "im gold",
-    "alistair gold",
-    "jame gold",
-    "blitz gold",
-    "liazz gold",
-    "drop gold",
-    "fer gold",
-    "krimz gold",
-    "saffee gold",
-    "yuurih gold",
-    "taco gold",
-    "techno4k gold",
-    "try gold",
-    "siuhy gold",
-    "sico gold",
-    "fame gold",
-    "dumau gold",
-    "fashr gold",
-    "annihilation gold",
-    "boltz gold",
-    "fl1t gold",
-    "isak gold",
-    "chelo gold",
-    "roej gold",
-    "qikert gold",
-    "latto gold",
-    "n0rb3r7 gold",
-    "acor gold",
-    "nicoodoz gold",
+    "kabal gold",
+    "kscerato gold",
     "keoz gold",
+    "jame gold",
+    "im gold",
+    "coldzera gold",
+    "boltz gold",
+    "roej gold",
+    "fame gold",
+    "try gold",
+    "taco gold",
+    "siuhy gold",
+    "mezii gold",
+    "krimz gold",
+    "fer gold",
+    "alistair gold",
     "vexite gold",
-    "mezii gold"
+    "latto gold",
+    "isak gold",
+    "drop gold",
+    "saffee gold",
+    "liazz gold",
+    "nicoodoz gold",
+    "fashr gold",
+    "acor gold",
+    "chelo gold",
+    "techno4k gold",
+    "yuurih gold",
+    "annihilation gold",
+    "dumau gold",
+    "blitz gold",
+    "fl1t gold",
+    "sico gold",
+    "n0rb3r7 gold",
+    "qikert gold"
    ]
   }
  },
  "rio 2022 contenders sticker capsule": {
   "formattedName": "Rio 2022 Contenders Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jl4-Fg_L6N77DhVRd6dd2j6eSpYmsiQOy_xJvYDr6LdDGcwJoZ12Frwe6wefog8To7sjMwXpg6SZ2-z-DyORUYc3P/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jl4-Fg_L6N77DhSUCuMAoi77HoY2m21ft8hU_Ym2lIoPAJ1A6YVHX_APqk7vqjZ6_75ud1zI97b7XRDpK/256fx256f",
   "stickers": {
    "exotic": [
     "00 nation holo",
-    "furia holo",
     "imperial esports holo",
+    "furia holo",
     "outsiders holo",
     "fnatic holo",
-    "gamerlegion holo",
     "ihc esports holo",
+    "gamerlegion holo",
     "grayhound gaming holo",
     "iem holo"
    ],
@@ -4855,22 +4890,22 @@
     "outsiders gold",
     "furia gold",
     "imperial esports gold",
-    "gamerlegion gold",
-    "fnatic gold",
     "grayhound gaming gold",
+    "gamerlegion gold",
     "ihc esports gold",
+    "fnatic gold",
     "iem gold"
    ],
    "high grade": [
     "00 nation",
-    "outsiders",
     "imperial esports",
-    "furia",
+    "outsiders",
+    "fnatic",
     "iem",
-    "grayhound gaming",
     "gamerlegion",
     "ihc esports",
-    "fnatic"
+    "grayhound gaming",
+    "furia"
    ],
    "remarkable": [
     "00 nation glitter",
@@ -4878,8 +4913,8 @@
     "outsiders glitter",
     "furia glitter",
     "fnatic glitter",
-    "gamerlegion glitter",
     "ihc esports glitter",
+    "gamerlegion glitter",
     "grayhound gaming glitter",
     "iem glitter"
    ]
@@ -4887,7 +4922,7 @@
  },
  "rio 2022 legends autograph capsule": {
   "formattedName": "Rio 2022 Legends Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLP77Wk2VV-_p9i_vG8MLz2ADl_BZsNmvxJdSWc1c8YQ2B-Vm3lOy61p_vtJjMySBkvHVw7XnfgVXp1m3zeSzp/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6Jk5KEgufLP77Wk2VV-4t32r2QoomljQbm-hFvYjjxJNPEcQ43NFqFqVjtyevqhcS7usibwXRhpGB8sj8iLeuX/256fx256f",
   "stickers": {
    "exotic": [
     "s1mple holo",
@@ -4895,65 +4930,65 @@
     "twistzz holo",
     "w0nderful holo",
     "cadian holo",
+    "rain holo",
     "b1t holo",
     "es3tag holo",
-    "rain holo",
-    "karrigan holo",
-    "osee holo"
+    "yekindar holo",
+    "karrigan holo"
    ],
    "extraordinary": [
     "s1mple gold",
     "ropz gold",
-    "w0nderful gold",
     "es3tag gold",
-    "twistzz gold",
-    "cadian gold",
     "rain gold",
-    "b1t gold",
+    "w0nderful gold",
+    "cadian gold",
+    "twistzz gold",
     "karrigan gold",
+    "b1t gold",
     "yekindar gold",
-    "electronic gold",
-    "sdy gold",
-    "broky gold",
     "sunpayus gold",
+    "electronic gold",
     "refrezh gold",
+    "sdy gold",
     "osee gold",
-    "aleksib gold",
+    "broky gold",
+    "magixx gold",
+    "dycha gold",
     "naf gold",
+    "rez gold",
+    "nitr0 gold",
     "elige gold",
-    "s1ren gold",
-    "stavn gold",
+    "aleksib gold",
     "jabbi gold",
     "staehr gold",
-    "dycha gold",
-    "perfecto gold",
-    "nitr0 gold",
-    "maden gold",
-    "rez gold",
-    "teses gold",
-    "magixx gold",
-    "v4lde gold",
-    "chopper gold",
-    "snappi gold",
     "brollan gold",
+    "maden gold",
+    "s1ren gold",
+    "chopper gold",
+    "teses gold",
+    "perfecto gold",
+    "launx gold",
+    "slaxz gold",
+    "stavn gold",
     "hampus gold",
+    "snappi gold",
+    "zyphon gold",
     "patsi gold",
     "sjuush gold",
-    "zyphon gold",
-    "slaxz gold",
-    "launx gold"
+    "v4lde gold"
    ]
   }
  },
  "rio 2022 legends sticker capsule": {
   "formattedName": "Rio 2022 Legends Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6JmIWMkvnwIITdl3lW7Yt03L-ToN7xiVG1_0RlYD31JI-UdwE5YFrQrge8wb-705Ht75WYzCRnpGB8skhfOm2e/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OHBfm8Svo6JmIWMkvnwIPXUwD0DvZd1i-zAodus21Di-0ptZm70JYSVJlA8YQmErFbvkua-gMC4ot2XnhdiZ7tf/256fx256f",
   "stickers": {
    "exotic": [
-    "faze clan holo",
-    "team liquid holo",
     "team spirit holo",
+    "faze clan holo",
     "sprout esports holo",
+    "team liquid holo",
     "heroic holo",
     "natus vincere holo",
     "ninjas in pyjamas holo",
@@ -4961,9 +4996,9 @@
     "iem holo"
    ],
    "extraordinary": [
+    "team spirit gold",
     "natus vincere gold",
     "faze clan gold",
-    "team spirit gold",
     "team liquid gold",
     "sprout esports gold",
     "ninjas in pyjamas gold",
@@ -4972,10 +5007,10 @@
     "iem gold"
    ],
    "high grade": [
-    "natus vincere",
-    "faze clan",
-    "team spirit",
     "sprout esports",
+    "natus vincere",
+    "team spirit",
+    "faze clan",
     "heroic",
     "ence",
     "team liquid",
@@ -4983,9 +5018,9 @@
     "iem"
    ],
    "remarkable": [
-    "faze clan glitter",
-    "team spirit glitter",
     "sprout esports glitter",
+    "team spirit glitter",
+    "faze clan glitter",
     "natus vincere glitter",
     "team liquid glitter",
     "heroic glitter",
@@ -4997,7 +5032,7 @@
  },
  "skill groups capsule": {
   "formattedName": "Skill Groups Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODDeDFO6865gZC0lPbkIK7dk1Rd6dd2j6eS89Ss3QXh_BBkMmqnLYbAelQ3YQrQqFXswebsg5e-uZ_LznE1v3J2-z-DyKHmRQ2o/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODDeDFO6865gZC0lPbkIK7dkyUC7p0o37iUoo-tiQew8kM5azv6JNSVIAJsYVDT_FC8xOztgpXquc-d1zI97ZoDzgbB/256fx256f",
   "stickers": {
    "exotic": [
     "global elite foil",
@@ -5009,17 +5044,17 @@
     "silver",
     "legendary eagle",
     "master guardian elite",
-    "supreme master first class",
     "legendary eagle master",
+    "supreme master first class",
     "distinguished master guardian",
     "master guardian"
    ],
    "remarkable": [
     "gold nova holo",
-    "distinguished master guardian holo",
+    "legendary eagle master holo",
     "supreme master first class holo",
     "legendary eagle holo",
-    "legendary eagle master holo",
+    "distinguished master guardian holo",
     "master guardian elite holo",
     "master guardian holo"
    ]
@@ -5027,28 +5062,28 @@
  },
  "slid3 capsule": {
   "formattedName": "Slid3 Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODEeDkR09-3hJOem_LLP7rDkW4fuMZz2ujHo9v03FKy-EVrZWugcYXBdwVoYlHT8wDtlbrogcLt7p7JwGwj5HdCz_FKnA/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODEeDkR09-3hJOem_K6Y7jTxmpXvpJw3u_Hptqi3ga3rkA4ZmqlJ4-We1dtNQzX_gXvk-3vjIj84srY4boXng/256fx256f",
   "stickers": {
    "exotic": [
+    "move it foil",
     "countdown foil",
     "boom foil",
-    "move it foil",
     "dont worry foil",
     "hard cluck life foil"
    ],
    "high grade": [
     "move it",
-    "boom",
     "countdown",
-    "hard cluck life",
-    "dont worry"
+    "boom",
+    "dont worry",
+    "hard cluck life"
    ],
    "remarkable": [
-    "boom holo",
     "move it holo",
     "countdown holo",
-    "dont worry holo",
-    "hard cluck life holo"
+    "boom holo",
+    "hard cluck life holo",
+    "dont worry holo"
    ]
   }
  },
@@ -5061,16 +5096,16 @@
     "luck skill foil"
    ],
    "high grade": [
+    "seek destroy",
     "aces high",
     "easy peasy",
-    "black dog",
     "fearsome",
-    "vigilance",
-    "seek destroy",
-    "cerberus",
+    "black dog",
     "lucky 13",
-    "i conquered",
-    "luck skill"
+    "cerberus",
+    "luck skill",
+    "vigilance",
+    "i conquered"
    ],
    "remarkable": [
     "aces high holo",
@@ -5090,10 +5125,10 @@
    "high grade": [
     "good game",
     "nice shot",
+    "good luck",
     "welcome to the clutch",
     "banana",
     "bomb code",
-    "good luck",
     "have fun",
     "metal",
     "chicken lover",
@@ -5109,27 +5144,27 @@
  },
  "stockholm 2021 challengers sticker capsule": {
   "formattedName": "Stockholm 2021 Challengers Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0lP_1P7fUmGxU-tZOhujT8om7igXm80BpMjjzcNKRIVA7YlnZ_QLqwr-5jJK4tZzAmCY2v3J27X3clwv330_mSpCmGA/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0lP_1P7fUmGxU-tY_iLiTrd-giVXkrxdoMD_2J4ecdVVqYgmG81W6yO_m1MLpuc-dwXBisj5iuyh5q7Hjpw/256fx256f",
   "stickers": {
    "exotic": [
     "mouz foil",
     "astralis foil",
-    "movistar riders foil",
     "pain gaming foil",
-    "heroic foil",
+    "movistar riders foil",
     "team spirit foil",
+    "heroic foil",
     "big foil",
     "ence foil",
     "pgl foil"
    ],
    "extraordinary": [
     "mouz gold",
-    "movistar riders gold",
     "team spirit gold",
+    "movistar riders gold",
     "astralis gold",
+    "pain gaming gold",
     "big gold",
     "heroic gold",
-    "pain gaming gold",
     "ence gold",
     "pgl gold"
    ],
@@ -5138,18 +5173,18 @@
     "astralis",
     "movistar riders",
     "team spirit",
-    "heroic",
     "pain gaming",
-    "ence",
     "big",
+    "heroic",
+    "ence",
     "pgl"
    ],
    "remarkable": [
     "mouz holo",
     "movistar riders holo",
-    "astralis holo",
     "team spirit holo",
     "pain gaming holo",
+    "astralis holo",
     "big holo",
     "heroic holo",
     "ence holo",
@@ -5159,7 +5194,7 @@
  },
  "stockholm 2021 champions autograph capsule": {
   "formattedName": "Stockholm 2021 Champions Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0kOX7JqvulWNQ5dV4hefSyoD0mlOx5UE_YGGlI4aWdQVsYl6FrlO2l-q8gJPuv5WbnHowu3Fx5XfYnkSx0E1SLrs4rqsX_yU/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0kOX7JqvulWNQ5dV4hefSu9722wyy_ENvZGqhJ4DAJgQ2N1yD_1Tswua90J7vvcyayXpmu3EktCrD30vgkJQB-Bg/256fx256f",
   "stickers": {
    "extraordinary": [
     "s1mple gold",
@@ -5178,22 +5213,22 @@
    "remarkable": [
     "s1mple holo",
     "b1t holo",
-    "perfecto holo",
     "electronic holo",
+    "perfecto holo",
     "boombl4 holo"
    ]
   }
  },
  "stockholm 2021 contenders sticker capsule": {
   "formattedName": "Stockholm 2021 Contenders Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0lPj6J77fkm5D-_p9i_vG8MKt2gO2qBY6N22hJNLBcA87ZAvS8le7wL27h5LouZ6fz3IwuCIg5n7egVXp1isbNE5G/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0lPj6J77fkm5D-4sp2L7D9onzjAC2-xc4YWD2IdWXegA7YAuE-FXqxO25g5bvvp_LynNgpGB8svOzJOHZ/256fx256f",
   "stickers": {
    "exotic": [
     "entropiq foil",
     "tyloo foil",
     "virtuspro foil",
-    "copenhagen flames foil",
     "faze clan foil",
+    "copenhagen flames foil",
     "sharks esports foil",
     "godsent foil",
     "pgl foil",
@@ -5201,12 +5236,12 @@
    ],
    "extraordinary": [
     "tyloo gold",
-    "copenhagen flames gold",
     "faze clan gold",
+    "copenhagen flames gold",
     "virtuspro gold",
-    "entropiq gold",
-    "sharks esports gold",
     "godsent gold",
+    "sharks esports gold",
+    "entropiq gold",
     "renegades gold",
     "pgl gold"
    ],
@@ -5224,8 +5259,8 @@
    "remarkable": [
     "tyloo holo",
     "virtuspro holo",
-    "entropiq holo",
     "copenhagen flames holo",
+    "entropiq holo",
     "faze clan holo",
     "godsent holo",
     "sharks esports holo",
@@ -5236,7 +5271,7 @@
  },
  "stockholm 2021 finalists autograph capsule": {
   "formattedName": "Stockholm 2021 Finalists Autograph Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0kOX7JqvukGJf6cl4mf3SyoD0mlOx5RZkMjuhJ4edclQ-MFjR_VW2ku3thJe9uMvPnXRqvCdw4nzVmUC3gxFSLrs4OOGhfR8/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0kOX7JqvukGJf6cl4mf3Su4mtiVa2-EJkYzvzdYaUdQI2MlvS-1C_xbjp0ZC1upqbznFrvHUi53bD30vg2twYCXY/256fx256f",
   "stickers": {
    "extraordinary": [
     "niko gold",
@@ -5246,57 +5281,57 @@
     "cadian gold",
     "art gold",
     "sh1ro gold",
-    "yekindar gold",
-    "hunter gold",
-    "ax1le gold",
-    "shox gold",
-    "apex gold",
-    "jackz gold",
     "rez gold",
-    "hobbit gold",
-    "stavn gold",
-    "kscerato gold",
-    "nafany gold",
-    "yuurih gold",
+    "hunter gold",
+    "jackz gold",
+    "yekindar gold",
+    "ax1le gold",
     "teses gold",
-    "vini gold",
-    "drop gold",
-    "amanek gold",
     "nexa gold",
-    "buster gold",
-    "hampus gold",
-    "sjuush gold",
-    "fl1t gold",
+    "apex gold",
+    "kscerato gold",
+    "hobbit gold",
+    "shox gold",
+    "vini gold",
+    "nafany gold",
     "lnz gold",
-    "interz gold",
-    "refrezh gold",
-    "kyojin gold",
+    "stavn gold",
+    "amanek gold",
     "misutaaa gold",
     "qikert gold",
-    "plopski gold"
+    "kyojin gold",
+    "yuurih gold",
+    "hampus gold",
+    "refrezh gold",
+    "interz gold",
+    "fl1t gold",
+    "drop gold",
+    "sjuush gold",
+    "plopski gold",
+    "buster gold"
    ],
    "remarkable": [
     "niko holo",
     "zywoo holo",
-    "device holo",
     "jame holo",
+    "device holo",
     "art holo",
-    "hunter holo",
     "cadian holo",
+    "hunter holo",
     "vini holo",
     "sh1ro holo",
-    "jackz holo",
-    "apex holo",
-    "yekindar holo",
+    "rez holo",
+    "nexa holo",
+    "lnz holo",
     "kscerato holo",
-    "yuurih holo",
-    "rez holo"
+    "yekindar holo",
+    "yuurih holo"
    ]
   }
  },
  "stockholm 2021 legends sticker capsule": {
   "formattedName": "Stockholm 2021 Legends Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0m_LzNrXVhVRd6dd2j6fHpNTw3gDnqUprNmz6JtfHcVVsZQ7T8ge7wu_shMK1tM7AzXNr7nZ2-z-DyGsYtNgt/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODcfj5J5I7mxtG0m_LzNrXVhSVXuZ103L2S99WijQHt-RI-YDqhINCWelA7YlnT-wW3yb3mgZe06Mud1zI97WHT7reM/256fx256f",
   "stickers": {
    "exotic": [
     "g2 esports foil",
@@ -5305,40 +5340,40 @@
     "gambit gaming foil",
     "furia foil",
     "vitality foil",
+    "ninjas in pyjamas foil",
     "pgl foil",
-    "evil geniuses foil",
-    "ninjas in pyjamas foil"
+    "evil geniuses foil"
    ],
    "extraordinary": [
-    "furia gold",
     "g2 esports gold",
     "natus vincere gold",
+    "furia gold",
     "team liquid gold",
     "gambit gaming gold",
     "vitality gold",
-    "ninjas in pyjamas gold",
     "evil geniuses gold",
-    "pgl gold"
+    "pgl gold",
+    "ninjas in pyjamas gold"
    ],
    "high grade": [
     "natus vincere",
     "gambit gaming",
+    "g2 esports",
     "furia",
     "team liquid",
-    "g2 esports",
     "pgl",
     "evil geniuses",
-    "ninjas in pyjamas",
-    "vitality"
+    "vitality",
+    "ninjas in pyjamas"
    ],
    "remarkable": [
     "furia holo",
-    "g2 esports holo",
     "team liquid holo",
+    "g2 esports holo",
     "vitality holo",
-    "natus vincere holo",
     "gambit gaming holo",
     "evil geniuses holo",
+    "natus vincere holo",
     "pgl holo",
     "ninjas in pyjamas holo"
    ]
@@ -5346,11 +5381,11 @@
  },
  "sugarface capsule": {
   "formattedName": "Sugarface Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODddjxQ6t21kb-IlufnJrfUqWdQ-sJ0xLiV942i2wPt-xA4amrxdoecdlc4ZQmFr1e7x--615Hq6Jycy3o36CQ8pSGK_nEdxOg/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODddjxQ6t21kb-IlufnJrfU2DoF6sQm2b6YpY_x0QfmqUJlZzj1INfAJwA7Z1mFqFbole-6h57o7pnXiSw0SduH1Ck/256fx256f",
   "stickers": {
    "high grade": [
-    "jack",
     "stan",
+    "jack",
     "perry",
     "viggo",
     "max",
@@ -5362,70 +5397,70 @@
     "jack holo",
     "stan holo",
     "viggo holo",
-    "joan holo",
     "max holo",
+    "joan holo",
     "boris holo"
    ]
   }
  },
  "team roles capsule": {
   "formattedName": "Team Roles Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OfNcDB9_tO6kZO0lPbkIK7dk1Rd6dd2j6fD9Nj32wSx80o5Z2ynJNWRIwE9YFmEq1nrwbvvgZK0787AyCM1vXF2-z-DyMssPzKO/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OfNcDB9_tO6kZO0lPbkIK7dkyVT6ZFz2bnErdXw3AGw-xBoMm7wJYfBIw5rYQ3Q_lW2kr3mhMfqu8yd1zI97X0jxn34/256fx256f",
   "stickers": {
    "exotic": [
     "the pro foil"
    ],
    "high grade": [
-    "the ninja",
-    "the baiter",
     "the fragger",
     "the awper",
+    "the ninja",
     "the bot",
+    "the baiter",
     "the leader",
     "the lurker",
     "support",
-    "the nader",
-    "the bomber"
+    "the bomber",
+    "the nader"
    ]
   }
  },
  "the boardroom sticker capsule": {
   "formattedName": "The Boardroom Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODYYzRM647mxtK0lPbkIK7dk1Rd6dd2j6eZrImkjgDs-RdvZ2r7JteWdFJoZgnY-la3w-zq15Pq6JScnyBksnMi-z-DyCGOIV6k/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7ODYYzRM647mxtK0lPbkIK7dkyUJscAgjL2Zp4im3Afs-RJvZT2lI9edcgE3Y1rVqFTolee608S7tM7J1zI97Sfho9zt/256fx256f",
   "stickers": {
    "exotic": [
-    "rock paper scissors foil",
     "face me foil",
+    "rock paper scissors foil",
     "the real mvp foil",
     "inferno diorama foil"
    ],
    "high grade": [
     "smoke criminal",
     "flick shotter",
-    "b hop",
-    "squeaky door",
-    "this is fine t",
-    "hi my game is",
     "get clucked",
-    "wallbang",
-    "little mischief",
     "run ct run",
+    "wallbang",
+    "this is fine t",
+    "squeaky door",
+    "b hop",
+    "hi my game is",
     "im lit",
+    "little mischief",
     "rat pack"
    ],
    "remarkable": [
     "infinite diamond holo",
     "v for victory holo",
+    "t rush holo",
     "phoenix balaclava co holo",
-    "flashblack holo",
     "sneaky beaky dept holo",
-    "t rush holo"
+    "flashblack holo"
    ]
   }
  },
  "warhammer 40000 sticker capsule": {
   "formattedName": "Warhammer 40,000 Sticker Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OTJYzVD4dGzhr-IlufnJrfUqWdQ-sJ0xLjCpo6m2wbi-Bdsajr7LYeVIFdtNQ7Q8lK-k-rs0ce1vZ2fynRj73U8pSGKARleYHk/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQEl9Jg9SpIW1KgRr7OTJYzVD4dGzhr-IlufnJrfU2DpSu8ci2buXpoil0Vfs8kJsMTigcNCVegU-M1zTrgC3wO65hpC86cjXiSw0PFWzdOo/256fx256f",
   "stickers": {
    "exotic": [
     "emperor foil",
@@ -5435,19 +5470,19 @@
    "high grade": [
     "heresy",
     "adepta sororitas",
-    "ork waaagh",
     "tyranids ravener",
     "space marine",
     "necron",
-    "repulsor",
+    "ork waaagh",
     "full buy",
-    "aeldari avatar",
-    "primaris keychain"
+    "repulsor",
+    "primaris keychain",
+    "aeldari avatar"
    ],
    "remarkable": [
     "heresy holo",
-    "space marine holo",
     "tyranids hive tyrant holo",
+    "space marine holo",
     "lord of skulls holo"
    ]
   }

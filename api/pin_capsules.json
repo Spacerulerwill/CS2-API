@@ -76,7 +76,7 @@
  },
  "halflife alyx collectible pins capsule": {
   "formattedName": "Half-Life: Alyx Collectible Pins Capsule",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtfurupMh9f3_LadjgM6N7izYXelPH3Nr7UlG8AuZIh3bCVpY3z3Fbj-RA5YWjzIo-Scgc3MkaQpAYFG7-7Cg/256fx256f",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1R6NjtfurupMh8u1fCYJGoSuIngw9GIx6H3MriAlz1X7MMoj7iS9tz00APm_xVlYjv3J5jVLFG0a3POzQ/256fx256f",
   "pins": {
    "exotic": [
     "vortigaunt pin",
@@ -88,8 +88,8 @@
    ],
    "high grade": [
     "lambda pin",
-    "combine helmet pin",
     "black mesa pin",
+    "combine helmet pin",
     "cmb pin",
     "city 17 pin"
    ],

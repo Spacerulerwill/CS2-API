@@ -99,6 +99,35 @@
    "Won Round": "https://csgostash.com/storage/mp3/10/wonround.mp3"
   }
  },
+ "all night": {
+  "formattedName": "All Night",
+  "artist": "KILL SCRIPT",
+  "description": "Are you a lover or a fighter? Perhaps both? Let the entire lobby know with the \"All Night\" Music Kit from KILL SCRIPT.",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fZS-i-1N3aQ0lLdVUZtb_9e1NigqfLJGlHudjukdmNkvGnNuyJxW9Vup0o3euUp9zx2QLt810sPT5aWmc4Pw/256fx256f",
+  "stattrakAvailable": true,
+  "boxesFoundIn": [
+   "stattrak nightmode music kit box",
+   "nightmode music kit box"
+  ],
+  "audioUrls": {
+   "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/71/bombtenseccount.mp3",
+   "Bomb Planted": "https://csgostash.com/storage/mp3/71/bombplanted.mp3",
+   "Choose Team": "https://csgostash.com/storage/mp3/71/chooseteam.mp3",
+   "Death Cam": "https://csgostash.com/storage/mp3/71/deathcam.mp3",
+   "End of Match": "https://csgostash.com/storage/mp3/71/endofmatch.mp3",
+   "Lost Round": "https://csgostash.com/storage/mp3/71/lostround.mp3",
+   "MVP Anthem": "https://csgostash.com/storage/mp3/71/roundmvpanthem.mp3",
+   "Main Menu": "https://csgostash.com/storage/mp3/71/mainmenu.mp3",
+   "Round 10 Second Countdown": "https://csgostash.com/storage/mp3/71/roundtenseccount.mp3",
+   "Start Action (Variation 1)": "https://csgostash.com/storage/mp3/71/startaction_01.mp3",
+   "Start Action (Variation 2)": "https://csgostash.com/storage/mp3/71/startaction_02.mp3",
+   "Start Round (Variation 1)": "https://csgostash.com/storage/mp3/71/startround_01.mp3",
+   "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/71/startround_02.mp3",
+   "Start of Match": "https://csgostash.com/storage/mp3/71/startofmatch.mp3",
+   "Won Round": "https://csgostash.com/storage/mp3/71/wonround.mp3"
+  }
+ },
  "anticitizen": {
   "formattedName": "Anti-Citizen",
   "artist": "Half-Life: Alyx",
@@ -505,6 +534,35 @@
    "Won Round": "https://csgostash.com/storage/mp3/37/wonround.mp3"
   }
  },
+ "feel the power": {
+  "formattedName": "Feel The Power",
+  "artist": "DRYDEN",
+  "description": "What else needs to be said? Feel The Power. Lock in with this high-energy electro Music Kit from DRYDEN",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCXuCo2fCDAhMlcFQG4O2ne1dhhqeRIWREvY7uxYHZz6D2Y7-EkjtV65xyi-3H896ixkS6rG7SvT_R/256fx256f",
+  "stattrakAvailable": true,
+  "boxesFoundIn": [
+   "stattrak nightmode music kit box",
+   "nightmode music kit box"
+  ],
+  "audioUrls": {
+   "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/69/bombtenseccount.mp3",
+   "Bomb Planted": "https://csgostash.com/storage/mp3/69/bombplanted.mp3",
+   "Choose Team": "https://csgostash.com/storage/mp3/69/chooseteam.mp3",
+   "Death Cam": "https://csgostash.com/storage/mp3/69/deathcam.mp3",
+   "End of Match": "https://csgostash.com/storage/mp3/69/endofmatch.mp3",
+   "Lost Round": "https://csgostash.com/storage/mp3/69/lostround.mp3",
+   "MVP Anthem": "https://csgostash.com/storage/mp3/69/roundmvpanthem.mp3",
+   "Main Menu": "https://csgostash.com/storage/mp3/69/mainmenu.mp3",
+   "Round 10 Second Countdown": "https://csgostash.com/storage/mp3/69/roundtenseccount.mp3",
+   "Start Action (Variation 1)": "https://csgostash.com/storage/mp3/69/startaction_01.mp3",
+   "Start Action (Variation 2)": "https://csgostash.com/storage/mp3/69/startaction_02.mp3",
+   "Start Round (Variation 1)": "https://csgostash.com/storage/mp3/69/startround_01.mp3",
+   "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/69/startround_02.mp3",
+   "Start of Match": "https://csgostash.com/storage/mp3/69/startofmatch.mp3",
+   "Won Round": "https://csgostash.com/storage/mp3/69/wonround.mp3"
+  }
+ },
  "flashbang dance": {
   "formattedName": "Flashbang Dance",
   "artist": "The Verkkars \u0026 n0thing",
@@ -890,6 +948,35 @@
    "Won Round": "https://csgostash.com/storage/mp3/36/wonround.mp3"
   }
  },
+ "inhuman": {
+  "formattedName": "inhuman",
+  "artist": "ISOxo",
+  "description": "Made especially for those games when you feel... different. Haunt your enemies round after round with the \"inhuman\" Music Kit from ISOxo.",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0XDSPyi6J-CHVhxJFRT4e-gKQU0hKqQJj9G6NnjwtaIlqKlMOOFzj1VvJBwib2YpNm7mFqzlZnq3Hk/256fx256f",
+  "stattrakAvailable": true,
+  "boxesFoundIn": [
+   "stattrak nightmode music kit box",
+   "nightmode music kit box"
+  ],
+  "audioUrls": {
+   "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/70/bombtenseccount.mp3",
+   "Bomb Planted": "https://csgostash.com/storage/mp3/70/bombplanted.mp3",
+   "Choose Team": "https://csgostash.com/storage/mp3/70/chooseteam.mp3",
+   "Death Cam": "https://csgostash.com/storage/mp3/70/deathcam.mp3",
+   "End of Match": "https://csgostash.com/storage/mp3/70/endofmatch.mp3",
+   "Lost Round": "https://csgostash.com/storage/mp3/70/lostround.mp3",
+   "MVP Anthem": "https://csgostash.com/storage/mp3/70/roundmvpanthem.mp3",
+   "Main Menu": "https://csgostash.com/storage/mp3/70/mainmenu.mp3",
+   "Round 10 Second Countdown": "https://csgostash.com/storage/mp3/70/roundtenseccount.mp3",
+   "Start Action (Variation 1)": "https://csgostash.com/storage/mp3/70/startaction_01.mp3",
+   "Start Action (Variation 2)": "https://csgostash.com/storage/mp3/70/startaction_02.mp3",
+   "Start Round (Variation 1)": "https://csgostash.com/storage/mp3/70/startround_01.mp3",
+   "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/70/startround_02.mp3",
+   "Start of Match": "https://csgostash.com/storage/mp3/70/startofmatch.mp3",
+   "Won Round": "https://csgostash.com/storage/mp3/70/wonround.mp3"
+  }
+ },
  "insurgency": {
   "formattedName": "Insurgency",
   "artist": "Robert Allaire",
@@ -1138,6 +1225,35 @@
    "Won Round": "https://csgostash.com/storage/mp3/66/wonround.mp3"
   }
  },
+ "make u sweat": {
+  "formattedName": "Make U SWEAT!",
+  "artist": "Knock2",
+  "description": "For players who treat every game like it's a Major Grand Final, even when there's only a few hundred CSR on the line. Bring the energy and the wins with Knock2's second Music Kit, \"Make U SWEAT!\"",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0feSOemhfCDARMgd1IC5Lj3fFc4hvaRKWxBuYzhxNHTk_WgMb-JwmkJvsYp3L-R99qsxkS6rHmEXbG3/256fx256f",
+  "stattrakAvailable": true,
+  "boxesFoundIn": [
+   "stattrak nightmode music kit box",
+   "nightmode music kit box"
+  ],
+  "audioUrls": {
+   "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/72/bombtenseccount.mp3",
+   "Bomb Planted": "https://csgostash.com/storage/mp3/72/bombplanted.mp3",
+   "Choose Team": "https://csgostash.com/storage/mp3/72/chooseteam.mp3",
+   "Death Cam": "https://csgostash.com/storage/mp3/72/deathcam.mp3",
+   "End of Match": "https://csgostash.com/storage/mp3/72/endofmatch.mp3",
+   "Lost Round": "https://csgostash.com/storage/mp3/72/lostround.mp3",
+   "MVP Anthem": "https://csgostash.com/storage/mp3/72/roundmvpanthem.mp3",
+   "Main Menu": "https://csgostash.com/storage/mp3/72/mainmenu.mp3",
+   "Round 10 Second Countdown": "https://csgostash.com/storage/mp3/72/roundtenseccount.mp3",
+   "Start Action (Variation 1)": "https://csgostash.com/storage/mp3/72/startaction_01.mp3",
+   "Start Action (Variation 2)": "https://csgostash.com/storage/mp3/72/startaction_02.mp3",
+   "Start Round (Variation 1)": "https://csgostash.com/storage/mp3/72/startround_01.mp3",
+   "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/72/startround_02.mp3",
+   "Start of Match": "https://csgostash.com/storage/mp3/72/startofmatch.mp3",
+   "Won Round": "https://csgostash.com/storage/mp3/72/wonround.mp3"
+  }
+ },
  "metal": {
   "formattedName": "Metal",
   "artist": "Skog",
@@ -1291,6 +1407,35 @@
    "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/46/startround_02.mp3",
    "Start Round (Variation 3)": "https://csgostash.com/storage/mp3/46/startround_03.mp3",
    "Won Round": "https://csgostash.com/storage/mp3/46/wonround.mp3"
+  }
+ },
+ "reason": {
+  "formattedName": "Reason",
+  "artist": "Rad Cat",
+  "description": "Sometimes defusing the bomb is enough to be the round MVP. Celebrate every moment—big or small—with the \"Reason\" Music Kit from Rad Cat.",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17RQ-esw_CDAhN3dlED5-qjKgEwhaWQcj9DtYzvkYXYlaClN7mCwGhS7pdy3uyW89-nxkS6rFQyYbup/256fx256f",
+  "stattrakAvailable": true,
+  "boxesFoundIn": [
+   "stattrak nightmode music kit box",
+   "nightmode music kit box"
+  ],
+  "audioUrls": {
+   "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/73/bombtenseccount.mp3",
+   "Bomb Planted": "https://csgostash.com/storage/mp3/73/bombplanted.mp3",
+   "Choose Team": "https://csgostash.com/storage/mp3/73/chooseteam.mp3",
+   "Death Cam": "https://csgostash.com/storage/mp3/73/deathcam.mp3",
+   "End of Match": "https://csgostash.com/storage/mp3/73/endofmatch.mp3",
+   "Lost Round": "https://csgostash.com/storage/mp3/73/lostround.mp3",
+   "MVP Anthem": "https://csgostash.com/storage/mp3/73/roundmvpanthem.mp3",
+   "Main Menu": "https://csgostash.com/storage/mp3/73/mainmenu.mp3",
+   "Round 10 Second Countdown": "https://csgostash.com/storage/mp3/73/roundtenseccount.mp3",
+   "Start Action (Variation 1)": "https://csgostash.com/storage/mp3/73/startaction_01.mp3",
+   "Start Action (Variation 2)": "https://csgostash.com/storage/mp3/73/startaction_02.mp3",
+   "Start Round (Variation 1)": "https://csgostash.com/storage/mp3/73/startround_01.mp3",
+   "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/73/startround_02.mp3",
+   "Start of Match": "https://csgostash.com/storage/mp3/73/startofmatch.mp3",
+   "Won Round": "https://csgostash.com/storage/mp3/73/wonround.mp3"
   }
  },
  "sharpened": {
@@ -1582,6 +1727,35 @@
    "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/68/startround_02.mp3",
    "Start Round (Variation 3)": "https://csgostash.com/storage/mp3/68/startround_03.mp3",
    "Won Round": "https://csgostash.com/storage/mp3/68/wonround.mp3"
+  }
+ },
+ "under bright lights": {
+  "formattedName": "Under Bright Lights",
+  "artist": "TWERL and Ekko \u0026 Sidetrack",
+  "description": "There's no better time to come alive than when in the spotlight. Let the drum and bass anthem \"Under Bright Lights\" by TWERL and Ekko \u0026 Sidetrack carry you and your team to new heights.",
+  "rarity": "high grade",
+  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jHQvah6J-CHQRwJ1YF5Lv8fl8w0qadJ24a6onkwIHfxvTyZOqIzzwDuJVz07qS94q7mFqz6h_h8lI/256fx256f",
+  "stattrakAvailable": true,
+  "boxesFoundIn": [
+   "stattrak nightmode music kit box",
+   "nightmode music kit box"
+  ],
+  "audioUrls": {
+   "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/74/bombtenseccount.mp3",
+   "Bomb Planted": "https://csgostash.com/storage/mp3/74/bombplanted.mp3",
+   "Choose Team": "https://csgostash.com/storage/mp3/74/chooseteam.mp3",
+   "Death Cam": "https://csgostash.com/storage/mp3/74/deathcam.mp3",
+   "End of Match": "https://csgostash.com/storage/mp3/74/endofmatch.mp3",
+   "Lost Round": "https://csgostash.com/storage/mp3/74/lostround.mp3",
+   "MVP Anthem": "https://csgostash.com/storage/mp3/74/roundmvpanthem.mp3",
+   "Main Menu": "https://csgostash.com/storage/mp3/74/mainmenu.mp3",
+   "Round 10 Second Countdown": "https://csgostash.com/storage/mp3/74/roundtenseccount.mp3",
+   "Start Action (Variation 1)": "https://csgostash.com/storage/mp3/74/startaction_01.mp3",
+   "Start Action (Variation 2)": "https://csgostash.com/storage/mp3/74/startaction_02.mp3",
+   "Start Round (Variation 1)": "https://csgostash.com/storage/mp3/74/startround_01.mp3",
+   "Start Round (Variation 2)": "https://csgostash.com/storage/mp3/74/startround_02.mp3",
+   "Start of Match": "https://csgostash.com/storage/mp3/74/startofmatch.mp3",
+   "Won Round": "https://csgostash.com/storage/mp3/74/wonround.mp3"
   }
  },
  "vici": {

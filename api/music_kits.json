@@ -1,13 +1,13 @@
 {
  "ad8": {
-  "formattedName": "A*D*8",
+  "formatted_name": "A*D*8",
   "artist": "Sean Murray",
   "description": "From the composer of two of the world's biggest war games, comes a sonic loadout that will bring your enemies to Hell's Gate!!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_VRuqgwt3BUkRLdVUZ47_9LwI3gPDKcGRBtIvjxNjexKCmNe6DkDwB68dy2b2RoYmjjFe3-l0sPT59S786Iw/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_VRuqgwt3BUkRLdVUZ47_9LwI3gPDKcGRBtIvjxNjexKCmNe6DkDwB68dy2b2RoYmjjFe3-l0sPT59S786Iw/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/8/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/8/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/8/chooseteam.mp3",
@@ -24,16 +24,16 @@
   }
  },
  "aggressive": {
-  "formattedName": "Aggressive",
+  "formatted_name": "Aggressive",
   "artist": "Beartooth",
   "description": "Beartooth is back for round two. This new music kit hits harder and is even more aggressive. We've also made the MVP anthem extra heavy so your opponents feel really bad after they've lost to you.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07VRva52MDHW2Ikd0oBs7n2KF41i6aeJmwQtNjvwNTewvGjMOiFwzJTupdwjruRo9302Qa35QMyNN37aweL/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07VRva52MDHW2Ikd0oBs7n2KF41i6aeJmwQtNjvwNTewvGjMOiFwzJTupdwjruRo9302Qa35QMyNN37aweL/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/30/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/30/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/30/chooseteam.mp3",
@@ -50,14 +50,14 @@
   }
  },
  "all for dust": {
-  "formattedName": "All for Dust",
+  "formatted_name": "All for Dust",
   "artist": "Amon Tobin",
   "description": "Legendary producer Amon Tobin lends his unique aesthetic to CS:GO. This time through tube amplifiers.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03dSOq52M3aXWIkdEoFtbzxLV9iiqvJIGwT6t_uwNfewKH2Me3Qzm1U6pYi3L3Ap4_ziQW25QMyNJxFYLB9/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03dSOq52M3aXWIkdEoFtbzxLV9iiqvJIGwT6t_uwNfewKH2Me3Qzm1U6pYi3L3Ap4_ziQW25QMyNJxFYLB9/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/48/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/48/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/48/chooseteam.mp3",
@@ -76,14 +76,14 @@
   }
  },
  "all i want for christmas": {
-  "formattedName": "All I Want for Christmas",
+  "formatted_name": "All I Want for Christmas",
   "artist": "Midnight Riders",
   "description": "\"HAPPY HOLIDAYS, ****ERS!\" -Midnight Riders",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HZQ-qk0MfHQVRwIBZEier0ZVUy0veRJT8avN3mwdiKk6T3MeqCwThX68MhjL-Y8Nqs0Afg8kJrZWztZNjCukeDFYs/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HZQ-qk0MfHQVRwIBZEier0ZVUy0veRJT8avN3mwdiKk6T3MeqCwThX68MhjL-Y8Nqs0Afg8kJrZWztZNjCukeDFYs/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/10/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/10/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/10/chooseteam.mp3",
@@ -100,17 +100,17 @@
   }
  },
  "all night": {
-  "formattedName": "All Night",
+  "formatted_name": "All Night",
   "artist": "KILL SCRIPT",
   "description": "Are you a lover or a fighter? Perhaps both? Let the entire lobby know with the \"All Night\" Music Kit from KILL SCRIPT.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fZS-i-1N3aQ0lLdVUZtb_9e1NigqfLJGlHudjukdmNkvGnNuyJxW9Vup0o3euUp9zx2QLt810sPT5aWmc4Pw/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fZS-i-1N3aQ0lLdVUZtb_9e1NigqfLJGlHudjukdmNkvGnNuyJxW9Vup0o3euUp9zx2QLt810sPT5aWmc4Pw/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak nightmode music kit box",
    "nightmode music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/71/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/71/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/71/chooseteam.mp3",
@@ -129,14 +129,14 @@
   }
  },
  "anticitizen": {
-  "formattedName": "Anti-Citizen",
+  "formatted_name": "Anti-Citizen",
   "artist": "Half-Life: Alyx",
   "description": "This music kit commemorates Half-Life: Alyx, Valve’s VR return to the Half-Life series. You are humanity’s only chance for survival, and your immersive environmental interactions continue in Counter-Strike: Global Offensive.",
   "rarity": "high grade",
-  "imageUrl": "https://csgostash.com/img/items/music/m40.png",
-  "stattrakAvailable": false,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://csgostash.com/img/items/music/m40.png",
+  "stattrak_available": false,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/40/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/40/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/40/chooseteam.mp3",
@@ -155,17 +155,17 @@
   }
  },
  "astro bellum": {
-  "formattedName": "Astro Bellum",
+  "formatted_name": "Astro Bellum",
   "artist": "Jesse Harlin",
   "description": "Composer Jesse Harlin delivers bombastic space opera drama inspired by classic sci-fi of the 70s, 80s, and beyond.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0bVVPeo387BX1R6GlQG-OLzcl9hgKHLdThA7tmzxdbZxaL3YeiAlGpVvccl2LuToNr03FCyrkFyIzekDQ3O7jo/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0bVVPeo387BX1R6GlQG-OLzcl9hgKHLdThA7tmzxdbZxaL3YeiAlGpVvccl2LuToNr03FCyrkFyIzekDQ3O7jo/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak tacticians music kit box",
    "tacticians music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/55/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/55/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/55/chooseteam.mp3",
@@ -181,17 +181,17 @@
   }
  },
  "bachram": {
-  "formattedName": "Bachram",
+  "formatted_name": "Bachram",
   "artist": "Austin Wintory",
   "description": "Austin Wintory mixes Celtic fantasy with sizzling electronics and a generous helping of Peter Hollens' vocals in this genre-bending Music Kit.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03FVPCk2djaXUl7Nx1o5ujrKF9m0aSQKDtD7oTuwdjdk6GtMenTlTMDupYi2OiW9NSjiVK280A5N3ezetHG_GyiQQ/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03FVPCk2djaXUl7Nx1o5ujrKF9m0aSQKDtD7oTuwdjdk6GtMenTlTMDupYi2OiW9NSjiVK280A5N3ezetHG_GyiQQ/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/41/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/41/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/41/chooseteam.mp3",
@@ -208,16 +208,16 @@
   }
  },
  "backbone": {
-  "formattedName": "Backbone",
+  "formatted_name": "Backbone",
   "artist": "Roam",
   "description": "Roam delivers fast, straight-forward Pop Punk that gets crowd and players alike moving. Prove you have a Backbone with this perfect soundtrack for rushing in and obliterating the other team before they even realize they're deadweight.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17fRumSh56dV1gtdF0B5OOjegNmhKaedW8btNjuxYOPlaWgNu2Ezm5Q68Mm2rCR9sLlhlMFA47-8g/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17fRumSh56dV1gtdF0B5OOjegNmhKaedW8btNjuxYOPlaWgNu2Ezm5Q68Mm2rCR9sLlhlMFA47-8g/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/34/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/34/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/34/chooseteam.mp3",
@@ -236,14 +236,14 @@
   }
  },
  "battlepack": {
-  "formattedName": "Battlepack",
+  "formatted_name": "Battlepack",
   "artist": "Proxy",
   "description": "Russian Heavy Electronica Artist PROXY brings his own Unique heavy artillery to Counter Strike. Hybrid audio Weaponry fused with the finest studio technology makes this pack unique.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1zCSPy06J-CHQwmcl0Bs-r8LQE0hPCZdTkQuYvjw4ONkaejZerTkDxTsJ0hju_Dpo67mFqzEHgZ6cI/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1zCSPy06J-CHQwmcl0Bs-r8LQE0hPCZdTkQuYvjw4ONkaejZerTkDxTsJ0hju_Dpo67mFqzEHgZ6cI/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/16/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/16/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/16/chooseteam.mp3",
@@ -260,17 +260,17 @@
   }
  },
  "bodacious": {
-  "formattedName": "Bodacious",
+  "formatted_name": "Bodacious",
   "artist": "Sam Marshall",
   "description": "Inspired by the funky video game music of the early 90s, composer Sam Marshall cooks up some classic game nostalgia with a spicy modern sauce.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_RSumsxdzbUlF4GlQG-OrwKgNjgaqacDsW7d61koXdlPOiMenVwT1QvpUj2ujDrdyk2ga1rxJyIzek9znFvho/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_RSumsxdzbUlF4GlQG-OrwKgNjgaqacDsW7d61koXdlPOiMenVwT1QvpUj2ujDrdyk2ga1rxJyIzek9znFvho/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/45/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/45/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/45/chooseteam.mp3",
@@ -287,14 +287,14 @@
   }
  },
  "chainawlxadxut": {
-  "formattedName": "CHAIN$AW.LXADXUT.",
+  "formatted_name": "CHAIN$AW.LXADXUT.",
   "artist": "Scarlxrd",
   "description": "CHAIN$AW BRINGS SCARLXRD AT HIS UNPRECENDENTED BEST WITH A RAW FLOW AND A HEAVY TRACK TO MATCH.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_TRvahz93XbA0ma11T4On1L1Jjh6qQJWxBv4nvkdaPkvGkMbiDkz9UupFz3LvDp4qn2wf6ux070bHpuI4/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_TRvahz93XbA0ma11T4On1L1Jjh6qQJWxBv4nvkdaPkvGkMbiDkz9UupFz3LvDp4qn2wf6ux070bHpuI4/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/50/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/50/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/50/chooseteam.mp3",
@@ -311,14 +311,14 @@
   }
  },
  "crimson assault": {
-  "formattedName": "Crimson Assault",
+  "formatted_name": "Crimson Assault",
   "artist": "Daniel Sadowski",
   "description": "Video Game Composer Daniel Sadowski delivers Edgy Action mixed with CRAZY FAT beats in this pulsating, exhilarating Music Pack.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eier0ZQYy0fWRdG8UuIyzldKPlfXyZr-BxzwI6pIn3LDEpdXz3VHjqkRoY2HtZNjCt8G2y9w/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eier0ZQYy0fWRdG8UuIyzldKPlfXyZr-BxzwI6pIn3LDEpdXz3VHjqkRoY2HtZNjCt8G2y9w/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/2/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/2/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/2/chooseteam.mp3",
@@ -333,17 +333,17 @@
   }
  },
  "dashstar": {
-  "formattedName": "dashstar*",
+  "formatted_name": "dashstar*",
   "artist": "Knock2",
   "description": "dashstar*, the iconic bass house anthem from Knock2, provides non-stop energy that captures the young San Diego native’s mantra, \"no limit\".",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0feSOemhfCDAhN2cgdR5-Pyf1M30qKeID8avt_nxYPTkqXwZ-2Bkj4AuMBw37HA9o6hxkS6rK_ksWRp/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0feSOemhfCDAhN2cgdR5-Pyf1M30qKeID8avt_nxYPTkqXwZ-2Bkj4AuMBw37HA9o6hxkS6rK_ksWRp/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak initiators music kit box",
    "initiators music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/64/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/64/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/64/chooseteam.mp3",
@@ -359,14 +359,14 @@
   }
  },
  "deaths head demolition": {
-  "formattedName": "Death's Head Demolition",
+  "formatted_name": "Death's Head Demolition",
   "artist": "Dren",
   "description": "From game music composer Dren, this cinematic, superhero-metal inspired music pack puts the 'ill' into KILL!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCQuqSh56dVV4mdFMCsLv3c15i16qRJG5G79_hkNaIwaCmMuyEkjJUvJd33LmYpsLlhlM2qXnfYQ/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCQuqSh56dVV4mdFMCsLv3c15i16qRJG5G79_hkNaIwaCmMuyEkjJUvJd33LmYpsLlhlM2qXnfYQ/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/3/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/3/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/3/chooseteam.mp3",
@@ -385,14 +385,14 @@
   }
  },
  "desert fire": {
-  "formattedName": "Desert Fire",
+  "formatted_name": "Desert Fire",
   "artist": "Austin Wintory",
   "description": "Grammy nominated game composer Austin Wintory asks, why bother hunting your enemies when you can lure them in with a deadly, admittedly insane, tango?",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03FVPCk2djaXUl7Nx1o5uvrfgIz0fafdWpA6I6zxdLYk6Ciau2IkzxVuZIn276Uodmt2AC1_RBqMXezetFJzspC6g/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03FVPCk2djaXUl7Nx1o5uvrfgIz0fafdWpA6I6zxdLYk6Ciau2IkzxVuZIn276Uodmt2AC1_RBqMXezetFJzspC6g/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/1/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/1/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/1/chooseteam.mp3",
@@ -409,14 +409,14 @@
   }
  },
  "diamonds": {
-  "formattedName": "Diamonds",
+  "formatted_name": "Diamonds",
   "artist": "Mord Fustang",
   "description": "Diamonds. They are forever. Dive into the arpeggiotron of Mord Fustang with this fresh set of grooves and atmospheres.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HfVeCrwtzHUlNzGlQG-Ov8KVY11qqQcmwav9nil4baxvGkZb7Uz28EscQp07nFrN2g2Qe18xFyIzekFnMWoO8/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HfVeCrwtzHUlNzGlQG-Ov8KVY11qqQcmwav9nil4baxvGkZb7Uz28EscQp07nFrN2g2Qe18xFyIzekFnMWoO8/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/23/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/23/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/23/chooseteam.mp3",
@@ -433,14 +433,14 @@
   }
  },
  "disgusting": {
-  "formattedName": "Disgusting",
+  "formatted_name": "Disgusting",
   "artist": "Beartooth",
   "description": "Beartooth brings an agressive back-to-basics hardcore stomp that gets crowds moving and breaking stuff. A perfect soundtrack for your no-scope scout frags. Rock 'till you're dead.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07VRva52MDHW2IkdEoAteL3fFVhgqfJJWobvYq1kYLflaKtMbiAzmkA7pd12rmSo46g3Qbn5QMyNH-EHWwq/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07VRva52MDHW2IkdEoAteL3fFVhgqfJJWobvYq1kYLflaKtMbiAzmkA7pd12rmSo46g3Qbn5QMyNH-EHWwq/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/27/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/27/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/27/chooseteam.mp3",
@@ -457,17 +457,17 @@
   }
  },
  "drifter": {
-  "formattedName": "Drifter",
+  "formatted_name": "Drifter",
   "artist": "Matt Levine",
   "description": "Composer Matt Levine delivers raw swagger in this gritty homage to the Spaghetti Western. It has never felt better to say, \"go ahead, make my day...\"",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HRU_Ch0tnaXVhLdVUZ7-3xKVM1g_aeIWsXuIu3xdPTkqahMu6Fxj4Iv5Qn3uvC8duliQyx810sPT5hQvgdGQ/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HRU_Ch0tnaXVhLdVUZ7-3xKVM1g_aeIWsXuIu3xdPTkqahMu6Fxj4Iv5Qn3uvC8duliQyx810sPT5hQvgdGQ/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/44/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/44/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/44/chooseteam.mp3",
@@ -486,17 +486,17 @@
   }
  },
  "eye of the dragon": {
-  "formattedName": "Eye of the Dragon",
+  "formatted_name": "Eye of the Dragon",
   "artist": "Daniel Sadowski",
   "description": "From the composer who brought you \"Total Domination\", \"The 8-Bit Kit\" and \"Crimson Assault\", comes \"Eye Of The Dragon\". Music composer Daniel Sadowski mixes Ninjas + Guns + Hip-Hop + Techno to create an action-packed Music Kit. Ninjas are known for their fast and precise attacks, yet they can be invisible to their enemy.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eierxZVFi1qGaIGsQvo7vxoWKlfHxZ7_QwjtVuZMnjOiWoI2jjASwqBY_ZmztZNjC8f8E0dI/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eierxZVFi1qGaIGsQvo7vxoWKlfHxZ7_QwjtVuZMnjOiWoI2jjASwqBY_ZmztZNjC8f8E0dI/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/42/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/42/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/42/chooseteam.mp3",
@@ -511,14 +511,14 @@
   }
  },
  "ez4ence": {
-  "formattedName": "EZ4ENCE",
+  "formatted_name": "EZ4ENCE",
   "artist": "The Verkkars",
   "description": "The Verkkars rise through the Finnish charts with a heart-pounding tribute to ENCE. Can it really be so EZ?",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jYQvKoxcTYUk9nGlQG-LnyfV42iveQcmwW7YW3w9SIwKbyY7-Ek21S7ZMl37rHoo6i2Fay_0ByIzekS-mLnh0/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jYQvKoxcTYUk9nGlQG-LnyfV42iveQcmwW7YW3w9SIwKbyY7-Ek21S7ZMl37rHoo6i2Fay_0ByIzekS-mLnh0/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/37/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/37/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/37/chooseteam.mp3",
@@ -535,17 +535,17 @@
   }
  },
  "feel the power": {
-  "formattedName": "Feel The Power",
+  "formatted_name": "Feel The Power",
   "artist": "DRYDEN",
   "description": "What else needs to be said? Feel The Power. Lock in with this high-energy electro Music Kit from DRYDEN",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCXuCo2fCDAhMlcFQG4O2ne1dhhqeRIWREvY7uxYHZz6D2Y7-EkjtV65xyi-3H896ixkS6rG7SvT_R/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCXuCo2fCDAhMlcFQG4O2ne1dhhqeRIWREvY7uxYHZz6D2Y7-EkjtV65xyi-3H896ixkS6rG7SvT_R/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak nightmode music kit box",
    "nightmode music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/69/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/69/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/69/chooseteam.mp3",
@@ -564,14 +564,14 @@
   }
  },
  "flashbang dance": {
-  "formattedName": "Flashbang Dance",
+  "formatted_name": "Flashbang Dance",
   "artist": "The Verkkars \u0026 n0thing",
   "description": "From sunny California to frigid Lapland, Counter-Strike legend n0thing and The Verkkars combine powers to create the smash hit, Flashbang Dance! 3, 2, 1 you’re blind!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jYQvKoxcTYUk9nGlQF-On3clczh_CeKWsTvtnuktDbkafyYuPUxDtVv8Qp3u-W8d733gzi-URyIzekh2_qBhg/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jYQvKoxcTYUk9nGlQF-On3clczh_CeKWsTvtnuktDbkafyYuPUxDtVv8Qp3u-W8d733gzi-URyIzekh2_qBhg/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/59/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/59/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/59/chooseteam.mp3",
@@ -588,14 +588,14 @@
   }
  },
  "for no mankind": {
-  "formattedName": "For No Mankind",
+  "formatted_name": "For No Mankind",
   "artist": "Mateo Messina",
   "description": "Own your enemies. Pure intensity by Grammy winning composer, Mateo Messina.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HRU-Gi2srAQFR6JDsH5_T8fwI3i6TKIjkQvovuwNGOlqD1YLjVwjNV7sco27iQpt302Va2-hY6fSmtc5uMJ_2y/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HRU-Gi2srAQFR6JDsH5_T8fwI3i6TKIjkQvovuwNGOlqD1YLjVwjNV7sco27iQpt302Va2-hY6fSmtc5uMJ_2y/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/12/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/12/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/12/chooseteam.mp3",
@@ -614,16 +614,16 @@
   }
  },
  "free": {
-  "formattedName": "FREE",
+  "formatted_name": "FREE",
   "artist": "Hundredth",
   "description": "Hundredth is bringing heavy to the world with their unique take on melodic hardcore. Break free or return to Dust with this perfect soundtrack for fragging the unworthy.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TFSeC_0svHW2IkdEpR4Or2eV81g_KaJzgb7o2wkIPSkq-gYO7QwzwFup0jiLuWotWn3wDj5QMyNELH2QwT/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TFSeC_0svHW2IkdEpR4Or2eV81g_KaJzgb7o2wkIPSkq-gYO7QwzwFup0jiLuWotWn3wDj5QMyNELH2QwT/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/32/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/32/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/32/chooseteam.mp3",
@@ -642,16 +642,16 @@
   }
  },
  "gla": {
-  "formattedName": "GLA",
+  "formatted_name": "GLA",
   "artist": "Twin Atlantic",
   "description": "Heavier, rowdier, and louder than ever, Twin Atlantic comes to CS:GO ready to help you melt the faces with the firepower of Scottish rock.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jHTuqsw8PSXUl9JjsH5_SkeAI2g6aeKDkSuY7hxtHZwKKtZ-jTwW1QuMQk3LrEoNXxjAay-kNpfSmtcwa0Q98g/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jHTuqsw8PSXUl9JjsH5_SkeAI2g6aeKDkSuY7hxtHZwKKtZ-jTwW1QuMQk3LrEoNXxjAay-kNpfSmtcwa0Q98g/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/35/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/35/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/35/chooseteam.mp3",
@@ -670,17 +670,17 @@
   }
  },
  "gothic luxury": {
-  "formattedName": "Gothic Luxury",
+  "formatted_name": "Gothic Luxury",
   "artist": "Meechy Darko",
   "description": "Grab a Glock and equip this music kit to be transported to the center of New York's underground hip-hop scene.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HVQuelzsvSQVZ7GlQG-O-hKQI5ivXOKTwQ6drvzdLZk6-gMriHx2lU6pxyjr-ZoNuh3lbs80VyIzekdt4SlQA/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HVQuelzsvSQVZ7GlQG-O-hKQI5ivXOKTwQ6drvzdLZk6-gMriHx2lU6pxyjr-ZoNuh3lbs80VyIzekdt4SlQA/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak initiators music kit box",
    "initiators music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/65/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/65/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/65/chooseteam.mp3",
@@ -699,17 +699,17 @@
   }
  },
  "gunman taco truck": {
-  "formattedName": "Gunman Taco Truck",
+  "formatted_name": "Gunman Taco Truck",
   "artist": "Dren",
   "description": "The apocalyptic mariachi soundtrack from the indie game hit, Gunman Taco Truck, comes to CS:GO with intense Mexican flavored tunes like Pollo Diablo and Persecución de Helltain!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCQuqSh52dBQ4icVNUtb6gLlc2iqGdJDsTtYnuzYTclPKmN-7TwW9UvZwgi-iX98LlhlNyNDaF_w/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jCQuqSh52dBQ4icVNUtb6gLlc2iqGdJDsTtYnuzYTclPKmN-7TwW9UvZwgi-iX98LlhlNyNDaF_w/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/43/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/43/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/43/chooseteam.mp3",
@@ -729,14 +729,14 @@
   }
  },
  "hades music kit": {
-  "formattedName": "Hades Music Kit",
+  "formatted_name": "Hades Music Kit",
   "artist": "Darren Korb",
   "description": "Sure, you might miss a shot from time to time, but what never misses is this blood-pumping Music Kit straight from the Underworld of Hades, Supergiant's rogue-like dungeon crawler.",
   "rarity": "high grade",
-  "imageUrl": "https://csgostash.com/img/items/music/m51.png",
-  "stattrakAvailable": false,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://csgostash.com/img/items/music/m51.png",
+  "stattrak_available": false,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/51/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/51/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/51/chooseteam.mp3",
@@ -755,14 +755,14 @@
   }
  },
  "hazardous environments": {
-  "formattedName": "Hazardous Environments",
+  "formatted_name": "Hazardous Environments",
   "artist": "Kelly Bailey",
   "description": "Kelly Bailey, composer of Valve’s Half-Life series, creates an arsenal of apocalyptic new music inspired by the darker side of the Half-Life universe.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fVS-i01c7aX1htGlQG-O-jfVUwgKLKcz8b6IruwdmPlaXyYr2Jlz4GvcQnjurFpNyi0Vft-UtyIzekVxVtbHg/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fVS-i01c7aX1htGlQG-O-jfVUwgKLKcz8b6IruwdmPlaXyYr2Jlz4GvcQnjurFpNyi0Vft-UtyIzekVxVtbHg/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/19/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/19/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/19/chooseteam.mp3",
@@ -779,17 +779,17 @@
   }
  },
  "heading for the source": {
-  "formattedName": "Heading for the Source",
+  "formatted_name": "Heading for the Source",
   "artist": "3kliksphilip",
   "description": "On a quest to go pro, or unintentionally going low? Let this kit’s 80’s synths and dreamy melodies take you back. Back, back, back... to the good old days.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OAx_bS-2mxN_bWlF9NTsH5_T2fFEwgqKQJ2pG7di3wNDblaajMOiEwTwFsMEi3r3CpNis2VXm80ttfSmtc7SmkraM/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OAx_bS-2mxN_bWlF9NTsH5_T2fFEwgqKQJ2pG7di3wNDblaajMOiEwTwFsMEi3r3CpNis2VXm80ttfSmtc7SmkraM/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak initiators music kit box",
    "initiators music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/61/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/61/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/61/chooseteam.mp3",
@@ -808,14 +808,14 @@
   }
  },
  "high noon": {
-  "formattedName": "High Noon",
+  "formatted_name": "High Noon",
   "artist": "Feed Me",
   "description": "Renowned elecronic musician Feed Me, brings a western corral showdown into a modern electronic space.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0rVQuCg0vCDAhMsIwdR4O7wLlRigPGaJmgW7tjvl9Tcz_OlZuyHlDkB68ciibiZ842jxkS6rFxP5k2a/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0rVQuCg0vCDAhMsIwdR4O7wLlRigPGaJmgW7tjvl9Tcz_OlZuyHlDkB68ciibiZ842jxkS6rFxP5k2a/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/4/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/4/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/4/chooseteam.mp3",
@@ -831,14 +831,14 @@
   }
  },
  "hotline miami": {
-  "formattedName": "Hotline Miami",
+  "formatted_name": "Hotline Miami",
   "artist": "Various Artists",
   "description": "A multitude of electronic artists deliver brutal beats in this exhilarating Music Pack from the iconic Hotline Miami.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TfU-ik2creWlx5LDsH5_ShLV85g6ueI2wa7di1lYbbx_WsZbjXkG1Xv50g07jHp4qgile2_kNsfSmtc3GibXeh/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TfU-ik2creWlx5LDsH5_ShLV85g6ueI2wa7di1lYbbx_WsZbjXkG1Xv50g07jHp4qgile2_kNsfSmtc3GibXeh/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/13/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/13/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/13/chooseteam.mp3",
@@ -855,14 +855,14 @@
   }
  },
  "hua lian painted face": {
-  "formattedName": "花脸 Hua Lian (Painted Face)",
+  "formatted_name": "花脸 Hua Lian (Painted Face)",
   "artist": "Perfect World",
   "description": "Celebrate the 5th anniversary of CS:GO's release in China with a one of a kind music kit, 花脸 Hua Lian (Painted Face). This kit combines folk Qinqiang opera (the earliest Chinese style Rock 'n' Roll) and modern Rock 'n' Roll. Whether you are engulfed in smoke or blinded by a flashbang, don't get lost!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1zVVeKo1NvEXE94ITsH5_TxLlNlhquYJGka6omyzNGNxKeiZ-vTxGkF68F3i7DD9NTwjVfk8hZsfSmtc6vnpedC/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1zVVeKo1NvEXE94ITsH5_TxLlNlhquYJGka6omyzNGNxKeiZ-vTxGkF68F3i7DD9NTwjVfk8hZsfSmtc6vnpedC/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/67/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/67/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/67/chooseteam.mp3",
@@ -877,14 +877,14 @@
   }
  },
  "i am": {
-  "formattedName": "I Am",
+  "formatted_name": "I Am",
   "artist": "AWOLNATION",
   "description": "AWOLNATION Alternative Rocker AWOLNATION brings you a music kit for the ages. This kit is jam-packed with an eclectic selection of tunes and includes cuts from singles 'I Am' and multi-platinum hit 'Sail'.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03HSOij1tvaXFNLdVUZ5LyjKFY2hqPJczlH7YXmzdnewKWnZLqHxz1TsMQp3--Z9o2j0AKx_10sPT4aRBPUtA/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03HSOij1tvaXFNLdVUZ5LyjKFY2hqPJczlH7YXmzdnewKWnZLqHxz1TsMQp3--Z9o2j0AKx_10sPT4aRBPUtA/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/22/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/22/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/22/chooseteam.mp3",
@@ -903,14 +903,14 @@
   }
  },
  "iiheadshot": {
-  "formattedName": "II-Headshot",
+  "formatted_name": "II-Headshot",
   "artist": "Skog",
   "description": "Metal composer and producer Jocke Skog returns with an all new, hard hitting metal kit, turning the rest of the CS:GO Music Kits into something cute, warm and fuzzy. Now go become MVP so everyone can hear your awesomeness!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_bSOOSh52dVlh2fABTtOnxewE40qPKJG4S7ozvw4bdlqDyYOzSkjIDupYi3u-UpsLlhlPIlmg_cA/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_bSOOSh52dVlh2fABTtOnxewE40qPKJG4S7ozvw4bdlqDyYOzSkjIDupYi3u-UpsLlhlPIlmg_cA/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/20/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/20/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/20/chooseteam.mp3",
@@ -925,16 +925,16 @@
   }
  },
  "iiiarena": {
-  "formattedName": "III-Arena",
+  "formatted_name": "III-Arena",
   "artist": "Skog",
   "description": "Skog is back with a third crushing metal kit. This time with an electro-organic twist to the music, combining massive guitar riffs with equally massive drops, loop elements and drones.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_bSOOSh5ydAVwiJ1ICsL_3f1Mz0PeaJmkTuN_ukYHfz6GlZ7iFlDICsJNy2b6W9MLlhlMpd8qeng/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_bSOOSh5ydAVwiJ1ICsL_3f1Mz0PeaJmkTuN_ukYHfz6GlZ7iFlDICsJNy2b6W9MLlhlMpd8qeng/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/36/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/36/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/36/chooseteam.mp3",
@@ -949,17 +949,17 @@
   }
  },
  "inhuman": {
-  "formattedName": "inhuman",
+  "formatted_name": "inhuman",
   "artist": "ISOxo",
   "description": "Made especially for those games when you feel... different. Haunt your enemies round after round with the \"inhuman\" Music Kit from ISOxo.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0XDSPyi6J-CHVhxJFRT4e-gKQU0hKqQJj9G6NnjwtaIlqKlMOOFzj1VvJBwib2YpNm7mFqzlZnq3Hk/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0XDSPyi6J-CHVhxJFRT4e-gKQU0hKqQJj9G6NnjwtaIlqKlMOOFzj1VvJBwib2YpNm7mFqzlZnq3Hk/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak nightmode music kit box",
    "nightmode music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/70/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/70/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/70/chooseteam.mp3",
@@ -978,14 +978,14 @@
   }
  },
  "insurgency": {
-  "formattedName": "Insurgency",
+  "formatted_name": "Insurgency",
   "artist": "Robert Allaire",
   "description": "Music to crush your enemies see them driven before you from award winning composer Robert Allaire.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17fReG_w87fX1x9NwFo5uvrfVZh0vXMI2oTvdrjktSKk6WiY-iIxm0EvJN3j-iWp4ig3w3m8kpsY3ezetGAPQAM3w/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17fReG_w87fX1x9NwFo5uvrfVZh0vXMI2oTvdrjktSKk6WiY-iIxm0EvJN3j-iWp4ig3w3m8kpsY3ezetGAPQAM3w/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/6/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/6/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/6/chooseteam.mp3",
@@ -1002,14 +1002,14 @@
   }
  },
  "invasion": {
-  "formattedName": "Invasion!",
+  "formatted_name": "Invasion!",
   "artist": "Michael Bross",
   "description": "Michael Bross conjures epic / cinematic techno-grunge to make you feel like a true badass in battle.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HZROys0sPRQVJnNjsH5_SkLwFmgPDMdDwTvN61ldnflq6mY-mElWgA7sEh37vDoI2n2wbjqks4fSmtc182OcMM/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HZROys0sPRQVJnNjsH5_SkLwFmgPDMdDwTvN61ldnflq6mY-mElWgA7sEh37vDoI2n2wbjqks4fSmtc182OcMM/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/24/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/24/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/24/chooseteam.mp3",
@@ -1024,14 +1024,14 @@
   }
  },
  "isorhythm": {
-  "formattedName": "IsoRhythm",
+  "formatted_name": "IsoRhythm",
   "artist": "Matt Lange",
   "description": "Indulge your aural senses in a collection of cinematic, glitchy atmospheres and hard-hitting throbbing rhythms by electronic producer and innovator Matt Lange.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HRU_Ch1sHUVmIkdEpW4-n3egEy1_GRdzkauN_vx4XYz6PxYePVwDsFsJIp3rCQpo3z0Ae15QMyNBq3guth/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0HRU_Ch1sHUVmIkdEpW4-n3egEy1_GRdzkauN_vx4XYz6PxYePVwDsFsJIp3rCQpo3z0Ae15QMyNBq3guth/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/11/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/11/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/11/chooseteam.mp3",
@@ -1047,14 +1047,14 @@
   }
  },
  "java havana funkaloo": {
-  "formattedName": "Java Havana Funkaloo",
+  "formatted_name": "Java Havana Funkaloo",
   "artist": "Lennie Moore",
   "description": "Game Composer Lennie Moore serves an aromatic, spicy blend of Jazzy Funk. Delicious when served cold, like the corpses of your enemies after you're done with them.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0DVSeqk0sLcXE9xGlQG-OLwLgFj1qCbczsX6I_mwNXZlq_xa-_UwmoEvcYm0uqY99ih3wPhr0ByIzekKuBc2Os/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0DVSeqk0sLcXE9xGlQG-OLwLgFj1qCbczsX6I_mwNXZlq_xa-_UwmoEvcYm0uqY99ih3wPhr0ByIzekKuBc2Os/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/28/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/28/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/28/chooseteam.mp3",
@@ -1073,14 +1073,14 @@
   }
  },
  "king scar": {
-  "formattedName": "King, Scar",
+  "formatted_name": "King, Scar",
   "artist": "Scarlxrd",
   "description": "Scarlxrd blends heavy trap beats with a flow and delivery that creates his own unique subgenre. With this exciting blend his live shows capture the attention of everyone in the crowd.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_TRvahz93XbA0lawIGsr-kLgM3gPCZIm8Quoy1zNPew6ata7nSxG0Du8Ao2bDDpN-sigf6ux070Eq6mjY/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_TRvahz93XbA0lawIGsr-kLgM3gPCZIm8Quoy1zNPew6ata7nSxG0Du8Ao2bDDpN-sigf6ux070Eq6mjY/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/39/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/39/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/39/chooseteam.mp3",
@@ -1095,17 +1095,17 @@
   }
  },
  "kolibri": {
-  "formattedName": "KOLIBRI",
+  "formatted_name": "KOLIBRI",
   "artist": "Sarah Schachner",
   "description": "Brought to you by Sarah Schachner, a dystopian goth choir of self-aware, Scandinavian robots decide that humanity must be eliminated.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_RVeWlxMzbUl58KwFFier0ZVJhhvHNd24SvN3iwIbTkaKgMbqCkjMAv5cl3-rDpt7z3gKw-hBkZj_tZNjCHiSs0-g/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_RVeWlxMzbUl58KwFFier0ZVJhhvHNd24SvN3iwIbTkaKgMbqCkjMAv5cl3-rDpt7z3gKw-hBkZj_tZNjCHiSs0-g/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak tacticians music kit box",
    "tacticians music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/57/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/57/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/57/chooseteam.mp3",
@@ -1123,16 +1123,16 @@
   }
  },
  "lifes not out to get you": {
-  "formattedName": "Life's Not Out To Get You",
+  "formatted_name": "Life's Not Out To Get You",
   "artist": "Neck Deep",
   "description": "Sometimes you just need some Pop Punk to get you through the day. Whether it is dealing with campers or losing a massive kill streak, Neck Deep is here to prove that Life's Not Out To Get You, but the other team still is.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LVRO-p0srDbA0lawIFtOjzeFI5hKCed28Uv9_jxdmNlaL2Nb3Tl20EsZVy3-rD8Y_x2QP6ux07lAyIr8I/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LVRO-p0srDbA0lawIFtOjzeFI5hKCed28Uv9_jxdmNlaL2Nb3Tl20EsZVy3-rD8Y_x2QP6ux07lAyIr8I/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/33/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/33/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/33/chooseteam.mp3",
@@ -1151,14 +1151,14 @@
   }
  },
  "lions mouth": {
-  "formattedName": "Lion's Mouth",
+  "formatted_name": "Lion's Mouth",
   "artist": "Ian Hultquist",
   "description": "Mixing pulsating strings and synths with pounding war drums, prepare yourself for battle with this thunderous soundtrack from composer Ian Hultquist.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0XRSey429vCRlRnMTsH5_T2elI31aSeIDgauIu0ldTZz_X2NeODkGlX6ZJ32r7CotWniQGw_UFqfSmtc3ZJWDja/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0XRSey429vCRlRnMTsH5_T2elI31aSeIDgauIu0ldTZz_X2NeODkGlX6ZJ32r7CotWniQGw_UFqfSmtc3ZJWDja/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/25/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/25/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/25/chooseteam.mp3",
@@ -1177,14 +1177,14 @@
   }
  },
  "lnoe": {
-  "formattedName": "LNOE",
+  "formatted_name": "LNOE",
   "artist": "Sasha",
   "description": "Immerse yourself in this cinematic soundtrack full of soaring strings, pulsating melodies and driving drums from the world renowned DJ / Producer Sasha",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_RVOys6J-CHQV1IVVU5LugKQMxhKvMd25G6trmzYPfkaatY7mGxj0F7JEnjriVp4m7mFqzr6-25LM/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_RVOys6J-CHQV1IVVU5LugKQMxhKvMd25G6trmzYPfkaatY7mGxj0F7JEnjriVp4m7mFqzr6-25LM/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/7/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/7/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/7/chooseteam.mp3",
@@ -1199,17 +1199,17 @@
   }
  },
  "lock me up": {
-  "formattedName": "Lock Me Up",
+  "formatted_name": "Lock Me Up",
   "artist": "Sullivan King",
   "description": "Love the chase? Love the hunt? Hard rock, metal, and dubstep collide in Sullivan King's soundtrack for becoming unstoppable.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_FS-ikwc7dWFR6IjsH5_TyfFc3hKHLKG1Bvd21ktPfzvOmZbjQlWlT6cEgi7CXo42t2gHm_0A_fSmtc1euZdQW/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_FS-ikwc7dWFR6IjsH5_TyfFc3hKHLKG1Bvd21ktPfzvOmZbjQlWlT6cEgi7CXo42t2gHm_0A_fSmtc1euZdQW/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak initiators music kit box",
    "initiators music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/66/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/66/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/66/chooseteam.mp3",
@@ -1226,17 +1226,17 @@
   }
  },
  "make u sweat": {
-  "formattedName": "Make U SWEAT!",
+  "formatted_name": "Make U SWEAT!",
   "artist": "Knock2",
   "description": "For players who treat every game like it's a Major Grand Final, even when there's only a few hundred CSR on the line. Bring the energy and the wins with Knock2's second Music Kit, \"Make U SWEAT!\"",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0feSOemhfCDARMgd1IC5Lj3fFc4hvaRKWxBuYzhxNHTk_WgMb-JwmkJvsYp3L-R99qsxkS6rHmEXbG3/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0feSOemhfCDARMgd1IC5Lj3fFc4hvaRKWxBuYzhxNHTk_WgMb-JwmkJvsYp3L-R99qsxkS6rHmEXbG3/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak nightmode music kit box",
    "nightmode music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/72/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/72/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/72/chooseteam.mp3",
@@ -1255,14 +1255,14 @@
   }
  },
  "metal": {
-  "formattedName": "Metal",
+  "formatted_name": "Metal",
   "artist": "Skog",
   "description": "A lesson in aggression from Metal producer, Skog.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_bSOOSh56dBwUifAdT4ujyewU2hqKbJDhE6ovjkNHZxqelYb_TxjIF6sd33rCWpsLlhlNvFl7Iqg/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1_bSOOSh56dBwUifAdT4ujyewU2hqKbJDhE6ovjkNHZxqelYb_TxjIF6sd33rCWpsLlhlNvFl7Iqg/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/9/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/9/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/9/chooseteam.mp3",
@@ -1279,17 +1279,17 @@
   }
  },
  "mocha petal": {
-  "formattedName": "Mocha Petal",
+  "formatted_name": "Mocha Petal",
   "artist": "Austin Wintory",
   "description": "Austin Wintory answers the question humanity has asked for ages: what happens if you merge beer garden accordion polka music with grungy heavy metal?",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03FVPCk2djaXUl7Nx1o5unrel9mhaGZIj8Tvdm1l4SJxqWmYOyEwjxQv51y2OrDotzzigHgr0tuanezetEz4El8Og/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA03FVPCk2djaXUl7Nx1o5unrel9mhaGZIj8Tvdm1l4SJxqWmYOyEwjxQv51y2OrDotzzigHgr0tuanezetEz4El8Og/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak tacticians music kit box",
    "tacticians music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/52/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/52/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/52/chooseteam.mp3",
@@ -1306,14 +1306,14 @@
   }
  },
  "molotov": {
-  "formattedName": "MOLOTOV",
+  "formatted_name": "MOLOTOV",
   "artist": "Ki:Theory",
   "description": "Recording artist and DOTA TI4 performer, Ki:Theory drops BOMBS with this searing set of razor edge dark electronic rock.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fZU-yo2N3KbA0la1QHs-PyKQNlh6OaJGQau4-ykoXexfHyNuOBz2gB6ZUk3riZ8d2kjlL6ux074RwzfqQ/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0fZU-yo2N3KbA0la1QHs-PyKQNlh6OaJGQau4-ykoXexfHyNuOBz2gB6ZUk3riZ8d2kjlL6ux074RwzfqQ/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/17/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/17/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/17/chooseteam.mp3",
@@ -1328,14 +1328,14 @@
   }
  },
  "moments csgo": {
-  "formattedName": "Moments CSGO",
+  "formatted_name": "Moments CSGO",
   "artist": "Darude",
   "description": "Yield freely in the soundscapes of Finnish producer Darude's familiar musical flavours and tones. Enriching yourself with access to a heavy fusion of progressive overtones and scores of tingling melodic structure from the sounds banks of one of dance music's most renowned pioneers.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRVfGp0vCDAhMjJl0Ft-_1e1U3g6CYIDxAuoTux4bdlqagZ72Ez2hSup0k3biUp93xxkS6rNAjMoyM/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRVfGp0vCDAhMjJl0Ft-_1e1U3g6CYIDxAuoTux4bdlqagZ72Ez2hSup0k3biUp93xxkS6rNAjMoyM/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/29/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/29/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/29/chooseteam.mp3",
@@ -1354,17 +1354,17 @@
   }
  },
  "mudd force": {
-  "formattedName": "M.U.D.D. FORCE",
+  "formatted_name": "M.U.D.D. FORCE",
   "artist": "Tree Adams and Ben Bromfield",
   "description": "Alchemists of a powerful chaos that is M.U.D.D. FORCE - composers Tree Adams and Ben Bromfield weld epic battle motifs and grinding synths into a Maelstrom of full throttle destruction.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jCQuGs087eQGJ2IApVpLWoLQ5l3_f3IWwMvIS1ldjTlK_yZe6BlD4DvMMm2rDApomnjQThrkBtZWn2I4-SdQdtYkaQpAYhNefNzA/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jCQuGs087eQGJ2IApVpLWoLQ5l3_f3IWwMvIS1ldjTlK_yZe6BlD4DvMMm2rDApomnjQThrkBtZWn2I4-SdQdtYkaQpAYhNefNzA/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/47/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/47/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/47/chooseteam.mp3",
@@ -1381,17 +1381,17 @@
   }
  },
  "neo noir": {
-  "formattedName": "Neo Noir",
+  "formatted_name": "Neo Noir",
   "artist": "Tim Huling",
   "description": "Composer Tim Huling delivers classic film-noir style tracks blended with contemporary grooves and beats.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jZSuy428bdVGIkdEoC5-KkKlFih6XLdD4S6ITmzYXakq6sZ-uFx2gHvsN12rnHp9732ATh5QMyNMBtGfX6/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jZSuy428bdVGIkdEoC5-KkKlFih6XLdD4S6ITmzYXakq6sZ-uFx2gHvsN12rnHp9732ATh5QMyNMBtGfX6/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "masterminds music kit box",
    "stattrak masterminds music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/46/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/46/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/46/chooseteam.mp3",
@@ -1410,17 +1410,17 @@
   }
  },
  "reason": {
-  "formattedName": "Reason",
+  "formatted_name": "Reason",
   "artist": "Rad Cat",
   "description": "Sometimes defusing the bomb is enough to be the round MVP. Celebrate every moment—big or small—with the \"Reason\" Music Kit from Rad Cat.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17RQ-esw_CDAhN3dlED5-qjKgEwhaWQcj9DtYzvkYXYlaClN7mCwGhS7pdy3uyW89-nxkS6rFQyYbup/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA17RQ-esw_CDAhN3dlED5-qjKgEwhaWQcj9DtYzvkYXYlaClN7mCwGhS7pdy3uyW89-nxkS6rFQyYbup/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak nightmode music kit box",
    "nightmode music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/73/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/73/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/73/chooseteam.mp3",
@@ -1439,14 +1439,14 @@
   }
  },
  "sharpened": {
-  "formattedName": "Sharpened",
+  "formatted_name": "Sharpened",
   "artist": "Noisia",
   "description": "Dutch Electronic Trio Noisia brings a tough, cinematic feel with a unique blend of tradition and progression.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LfTvek1vCDAhNyIFEF47mmfgIyiqaaJGoStNrikIPbwPSkMuKJwGoAuZUh3bzHotWjxkS6rD-ueWGV/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LfTvek1vCDAhNyIFEF47mmfgIyiqaaJGoStNrikIPbwPSkMuKJwGoAuZUh3bzHotWjxkS6rD-ueWGV/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/5/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/5/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/5/chooseteam.mp3",
@@ -1463,17 +1463,17 @@
   }
  },
  "shooters": {
-  "formattedName": "Shooters",
+  "formatted_name": "Shooters",
   "artist": "Juelz",
   "description": "Neo trap synths, gritty 808s, an epic piano riff, and a plethora of gunfire sound effects. The OG trap anthem \"Shooters\" by Juelz makes for a truly elite Music Kit. Suitable for MVPs only.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0bFQui36J-CHQ1wcF0HtOmhL1FjhqvMczwSuYizkdDbkaKmMuOAwD4IvpNzj-uSpNy7mFqzKloNnw0/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0bFQui36J-CHQ1wcF0HtOmhL1FjhqvMczwSuYizkdDbkaKmMuOAwD4IvpNzj-uSpNy7mFqzKloNnw0/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak initiators music kit box",
    "initiators music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/63/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/63/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/63/chooseteam.mp3",
@@ -1490,14 +1490,14 @@
   }
  },
  "sponge fingerz": {
-  "formattedName": "Sponge Fingerz",
+  "formatted_name": "Sponge Fingerz",
   "artist": "New Beat Fund",
   "description": "Sunny surf rock with elements of hip-hop, punk and garage pop. Keep it real and get headshots.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LVUOao1tvVRlNwGlQG-LzyelZi0PeYImpBvN-1l9HZxvWnNr2FkjtVvJBz3b-Vo47021e3qBZyIzekN3HJPpA/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LVUOao1tvVRlNwGlQG-LzyelZi0PeYImpBvN-1l9HZxvWnNr2FkjtVvJBz3b-Vo47021e3qBZyIzekN3HJPpA/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/26/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/26/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/26/chooseteam.mp3",
@@ -1514,14 +1514,14 @@
   }
  },
  "the 8bit kit": {
-  "formattedName": "The 8-Bit Kit",
+  "formatted_name": "The 8-Bit Kit",
   "artist": "Daniel Sadowski",
   "description": "Daniel Sadowski creates the first ever 8-bit Music Kit for Counter-Strike complete with authentic 8-bit sounds.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eier2ZVUz1aWfITsautjlxNLSx6DxYuKHwzwJuMd32u_CpNigiVbn-EduYGztZNjCpxsPljU/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eier2ZVUz1aWfITsautjlxNLSx6DxYuKHwzwJuMd32u_CpNigiVbn-EduYGztZNjCpxsPljU/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/21/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/21/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/21/chooseteam.mp3",
@@ -1536,16 +1536,16 @@
   }
  },
  "the good youth": {
-  "formattedName": "The Good Youth",
+  "formatted_name": "The Good Youth",
   "artist": "Blitz Kids",
   "description": "\"British Pop/Punk band Blitz Kids brings you the perfect music kit for rushing B while thinking about those night drives you had with your friends in High School. This kit is for going fast and feeling young.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07cTvC33MbXQGIkdEoCsOrxc1c0havOJj8Wut3ux9iJlaCiYr_Xkm1QuJIp0r2XrImmjQXj5QMyNN0Y8jGp/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07cTvC33MbXQGIkdEoCsOrxc1c0havOJj8Wut3ux9iJlaCiYr_Xkm1QuJIp0r2XrImmjQXj5QMyNN0Y8jGp/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak radicals box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/31/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/31/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/31/chooseteam.mp3",
@@ -1562,14 +1562,14 @@
   }
  },
  "the lowlife pack": {
-  "formattedName": "The Lowlife Pack",
+  "formatted_name": "The Lowlife Pack",
   "artist": "Neck Deep",
   "description": "Prove you are not a normie (and better than everyone else on the map) with Neck Deep's new music kit, which includes songs from the band's album All Distortions Are Intentional.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LVRO-p0srDbA0mawAH5r_2cwUyh_edcjwQtImwkNPfw6alMr3SxT9TsJIli-uZpY_x2Vb6ux07LsxPP5E/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0LVRO-p0srDbA0mawAH5r_2cwUyh_edcjwQtImwkNPfw6alMr3SxT9TsJIli-uZpY_x2Vb6ux07LsxPP5E/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/49/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/49/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/49/chooseteam.mp3",
@@ -1588,14 +1588,14 @@
   }
  },
  "the master chief collection": {
-  "formattedName": "The Master Chief Collection",
+  "formatted_name": "The Master Chief Collection",
   "artist": "Halo",
   "description": "Give your Counter Strike auditory experience a legendary makeover with the Master Chief Collection Music Pack, featuring iconic musical moments from the Halo universe. © 2019 343 Industries. All rights reserved. Used with permission from 343 Industries. Halo: The Master Chief Collection and the Halo logo are trademarks of the Microsoft group of companies.",
   "rarity": "high grade",
-  "imageUrl": "https://csgostash.com/img/items/music/m38.png",
-  "stattrakAvailable": false,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://csgostash.com/img/items/music/m38.png",
+  "stattrak_available": false,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/38/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/38/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/38/chooseteam.mp3",
@@ -1612,14 +1612,14 @@
   }
  },
  "the talos principle": {
-  "formattedName": "The Talos Principle",
+  "formatted_name": "The Talos Principle",
   "artist": "Damjan Mravunac",
   "description": "Composer Damjan Mravunac blends energetic cinematic grooves with epic choirs in this music pack featuring music from Croteam's critically acclaimed title \"The Talos Principle\"",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSu6s2cLBUkthKwVUier0ZVIzi_GeKTsQuti3kISPkqT3a-jXwGpUvJF1j7CYodv0igOx8xBuN2ntZNjCY4KN8DA/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSu6s2cLBUkthKwVUier0ZVIzi_GeKTsQuti3kISPkqT3a-jXwGpUvJF1j7CYodv0igOx8xBuN2ntZNjCY4KN8DA/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/15/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/15/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/15/chooseteam.mp3",
@@ -1636,14 +1636,14 @@
   }
  },
  "total domination": {
-  "formattedName": "Total Domination",
+  "formatted_name": "Total Domination",
   "artist": "Daniel Sadowski",
   "description": "Composer Daniel Sadowski raises the bar with aggressive electronic beats, creative sound fx and an exhilerating, driving, futuristic vibe. \"Warning: Will cause a rise in adrenaline!\"",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eier3ZVJhgaaYdDsS7YXkl4KOx6D2Yr3Vw28DvsR3jrjH8Y2g2lDl-xY5az3tZNjCOFdlkt8/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jRSe2o29zSV1JjNg9eier3ZVJhgaaYdDsS7YXkl4KOx6D2Yr3Vw28DvsR3jrjH8Y2g2lDl-xY5az3tZNjCOFdlkt8/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/14/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/14/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/14/chooseteam.mp3",
@@ -1658,14 +1658,14 @@
   }
  },
  "u mad": {
-  "formattedName": "u mad!",
+  "formatted_name": "u mad!",
   "artist": "bbno$",
   "description": "bbno$ formulates 'the' toxic gamer anthem, u mad! Are u mad? LOL get good scrub. Research shows if you play with this Music Kit equipped you'll immediately go from Silver to Global.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07SSeu-6J-CHQklJwFW47igewJjgvCZIDkQ6oW1wdiIlKWgN-qGw2pTvpcp3bnDoti7mFqzqCCeAjk/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA07SSeu-6J-CHQklJwFW47igewJjgvCZIDkQ6oW1wdiIlKWgN-qGw2pTvpcp3bnDoti7mFqzqCCeAjk/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/58/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/58/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/58/chooseteam.mp3",
@@ -1680,14 +1680,14 @@
   }
  },
  "uber blasto phone": {
-  "formattedName": "Uber Blasto Phone",
+  "formatted_name": "Uber Blasto Phone",
   "artist": "Troels Folmann",
   "description": "Triumphant Blastophones combine with contemporary Uberpulse in this explosive collection by ultra award winning composer Troels Folmann.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jCSOGhxMncX1B1Kwpo5uvrfVVjgqrNIDsW6djll9PbkvSmYOPVxjMJ7MFy2rqXo9ukjQHj_0prYXezetHsTAnPyg/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jCSOGhxMncX1B1Kwpo5uvrfVVjgqrNIDsW6djll9PbkvSmYOPVxjMJ7MFy2rqXo9ukjQHj_0prYXezetHsTAnPyg/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/18/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/18/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/18/chooseteam.mp3",
@@ -1704,14 +1704,14 @@
   }
  },
  "ultimate": {
-  "formattedName": "ULTIMATE",
+  "formatted_name": "ULTIMATE",
   "artist": "Denzel Curry",
   "description": "Denzel brings his signature energy to CS:GO as he traverses trap, jazz, and drum and bass beats. This kit features Denzel's hits \"Walkin\", \"ULTIMATE\", and more, so break out the nickel-plated chrome Berettas and crank up the intensity with the ULTIMATE music kit.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jVSf6o28zGQU9tGlQG-LnzeFc40fadID8WvN_gx4PblvPwMe6AxG1X7pB12OqYot2miVexqBJyIzekO47Pzk8/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": null,
-  "audioUrls": {
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0jVSf6o28zGQU9tGlQG-LnzeFc40fadID8WvN_gx4PblvPwMe6AxG1X7pB12OqYot2miVexqBJyIzekO47Pzk8/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": null,
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/68/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/68/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/68/chooseteam.mp3",
@@ -1730,17 +1730,17 @@
   }
  },
  "under bright lights": {
-  "formattedName": "Under Bright Lights",
+  "formatted_name": "Under Bright Lights",
   "artist": "TWERL and Ekko \u0026 Sidetrack",
   "description": "There's no better time to come alive than when in the spotlight. Let the drum and bass anthem \"Under Bright Lights\" by TWERL and Ekko \u0026 Sidetrack carry you and your team to new heights.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jHQvah6J-CHQRwJ1YF5Lv8fl8w0qadJ24a6onkwIHfxvTyZOqIzzwDuJVz07qS94q7mFqz6h_h8lI/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA1jHQvah6J-CHQRwJ1YF5Lv8fl8w0qadJ24a6onkwIHfxvTyZOqIzzwDuJVz07qS94q7mFqz6h_h8lI/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak nightmode music kit box",
    "nightmode music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/74/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/74/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/74/chooseteam.mp3",
@@ -1759,17 +1759,17 @@
   }
  },
  "vici": {
-  "formattedName": "Vici",
+  "formatted_name": "Vici",
   "artist": "Freaky DNA",
   "description": "Opera. 8-bit sounds. Analogue synths. What's not to love? Chiptune specialist Freaky DNA and soprano Leanne Koch team up for some heavy beats and good times!",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0rCQuWmzsvdUmIkdEoO4LujKlMwgPWdcGRHvI7lwNDTkq-sZ-KHxT0Iu5MgiL3HoNmijgDg5QMyNAVeu6Eq/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0rCQuWmzsvdUmIkdEoO4LujKlMwgPWdcGRHvI7lwNDTkq-sZ-KHxT0Iu5MgiL3HoNmijgDg5QMyNAVeu6Eq/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak tacticians music kit box",
    "tacticians music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/54/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/54/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/54/chooseteam.mp3",
@@ -1788,17 +1788,17 @@
   }
  },
  "void": {
-  "formattedName": "Void",
+  "formatted_name": "Void",
   "artist": "Humanity's Last Breath",
   "description": "Swedish Band Humanity's Last Breath drops in heavy with their Void Music Kit. Pounding drums, colossal riffs and an atmosphere to send shivers up your spine.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TcRdv9hoGDUQ0sIQIOsu39KVUzg_WaJz8b6YuzltSNz_P3MuqAkDkIsMci2uzHu5z7j1dJuZ4R/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0TcRdv9hoGDUQ0sIQIOsu39KVUzg_WaJz8b6YuzltSNz_P3MuqAkDkIsMci2uzHu5z7j1dJuZ4R/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak initiators music kit box",
    "initiators music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/62/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/62/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/62/chooseteam.mp3",
@@ -1817,17 +1817,17 @@
   }
  },
  "work hard play hard": {
-  "formattedName": "Work Hard, Play Hard",
+  "formatted_name": "Work Hard, Play Hard",
   "artist": "Laura Shigihara",
   "description": "Video game composer and developer Laura Shigihara will help you tell everyone loudly and proudly that you're the MVP. Have fun with this unique blend of 90s dance, retro video game synth, and just a hint of Plants vs. Zombies.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0DRUvasxMfaVFR8JBZWier0ZVFj0PeadWwbvIjjx9DcwKSlYu7TlzMJ65dyiOuSrdXx21C1_0U4NWrtZNjCJ8atEes/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0DRUvasxMfaVFR8JBZWier0ZVFj0PeadWwbvIjjx9DcwKSlYu7TlzMJ65dyiOuSrdXx21C1_0U4NWrtZNjCJ8atEes/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak tacticians music kit box",
    "tacticians music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/56/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/56/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/56/chooseteam.mp3",
@@ -1846,17 +1846,17 @@
   }
  },
  "yellow magic": {
-  "formattedName": "~Yellow Magic~",
+  "formatted_name": "~Yellow Magic~",
   "artist": "Chipzel",
   "description": "Video game composer and chiptune legend Chipzel brings a glitchy Speak \u0026 Spell inspired mashup of hybrid styles packed with fun, funk and flavour.",
   "rarity": "high grade",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0_YTvS30sPsAww6cAIDsuOjfgY0h6PJKD8UuoTmw4LYlqb3Mu-BlG1UvpRzju3CodSmixqkpRSTUf2KhQ/256fx256f",
-  "stattrakAvailable": true,
-  "boxesFoundIn": [
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXO9B9WLbU5oA9OA0_YTvS30sPsAww6cAIDsuOjfgY0h6PJKD8UuoTmw4LYlqb3Mu-BlG1UvpRzju3CodSmixqkpRSTUf2KhQ/256fx256f",
+  "stattrak_available": true,
+  "boxes_found_in": [
    "stattrak tacticians music kit box",
    "tacticians music kit box"
   ],
-  "audioUrls": {
+  "audio_urls": {
    "Bomb 10 Second Countdown": "https://csgostash.com/storage/mp3/53/bombtenseccount.mp3",
    "Bomb Planted": "https://csgostash.com/storage/mp3/53/bombplanted.mp3",
    "Choose Team": "https://csgostash.com/storage/mp3/53/chooseteam.mp3",

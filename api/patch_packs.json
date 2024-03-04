@@ -1,14 +1,8 @@
 {
  "csgo patch pack": {
-  "formattedName": "CS:GO Patch Pack",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIFcxnaKeIGpGvYjnzYbbwvOkMriBlDxSu5Z10ryS89-h3Azt-xVoY2nwJIaLMlhpqHx2GCs/256fx256f",
+  "formatted_name": "CS:GO Patch Pack",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIFcxnaKeIGpGvYjnzYbbwvOkMriBlDxSu5Z10ryS89-h3Azt-xVoY2nwJIaLMlhpqHx2GCs/256fx256f",
   "patches": {
-   "exotic": [
-    "the boss patch",
-    "howl patch",
-    "rage patch",
-    "dragon patch"
-   ],
    "high grade": [
     "wildfire patch",
     "hydra patch",
@@ -29,18 +23,19 @@
     "longevity patch",
     "danger zone patch",
     "vigilance patch"
+   ],
+   "exotic": [
+    "the boss patch",
+    "howl patch",
+    "rage patch",
+    "dragon patch"
    ]
   }
  },
  "halflife alyx patch pack": {
-  "formattedName": "Half-Life: Alyx Patch Pack",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDho3_LEaCUMuY_vkILbwfX3ZuPUwzsGsZIiibiSporz21HnrxE6aziiJoKUelA_N0aQpAZKASuIOw/256fx256f",
+  "formatted_name": "Half-Life: Alyx Patch Pack",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDho3_LEaCUMuY_vkILbwfX3ZuPUwzsGsZIiibiSporz21HnrxE6aziiJoKUelA_N0aQpAZKASuIOw/256fx256f",
   "patches": {
-   "exotic": [
-    "health patch",
-    "copper lambda patch",
-    "alyx patch"
-   ],
    "high grade": [
     "combine helmet patch",
     "headcrab glyph patch",
@@ -52,12 +47,17 @@
     "lambda patch",
     "sustenance patch",
     "black mesa patch"
+   ],
+   "exotic": [
+    "health patch",
+    "copper lambda patch",
+    "alyx patch"
    ]
   }
  },
  "stockholm 2021 challengers patch pack": {
-  "formattedName": "Stockholm 2021 Challengers Patch Pack",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4ODlvv4NrXWk3lCpsAkjrrH99ml3ALk_RJqNzqgIteSJAM-NwmC81m_l-btgZfutcudwSB9-n51gBY2OHs/256fx256f",
+  "formatted_name": "Stockholm 2021 Challengers Patch Pack",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4ODlvv4NrXWk3lCpsAkjrrH99ml3ALk_RJqNzqgIteSJAM-NwmC81m_l-btgZfutcudwSB9-n51gBY2OHs/256fx256f",
   "patches": {
    "high grade": [
     "mouz stockholm 2021 patch",
@@ -65,8 +65,8 @@
     "team spirit stockholm 2021 patch",
     "movistar riders stockholm 2021 patch",
     "ence stockholm 2021 patch",
-    "heroic stockholm 2021 patch",
     "big stockholm 2021 patch",
+    "heroic stockholm 2021 patch",
     "pain gaming stockholm 2021 patch",
     "pgl stockholm 2021 patch"
    ],
@@ -84,8 +84,8 @@
   }
  },
  "stockholm 2021 contenders patch pack": {
-  "formattedName": "Stockholm 2021 Contenders Patch Pack",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4OEmePxPb_UhHgf7pUn3L6Tp4ih2wKx_hA-MWjwIdTBJlM5NAmD_FO5lLzp1JfpuJjBmGwj5He7gL3gnw/256fx256f",
+  "formatted_name": "Stockholm 2021 Contenders Patch Pack",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4OEmePxPb_UhHgf7pUn3L6Tp4ih2wKx_hA-MWjwIdTBJlM5NAmD_FO5lLzp1JfpuJjBmGwj5He7gL3gnw/256fx256f",
   "patches": {
    "high grade": [
     "tyloo stockholm 2021 patch",
@@ -112,15 +112,15 @@
   }
  },
  "stockholm 2021 legends patch pack": {
-  "formattedName": "Stockholm 2021 Legends Patch Pack",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4yOkPL6N6ifwT1Q6ZUnj7mSoIrz3QCw-kc-MjylLYGdJAI7YwnWr1m9we3q1MDq6oOJlyW4YTsxiw/256fx256f",
+  "formatted_name": "Stockholm 2021 Legends Patch Pack",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsQ1xgJgxoprumIDhzx_zLejUQvI7nq4yOkPL6N6ifwT1Q6ZUnj7mSoIrz3QCw-kc-MjylLYGdJAI7YwnWr1m9we3q1MDq6oOJlyW4YTsxiw/256fx256f",
   "patches": {
    "high grade": [
     "g2 esports stockholm 2021 patch",
     "natus vincere stockholm 2021 patch",
     "team liquid stockholm 2021 patch",
-    "vitality stockholm 2021 patch",
     "furia stockholm 2021 patch",
+    "vitality stockholm 2021 patch",
     "ninjas in pyjamas stockholm 2021 patch",
     "gambit gaming stockholm 2021 patch",
     "evil geniuses stockholm 2021 patch",

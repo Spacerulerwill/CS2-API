@@ -1,8 +1,60 @@
 {
- "chroma 2 case": {
-  "formattedName": "Chroma 2 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFAuhqSaKWtEu43mxtbbk6b1a77Twm4Iu8Yl3bCU9Imii1Xt80M5MmD7JZjVLFH-6VnQJQ/256fx256f",
+ "anubis collection package": {
+  "formatted_name": "Anubis Collection Package",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUlNhJw1EiamxJBVlw-HHfDIMuonkl4XbkaTyZOvXzzkAvZIk07jAp9Xx21Hn_RVuMDyhd9WXdVA4ZUaQpAaRvoU2Gw/256fx256f",
   "skins": {
+   "consumer grade": [
+    "xm1014 hieroglyph",
+    "mp7 sunbaked",
+    "aug snake pit",
+    "r8 revolver inlay",
+    "m249 submerged"
+   ],
+   "industrial grade": [
+    "m4a1s mudspec",
+    "usps desert tactical",
+    "ssg 08 azure glyph",
+    "mac10 echoing sands"
+   ],
+   "mil-spec": [
+    "awp black nile",
+    "ak47 steel delta",
+    "tec9 mummys rot",
+    "mag7 copper coated"
+   ],
+   "restricted": [
+    "glock18 rameses reach",
+    "nova sobeks bite",
+    "p90 scarab rush"
+   ],
+   "classified": [
+    "famas waters of nephthys",
+    "p250 apeps curse"
+   ],
+   "covert": [
+    "m4a4 eye of horus"
+   ]
+  },
+  "requires_key": false
+ },
+ "chroma 2 case": {
+  "formatted_name": "Chroma 2 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFAuhqSaKWtEu43mxtbbk6b1a77Twm4Iu8Yl3bCU9Imii1Xt80M5MmD7JZjVLFH-6VnQJQ/256fx256f",
+  "skins": {
+   "mil-spec": [
+    "ak47 elite build",
+    "desert eagle bronze deco",
+    "p250 valence",
+    "mp7 armor core",
+    "sawedoff origami",
+    "negev manowar"
+   ],
+   "restricted": [
+    "awp worm god",
+    "mag7 heat",
+    "cz75auto pole position",
+    "ump45 grand prix"
+   ],
    "classified": [
     "galil ar eco",
     "famas djinn",
@@ -12,20 +64,12 @@
     "m4a1s hyper beast",
     "mac10 neon rider"
    ],
-   "mil-spec": [
-    "ak47 elite build",
-    "desert eagle bronze deco",
-    "p250 valence",
-    "mp7 armor core",
-    "sawedoff origami",
-    "negev manowar"
-   ],
    "rare-item": [
     "bayonet marble fade",
     "bayonet doppler",
     "bayonet tiger tooth",
-    "bayonet damascus steel",
     "bayonet ultraviolet",
+    "bayonet damascus steel",
     "bayonet rust coat",
     "flip knife doppler",
     "flip knife marble fade",
@@ -39,80 +83,34 @@
     "gut knife damascus steel",
     "gut knife ultraviolet",
     "gut knife rust coat",
+    "karambit marble fade",
     "karambit doppler",
     "karambit tiger tooth",
     "karambit damascus steel",
     "karambit ultraviolet",
     "karambit rust coat",
-    "karambit marble fade",
     "m9 bayonet marble fade",
     "m9 bayonet doppler",
     "m9 bayonet tiger tooth",
     "m9 bayonet damascus steel",
-    "m9 bayonet rust coat",
-    "m9 bayonet ultraviolet"
-   ],
-   "restricted": [
-    "awp worm god",
-    "mag7 heat",
-    "cz75auto pole position",
-    "ump45 grand prix"
+    "m9 bayonet ultraviolet",
+    "m9 bayonet rust coat"
    ]
-  }
+  },
+  "requires_key": true
  },
  "chroma 3 case": {
-  "formattedName": "Chroma 3 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYynaSdJGhE74y0wNWIw_OlNuvXkDpSuZQmi--SrN-h3gey-Uo6YWmlIoCLMlhplhFFvwI/256fx256f",
+  "formatted_name": "Chroma 3 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYynaSdJGhE74y0wNWIw_OlNuvXkDpSuZQmi--SrN-h3gey-Uo6YWmlIoCLMlhplhFFvwI/256fx256f",
   "skins": {
-   "classified": [
-    "p250 asiimov",
-    "aug fleet flock",
-    "ump45 primal saber"
-   ],
-   "covert": [
-    "m4a1s chanticos fire",
-    "ppbizon judgement of anubis"
-   ],
    "mil-spec": [
     "mp9 bioleak",
     "dual berettas ventilators",
     "p2000 oceanic",
+    "g3sg1 orange crash",
     "sg 553 atlas",
     "m249 spectre",
-    "g3sg1 orange crash",
     "sawedoff fubar"
-   ],
-   "rare-item": [
-    "bayonet marble fade",
-    "bayonet doppler",
-    "bayonet tiger tooth",
-    "bayonet damascus steel",
-    "bayonet ultraviolet",
-    "bayonet rust coat",
-    "flip knife doppler",
-    "flip knife marble fade",
-    "flip knife tiger tooth",
-    "flip knife ultraviolet",
-    "flip knife damascus steel",
-    "flip knife rust coat",
-    "gut knife tiger tooth",
-    "gut knife doppler",
-    "gut knife marble fade",
-    "gut knife damascus steel",
-    "gut knife ultraviolet",
-    "gut knife rust coat",
-    "karambit doppler",
-    "karambit tiger tooth",
-    "karambit damascus steel",
-    "karambit ultraviolet",
-    "karambit rust coat",
-    "karambit marble fade",
-    "m9 bayonet marble fade",
-    "m9 bayonet doppler",
-    "m9 bayonet tiger tooth",
-    "m9 bayonet damascus steel",
-    "m9 bayonet rust coat",
-    "m9 bayonet ultraviolet"
    ],
    "restricted": [
     "ssg 08 ghost crusader",
@@ -120,13 +118,68 @@
     "galil ar firefight",
     "tec9 reentry",
     "cz75auto red astor"
+   ],
+   "classified": [
+    "p250 asiimov",
+    "ump45 primal saber",
+    "aug fleet flock"
+   ],
+   "covert": [
+    "m4a1s chanticos fire",
+    "ppbizon judgement of anubis"
+   ],
+   "rare-item": [
+    "bayonet marble fade",
+    "bayonet doppler",
+    "bayonet tiger tooth",
+    "bayonet ultraviolet",
+    "bayonet damascus steel",
+    "bayonet rust coat",
+    "flip knife doppler",
+    "flip knife marble fade",
+    "flip knife tiger tooth",
+    "flip knife ultraviolet",
+    "flip knife damascus steel",
+    "flip knife rust coat",
+    "gut knife tiger tooth",
+    "gut knife doppler",
+    "gut knife marble fade",
+    "gut knife damascus steel",
+    "gut knife ultraviolet",
+    "gut knife rust coat",
+    "karambit marble fade",
+    "karambit doppler",
+    "karambit tiger tooth",
+    "karambit damascus steel",
+    "karambit ultraviolet",
+    "karambit rust coat",
+    "m9 bayonet marble fade",
+    "m9 bayonet doppler",
+    "m9 bayonet tiger tooth",
+    "m9 bayonet damascus steel",
+    "m9 bayonet ultraviolet",
+    "m9 bayonet rust coat"
    ]
-  }
+  },
+  "requires_key": true
  },
  "chroma case": {
-  "formattedName": "Chroma Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFEuh_KQJTtEuI63xIXbxqOtauyClTMEsJV1jruS89T3iQKx_BBqa2j3JpjVLFH1xpp0EQ/256fx256f",
+  "formatted_name": "Chroma Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFEuh_KQJTtEuI63xIXbxqOtauyClTMEsJV1jruS89T3iQKx_BBqa2j3JpjVLFH1xpp0EQ/256fx256f",
   "skins": {
+   "mil-spec": [
+    "mp9 deadly poison",
+    "glock18 catacombs",
+    "xm1014 quicksilver",
+    "m249 system lock",
+    "scar20 grotto"
+   ],
+   "restricted": [
+    "desert eagle naga",
+    "mac10 malachite",
+    "dual berettas urban shock",
+    "sawedoff serenity"
+   ],
    "classified": [
     "ak47 cartel",
     "m4a4 dragon king",
@@ -136,19 +189,12 @@
     "galil ar chatterbox",
     "awp manowar"
    ],
-   "mil-spec": [
-    "mp9 deadly poison",
-    "glock18 catacombs",
-    "xm1014 quicksilver",
-    "m249 system lock",
-    "scar20 grotto"
-   ],
    "rare-item": [
     "bayonet marble fade",
     "bayonet doppler",
     "bayonet tiger tooth",
-    "bayonet damascus steel",
     "bayonet ultraviolet",
+    "bayonet damascus steel",
     "bayonet rust coat",
     "flip knife doppler",
     "flip knife marble fade",
@@ -162,31 +208,42 @@
     "gut knife damascus steel",
     "gut knife ultraviolet",
     "gut knife rust coat",
+    "karambit marble fade",
     "karambit doppler",
     "karambit tiger tooth",
     "karambit damascus steel",
     "karambit ultraviolet",
     "karambit rust coat",
-    "karambit marble fade",
     "m9 bayonet marble fade",
     "m9 bayonet doppler",
     "m9 bayonet tiger tooth",
     "m9 bayonet damascus steel",
-    "m9 bayonet rust coat",
-    "m9 bayonet ultraviolet"
-   ],
-   "restricted": [
-    "desert eagle naga",
-    "dual berettas urban shock",
-    "mac10 malachite",
-    "sawedoff serenity"
+    "m9 bayonet ultraviolet",
+    "m9 bayonet rust coat"
    ]
-  }
+  },
+  "requires_key": true
  },
  "clutch case": {
-  "formattedName": "Clutch Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY5naqQIz4R7Yjix9bZkvKiZrmAzzlTu5AoibiT8d_x21Wy8hY_MWz1doSLMlhpM3FKbNs/256fx256f",
+  "formatted_name": "Clutch Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY5naqQIz4R7Yjix9bZkvKiZrmAzzlTu5AoibiT8d_x21Wy8hY_MWz1doSLMlhpM3FKbNs/256fx256f",
   "skins": {
+   "mil-spec": [
+    "r8 revolver grip",
+    "fiveseven flame test",
+    "mp9 black sand",
+    "p2000 urban hazard",
+    "xm1014 oxide blaze",
+    "ppbizon night riot",
+    "sg 553 aloha"
+   ],
+   "restricted": [
+    "glock18 moonrise",
+    "mag7 swag7",
+    "negev lionfish",
+    "ump45 arctic wolf",
+    "nova wild six"
+   ],
    "classified": [
     "usps cortex",
     "awp mortis",
@@ -195,15 +252,6 @@
    "covert": [
     "m4a4 neonoir",
     "mp7 bloodsport"
-   ],
-   "mil-spec": [
-    "r8 revolver grip",
-    "fiveseven flame test",
-    "p2000 urban hazard",
-    "mp9 black sand",
-    "xm1014 oxide blaze",
-    "ppbizon night riot",
-    "sg 553 aloha"
    ],
    "rare-item": [
     "driver gloves imperial plaid",
@@ -218,8 +266,8 @@
     "hydra gloves emerald",
     "hydra gloves rattler",
     "hydra gloves mangrove",
-    "moto gloves turtle",
     "moto gloves polygon",
+    "moto gloves turtle",
     "moto gloves pow",
     "moto gloves transport",
     "specialist gloves fade",
@@ -230,29 +278,14 @@
     "sport gloves omega",
     "sport gloves amphibious",
     "sport gloves bronze morph"
-   ],
-   "restricted": [
-    "glock18 moonrise",
-    "mag7 swag7",
-    "negev lionfish",
-    "ump45 arctic wolf",
-    "nova wild six"
    ]
-  }
+  },
+  "requires_key": true
  },
  "cs20 case": {
-  "formattedName": "CS20 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE/256fx256f",
+  "formatted_name": "CS20 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE/256fx256f",
   "skins": {
-   "classified": [
-    "mp9 hydra",
-    "aug death by puppy",
-    "p90 nostalgia"
-   ],
-   "covert": [
-    "awp wildfire",
-    "famas commemoration"
-   ],
    "mil-spec": [
     "glock18 sacrifice",
     "mag7 popdog",
@@ -262,13 +295,29 @@
     "mac10 classic crate",
     "scar20 assault"
    ],
+   "restricted": [
+    "mp5sd agent",
+    "p250 inferno",
+    "fiveseven buddy",
+    "ump45 plastique",
+    "m249 aztec"
+   ],
+   "classified": [
+    "mp9 hydra",
+    "aug death by puppy",
+    "p90 nostalgia"
+   ],
+   "covert": [
+    "awp wildfire",
+    "famas commemoration"
+   ],
    "rare-item": [
     "classic knife fade",
     "classic knife slaughter",
     "classic knife crimson web",
     "classic knife vanilla",
-    "classic knife blue steel",
     "classic knife case hardened",
+    "classic knife blue steel",
     "classic knife scorched",
     "classic knife boreal forest",
     "classic knife night stripe",
@@ -276,20 +325,24 @@
     "classic knife urban masked",
     "classic knife forest ddpat",
     "classic knife safari mesh"
-   ],
-   "restricted": [
-    "mp5sd agent",
-    "p250 inferno",
-    "fiveseven buddy",
-    "m249 aztec",
-    "ump45 plastique"
    ]
-  }
+  },
+  "requires_key": true
  },
  "csgo weapon case": {
-  "formattedName": "CS:GO Weapon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT/256fx256f",
+  "formatted_name": "CS:GO Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT/256fx256f",
   "skins": {
+   "mil-spec": [
+    "sg 553 ultraviolet",
+    "aug wings",
+    "mp7 skulls"
+   ],
+   "restricted": [
+    "glock18 dragon tattoo",
+    "m4a1s dark water",
+    "usps dark water"
+   ],
    "classified": [
     "ak47 case hardened",
     "desert eagle hypnotic"
@@ -297,11 +350,6 @@
    "covert": [
     "awp lightning strike"
    ],
-   "mil-spec": [
-    "sg 553 ultraviolet",
-    "aug wings",
-    "mp7 skulls"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -309,10 +357,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -325,8 +373,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -336,35 +384,44 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "glock18 dragon tattoo",
-    "m4a1s dark water",
-    "usps dark water"
    ]
-  }
+  },
+  "requires_key": true
  },
  "csgo weapon case 2": {
-  "formattedName": "CS:GO Weapon Case 2",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5PT8elUwgKKZJmtEvo_kxITZk6StNe-Fz2pTu8Aj3eqVpIqgjVfjrRI9fSmtc1Nw-Kh3/256fx256f",
+  "formatted_name": "CS:GO Weapon Case 2",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5PT8elUwgKKZJmtEvo_kxITZk6StNe-Fz2pTu8Aj3eqVpIqgjVfjrRI9fSmtc1Nw-Kh3/256fx256f",
   "skins": {
+   "mil-spec": [
+    "scar20 crimson web",
+    "m4a1s blood tiger",
+    "tec9 blue titanium",
+    "famas hexane",
+    "p250 hive"
+   ],
+   "restricted": [
+    "fiveseven case hardened",
+    "mp9 hypnotic",
+    "dual berettas hemoglobin",
+    "nova graphite"
+   ],
    "classified": [
     "p90 cold blooded",
     "usps serum"
@@ -372,13 +429,6 @@
    "covert": [
     "ssg 08 blood in the water"
    ],
-   "mil-spec": [
-    "scar20 crimson web",
-    "m4a1s blood tiger",
-    "tec9 blue titanium",
-    "p250 hive",
-    "famas hexane"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -386,10 +436,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -402,8 +452,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -413,43 +463,31 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "fiveseven case hardened",
-    "mp9 hypnotic",
-    "dual berettas hemoglobin",
-    "nova graphite"
    ]
-  }
+  },
+  "requires_key": true
  },
  "csgo weapon case 3": {
-  "formattedName": "CS:GO Weapon Case 3",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5fSnf15k0KGacG0UtYXnzdTdkq-gariGlDgHvMcmjryZotqg2wCxrUVtfSmtc20v4quI/256fx256f",
+  "formatted_name": "CS:GO Weapon Case 3",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5fSnf15k0KGacG0UtYXnzdTdkq-gariGlDgHvMcmjryZotqg2wCxrUVtfSmtc20v4quI/256fx256f",
   "skins": {
-   "classified": [
-    "p250 undertow",
-    "cz75auto the fuschia is now"
-   ],
-   "covert": [
-    "cz75auto victoria"
-   ],
    "mil-spec": [
     "usps stainless",
     "glock18 blue fissure",
@@ -457,6 +495,19 @@
     "dual berettas panther",
     "p2000 red fragcam"
    ],
+   "restricted": [
+    "fiveseven copper galaxy",
+    "desert eagle heirloom",
+    "tec9 titanium bit",
+    "cz75auto tread plate"
+   ],
+   "classified": [
+    "p250 undertow",
+    "cz75auto the fuschia is now"
+   ],
+   "covert": [
+    "cz75auto victoria"
+   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -464,10 +515,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -480,8 +531,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -491,36 +542,47 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "desert eagle heirloom",
-    "fiveseven copper galaxy",
-    "tec9 titanium bit",
-    "cz75auto tread plate"
    ]
-  }
+  },
+  "requires_key": true
  },
  "danger zone case": {
-  "formattedName": "Danger Zone Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUxnaPLJz5H74y1xtTcz6etNumIx29U6Zd3j7yQoYih3lG1-UJqY27xJIeLMlhpaD9Aclo/256fx256f",
+  "formatted_name": "Danger Zone Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUxnaPLJz5H74y1xtTcz6etNumIx29U6Zd3j7yQoYih3lG1-UJqY27xJIeLMlhpaD9Aclo/256fx256f",
   "skins": {
+   "mil-spec": [
+    "m4a4 magnesium",
+    "tec9 fubar",
+    "glock18 oxide blaze",
+    "sg 553 danger close",
+    "mp9 modest threat",
+    "sawedoff black sand",
+    "nova wood fired"
+   ],
+   "restricted": [
+    "p250 nevermore",
+    "usps flashback",
+    "mac10 pipe down",
+    "galil ar signal",
+    "g3sg1 scavenger"
+   ],
    "classified": [
     "desert eagle mecha industries",
     "mp5sd phosphor",
@@ -530,28 +592,19 @@
     "ak47 asiimov",
     "awp neonoir"
    ],
-   "mil-spec": [
-    "m4a4 magnesium",
-    "tec9 fubar",
-    "glock18 oxide blaze",
-    "sg 553 danger close",
-    "mp9 modest threat",
-    "nova wood fired",
-    "sawedoff black sand"
-   ],
    "rare-item": [
     "navaja knife fade",
-    "navaja knife crimson web",
-    "navaja knife case hardened",
-    "navaja knife slaughter",
-    "navaja knife vanilla",
     "navaja knife blue steel",
+    "navaja knife crimson web",
+    "navaja knife slaughter",
+    "navaja knife case hardened",
+    "navaja knife vanilla",
     "navaja knife stained",
-    "navaja knife boreal forest",
-    "navaja knife scorched",
-    "navaja knife safari mesh",
-    "navaja knife night stripe",
     "navaja knife urban masked",
+    "navaja knife boreal forest",
+    "navaja knife safari mesh",
+    "navaja knife scorched",
+    "navaja knife night stripe",
     "navaja knife forest ddpat",
     "stiletto knife fade",
     "stiletto knife slaughter",
@@ -559,8 +612,8 @@
     "stiletto knife crimson web",
     "stiletto knife vanilla",
     "stiletto knife blue steel",
-    "stiletto knife stained",
     "stiletto knife scorched",
+    "stiletto knife stained",
     "stiletto knife night stripe",
     "stiletto knife urban masked",
     "stiletto knife boreal forest",
@@ -585,25 +638,35 @@
     "ursus knife crimson web",
     "ursus knife case hardened",
     "ursus knife blue steel",
-    "ursus knife stained",
     "ursus knife urban masked",
     "ursus knife night stripe",
+    "ursus knife stained",
     "ursus knife boreal forest",
     "ursus knife forest ddpat"
-   ],
-   "restricted": [
-    "p250 nevermore",
-    "usps flashback",
-    "mac10 pipe down",
-    "galil ar signal",
-    "g3sg1 scavenger"
    ]
-  }
+  },
+  "requires_key": true
  },
  "dreams nightmares case": {
-  "formattedName": "Dreams \u0026 Nightmares Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/256fx256f",
+  "formatted_name": "Dreams \u0026 Nightmares Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/256fx256f",
   "skins": {
+   "mil-spec": [
+    "fiveseven scrawl",
+    "mac10 ensnared",
+    "mp5sd necro jr",
+    "p2000 lifted spirits",
+    "sawedoff spirit board",
+    "scar20 poultrygeist",
+    "mag7 foresight"
+   ],
+   "restricted": [
+    "m4a1s night terror",
+    "usps ticket to hell",
+    "ppbizon space cat",
+    "g3sg1 dream glade",
+    "xm1014 zombie offensive"
+   ],
    "classified": [
     "dual berettas melondrama",
     "famas rapid eye movement",
@@ -613,28 +676,19 @@
     "ak47 nightwish",
     "mp9 starlight protector"
    ],
-   "mil-spec": [
-    "fiveseven scrawl",
-    "mac10 ensnared",
-    "mp5sd necro jr",
-    "sawedoff spirit board",
-    "p2000 lifted spirits",
-    "scar20 poultrygeist",
-    "mag7 foresight"
-   ],
    "rare-item": [
     "bowie knife gamma doppler",
     "bowie knife lore",
     "bowie knife autotronic",
-    "bowie knife freehand",
     "bowie knife black laminate",
+    "bowie knife freehand",
     "bowie knife bright water",
+    "butterfly knife gamma doppler",
     "butterfly knife autotronic",
     "butterfly knife black laminate",
     "butterfly knife lore",
     "butterfly knife freehand",
     "butterfly knife bright water",
-    "butterfly knife gamma doppler",
     "falchion knife gamma doppler",
     "falchion knife autotronic",
     "falchion knife lore",
@@ -653,31 +707,30 @@
     "shadow daggers autotronic",
     "shadow daggers black laminate",
     "shadow daggers bright water"
-   ],
-   "restricted": [
-    "m4a1s night terror",
-    "usps ticket to hell",
-    "g3sg1 dream glade",
-    "ppbizon space cat",
-    "xm1014 zombie offensive"
    ]
-  }
+  },
+  "requires_key": true
  },
  "esports 2013 case": {
-  "formattedName": "eSports 2013 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/256fx256f",
+  "formatted_name": "eSports 2013 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/256fx256f",
   "skins": {
+   "mil-spec": [
+    "m4a4 faded zebra",
+    "mag7 memento",
+    "famas doomkitty"
+   ],
+   "restricted": [
+    "galil ar orange ddpat",
+    "p250 splash",
+    "sawedoff orange ddpat"
+   ],
    "classified": [
     "awp boom",
     "ak47 red laminate"
    ],
    "covert": [
     "p90 death by kitty"
-   ],
-   "mil-spec": [
-    "m4a4 faded zebra",
-    "mag7 memento",
-    "famas doomkitty"
    ],
    "rare-item": [
     "bayonet fade",
@@ -686,10 +739,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -702,8 +755,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -713,35 +766,43 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "galil ar orange ddpat",
-    "p250 splash",
-    "sawedoff orange ddpat"
    ]
-  }
+  },
+  "requires_key": true
  },
  "esports 2013 winter case": {
-  "formattedName": "eSports 2013 Winter Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1Yz7KKcPzwav9jnzdfdlfWmY7_TzmkF6ZMlj77A9o3x0Qe1qhBkZGjxI9LBJgMgIQaH1G7WeaA/256fx256f",
+  "formatted_name": "eSports 2013 Winter Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1Yz7KKcPzwav9jnzdfdlfWmY7_TzmkF6ZMlj77A9o3x0Qe1qhBkZGjxI9LBJgMgIQaH1G7WeaA/256fx256f",
   "skins": {
+   "mil-spec": [
+    "galil ar blue titanium",
+    "g3sg1 azure zebra",
+    "p250 steel disruption",
+    "fiveseven nightshade",
+    "nova ghost camo",
+    "ppbizon water sigil"
+   ],
+   "restricted": [
+    "ak47 blue laminate",
+    "p90 blind spot"
+   ],
    "classified": [
     "desert eagle cobalt disruption",
     "awp electric hive",
@@ -750,14 +811,6 @@
    "covert": [
     "m4a4 xray"
    ],
-   "mil-spec": [
-    "galil ar blue titanium",
-    "p250 steel disruption",
-    "g3sg1 azure zebra",
-    "fiveseven nightshade",
-    "nova ghost camo",
-    "ppbizon water sigil"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -765,10 +818,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -781,8 +834,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -792,34 +845,46 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "ak47 blue laminate",
-    "p90 blind spot"
    ]
-  }
+  },
+  "requires_key": true
  },
  "esports 2014 summer case": {
-  "formattedName": "eSports 2014 Summer Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1Y07ODdfDBH_pKzwdfSkqTyZLjQxjsF7sEoiLyQ9I2ljgHt_EZlYzr6J4DHIA9oZ1-D5BHglkR7Cs6C/256fx256f",
+  "formatted_name": "eSports 2014 Summer Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1Y07ODdfDBH_pKzwdfSkqTyZLjQxjsF7sEoiLyQ9I2ljgHt_EZlYzr6J4DHIA9oZ1-D5BHglkR7Cs6C/256fx256f",
   "skins": {
+   "mil-spec": [
+    "mac10 ultraviolet",
+    "negev bratatat",
+    "usps blood tiger",
+    "cz75auto hexane",
+    "ssg 08 dark water",
+    "xm1014 red python"
+   ],
+   "restricted": [
+    "desert eagle crimson web",
+    "ppbizon blue streak",
+    "mp7 ocean foam",
+    "glock18 steel disruption",
+    "p90 virus"
+   ],
    "classified": [
     "nova bloomstick",
     "awp corticera",
@@ -830,14 +895,6 @@
     "ak47 jaguar",
     "m4a4 bullet rain"
    ],
-   "mil-spec": [
-    "mac10 ultraviolet",
-    "negev bratatat",
-    "usps blood tiger",
-    "cz75auto hexane",
-    "ssg 08 dark water",
-    "xm1014 red python"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -845,10 +902,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -861,8 +918,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -872,37 +929,46 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "desert eagle crimson web",
-    "ppbizon blue streak",
-    "mp7 ocean foam",
-    "glock18 steel disruption",
-    "p90 virus"
    ]
-  }
+  },
+  "requires_key": true
  },
  "falchion case": {
-  "formattedName": "Falchion Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f",
+  "formatted_name": "Falchion Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f",
   "skins": {
+   "mil-spec": [
+    "galil ar rocket pop",
+    "usps torque",
+    "glock18 bunsen burner",
+    "p90 elite build",
+    "nova ranger",
+    "ump45 riot"
+   ],
+   "restricted": [
+    "m4a4 evil daimyo",
+    "negev loudmouth",
+    "p2000 handgun",
+    "mp9 ruby poison dart",
+    "famas neural net"
+   ],
    "classified": [
     "mp7 nemesis",
     "sg 553 cyrex",
@@ -911,14 +977,6 @@
    "covert": [
     "ak47 aquamarine revenge",
     "awp hyper beast"
-   ],
-   "mil-spec": [
-    "galil ar rocket pop",
-    "usps torque",
-    "glock18 bunsen burner",
-    "p90 elite build",
-    "nova ranger",
-    "ump45 riot"
    ],
    "rare-item": [
     "falchion knife fade",
@@ -930,33 +988,18 @@
     "falchion knife stained",
     "falchion knife night",
     "falchion knife boreal forest",
+    "falchion knife forest ddpat",
     "falchion knife urban masked",
     "falchion knife scorched",
-    "falchion knife forest ddpat",
     "falchion knife safari mesh"
-   ],
-   "restricted": [
-    "m4a4 evil daimyo",
-    "negev loudmouth",
-    "p2000 handgun",
-    "mp9 ruby poison dart",
-    "famas neural net"
    ]
-  }
+  },
+  "requires_key": true
  },
  "fracture case": {
-  "formattedName": "Fracture Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk/256fx256f",
+  "formatted_name": "Fracture Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk/256fx256f",
   "skins": {
-   "classified": [
-    "glock18 vogue",
-    "m4a4 tooth fairy",
-    "xm1014 entombed"
-   ],
-   "covert": [
-    "desert eagle printstream",
-    "ak47 legion of anubis"
-   ],
    "mil-spec": [
     "ssg 08 mainframe 001",
     "ppbizon runic",
@@ -965,6 +1008,22 @@
     "p250 cassette",
     "negev ultralight",
     "sg 553 ol rusty"
+   ],
+   "restricted": [
+    "mac10 allure",
+    "mag7 monster call",
+    "galil ar connexion",
+    "tec9 brother",
+    "mp5sd kitbash"
+   ],
+   "classified": [
+    "glock18 vogue",
+    "m4a4 tooth fairy",
+    "xm1014 entombed"
+   ],
+   "covert": [
+    "desert eagle printstream",
+    "ak47 legion of anubis"
    ],
    "rare-item": [
     "nomad knife fade",
@@ -983,9 +1042,9 @@
     "paracord knife fade",
     "paracord knife slaughter",
     "paracord knife case hardened",
+    "paracord knife scorched",
     "paracord knife crimson web",
     "paracord knife vanilla",
-    "paracord knife scorched",
     "paracord knife blue steel",
     "paracord knife night stripe",
     "paracord knife stained",
@@ -996,14 +1055,14 @@
     "skeleton knife slaughter",
     "skeleton knife crimson web",
     "skeleton knife vanilla",
-    "skeleton knife case hardened",
     "skeleton knife blue steel",
+    "skeleton knife case hardened",
     "skeleton knife stained",
     "skeleton knife scorched",
     "skeleton knife night stripe",
-    "skeleton knife boreal forest",
-    "skeleton knife safari mesh",
     "skeleton knife urban masked",
+    "skeleton knife safari mesh",
+    "skeleton knife boreal forest",
     "skeleton knife forest ddpat",
     "skeleton knife fade",
     "survival knife fade",
@@ -1016,21 +1075,31 @@
     "survival knife stained",
     "survival knife night stripe",
     "survival knife urban masked",
-    "survival knife forest ddpat"
-   ],
-   "restricted": [
-    "mac10 allure",
-    "mag7 monster call",
-    "galil ar connexion",
-    "tec9 brother",
-    "mp5sd kitbash"
+    "survival knife safari mesh"
    ]
-  }
+  },
+  "requires_key": true
  },
  "gamma 2 case": {
-  "formattedName": "Gamma 2 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVFx5KAVo5PSkKV4xhfGfKTgVvIXlxNPSwaOmMLiGwzgJvJMniO-Zoo_z2wXg-EVvfSmtc78HsNoy/256fx256f",
+  "formatted_name": "Gamma 2 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVFx5KAVo5PSkKV4xhfGfKTgVvIXlxNPSwaOmMLiGwzgJvJMniO-Zoo_z2wXg-EVvfSmtc78HsNoy/256fx256f",
   "skins": {
+   "mil-spec": [
+    "p90 grim",
+    "xm1014 slipstream",
+    "cz75auto imprint",
+    "fiveseven scumbria",
+    "negev dazzle",
+    "g3sg1 ventilator",
+    "ump45 briefing"
+   ],
+   "restricted": [
+    "desert eagle directive",
+    "glock18 weasel",
+    "mag7 petroglyph",
+    "scar20 powercore",
+    "sg 553 triarch"
+   ],
    "classified": [
     "tec9 fuel injector",
     "mp9 airlock",
@@ -1040,15 +1109,6 @@
     "ak47 neon revolution",
     "famas roll cage"
    ],
-   "mil-spec": [
-    "p90 grim",
-    "xm1014 slipstream",
-    "fiveseven scumbria",
-    "cz75auto imprint",
-    "negev dazzle",
-    "g3sg1 ventilator",
-    "ump45 briefing"
-   ],
    "rare-item": [
     "bayonet gamma doppler",
     "bayonet lore",
@@ -1060,8 +1120,8 @@
     "flip knife autotronic",
     "flip knife lore",
     "flip knife bright water",
-    "flip knife black laminate",
     "flip knife freehand",
+    "flip knife black laminate",
     "gut knife gamma doppler",
     "gut knife autotronic",
     "gut knife lore",
@@ -1080,29 +1140,14 @@
     "m9 bayonet bright water",
     "m9 bayonet freehand",
     "m9 bayonet gamma doppler"
-   ],
-   "restricted": [
-    "desert eagle directive",
-    "glock18 weasel",
-    "mag7 petroglyph",
-    "scar20 powercore",
-    "sg 553 triarch"
    ]
-  }
+  },
+  "requires_key": true
  },
  "gamma case": {
-  "formattedName": "Gamma Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYznarJJjkQ6ovjw4SPlfP3auqEl2oBuJB1j--WoY322QziqkdpZGr3IteLMlhpw4RJCv8/256fx256f",
+  "formatted_name": "Gamma Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYznarJJjkQ6ovjw4SPlfP3auqEl2oBuJB1j--WoY322QziqkdpZGr3IteLMlhpw4RJCv8/256fx256f",
   "skins": {
-   "classified": [
-    "m4a4 desolate space",
-    "p2000 imperial dragon",
-    "scar20 bloodsport"
-   ],
-   "covert": [
-    "m4a1s mecha industries",
-    "glock18 wasteland rebel"
-   ],
    "mil-spec": [
     "fiveseven violent daimyo",
     "p250 iron clad",
@@ -1112,6 +1157,22 @@
     "nova exo",
     "sg 553 aerial"
    ],
+   "restricted": [
+    "awp phobos",
+    "r8 revolver reboot",
+    "aug aristocrat",
+    "p90 chopper",
+    "sawedoff limelight"
+   ],
+   "classified": [
+    "m4a4 desolate space",
+    "p2000 imperial dragon",
+    "scar20 bloodsport"
+   ],
+   "covert": [
+    "m4a1s mecha industries",
+    "glock18 wasteland rebel"
+   ],
    "rare-item": [
     "bayonet gamma doppler",
     "bayonet lore",
@@ -1123,8 +1184,8 @@
     "flip knife autotronic",
     "flip knife lore",
     "flip knife bright water",
-    "flip knife black laminate",
     "flip knife freehand",
+    "flip knife black laminate",
     "gut knife gamma doppler",
     "gut knife autotronic",
     "gut knife lore",
@@ -1143,29 +1204,14 @@
     "m9 bayonet bright water",
     "m9 bayonet freehand",
     "m9 bayonet gamma doppler"
-   ],
-   "restricted": [
-    "awp phobos",
-    "r8 revolver reboot",
-    "aug aristocrat",
-    "p90 chopper",
-    "sawedoff limelight"
    ]
-  }
+  },
+  "requires_key": true
  },
  "glove case": {
-  "formattedName": "Glove Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY1naTMdzwTtNrukteIkqT2MO_Uwz5Q6cYhibyXo4rw2ALsrkRoYjuncNCLMlhpEV4XDTk/256fx256f",
+  "formatted_name": "Glove Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY1naTMdzwTtNrukteIkqT2MO_Uwz5Q6cYhibyXo4rw2ALsrkRoYjuncNCLMlhpEV4XDTk/256fx256f",
   "skins": {
-   "classified": [
-    "famas mecha industries",
-    "p90 shallow grave",
-    "sawedoff wasteland princess"
-   ],
-   "covert": [
-    "ssg 08 dragonfire",
-    "m4a4 buzz kill"
-   ],
    "mil-spec": [
     "glock18 ironwork",
     "p2000 turf",
@@ -1174,6 +1220,22 @@
     "mp9 sand scale",
     "mag7 sonar",
     "cz75auto polymer"
+   ],
+   "restricted": [
+    "usps cyrex",
+    "m4a1s flashback",
+    "dual berettas royal consorts",
+    "nova gila",
+    "g3sg1 stinger"
+   ],
+   "classified": [
+    "famas mecha industries",
+    "p90 shallow grave",
+    "sawedoff wasteland princess"
+   ],
+   "covert": [
+    "ssg 08 dragonfire",
+    "m4a4 buzz kill"
    ],
    "rare-item": [
     "bloodhound gloves bronzed",
@@ -1200,29 +1262,14 @@
     "sport gloves arid",
     "sport gloves superconductor",
     "sport gloves pandoras box"
-   ],
-   "restricted": [
-    "usps cyrex",
-    "m4a1s flashback",
-    "dual berettas royal consorts",
-    "nova gila",
-    "g3sg1 stinger"
    ]
-  }
+  },
+  "requires_key": true
  },
  "horizon case": {
-  "formattedName": "Horizon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUwnfbOdDgavYXukYTZkqf2ZbrTwmkE6scgj7CY94ml3FXl-ENkMW3wctOLMlhpVHKV9YA/256fx256f",
+  "formatted_name": "Horizon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUwnfbOdDgavYXukYTZkqf2ZbrTwmkE6scgj7CY94ml3FXl-ENkMW3wctOLMlhpVHKV9YA/256fx256f",
   "skins": {
-   "classified": [
-    "m4a1s nightmare",
-    "sawedoff devourer",
-    "famas eye of athena"
-   ],
-   "covert": [
-    "ak47 neon rider",
-    "desert eagle code red"
-   ],
    "mil-spec": [
     "glock18 warhawk",
     "p90 traction",
@@ -1232,19 +1279,35 @@
     "aug amber slipstream",
     "r8 revolver survivalist"
    ],
+   "restricted": [
+    "awp paw",
+    "nova toy soldier",
+    "cz75auto eco",
+    "mp7 powercore",
+    "g3sg1 high seas"
+   ],
+   "classified": [
+    "m4a1s nightmare",
+    "sawedoff devourer",
+    "famas eye of athena"
+   ],
+   "covert": [
+    "ak47 neon rider",
+    "desert eagle code red"
+   ],
    "rare-item": [
     "navaja knife fade",
-    "navaja knife crimson web",
-    "navaja knife case hardened",
-    "navaja knife slaughter",
-    "navaja knife vanilla",
     "navaja knife blue steel",
+    "navaja knife crimson web",
+    "navaja knife slaughter",
+    "navaja knife case hardened",
+    "navaja knife vanilla",
     "navaja knife stained",
-    "navaja knife boreal forest",
-    "navaja knife scorched",
-    "navaja knife safari mesh",
-    "navaja knife night stripe",
     "navaja knife urban masked",
+    "navaja knife boreal forest",
+    "navaja knife safari mesh",
+    "navaja knife scorched",
+    "navaja knife night stripe",
     "navaja knife forest ddpat",
     "stiletto knife fade",
     "stiletto knife slaughter",
@@ -1252,8 +1315,8 @@
     "stiletto knife crimson web",
     "stiletto knife vanilla",
     "stiletto knife blue steel",
-    "stiletto knife stained",
     "stiletto knife scorched",
+    "stiletto knife stained",
     "stiletto knife night stripe",
     "stiletto knife urban masked",
     "stiletto knife boreal forest",
@@ -1278,34 +1341,19 @@
     "ursus knife crimson web",
     "ursus knife case hardened",
     "ursus knife blue steel",
-    "ursus knife stained",
     "ursus knife urban masked",
     "ursus knife night stripe",
+    "ursus knife stained",
     "ursus knife boreal forest",
     "ursus knife forest ddpat"
-   ],
-   "restricted": [
-    "awp paw",
-    "nova toy soldier",
-    "cz75auto eco",
-    "g3sg1 high seas",
-    "mp7 powercore"
    ]
-  }
+  },
+  "requires_key": true
  },
  "huntsman weapon case": {
-  "formattedName": "Huntsman Weapon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQu0PaQIm9DtY6wzYaIxKWtN7iJwW8G6Z0h2LqWoY6s2Qy2-0Q_Nzv7IJjVLFGZqUbjlQ/256fx256f",
+  "formatted_name": "Huntsman Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQu0PaQIm9DtY6wzYaIxKWtN7iJwW8G6Z0h2LqWoY6s2Qy2-0Q_Nzv7IJjVLFGZqUbjlQ/256fx256f",
   "skins": {
-   "classified": [
-    "usps caiman",
-    "scar20 cyrex",
-    "m4a1s atomic alloy"
-   ],
-   "covert": [
-    "m4a4 desertstrike",
-    "ak47 vulcan"
-   ],
    "mil-spec": [
     "p90 module",
     "p2000 pulse",
@@ -1314,11 +1362,26 @@
     "galil ar kami",
     "ssg 08 slashed"
    ],
+   "restricted": [
+    "mac10 tatter",
+    "xm1014 heaven guard",
+    "aug torque",
+    "ppbizon antique"
+   ],
+   "classified": [
+    "usps caiman",
+    "m4a1s atomic alloy",
+    "scar20 cyrex"
+   ],
+   "covert": [
+    "m4a4 desertstrike",
+    "ak47 vulcan"
+   ],
    "rare-item": [
     "huntsman knife fade",
     "huntsman knife slaughter",
-    "huntsman knife blue steel",
     "huntsman knife case hardened",
+    "huntsman knife blue steel",
     "huntsman knife vanilla",
     "huntsman knife crimson web",
     "huntsman knife stained",
@@ -1328,19 +1391,30 @@
     "huntsman knife forest ddpat",
     "huntsman knife safari mesh",
     "huntsman knife boreal forest"
-   ],
-   "restricted": [
-    "mac10 tatter",
-    "xm1014 heaven guard",
-    "aug torque",
-    "ppbizon antique"
    ]
-  }
+  },
+  "requires_key": true
  },
  "kilowatt case": {
-  "formattedName": "Kilowatt Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQznaKdID5D6d23ldHSwKOmZeyEz21XvZZ12LzE9t6nigbgqkplNjihJIaLMlhpF1ZeR5c/256fx256f",
+  "formatted_name": "Kilowatt Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQznaKdID5D6d23ldHSwKOmZeyEz21XvZZ12LzE9t6nigbgqkplNjihJIaLMlhpF1ZeR5c/256fx256f",
   "skins": {
+   "mil-spec": [
+    "mac10 light box",
+    "ssg 08 dezastre",
+    "xm1014 irezumi",
+    "nova dark sigil",
+    "ump45 motorized",
+    "tec9 slag",
+    "dual berettas hideout"
+   ],
+   "restricted": [
+    "glock18 block18",
+    "m4a4 etch lord",
+    "mp7 just smile",
+    "sawedoff analog input",
+    "fiveseven hybrid"
+   ],
    "classified": [
     "m4a1s black lotus",
     "usps jawbreaker",
@@ -1350,43 +1424,42 @@
     "ak47 inheritance",
     "awp chrome cannon"
    ],
-   "mil-spec": [
-    "mac10 light box",
-    "ssg 08 dezastre",
-    "xm1014 irezumi",
-    "ump45 motorized",
-    "tec9 slag",
-    "nova dark sigil",
-    "dual berettas hideout"
-   ],
    "rare-item": [
     "kukri knife fade",
-    "kukri knife vanilla",
     "kukri knife slaughter",
+    "kukri knife vanilla",
     "kukri knife crimson web",
-    "kukri knife case hardened",
     "kukri knife blue steel",
+    "kukri knife scorched",
+    "kukri knife case hardened",
     "kukri knife stained",
     "kukri knife urban masked",
-    "kukri knife safari mesh",
     "kukri knife boreal forest",
     "kukri knife night stripe",
     "kukri knife forest ddpat",
-    "kukri knife scorched"
-   ],
-   "restricted": [
-    "glock18 block18",
-    "m4a4 etch lord",
-    "fiveseven hybrid",
-    "sawedoff analog input",
-    "mp7 just smile"
+    "kukri knife safari mesh"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation bravo case": {
-  "formattedName": "Operation Bravo Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/256fx256f",
+  "formatted_name": "Operation Bravo Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/256fx256f",
   "skins": {
+   "mil-spec": [
+    "galil ar shattered",
+    "dual berettas black limba",
+    "nova tempest",
+    "ump45 bone pile",
+    "sg 553 wave spray",
+    "g3sg1 demeter"
+   ],
+   "restricted": [
+    "usps overgrowth",
+    "m4a4 zirka",
+    "mac10 graven",
+    "m4a1s bright water"
+   ],
    "classified": [
     "p2000 ocean foam",
     "p90 emerald dragon",
@@ -1396,14 +1469,6 @@
     "ak47 fire serpent",
     "desert eagle golden koi"
    ],
-   "mil-spec": [
-    "galil ar shattered",
-    "dual berettas black limba",
-    "nova tempest",
-    "ump45 bone pile",
-    "sg 553 wave spray",
-    "g3sg1 demeter"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -1411,10 +1476,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -1427,8 +1492,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -1438,36 +1503,44 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "usps overgrowth",
-    "m4a4 zirka",
-    "mac10 graven",
-    "m4a1s bright water"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation breakout weapon case": {
-  "formattedName": "Operation Breakout Weapon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/256fx256f",
+  "formatted_name": "Operation Breakout Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/256fx256f",
   "skins": {
+   "mil-spec": [
+    "ssg 08 abyss",
+    "p2000 ivory",
+    "ump45 labyrinth",
+    "negev desertstrike",
+    "mp7 urban hazard"
+   ],
+   "restricted": [
+    "p250 supernova",
+    "nova koi",
+    "cz75auto tigris",
+    "ppbizon osiris"
+   ],
    "classified": [
     "glock18 water elemental",
     "desert eagle conspiracy",
@@ -1477,18 +1550,11 @@
     "m4a1s cyrex",
     "p90 asiimov"
    ],
-   "mil-spec": [
-    "ssg 08 abyss",
-    "p2000 ivory",
-    "ump45 labyrinth",
-    "negev desertstrike",
-    "mp7 urban hazard"
-   ],
    "rare-item": [
     "butterfly knife slaughter",
     "butterfly knife blue steel",
-    "butterfly knife crimson web",
     "butterfly knife case hardened",
+    "butterfly knife crimson web",
     "butterfly knife stained",
     "butterfly knife night",
     "butterfly knife scorched",
@@ -1498,19 +1564,30 @@
     "butterfly knife forest ddpat",
     "butterfly knife vanilla",
     "butterfly knife fade"
-   ],
-   "restricted": [
-    "p250 supernova",
-    "nova koi",
-    "ppbizon osiris",
-    "cz75auto tigris"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation broken fang case": {
-  "formattedName": "Operation Broken Fang Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/256fx256f",
+  "formatted_name": "Operation Broken Fang Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/256fx256f",
   "skins": {
+   "mil-spec": [
+    "galil ar vandal",
+    "mp5sd condition zero",
+    "p250 contaminant",
+    "cz75auto vendetta",
+    "m249 deep relief",
+    "p90 cocoa rampage",
+    "g3sg1 digital mesh"
+   ],
+   "restricted": [
+    "awp exoskeleton",
+    "ssg 08 parallax",
+    "nova clear polymer",
+    "dual berettas dezastre",
+    "ump45 gold bismuth"
+   ],
    "classified": [
     "fiveseven fairy tale",
     "m4a4 cyber security",
@@ -1520,15 +1597,6 @@
     "m4a1s printstream",
     "glock18 neonoir"
    ],
-   "mil-spec": [
-    "galil ar vandal",
-    "mp5sd condition zero",
-    "p250 contaminant",
-    "cz75auto vendetta",
-    "m249 deep relief",
-    "g3sg1 digital mesh",
-    "p90 cocoa rampage"
-   ],
    "rare-item": [
     "broken fang gloves jade",
     "broken fang gloves yellowbanded",
@@ -1536,8 +1604,8 @@
     "broken fang gloves needle point",
     "driver gloves snow leopard",
     "driver gloves black tie",
-    "driver gloves rezan the red",
     "driver gloves queen jaguar",
+    "driver gloves rezan the red",
     "hand wraps caution",
     "hand wraps giraffe",
     "hand wraps constrictor",
@@ -1554,20 +1622,30 @@
     "sport gloves big game",
     "sport gloves nocts",
     "sport gloves scarlet shamagh"
-   ],
-   "restricted": [
-    "awp exoskeleton",
-    "ssg 08 parallax",
-    "dual berettas dezastre",
-    "nova clear polymer",
-    "ump45 gold bismuth"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation hydra case": {
-  "formattedName": "Operation Hydra Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY3navMJWgQtNm1ldLZzvOiZr-BlToIsZcoi-yTpdutiVW2-Es4NWjwIo-LMlhpinMS53M/256fx256f",
+  "formatted_name": "Operation Hydra Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY3navMJWgQtNm1ldLZzvOiZr-BlToIsZcoi-yTpdutiVW2-Es4NWjwIo-LMlhpinMS53M/256fx256f",
   "skins": {
+   "mil-spec": [
+    "usps blueprint",
+    "m4a1s briefing",
+    "tec9 cut out",
+    "ump45 metal flowers",
+    "mag7 hard water",
+    "famas macabre",
+    "mac10 aloha"
+   ],
+   "restricted": [
+    "ak47 orbit mk01",
+    "p90 death grip",
+    "ssg 08 deaths head",
+    "p2000 woodsman",
+    "p250 red rock"
+   ],
    "classified": [
     "galil ar sugar rush",
     "m4a4 hellfire",
@@ -1576,15 +1654,6 @@
    "covert": [
     "awp oni taiji",
     "fiveseven hyper beast"
-   ],
-   "mil-spec": [
-    "usps blueprint",
-    "m4a1s briefing",
-    "tec9 cut out",
-    "mac10 aloha",
-    "mag7 hard water",
-    "ump45 metal flowers",
-    "famas macabre"
    ],
    "rare-item": [
     "bloodhound gloves bronzed",
@@ -1611,20 +1680,26 @@
     "sport gloves arid",
     "sport gloves superconductor",
     "sport gloves pandoras box"
-   ],
-   "restricted": [
-    "ak47 orbit mk01",
-    "p90 death grip",
-    "p2000 woodsman",
-    "ssg 08 deaths head",
-    "p250 red rock"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation phoenix weapon case": {
-  "formattedName": "Operation Phoenix Weapon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUuh6qZJmlD7tiyl4OIlaGhYuLTzjhVupJ12urH89ii3lHlqEdoMDr2I5jVLFFSv_J2Rg/256fx256f",
+  "formatted_name": "Operation Phoenix Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUuh6qZJmlD7tiyl4OIlaGhYuLTzjhVupJ12urH89ii3lHlqEdoMDr2I5jVLFFSv_J2Rg/256fx256f",
   "skins": {
+   "mil-spec": [
+    "tec9 sandstorm",
+    "negev terrain",
+    "ump45 corporal",
+    "mag7 heaven guard"
+   ],
+   "restricted": [
+    "usps guardian",
+    "mac10 heat",
+    "sg 553 pulse",
+    "famas sergeant"
+   ],
    "classified": [
     "ak47 redline",
     "nova antique",
@@ -1634,12 +1709,6 @@
     "awp asiimov",
     "aug chameleon"
    ],
-   "mil-spec": [
-    "tec9 sandstorm",
-    "negev terrain",
-    "ump45 corporal",
-    "mag7 heaven guard"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -1647,10 +1716,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -1663,8 +1732,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -1674,45 +1743,31 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "usps guardian",
-    "mac10 heat",
-    "famas sergeant",
-    "sg 553 pulse"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation riptide case": {
-  "formattedName": "Operation Riptide Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU5narKKW4SvIrhw9PZlaPwNuqAxmgBucNz2L3C8dyj31Xn-0VtMW3wdY6LMlhplna0TPI/256fx256f",
+  "formatted_name": "Operation Riptide Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU5narKKW4SvIrhw9PZlaPwNuqAxmgBucNz2L3C8dyj31Xn-0VtMW3wdY6LMlhplna0TPI/256fx256f",
   "skins": {
-   "classified": [
-    "glock18 snack attack",
-    "ssg 08 turbo peek",
-    "mac10 toybox"
-   ],
-   "covert": [
-    "desert eagle ocean drive",
-    "ak47 leet museo"
-   ],
    "mil-spec": [
     "usps black lotus",
     "xm1014 watchdog",
@@ -1722,19 +1777,35 @@
     "ppbizon lumen",
     "g3sg1 keeping tabs"
    ],
+   "restricted": [
+    "m4a4 spider lily",
+    "mp9 mount fuji",
+    "famas zx spectron",
+    "fiveseven boost protocol",
+    "mag7 bi83 spectrum"
+   ],
+   "classified": [
+    "glock18 snack attack",
+    "ssg 08 turbo peek",
+    "mac10 toybox"
+   ],
+   "covert": [
+    "desert eagle ocean drive",
+    "ak47 leet museo"
+   ],
    "rare-item": [
     "bowie knife gamma doppler",
     "bowie knife lore",
     "bowie knife autotronic",
-    "bowie knife freehand",
     "bowie knife black laminate",
+    "bowie knife freehand",
     "bowie knife bright water",
+    "butterfly knife gamma doppler",
     "butterfly knife autotronic",
     "butterfly knife black laminate",
     "butterfly knife lore",
     "butterfly knife freehand",
     "butterfly knife bright water",
-    "butterfly knife gamma doppler",
     "falchion knife gamma doppler",
     "falchion knife autotronic",
     "falchion knife lore",
@@ -1753,20 +1824,27 @@
     "shadow daggers autotronic",
     "shadow daggers black laminate",
     "shadow daggers bright water"
-   ],
-   "restricted": [
-    "m4a4 spider lily",
-    "mp9 mount fuji",
-    "famas zx spectron",
-    "fiveseven boost protocol",
-    "mag7 bi83 spectrum"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation vanguard weapon case": {
-  "formattedName": "Operation Vanguard Weapon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/256fx256f",
+  "formatted_name": "Operation Vanguard Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/256fx256f",
   "skins": {
+   "mil-spec": [
+    "mag7 firestarter",
+    "fiveseven urban hazard",
+    "ump45 delusion",
+    "mp9 dart",
+    "g3sg1 murky"
+   ],
+   "restricted": [
+    "m4a1s basilisk",
+    "m4a4 griffin",
+    "glock18 grinder",
+    "sawedoff highwayman"
+   ],
    "classified": [
     "xm1014 tranquility",
     "p250 cartel",
@@ -1776,13 +1854,6 @@
     "ak47 wasteland rebel",
     "p2000 fire elemental"
    ],
-   "mil-spec": [
-    "mag7 firestarter",
-    "ump45 delusion",
-    "fiveseven urban hazard",
-    "mp9 dart",
-    "g3sg1 murky"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -1790,10 +1861,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -1806,8 +1877,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -1817,36 +1888,46 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "m4a1s basilisk",
-    "m4a4 griffin",
-    "glock18 grinder",
-    "sawedoff highwayman"
    ]
-  }
+  },
+  "requires_key": true
  },
  "operation wildfire case": {
-  "formattedName": "Operation Wildfire Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYxnaeQImRGu4S1x9TawfSmY-iHkmoD7cEl2LiQpIjz3wPl_ERkYWHwLY-LMlhp9pkR_UQ/256fx256f",
+  "formatted_name": "Operation Wildfire Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYxnaeQImRGu4S1x9TawfSmY-iHkmoD7cEl2LiQpIjz3wPl_ERkYWHwLY-LMlhp9pkR_UQ/256fx256f",
   "skins": {
+   "mil-spec": [
+    "usps lead conduit",
+    "ppbizon photic zone",
+    "dual berettas cartel",
+    "ssg 08 necropos",
+    "tec9 jambiya",
+    "mac10 lapis gator"
+   ],
+   "restricted": [
+    "glock18 royal legion",
+    "mp7 impire",
+    "famas valence",
+    "mag7 praetorian",
+    "fiveseven triumvirate"
+   ],
    "classified": [
     "desert eagle kumicho dragon",
     "nova hyper beast",
@@ -1856,51 +1937,28 @@
     "ak47 fuel injector",
     "m4a4 the battlestar"
    ],
-   "mil-spec": [
-    "usps lead conduit",
-    "ppbizon photic zone",
-    "ssg 08 necropos",
-    "dual berettas cartel",
-    "tec9 jambiya",
-    "mac10 lapis gator"
-   ],
    "rare-item": [
     "bowie knife fade",
     "bowie knife slaughter",
     "bowie knife case hardened",
     "bowie knife crimson web",
     "bowie knife blue steel",
-    "bowie knife vanilla",
     "bowie knife stained",
+    "bowie knife vanilla",
     "bowie knife night",
     "bowie knife scorched",
     "bowie knife boreal forest",
     "bowie knife urban masked",
     "bowie knife forest ddpat",
     "bowie knife safari mesh"
-   ],
-   "restricted": [
-    "glock18 royal legion",
-    "mp7 impire",
-    "famas valence",
-    "mag7 praetorian",
-    "fiveseven triumvirate"
    ]
-  }
+  },
+  "requires_key": true
  },
  "prisma 2 case": {
-  "formattedName": "Prisma 2 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM/256fx256f",
+  "formatted_name": "Prisma 2 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM/256fx256f",
   "skins": {
-   "classified": [
-    "ak47 phantom disruptor",
-    "mac10 disco tech",
-    "mag7 justice"
-   ],
-   "covert": [
-    "m4a1s player two",
-    "glock18 bullet queen"
-   ],
    "mil-spec": [
     "awp capillary",
     "desert eagle blue ply",
@@ -1910,6 +1968,22 @@
     "negev prototype",
     "r8 revolver bone forged"
    ],
+   "restricted": [
+    "ssg 08 fever dream",
+    "p2000 acid etched",
+    "sg 553 darkwing",
+    "scar20 enforcer",
+    "sawedoff apocalypto"
+   ],
+   "classified": [
+    "ak47 phantom disruptor",
+    "mac10 disco tech",
+    "mag7 justice"
+   ],
+   "covert": [
+    "m4a1s player two",
+    "glock18 bullet queen"
+   ],
    "rare-item": [
     "navaja knife doppler",
     "navaja knife marble fade",
@@ -1935,29 +2009,14 @@
     "ursus knife ultraviolet",
     "ursus knife damascus steel",
     "ursus knife rust coat"
-   ],
-   "restricted": [
-    "ssg 08 fever dream",
-    "sg 553 darkwing",
-    "p2000 acid etched",
-    "scar20 enforcer",
-    "sawedoff apocalypto"
    ]
-  }
+  },
+  "requires_key": true
  },
  "prisma case": {
-  "formattedName": "Prisma Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUynfWaI25G6Ijkl9iPw_SnNrjXw2oBu8cj3b2Qo4_33QbnrUdlYD37ddCLMlhpvs0XIz0/256fx256f",
+  "formatted_name": "Prisma Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUynfWaI25G6Ijkl9iPw_SnNrjXw2oBu8cj3b2Qo4_33QbnrUdlYD37ddCLMlhpvs0XIz0/256fx256f",
   "skins": {
-   "classified": [
-    "aug momentum",
-    "xm1014 incinegator",
-    "r8 revolver skull crusher"
-   ],
-   "covert": [
-    "m4a4 the emperor",
-    "fiveseven angry mob"
-   ],
    "mil-spec": [
     "ak47 uncharted",
     "galil ar akoben",
@@ -1967,6 +2026,22 @@
     "p90 off world",
     "mp7 mischief"
    ],
+   "restricted": [
+    "awp atheris",
+    "desert eagle light rail",
+    "tec9 bamboozle",
+    "ump45 moonrise",
+    "mp5sd gauss"
+   ],
+   "classified": [
+    "aug momentum",
+    "xm1014 incinegator",
+    "r8 revolver skull crusher"
+   ],
+   "covert": [
+    "m4a4 the emperor",
+    "fiveseven angry mob"
+   ],
    "rare-item": [
     "navaja knife doppler",
     "navaja knife marble fade",
@@ -1992,20 +2067,30 @@
     "ursus knife ultraviolet",
     "ursus knife damascus steel",
     "ursus knife rust coat"
-   ],
-   "restricted": [
-    "awp atheris",
-    "desert eagle light rail",
-    "tec9 bamboozle",
-    "ump45 moonrise",
-    "mp5sd gauss"
    ]
-  }
+  },
+  "requires_key": true
  },
  "recoil case": {
-  "formattedName": "Recoil Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA/256fx256f",
+  "formatted_name": "Recoil Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA/256fx256f",
   "skins": {
+   "mil-spec": [
+    "m4a4 poly mag",
+    "glock18 winterized",
+    "famas meow 36",
+    "negev drop me",
+    "galil ar destroyer",
+    "mac10 monkeyflage",
+    "ump45 roadblock"
+   ],
+   "restricted": [
+    "dual berettas flora carnivora",
+    "r8 revolver crazy 8",
+    "sg 553 dragon tech",
+    "p90 vent rush",
+    "m249 downtown"
+   ],
    "classified": [
     "ak47 ice coaled",
     "sawedoff kisslove",
@@ -2015,15 +2100,6 @@
     "usps printstream",
     "awp chromatic aberration"
    ],
-   "mil-spec": [
-    "m4a4 poly mag",
-    "glock18 winterized",
-    "famas meow 36",
-    "negev drop me",
-    "galil ar destroyer",
-    "ump45 roadblock",
-    "mac10 monkeyflage"
-   ],
    "rare-item": [
     "broken fang gloves jade",
     "broken fang gloves yellowbanded",
@@ -2031,8 +2107,8 @@
     "broken fang gloves needle point",
     "driver gloves snow leopard",
     "driver gloves black tie",
-    "driver gloves rezan the red",
     "driver gloves queen jaguar",
+    "driver gloves rezan the red",
     "hand wraps caution",
     "hand wraps giraffe",
     "hand wraps constrictor",
@@ -2049,29 +2125,14 @@
     "sport gloves big game",
     "sport gloves nocts",
     "sport gloves scarlet shamagh"
-   ],
-   "restricted": [
-    "dual berettas flora carnivora",
-    "r8 revolver crazy 8",
-    "sg 553 dragon tech",
-    "p90 vent rush",
-    "m249 downtown"
    ]
-  }
+  },
+  "requires_key": true
  },
  "revolution case": {
-  "formattedName": "Revolution Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U/256fx256f",
+  "formatted_name": "Revolution Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U/256fx256f",
   "skins": {
-   "classified": [
-    "awp duality",
-    "p2000 wicked sick",
-    "ump45 wild child"
-   ],
-   "covert": [
-    "m4a4 temukau",
-    "ak47 head shot"
-   ],
    "mil-spec": [
     "mp5sd liquidation",
     "mp9 featherweight",
@@ -2080,6 +2141,22 @@
     "tec9 rebel",
     "mag7 insomnia",
     "scar20 fragments"
+   ],
+   "restricted": [
+    "m4a1s emphorosaurs",
+    "glock18 umbral rabbit",
+    "p90 neoqueen",
+    "r8 revolver banana cannon",
+    "mac10 sakkaku"
+   ],
+   "classified": [
+    "awp duality",
+    "p2000 wicked sick",
+    "ump45 wild child"
+   ],
+   "covert": [
+    "m4a4 temukau",
+    "ak47 head shot"
    ],
    "rare-item": [
     "driver gloves imperial plaid",
@@ -2094,8 +2171,8 @@
     "hydra gloves emerald",
     "hydra gloves rattler",
     "hydra gloves mangrove",
-    "moto gloves turtle",
     "moto gloves polygon",
+    "moto gloves turtle",
     "moto gloves pow",
     "moto gloves transport",
     "specialist gloves fade",
@@ -2106,20 +2183,30 @@
     "sport gloves omega",
     "sport gloves amphibious",
     "sport gloves bronze morph"
-   ],
-   "restricted": [
-    "m4a1s emphorosaurs",
-    "glock18 umbral rabbit",
-    "p90 neoqueen",
-    "mac10 sakkaku",
-    "r8 revolver banana cannon"
    ]
-  }
+  },
+  "requires_key": true
  },
  "revolver case": {
-  "formattedName": "Revolver Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYwnfKfcG9HvN7iktaOkqD1auLTxD5SvZYgiLvFpo7xjVLh-kdrYWnzcoGLMlhpsyM-5vg/256fx256f",
+  "formatted_name": "Revolver Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYwnfKfcG9HvN7iktaOkqD1auLTxD5SvZYgiLvFpo7xjVLh-kdrYWnzcoGLMlhpsyM-5vg/256fx256f",
   "skins": {
+   "mil-spec": [
+    "r8 revolver crimson web",
+    "desert eagle corinthian",
+    "p2000 imperial",
+    "aug ricochet",
+    "sawedoff yorick",
+    "scar20 outbreak"
+   ],
+   "restricted": [
+    "negev power loader",
+    "tec9 avalanche",
+    "xm1014 teclu burner",
+    "ppbizon fuel rod",
+    "fiveseven retrobution",
+    "sg 553 tiger moth"
+   ],
    "classified": [
     "ak47 point disarray",
     "g3sg1 the executioner",
@@ -2129,14 +2216,6 @@
     "m4a4 royal paladin",
     "r8 revolver fade"
    ],
-   "mil-spec": [
-    "r8 revolver crimson web",
-    "desert eagle corinthian",
-    "p2000 imperial",
-    "aug ricochet",
-    "sawedoff yorick",
-    "scar20 outbreak"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -2144,10 +2223,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -2160,8 +2239,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -2171,47 +2250,31 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "negev power loader",
-    "tec9 avalanche",
-    "xm1014 teclu burner",
-    "ppbizon fuel rod",
-    "fiveseven retrobution",
-    "sg 553 tiger moth"
    ]
-  }
+  },
+  "requires_key": true
  },
  "shadow case": {
-  "formattedName": "Shadow Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f",
+  "formatted_name": "Shadow Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f",
   "skins": {
-   "classified": [
-    "ak47 frontside misty",
-    "ssg 08 big iron",
-    "g3sg1 flux"
-   ],
-   "covert": [
-    "usps kill confirmed",
-    "m4a1s golden coil"
-   ],
    "mil-spec": [
     "dual berettas dualing dragons",
     "glock18 wraiths",
@@ -2220,6 +2283,21 @@
     "mac10 rangeen",
     "mag7 cobalt core",
     "scar20 green marine"
+   ],
+   "restricted": [
+    "galil ar stone cold",
+    "p250 wingshot",
+    "mp7 special delivery",
+    "m249 nebula crusader"
+   ],
+   "classified": [
+    "ak47 frontside misty",
+    "ssg 08 big iron",
+    "g3sg1 flux"
+   ],
+   "covert": [
+    "usps kill confirmed",
+    "m4a1s golden coil"
    ],
    "rare-item": [
     "shadow daggers fade",
@@ -2231,32 +2309,18 @@
     "shadow daggers blue steel",
     "shadow daggers stained",
     "shadow daggers scorched",
-    "shadow daggers boreal forest",
     "shadow daggers urban masked",
+    "shadow daggers boreal forest",
     "shadow daggers forest ddpat",
     "shadow daggers safari mesh"
-   ],
-   "restricted": [
-    "galil ar stone cold",
-    "p250 wingshot",
-    "mp7 special delivery",
-    "m249 nebula crusader"
    ]
-  }
+  },
+  "requires_key": true
  },
  "shattered web case": {
-  "formattedName": "Shattered Web Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUznaCaJWVDvozlzdONwvKjYLiBk24IsZEl0uuYrNjw0A3n80JpZWzwIYWLMlhpLvhcskA/256fx256f",
+  "formatted_name": "Shattered Web Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUznaCaJWVDvozlzdONwvKjYLiBk24IsZEl0uuYrNjw0A3n80JpZWzwIYWLMlhpLvhcskA/256fx256f",
   "skins": {
-   "classified": [
-    "ssg 08 bloodshot",
-    "tec9 decimator",
-    "sg 553 colony iv"
-   ],
-   "covert": [
-    "awp containment breach",
-    "mac10 stalker"
-   ],
    "mil-spec": [
     "dual berettas balance",
     "r8 revolver memento",
@@ -2265,6 +2329,22 @@
     "m249 warbird",
     "scar20 torn",
     "g3sg1 black sand"
+   ],
+   "restricted": [
+    "ak47 rat rod",
+    "aug arctic wolf",
+    "p2000 obsidian",
+    "ppbizon embargo",
+    "mp7 neon ply"
+   ],
+   "classified": [
+    "ssg 08 bloodshot",
+    "tec9 decimator",
+    "sg 553 colony iv"
+   ],
+   "covert": [
+    "awp containment breach",
+    "mac10 stalker"
    ],
    "rare-item": [
     "nomad knife fade",
@@ -2283,9 +2363,9 @@
     "paracord knife fade",
     "paracord knife slaughter",
     "paracord knife case hardened",
+    "paracord knife scorched",
     "paracord knife crimson web",
     "paracord knife vanilla",
-    "paracord knife scorched",
     "paracord knife blue steel",
     "paracord knife night stripe",
     "paracord knife stained",
@@ -2296,14 +2376,14 @@
     "skeleton knife slaughter",
     "skeleton knife crimson web",
     "skeleton knife vanilla",
-    "skeleton knife case hardened",
     "skeleton knife blue steel",
+    "skeleton knife case hardened",
     "skeleton knife stained",
     "skeleton knife scorched",
     "skeleton knife night stripe",
-    "skeleton knife boreal forest",
-    "skeleton knife safari mesh",
     "skeleton knife urban masked",
+    "skeleton knife safari mesh",
+    "skeleton knife boreal forest",
     "skeleton knife forest ddpat",
     "skeleton knife fade",
     "survival knife fade",
@@ -2316,21 +2396,31 @@
     "survival knife stained",
     "survival knife night stripe",
     "survival knife urban masked",
-    "survival knife forest ddpat"
-   ],
-   "restricted": [
-    "ak47 rat rod",
-    "p2000 obsidian",
-    "aug arctic wolf",
-    "ppbizon embargo",
-    "mp7 neon ply"
+    "survival knife safari mesh"
    ]
-  }
+  },
+  "requires_key": true
  },
  "snakebite case": {
-  "formattedName": "Snakebite Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU4naLOJzgUuYqyzIaIxa6jMOLXxGkHvcMjibmU99Sg3Qaw-hA_ZWrzLISLMlhpgJJUhGE/256fx256f",
+  "formatted_name": "Snakebite Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU4naLOJzgUuYqyzIaIxa6jMOLXxGkHvcMjibmU99Sg3Qaw-hA_ZWrzLISLMlhpgJJUhGE/256fx256f",
   "skins": {
+   "mil-spec": [
+    "glock18 clear polymer",
+    "r8 revolver junk yard",
+    "sg 553 heavy metal",
+    "cz75auto circaetus",
+    "nova windblown",
+    "m249 osipr",
+    "ump45 oscillator"
+   ],
+   "restricted": [
+    "ak47 slate",
+    "desert eagle trigger discipline",
+    "p250 cyber shell",
+    "negev devtexture",
+    "mac10 button masher"
+   ],
    "classified": [
     "galil ar chromatic aberration",
     "mp9 food chain",
@@ -2340,15 +2430,6 @@
     "usps the traitor",
     "m4a4 in living color"
    ],
-   "mil-spec": [
-    "glock18 clear polymer",
-    "r8 revolver junk yard",
-    "cz75auto circaetus",
-    "m249 osipr",
-    "sg 553 heavy metal",
-    "nova windblown",
-    "ump45 oscillator"
-   ],
    "rare-item": [
     "broken fang gloves jade",
     "broken fang gloves yellowbanded",
@@ -2356,8 +2437,8 @@
     "broken fang gloves needle point",
     "driver gloves snow leopard",
     "driver gloves black tie",
-    "driver gloves rezan the red",
     "driver gloves queen jaguar",
+    "driver gloves rezan the red",
     "hand wraps caution",
     "hand wraps giraffe",
     "hand wraps constrictor",
@@ -2374,20 +2455,30 @@
     "sport gloves big game",
     "sport gloves nocts",
     "sport gloves scarlet shamagh"
-   ],
-   "restricted": [
-    "ak47 slate",
-    "desert eagle trigger discipline",
-    "p250 cyber shell",
-    "negev devtexture",
-    "mac10 button masher"
    ]
-  }
+  },
+  "requires_key": true
  },
  "spectrum 2 case": {
-  "formattedName": "Spectrum 2 Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY4naeaJGhGtdnmx4Tek_bwY-iFlGlUsJMp3LuTot-mjFGxqUttZ2r3d4eLMlhpnZPxZK0/256fx256f",
+  "formatted_name": "Spectrum 2 Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY4naeaJGhGtdnmx4Tek_bwY-iFlGlUsJMp3LuTot-mjFGxqUttZ2r3d4eLMlhpnZPxZK0/256fx256f",
   "skins": {
+   "mil-spec": [
+    "glock18 off world",
+    "aug triqua",
+    "tec9 cracked opal",
+    "g3sg1 hunter",
+    "mac10 oceanic",
+    "scar20 jungle slipstream",
+    "sawedoff morris"
+   ],
+   "restricted": [
+    "xm1014 ziggy",
+    "mp9 goo",
+    "cz75auto tacticat",
+    "ump45 exposure",
+    "sg 553 phantom"
+   ],
    "classified": [
     "m4a1s leaded glass",
     "r8 revolver llama cannon",
@@ -2397,15 +2488,6 @@
     "ak47 the empress",
     "p250 see ya later"
    ],
-   "mil-spec": [
-    "glock18 off world",
-    "aug triqua",
-    "tec9 cracked opal",
-    "g3sg1 hunter",
-    "mac10 oceanic",
-    "sawedoff morris",
-    "scar20 jungle slipstream"
-   ],
    "rare-item": [
     "bowie knife doppler",
     "bowie knife marble fade",
@@ -2422,12 +2504,12 @@
     "falchion knife doppler",
     "falchion knife marble fade",
     "falchion knife tiger tooth",
-    "falchion knife damascus steel",
     "falchion knife ultraviolet",
+    "falchion knife damascus steel",
     "falchion knife rust coat",
     "huntsman knife doppler",
-    "huntsman knife marble fade",
     "huntsman knife tiger tooth",
+    "huntsman knife marble fade",
     "huntsman knife damascus steel",
     "huntsman knife ultraviolet",
     "huntsman knife rust coat",
@@ -2437,20 +2519,30 @@
     "shadow daggers damascus steel",
     "shadow daggers ultraviolet",
     "shadow daggers rust coat"
-   ],
-   "restricted": [
-    "xm1014 ziggy",
-    "mp9 goo",
-    "cz75auto tacticat",
-    "ump45 exposure",
-    "sg 553 phantom"
    ]
-  }
+  },
+  "requires_key": true
  },
  "spectrum case": {
-  "formattedName": "Spectrum Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY2nfKadD4U7Y7lwYXexaGlYb3QzjlUvZ0k0ujHptug2VbirkRrNW2md4SLMlhph09hpX0/256fx256f",
+  "formatted_name": "Spectrum Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY2nfKadD4U7Y7lwYXexaGlYb3QzjlUvZ0k0ujHptug2VbirkRrNW2md4SLMlhph09hpX0/256fx256f",
   "skins": {
+   "mil-spec": [
+    "desert eagle oxide blaze",
+    "mp7 akoben",
+    "fiveseven capillary",
+    "sawedoff zander",
+    "scar20 blueprint",
+    "p250 ripple",
+    "ppbizon jungle slipstream"
+   ],
+   "restricted": [
+    "galil ar crimson tsunami",
+    "m249 emerald poison dart",
+    "xm1014 seasons",
+    "mac10 last dive",
+    "ump45 scaffold"
+   ],
    "classified": [
     "m4a1s decimator",
     "awp fever dream",
@@ -2460,15 +2552,6 @@
     "ak47 bloodsport",
     "usps neonoir"
    ],
-   "mil-spec": [
-    "desert eagle oxide blaze",
-    "mp7 akoben",
-    "fiveseven capillary",
-    "sawedoff zander",
-    "p250 ripple",
-    "scar20 blueprint",
-    "ppbizon jungle slipstream"
-   ],
    "rare-item": [
     "bowie knife doppler",
     "bowie knife marble fade",
@@ -2485,12 +2568,12 @@
     "falchion knife doppler",
     "falchion knife marble fade",
     "falchion knife tiger tooth",
-    "falchion knife damascus steel",
     "falchion knife ultraviolet",
+    "falchion knife damascus steel",
     "falchion knife rust coat",
     "huntsman knife doppler",
-    "huntsman knife marble fade",
     "huntsman knife tiger tooth",
+    "huntsman knife marble fade",
     "huntsman knife damascus steel",
     "huntsman knife ultraviolet",
     "huntsman knife rust coat",
@@ -2500,20 +2583,26 @@
     "shadow daggers damascus steel",
     "shadow daggers ultraviolet",
     "shadow daggers rust coat"
-   ],
-   "restricted": [
-    "galil ar crimson tsunami",
-    "m249 emerald poison dart",
-    "mac10 last dive",
-    "xm1014 seasons",
-    "ump45 scaffold"
    ]
-  }
+  },
+  "requires_key": true
  },
  "winter offensive weapon case": {
-  "formattedName": "Winter Offensive Weapon Case",
-  "imageUrl": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYu0aKfJz8a793gxNLfzvOkMunUwWgH7JIjj-qW8d7x2VXt_UBuMT3zIpjVLFEGDSGUSQ/256fx256f",
+  "formatted_name": "Winter Offensive Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYu0aKfJz8a793gxNLfzvOkMunUwWgH7JIjj-qW8d7x2VXt_UBuMT3zIpjVLFEGDSGUSQ/256fx256f",
   "skins": {
+   "mil-spec": [
+    "galil ar sandstorm",
+    "ppbizon cobalt halftone",
+    "fiveseven kami",
+    "m249 magma"
+   ],
+   "restricted": [
+    "dual berettas marina",
+    "mp9 rose iron",
+    "famas pulse",
+    "nova rising skull"
+   ],
    "classified": [
     "awp redline",
     "m4a1s guardian",
@@ -2523,12 +2612,6 @@
     "m4a4 asiimov",
     "sawedoff the kraken"
    ],
-   "mil-spec": [
-    "galil ar sandstorm",
-    "ppbizon cobalt halftone",
-    "fiveseven kami",
-    "m249 magma"
-   ],
    "rare-item": [
     "bayonet fade",
     "bayonet slaughter",
@@ -2536,10 +2619,10 @@
     "bayonet case hardened",
     "bayonet crimson web",
     "bayonet blue steel",
-    "bayonet boreal forest",
     "bayonet stained",
-    "bayonet night",
+    "bayonet boreal forest",
     "bayonet forest ddpat",
+    "bayonet night",
     "bayonet urban masked",
     "bayonet scorched",
     "bayonet safari mesh",
@@ -2552,8 +2635,8 @@
     "flip knife stained",
     "flip knife night",
     "flip knife forest ddpat",
-    "flip knife scorched",
     "flip knife safari mesh",
+    "flip knife scorched",
     "flip knife urban masked",
     "flip knife boreal forest",
     "gut knife fade",
@@ -2563,30 +2646,35 @@
     "gut knife case hardened",
     "gut knife slaughter",
     "gut knife vanilla",
+    "gut knife night",
     "gut knife stained",
     "gut knife urban masked",
     "gut knife boreal forest",
     "gut knife forest ddpat",
-    "gut knife night",
     "gut knife scorched",
-    "karambit slaughter",
     "karambit vanilla",
-    "karambit case hardened",
+    "karambit slaughter",
     "karambit crimson web",
+    "karambit case hardened",
     "karambit blue steel",
-    "karambit night",
     "karambit stained",
+    "karambit night",
     "karambit boreal forest",
     "karambit safari mesh",
     "karambit urban masked",
     "karambit scorched"
-   ],
-   "restricted": [
-    "dual berettas marina",
-    "mp9 rose iron",
-    "famas pulse",
-    "nova rising skull"
    ]
-  }
+  },
+  "requires_key": true
+ },
+ "xray p250 package": {
+  "formatted_name": "X-Ray P250 Package",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsS091PDtH5O_1ZVMxgabNKDwU7YmzwoWNlPKtY-KEwm8C7Zwh37nAot_z2lC1qhJuZ23tZNjC09CZupM/256fx256f",
+  "skins": {
+   "restricted": [
+    "p250 xray"
+   ]
+  },
+  "requires_key": false
  }
 }

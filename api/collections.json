@@ -1,12 +1,8 @@
 {
  "the 2018 inferno collection": {
-  "formattedName": "The 2018 Inferno Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_2018_inferno_collection.png?id=6b65b8e3fd413bdc1460be86bd3d9706",
+  "formatted_name": "The 2018 Inferno Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2018_inferno_collection.png?id=6b65b8e3fd413bdc1460be86bd3d9706",
   "skins": {
-   "classified": [
-    "sg 553 integrale",
-    "dual berettas twin turbo"
-   ],
    "consumer grade": [
     "mp5sd dirt drop",
     "mp9 slide",
@@ -30,17 +26,17 @@
     "mp7 fade",
     "ak47 safety net",
     "p250 vino primo"
+   ],
+   "classified": [
+    "sg 553 integrale",
+    "dual berettas twin turbo"
    ]
   }
  },
  "the 2018 nuke collection": {
-  "formattedName": "The 2018 Nuke Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_2018_nuke_collection.png?id=86a16ac6b531917bd4a31a18dede4bda",
+  "formatted_name": "The 2018 Nuke Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2018_nuke_collection.png?id=86a16ac6b531917bd4a31a18dede4bda",
   "skins": {
-   "classified": [
-    "m4a1s control panel",
-    "tec9 remote control"
-   ],
    "consumer grade": [
     "ppbizon facility sketch",
     "fiveseven coolant",
@@ -64,103 +60,98 @@
     "glock18 nuclear garden",
     "aug random access",
     "mag7 core breach"
+   ],
+   "classified": [
+    "m4a1s control panel",
+    "tec9 remote control"
    ]
   }
  },
  "the 2021 dust 2 collection": {
-  "formattedName": "The 2021 Dust 2 Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_2021_dust_2_collection.png?id=4668dded293e5042d65767d9fed24ad7",
+  "formatted_name": "The 2021 Dust 2 Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_dust_2_collection.png?id=4668dded293e5042d65767d9fed24ad7",
   "skins": {
-   "classified": [
-    "ump45 fade",
-    "ssg 08 death strike"
-   ],
    "consumer grade": [
     "sawedoff parched",
-    "mp7 prey",
     "sg 553 bleached",
-    "p90 desert ddpat",
-    "r8 revolver desert brush"
-   ],
-   "covert": [
-    "ak47 gold arabesque"
+    "r8 revolver desert brush",
+    "mp7 prey",
+    "p90 desert ddpat"
    ],
    "industrial grade": [
     "aug spalted wood",
-    "fiveseven withered vine",
+    "mp9 old roots",
     "m249 midnight palm",
-    "mp9 old roots"
+    "fiveseven withered vine"
    ],
    "mil-spec": [
     "galil ar amber fade",
-    "nova quick sand",
     "p250 black tan",
+    "nova quick sand",
     "g3sg1 new roots"
    ],
    "restricted": [
     "m4a4 red ddpat",
     "mac10 case hardened",
     "usps orange anolis"
+   ],
+   "classified": [
+    "ump45 fade",
+    "ssg 08 death strike"
+   ],
+   "covert": [
+    "ak47 gold arabesque"
    ]
   }
  },
  "the 2021 mirage collection": {
-  "formattedName": "The 2021 Mirage Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_2021_mirage_collection.png?id=499b9cffaf9fce5ee1b1553351586ddc",
+  "formatted_name": "The 2021 Mirage Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_mirage_collection.png?id=499b9cffaf9fce5ee1b1553351586ddc",
   "skins": {
-   "classified": [
-    "desert eagle fennec fox",
-    "mp5sd oxide oasis"
-   ],
    "consumer grade": [
-    "p250 drought",
-    "ssg 08 prey",
-    "mag7 navy sheen",
+    "ppbizon anolis",
     "mac10 sienna damask",
-    "ppbizon anolis"
-   ],
-   "covert": [
-    "awp desert hydra"
+    "ssg 08 prey",
+    "p250 drought",
+    "mag7 navy sheen"
    ],
    "industrial grade": [
     "cz75auto midnight palm",
-    "dual berettas drift wood",
     "p90 verdant growth",
+    "dual berettas drift wood",
     "famas calicamo"
    ],
    "mil-spec": [
     "usps purple ddpat",
+    "mp9 music box",
     "sg 553 desert blossom",
-    "m249 humidor",
-    "mp9 music box"
+    "m249 humidor"
    ],
    "restricted": [
     "glock18 pink ddpat",
     "aug sand storm",
     "xm1014 elegant vines"
+   ],
+   "classified": [
+    "desert eagle fennec fox",
+    "mp5sd oxide oasis"
+   ],
+   "covert": [
+    "awp desert hydra"
    ]
   }
  },
  "the 2021 train collection": {
-  "formattedName": "The 2021 Train Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_2021_train_collection.png?id=064643cde27910fc7f654e71a5f46b81",
+  "formatted_name": "The 2021 Train Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_train_collection.png?id=064643cde27910fc7f654e71a5f46b81",
   "skins": {
-   "classified": [
-    "usps whiteout",
-    "famas meltdown",
-    "mac10 propaganda"
-   ],
-   "covert": [
-    "m4a4 the coalition",
-    "glock18 gamma doppler"
-   ],
    "mil-spec": [
-    "desert eagle sputnik",
     "r8 revolver blaze",
     "m4a1s fizzy pop",
+    "desert eagle sputnik",
     "ump45 full stop",
-    "tec9 safety net",
     "aug amber fade",
+    "tec9 safety net",
     "ssg 08 spring twilly"
    ],
    "restricted": [
@@ -169,17 +160,22 @@
     "cz75auto syndicate",
     "mp5sd autumn twilly",
     "p2000 space race"
+   ],
+   "classified": [
+    "usps whiteout",
+    "famas meltdown",
+    "mac10 propaganda"
+   ],
+   "covert": [
+    "m4a4 the coalition",
+    "glock18 gamma doppler"
    ]
   }
  },
  "the 2021 vertigo collection": {
-  "formattedName": "The 2021 Vertigo Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_2021_vertigo_collection.png?id=63b110d43dffdacaf6fde3de10585080",
+  "formatted_name": "The 2021 Vertigo Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_vertigo_collection.png?id=63b110d43dffdacaf6fde3de10585080",
   "skins": {
-   "classified": [
-    "sg 553 hazard pay",
-    "fiveseven fall hazard"
-   ],
    "consumer grade": [
     "famas faulty wiring",
     "cz75auto framework",
@@ -187,13 +183,10 @@
     "mac10 strats",
     "dual berettas oil change"
    ],
-   "covert": [
-    "m4a1s imminent danger"
-   ],
    "industrial grade": [
     "ssg 08 carbon fiber",
-    "ppbizon breaker box",
     "glock18 red tire",
+    "ppbizon breaker box",
     "ump45 mechanism"
    ],
    "mil-spec": [
@@ -206,20 +199,27 @@
     "galil ar caution",
     "p250 digital architect",
     "mag7 prism terrace"
+   ],
+   "classified": [
+    "sg 553 hazard pay",
+    "fiveseven fall hazard"
+   ],
+   "covert": [
+    "m4a1s imminent danger"
    ]
   }
  },
  "the alpha collection": {
-  "formattedName": "The Alpha Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_alpha_collection.png?id=be612b28a90313b83bf2e35a5a7b538f",
+  "formatted_name": "The Alpha Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_alpha_collection.png?id=be612b28a90313b83bf2e35a5a7b538f",
   "skins": {
    "consumer grade": [
     "xm1014 jungle",
     "mp9 dry season",
     "tec9 tornado",
     "fiveseven anodized gunmetal",
-    "m249 jungle ddpat",
-    "mp7 groundwater"
+    "mp7 groundwater",
+    "m249 jungle ddpat"
    ],
    "industrial grade": [
     "glock18 sand dune",
@@ -240,22 +240,15 @@
   }
  },
  "the ancient collection": {
-  "formattedName": "The Ancient Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_ancient_collection.png?id=b14a59c8b6f1335850301f00a4049d32",
+  "formatted_name": "The Ancient Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_ancient_collection.png?id=b14a59c8b6f1335850301f00a4049d32",
   "skins": {
-   "classified": [
-    "ak47 panthera onca",
-    "p90 run and hide"
-   ],
    "consumer grade": [
     "r8 revolver night",
     "ssg 08 jungle dashed",
     "p90 ancient earth",
     "sg 553 lush ruins",
     "nova army sheen"
-   ],
-   "covert": [
-    "m4a1s welcome to the jungle"
    ],
    "industrial grade": [
     "cz75auto silver",
@@ -266,19 +259,26 @@
    "mil-spec": [
     "aug carved jade",
     "galil ar dusk ruins",
-    "tec9 blast from the past",
-    "famas dark water"
+    "famas dark water",
+    "tec9 blast from the past"
    ],
    "restricted": [
     "xm1014 ancient lore",
     "mac10 gold brick",
     "usps ancient visions"
+   ],
+   "classified": [
+    "ak47 panthera onca",
+    "p90 run and hide"
+   ],
+   "covert": [
+    "m4a1s welcome to the jungle"
    ]
   }
  },
  "the aztec collection": {
-  "formattedName": "The Aztec Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_aztec_collection.png?id=31a659be540e6755129e57cfd920c793",
+  "formatted_name": "The Aztec Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_aztec_collection.png?id=31a659be540e6755129e57cfd920c793",
   "skins": {
    "consumer grade": [
     "fiveseven jungle",
@@ -286,8 +286,8 @@
     "nova forest leaves"
    ],
    "industrial grade": [
-    "ak47 jungle spray",
-    "m4a4 jungle tiger"
+    "m4a4 jungle tiger",
+    "ak47 jungle spray"
    ],
    "mil-spec": [
     "tec9 ossified"
@@ -295,12 +295,9 @@
   }
  },
  "the baggage collection": {
-  "formattedName": "The Baggage Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_baggage_collection.png?id=f60a513e899dc20d74f104ec570d42b9",
+  "formatted_name": "The Baggage Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_baggage_collection.png?id=f60a513e899dc20d74f104ec570d42b9",
   "skins": {
-   "classified": [
-    "ak47 jet set"
-   ],
    "consumer grade": [
     "ssg 08 sand dune",
     "mp9 green plaid",
@@ -320,25 +317,25 @@
     "usps business class"
    ],
    "restricted": [
-    "desert eagle pilot",
-    "ak47 first class"
+    "ak47 first class",
+    "desert eagle pilot"
+   ],
+   "classified": [
+    "ak47 jet set"
    ]
   }
  },
  "the bank collection": {
-  "formattedName": "The Bank Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_bank_collection.png?id=4b22927cf5afae3b25c3c525c73c58df",
+  "formatted_name": "The Bank Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_bank_collection.png?id=4b22927cf5afae3b25c3c525c73c58df",
   "skins": {
-   "classified": [
-    "p250 franklin"
-   ],
    "consumer grade": [
     "r8 revolver bone mask",
     "tec9 urban ddpat",
-    "sg 553 army sheen",
+    "sawedoff forest ddpat",
     "negev army sheen",
     "mp7 forest ddpat",
-    "sawedoff forest ddpat"
+    "sg 553 army sheen"
    ],
    "industrial grade": [
     "mac10 silver",
@@ -354,12 +351,15 @@
    ],
    "restricted": [
     "ak47 emerald pinstripe"
+   ],
+   "classified": [
+    "p250 franklin"
    ]
   }
  },
  "the blacksite collection": {
-  "formattedName": "The Blacksite Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_blacksite_collection.png?id=e221b078739a175c73c799591642cc31",
+  "formatted_name": "The Blacksite Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_blacksite_collection.png?id=e221b078739a175c73c799591642cc31",
   "skins": {
    "restricted": [
     "mp5sd lab rats"
@@ -367,8 +367,8 @@
   }
  },
  "the cache collection": {
-  "formattedName": "The Cache Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_cache_collection.png?id=fc5a742efad6037f638b3d6b60879f87",
+  "formatted_name": "The Cache Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_cache_collection.png?id=fc5a742efad6037f638b3d6b60879f87",
   "skins": {
    "industrial grade": [
     "fiveseven hot shot",
@@ -392,21 +392,15 @@
   }
  },
  "the canals collection": {
-  "formattedName": "The Canals Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_canals_collection.png?id=f1a0028701bfdc319cd8d4a42779e74a",
+  "formatted_name": "The Canals Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_canals_collection.png?id=f1a0028701bfdc319cd8d4a42779e74a",
   "skins": {
-   "classified": [
-    "mag7 cinquedea"
-   ],
    "consumer grade": [
     "r8 revolver canal spray",
     "scar20 stone mosaico",
     "cz75auto indigo",
     "aug navy murano",
     "negev boroque sand"
-   ],
-   "covert": [
-    "awp the prince"
    ],
    "industrial grade": [
     "ak47 baroque purple",
@@ -417,29 +411,31 @@
    "mil-spec": [
     "dual berettas emerald",
     "p90 baroque red",
-    "g3sg1 violet murano",
-    "ssg 08 orange filigree"
+    "ssg 08 orange filigree",
+    "g3sg1 violet murano"
    ],
    "restricted": [
     "mp9 stained glass",
     "mac10 red filigree",
     "nova baroque orange"
+   ],
+   "classified": [
+    "mag7 cinquedea"
+   ],
+   "covert": [
+    "awp the prince"
    ]
   }
  },
  "the chop shop collection": {
-  "formattedName": "The Chop Shop Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_chop_shop_collection.png?id=538383ba49aca9277d7fef0919e8a5e9",
+  "formatted_name": "The Chop Shop Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_chop_shop_collection.png?id=538383ba49aca9277d7fef0919e8a5e9",
   "skins": {
-   "classified": [
-    "m4a1s hot rod",
-    "glock18 twilight galaxy"
-   ],
    "consumer grade": [
-    "cz75auto army sheen",
     "scar20 army sheen",
     "mag7 seabird",
-    "m249 impact drill"
+    "m249 impact drill",
+    "cz75auto army sheen"
    ],
    "industrial grade": [
     "desert eagle night",
@@ -456,25 +452,23 @@
    "restricted": [
     "dual berettas duelist",
     "sg 553 bulldozer"
+   ],
+   "classified": [
+    "m4a1s hot rod",
+    "glock18 twilight galaxy"
    ]
   }
  },
  "the cobblestone collection": {
-  "formattedName": "The Cobblestone Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_cobblestone_collection.png?id=bd895db9b10b2bf26847edc021b8d28f",
+  "formatted_name": "The Cobblestone Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_cobblestone_collection.png?id=bd895db9b10b2bf26847edc021b8d28f",
   "skins": {
-   "classified": [
-    "m4a1s knight"
-   ],
    "consumer grade": [
     "mac10 indigo",
     "ump45 indigo",
     "p90 storm",
     "scar20 storm",
     "dual berettas briar"
-   ],
-   "covert": [
-    "awp dragon lore"
    ],
    "industrial grade": [
     "usps royal blue",
@@ -489,53 +483,56 @@
    "restricted": [
     "desert eagle hand cannon",
     "cz75auto chalice"
+   ],
+   "classified": [
+    "m4a1s knight"
+   ],
+   "covert": [
+    "awp dragon lore"
    ]
   }
  },
  "the control collection": {
-  "formattedName": "The Control Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_control_collection.png?id=cb8169ea0602c936bd4264567d030c3c",
+  "formatted_name": "The Control Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_control_collection.png?id=cb8169ea0602c936bd4264567d030c3c",
   "skins": {
-   "classified": [
-    "m4a1s blue phosphor",
-    "usps target acquired"
-   ],
    "consumer grade": [
     "p250 forest night",
     "cz75auto jungle dashed",
     "mp9 army sheen",
-    "xm1014 charter",
-    "aug surveillance"
-   ],
-   "covert": [
-    "awp fade"
+    "aug surveillance",
+    "xm1014 charter"
    ],
    "industrial grade": [
     "mp5sd nitro",
+    "mag7 carbon fiber",
     "dual berettas switch board",
-    "desert eagle the bronze",
-    "mag7 carbon fiber"
+    "desert eagle the bronze"
    ],
    "mil-spec": [
     "ssg 08 threat detected",
-    "p2000 dispatch",
     "scar20 magna carta",
+    "p2000 dispatch",
     "m4a4 global offensive"
    ],
    "restricted": [
     "fiveseven berries and cherries",
     "famas prime conspiracy",
     "ump45 crime scene"
+   ],
+   "classified": [
+    "m4a1s blue phosphor",
+    "usps target acquired"
+   ],
+   "covert": [
+    "awp fade"
    ]
   }
  },
  "the dust 2 collection": {
-  "formattedName": "The Dust 2 Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_dust_2_collection.png?id=1a2cddb40f4478ca7275a295d45f72d8",
+  "formatted_name": "The Dust 2 Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_dust_2_collection.png?id=1a2cddb40f4478ca7275a295d45f72d8",
   "skins": {
-   "classified": [
-    "r8 revolver amber fade"
-   ],
    "consumer grade": [
     "p250 sand dune",
     "g3sg1 desert storm",
@@ -558,12 +555,15 @@
    ],
    "restricted": [
     "p2000 amber fade"
+   ],
+   "classified": [
+    "r8 revolver amber fade"
    ]
   }
  },
  "the dust collection": {
-  "formattedName": "The Dust Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_dust_collection.png?id=9869c8557ca41ad26392027f749ca909",
+  "formatted_name": "The Dust Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_dust_collection.png?id=9869c8557ca41ad26392027f749ca909",
   "skins": {
    "industrial grade": [
     "ak47 predator",
@@ -583,25 +583,19 @@
   }
  },
  "the gods and monsters collection": {
-  "formattedName": "The Gods and Monsters Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_gods_and_monsters_collection.png?id=12abe4ddb1fac1c4e9dbcf8d6c6519ad",
+  "formatted_name": "The Gods and Monsters Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_gods_and_monsters_collection.png?id=12abe4ddb1fac1c4e9dbcf8d6c6519ad",
   "skins": {
-   "classified": [
-    "m4a4 poseidon"
-   ],
    "consumer grade": [
     "nova moon in libra",
-    "dual berettas moon in libra",
     "mp7 asterion",
+    "dual berettas moon in libra",
     "aug daedalus"
-   ],
-   "covert": [
-    "awp medusa"
    ],
    "industrial grade": [
     "awp sun in leo",
-    "tec9 hades",
     "p2000 pathfinder",
+    "tec9 hades",
     "m249 shipping forecast"
    ],
    "mil-spec": [
@@ -611,49 +605,55 @@
    "restricted": [
     "m4a1s icarus fell",
     "g3sg1 chronos"
+   ],
+   "classified": [
+    "m4a4 poseidon"
+   ],
+   "covert": [
+    "awp medusa"
    ]
   }
  },
  "the havoc collection": {
-  "formattedName": "The Havoc Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_havoc_collection.png?id=f0ccf814ab1ff4cf93c77d4b34a06954",
+  "formatted_name": "The Havoc Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_havoc_collection.png?id=f0ccf814ab1ff4cf93c77d4b34a06954",
   "skins": {
-   "classified": [
-    "awp silk tiger",
-    "mac10 hot snakes"
-   ],
    "consumer grade": [
     "m249 predator",
-    "tec9 phoenix chalk",
     "dual berettas heist",
     "sawedoff clay ambush",
+    "tec9 phoenix chalk",
     "ppbizon death rattle"
    ],
-   "covert": [
-    "ak47 xray"
-   ],
    "industrial grade": [
-    "nova rust coat",
-    "mp7 vault heist",
     "r8 revolver phoenix marker",
-    "ump45 houndstooth"
+    "ump45 houndstooth",
+    "nova rust coat",
+    "mp7 vault heist"
    ],
    "mil-spec": [
     "p250 bengal tiger",
     "desert eagle night heist",
-    "p90 tiger pit",
-    "negev phoenix stencil"
+    "negev phoenix stencil",
+    "p90 tiger pit"
    ],
    "restricted": [
     "sg 553 hypnotic",
     "galil ar phoenix blacklight",
     "glock18 franklin"
+   ],
+   "classified": [
+    "awp silk tiger",
+    "mac10 hot snakes"
+   ],
+   "covert": [
+    "ak47 xray"
    ]
   }
  },
  "the inferno collection": {
-  "formattedName": "The Inferno Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_inferno_collection.png?id=033c492326696ca9c02d816b55a5e012",
+  "formatted_name": "The Inferno Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_inferno_collection.png?id=033c492326696ca9c02d816b55a5e012",
   "skins": {
    "consumer grade": [
     "nova walnut",
@@ -670,8 +670,8 @@
   }
  },
  "the italy collection": {
-  "formattedName": "The Italy Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_italy_collection.png?id=3d26a509b630071369aaa9c7cd6ad3d8",
+  "formatted_name": "The Italy Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_italy_collection.png?id=3d26a509b630071369aaa9c7cd6ad3d8",
   "skins": {
    "consumer grade": [
     "tec9 groundwater",
@@ -699,8 +699,8 @@
   }
  },
  "the lake collection": {
-  "formattedName": "The Lake Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_lake_collection.png?id=0d64e20b22a406b20c56b2e9f4668e8d",
+  "formatted_name": "The Lake Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_lake_collection.png?id=0d64e20b22a406b20c56b2e9f4668e8d",
   "skins": {
    "consumer grade": [
     "g3sg1 jungle dashed",
@@ -714,8 +714,8 @@
     "awp safari mesh",
     "xm1014 blue steel",
     "desert eagle mudder",
-    "famas cyanospatter",
-    "ppbizon night ops"
+    "ppbizon night ops",
+    "famas cyanospatter"
    ],
    "mil-spec": [
     "p90 teardown",
@@ -728,12 +728,9 @@
   }
  },
  "the militia collection": {
-  "formattedName": "The Militia Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_militia_collection.png?id=df9dd023963e1b740299553752a5fda2",
+  "formatted_name": "The Militia Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_militia_collection.png?id=df9dd023963e1b740299553752a5fda2",
   "skins": {
-   "classified": [
-    "scar20 splash jam"
-   ],
    "consumer grade": [
     "xm1014 grassland",
     "mac10 tornado",
@@ -751,24 +748,27 @@
    ],
    "restricted": [
     "m4a4 modern hunter"
+   ],
+   "classified": [
+    "scar20 splash jam"
    ]
   }
  },
  "the mirage collection": {
-  "formattedName": "The Mirage Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_mirage_collection.png?id=2956aa53320bb57eddcba034c377d618",
+  "formatted_name": "The Mirage Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_mirage_collection.png?id=2956aa53320bb57eddcba034c377d618",
   "skins": {
    "consumer grade": [
     "fiveseven contractor",
     "aug colony",
-    "p250 bone mask",
     "g3sg1 safari mesh",
+    "p250 bone mask",
     "p90 scorched",
     "galil ar hunting blind"
    ],
    "industrial grade": [
-    "glock18 groundwater",
     "ssg 08 tropical storm",
+    "glock18 groundwater",
     "mp7 orange peel",
     "negev calicamo",
     "sg 553 gator mesh"
@@ -784,21 +784,15 @@
   }
  },
  "the norse collection": {
-  "formattedName": "The Norse Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_norse_collection.png?id=db9cdae0f0bce20689e2f944bb1a364f",
+  "formatted_name": "The Norse Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_norse_collection.png?id=db9cdae0f0bce20689e2f944bb1a364f",
   "skins": {
-   "classified": [
-    "negev mjlnir"
-   ],
    "consumer grade": [
     "ssg 08 red stone",
-    "mp7 scorched",
     "galil ar tornado",
+    "mp7 scorched",
     "famas night borre",
     "sg 553 barricade"
-   ],
-   "covert": [
-    "awp gungnir"
    ],
    "industrial grade": [
     "m4a1s moss quartz",
@@ -816,12 +810,18 @@
     "aug flame jrmungandr",
     "p90 astral jrmungandr",
     "desert eagle emerald jrmungandr"
+   ],
+   "classified": [
+    "negev mjlnir"
+   ],
+   "covert": [
+    "awp gungnir"
    ]
   }
  },
  "the nuke collection": {
-  "formattedName": "The Nuke Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_nuke_collection.png?id=4cf859c68f1946a73d5f117d6d7be517",
+  "formatted_name": "The Nuke Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_nuke_collection.png?id=4cf859c68f1946a73d5f117d6d7be517",
   "skins": {
    "consumer grade": [
     "mag7 irradiated alert",
@@ -830,8 +830,8 @@
    ],
    "industrial grade": [
     "xm1014 fallout warning",
-    "ump45 fallout warning",
-    "p90 fallout warning"
+    "p90 fallout warning",
+    "ump45 fallout warning"
    ],
    "mil-spec": [
     "m4a4 radiation hazard"
@@ -843,8 +843,8 @@
   }
  },
  "the office collection": {
-  "formattedName": "The Office Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_office_collection.png?id=f43c0925d7781e744d8c6fedc738bc86",
+  "formatted_name": "The Office Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_office_collection.png?id=f43c0925d7781e744d8c6fedc738bc86",
   "skins": {
    "consumer grade": [
     "famas contrast spray"
@@ -861,18 +861,15 @@
   }
  },
  "the overpass collection": {
-  "formattedName": "The Overpass Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_overpass_collection.png?id=153c117b3fedd7fd004d90cf80d5542c",
+  "formatted_name": "The Overpass Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_overpass_collection.png?id=153c117b3fedd7fd004d90cf80d5542c",
   "skins": {
-   "classified": [
-    "m4a1s master piece"
-   ],
    "consumer grade": [
     "mp9 storm",
+    "mag7 storm",
     "ump45 scorched",
     "sawedoff sage spray",
-    "m249 contrast spray",
-    "mag7 storm"
+    "m249 contrast spray"
    ],
    "industrial grade": [
     "glock18 night",
@@ -888,25 +885,22 @@
    "restricted": [
     "awp pink ddpat",
     "usps road rash"
+   ],
+   "classified": [
+    "m4a1s master piece"
    ]
   }
  },
  "the rising sun collection": {
-  "formattedName": "The Rising Sun Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_rising_sun_collection.png?id=69c91b1a4814f67e717cc9fe237348cd",
+  "formatted_name": "The Rising Sun Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_rising_sun_collection.png?id=69c91b1a4814f67e717cc9fe237348cd",
   "skins": {
-   "classified": [
-    "ak47 hydroponic"
-   ],
    "consumer grade": [
     "tec9 bamboo forest",
     "ppbizon bamboo print",
     "p250 mint kimono",
     "sawedoff bamboo shadow",
     "g3sg1 orange kimono"
-   ],
-   "covert": [
-    "aug akihabara accept"
    ],
    "industrial grade": [
     "desert eagle midnight storm",
@@ -922,12 +916,18 @@
     "fiveseven neon kimono",
     "desert eagle sunset storm",
     "desert eagle sunset storm"
+   ],
+   "classified": [
+    "ak47 hydroponic"
+   ],
+   "covert": [
+    "aug akihabara accept"
    ]
   }
  },
  "the safehouse collection": {
-  "formattedName": "The Safehouse Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_safehouse_collection.png?id=1e084c166e889f56f09dbcdd6bac049a",
+  "formatted_name": "The Safehouse Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_safehouse_collection.png?id=1e084c166e889f56f09dbcdd6bac049a",
   "skins": {
    "consumer grade": [
     "tec9 army mesh",
@@ -955,21 +955,15 @@
   }
  },
  "the st marc collection": {
-  "formattedName": "The St. Marc Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_st._marc_collection.png?id=015cc01b9d5007606adbab89ee30fb44",
+  "formatted_name": "The St. Marc Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_st._marc_collection.png?id=015cc01b9d5007606adbab89ee30fb44",
   "skins": {
-   "classified": [
-    "mp9 wild lily"
-   ],
    "consumer grade": [
     "m249 jungle",
     "sawedoff jungle thicket",
     "ppbizon seabird",
     "mac10 surfwood",
     "mp5sd bamboo garden"
-   ],
-   "covert": [
-    "ak47 wild lotus"
    ],
    "industrial grade": [
     "tec9 rust leaf",
@@ -987,12 +981,18 @@
     "aug midnight lily",
     "ssg 08 sea calico",
     "glock18 synth leaf"
+   ],
+   "classified": [
+    "mp9 wild lily"
+   ],
+   "covert": [
+    "ak47 wild lotus"
    ]
   }
  },
  "the train collection": {
-  "formattedName": "The Train Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_train_collection.png?id=f73222ec47b114b8a221a66d8f9de40e",
+  "formatted_name": "The Train Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_train_collection.png?id=f73222ec47b114b8a221a66d8f9de40e",
   "skins": {
    "consumer grade": [
     "g3sg1 polar camo",
@@ -1020,8 +1020,8 @@
   }
  },
  "the vertigo collection": {
-  "formattedName": "The Vertigo Collection",
-  "imageUrl": "https://csgostash.com/img/collections/256x198/the_vertigo_collection.png?id=0abca6b064630c6edacef2a432755510",
+  "formatted_name": "The Vertigo Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_vertigo_collection.png?id=0abca6b064630c6edacef2a432755510",
   "skins": {
    "consumer grade": [
     "mac10 urban ddpat",

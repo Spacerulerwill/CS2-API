@@ -7,79 +7,66 @@ import (
 
 var nonAlphanumericRegex = regexp.MustCompile(`[^a-zA-Z0-9 ]+`)
 var doubleSpaceRegex = regexp.MustCompile(`\s+`)
-var RemoveBracketsAndContentsRegex = regexp.MustCompile("\\(.+?\\)")
+var RemoveBracketsAndContentsRegex = regexp.MustCompile(`\(.+?\)`)
 var substituions = map[string]string{
 	"&": "and",
 	"ö": "o",
 }
 
-const (
-	NumSkinRarities        int = 7
-	NumStickerRarities     int = 5
-	NumGraffitiRarities    int = 4
-	NumMusicKitRarities    int = 1
-	NumAgentRarities       int = 4
-	NumPatchRarities       int = 3
-	NumCollectibleRarities int = 4
+var (
+	SkinRarities = []string{
+		"Consumer Grade",
+		"Industrial Grade",
+		"Mil-Spec",
+		"Restricted",
+		"Classified",
+		"Covert",
+		"Contraband",
+	}
+
+	SkinRaritiesUnformatted = make([]string, len(SkinRarities))
+
+	ItemRarities = []string{
+		"Base Grade",
+		"High Grade",
+		"Remarkable",
+		"Exotic",
+		"Extraordinary",
+		"Contraband",
+	}
+
+	ItemRaritiesUnformatted = make([]string, len(ItemRarities))
+
+	AgentRarities = []string{
+		"Distinguished",
+		"Exceptional",
+		"Superior",
+		"Master",
+	}
+
+	SkinConditions = [5]string{
+		"Factory New",
+		"Minimal Wear",
+		"Field Tested",
+		"Well-Worn",
+		"Battle-Scarred",
+	}
+
+	CasesThatDoNotNeedKeys = [2]string{
+		"xray p250 package",
+		"anubis collection package",
+	}
 )
 
-var SkinRarities = [NumSkinRarities]string{
-	"Consumer Grade",
-	"Industrial Grade",
-	"Mil-Spec",
-	"Restricted",
-	"Classified",
-	"Covert",
-	"Contraband",
-}
+func init() {
+	for i, rarity := range SkinRarities {
+		SkinRaritiesUnformatted[i] = strings.ToLower(rarity)
+	}
 
-var StickerRarities = [NumStickerRarities]string{
-	"High Grade",
-	"Remarkable",
-	"Exotic",
-	"Extraordinary",
-	"Contraband",
+	for i, rarity := range ItemRarities {
+		ItemRaritiesUnformatted[i] = strings.ToLower(rarity)
+	}
 }
-
-var GraffitiRarities = [NumGraffitiRarities]string{
-	"Base Grade",
-	"High Grade",
-	"Remarkable",
-	"Exotic",
-}
-
-var MusicKitRarities = [NumMusicKitRarities]string{
-	"High Grade",
-}
-
-var AgentRarities = [NumAgentRarities]string{
-	"Distinguished",
-	"Exceptional",
-	"Superior",
-	"Master",
-}
-
-var PatchRarities = [NumPatchRarities]string{
-	"Exotic",
-	"Remarkable",
-	"High Grade",
-}
-
-var CollectibleRarities = [NumCollectibleRarities]string{
-	"Extraordinary",
-	"Exotic",
-	"Remarkable",
-	"High Grade",
-}
-
-var SkinConditions = [5]string{
-	"Factory New",
-	"Minimal Wear",
-	"Field Tested",
-	"Well-Worn",
-	"Battle-Scarred",
-}
-
 func RemoveNameFormatting(str string) string {
 	str = strings.ToLower(str)
 	str = nonAlphanumericRegex.ReplaceAllString(str, "")

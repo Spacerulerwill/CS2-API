@@ -1,7 +1,6 @@
 package multiscraper
 
 import (
-	"fmt"
 	"net/http"
 	"sync"
 	"time"
@@ -54,30 +53,40 @@ func MultiScrape[T callbackConstraint](urls []string, result T, perSecond int, c
 	}
 }
 
-func Http2Request(webUrl string) *http.Response {
+func Http2Request(webUrl string) (*http.Response, error) {
 	client := &http.Client{}
-	req, _ := http.NewRequest("GET", webUrl, nil)
+	req, err := http.NewRequest("GET", webUrl, nil)
+	if err != nil {
+		return nil, err
+	}
 	req.Header.Set("User-Agent", "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0")
 
 	res, err := client.Do(req)
 
-	// If url could not be opened, we inform the channel chFailedUrls:
 	if err != nil || res.StatusCode != 200 {
-		log.Error.Println(fmt.Sprintf("%s: Failed to HTTP request %s: %d", err.Error(), webUrl, res.StatusCode))
+		return nil, err
 	}
-	return res
+	return res, nil
 }
 
 func makeConcurrentRequest(webURL string, wg *sync.WaitGroup, requestsMade *int, requestsLeft *int, outputResponses *[]*http.Response) {
 	defer wg.Done()
 
-	res := Http2Request(webURL)
+	res, err := Http2Request(webURL)
 
-	mtx.Lock()
-	*requestsMade += 1
-	*requestsLeft -= 1
-	*outputResponses = append(*outputResponses, res)
-	mtx.Unlock()
+	if err != nil {
+		log.Error.Printf("%s", err.Error())
+		mtx.Lock()
+		*requestsMade += 1
+		*requestsLeft -= 1
+		mtx.Unlock()
+	} else {
+		mtx.Lock()
+		*requestsMade += 1
+		*requestsLeft -= 1
+		*outputResponses = append(*outputResponses, res)
+		mtx.Unlock()
+	}
 }
 
 // Goroutine that will continually scrape from an array http responses with a callback until it has scraped a certain amount of times
@@ -97,7 +106,10 @@ func continuallyScrapePages[T callbackConstraint](responses *[]*http.Response, r
 					if err != nil {
 						log.Error.Println(err)
 					}
-					go callback(doc, result, &scrapeWg)
+					go func(*sync.WaitGroup) {
+						defer scrapeWg.Done()
+						callback(doc, result, &scrapeWg)
+					}(&scrapeWg)
 				}
 				response.Body.Close()
 				mtx.Unlock()

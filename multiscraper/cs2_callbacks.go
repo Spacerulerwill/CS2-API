@@ -9,6 +9,7 @@ import (
 	"sync"
 
 	"github.com/PuerkitoBio/goquery"
+	orderedmap "github.com/wk8/go-ordered-map/v2"
 )
 
 var buttonTextIndexMap = map[string]int{
@@ -35,8 +36,8 @@ var (
 )
 
 func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find(".result-box > h2:nth-child(1)").Text()
+
+	formattedName := strings.TrimSpace(doc.Find(".result-box > h2:nth-child(1)").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	isVanillaKnife := strings.Contains(formattedName, "★ (Vanilla)")
 	isDoppler := strings.Contains(formattedName, "Doppler")
@@ -66,13 +67,13 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 		image := doc.Find(".main-skin-img")
 		imageURL, exists := image.Attr("src")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image URL found for vanilla knife %s", formattedName))
+			log.Warning.Printf("No image URL found for vanilla knife %s\n", formattedName)
 		}
 
 		inspectButton := doc.Find(".inspect-button-skin")
 		inspectUrl, exists := inspectButton.Attr("href")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No inspect URL found for vanilla knife %s", formattedName))
+			log.Warning.Printf("No inspect URL found for vanilla knife %s\n", formattedName)
 		}
 
 		for i := 0; i < 5; i++ {
@@ -126,7 +127,7 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 		souvenirAvailable = doc.Find("div.souvenir").Length() > 0
 
 		rarityFound := false
-		for i := 0; i < util.NumSkinRarities; i++ {
+		for i := 0; i < len(util.SkinRarities); i++ {
 			if strings.Contains(skinTypeString, util.SkinRarities[i]) {
 				selectedRarity = strings.ToLower(util.SkinRarities[i])
 				weaponType = strings.ToLower(strings.TrimSpace(strings.TrimPrefix(skinTypeString, util.SkinRarities[i])))
@@ -136,7 +137,7 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 		}
 
 		if !rarityFound {
-			log.Warning.Println(fmt.Sprintf("No rarity found for weapon skin %s", formattedName))
+			log.Warning.Printf("No rarity found for weapon skin %s\n", formattedName)
 		}
 
 		mainBox := doc.Find("div.well.result-box,nomargin")
@@ -144,11 +145,11 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 		imageButtons.Each(func(i int, button *goquery.Selection) {
 			imageURL, exists := button.Attr("data-hoverimg")
 			if !exists {
-				log.Warning.Println(fmt.Sprintf("No image URL found for weapon skin %s", formattedName))
+				log.Warning.Printf("No image URL found for weapon skin %s\n", formattedName)
 			}
 			inspectUrl, exists := button.Attr("href")
 			if !exists {
-				log.Warning.Println(fmt.Sprintf("No inspect URL found for weapon skin %s", formattedName))
+				log.Warning.Printf("No inspect URL found for weapon skin %s\n", formattedName)
 			}
 			index := buttonTextIndexMap[strings.TrimSpace(button.Text())]
 			conditionImages[index] = imageURL
@@ -182,12 +183,12 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 			dopplerImage := box.Find("img")
 			dopplerImageUrl, exists := dopplerImage.Attr("src")
 			if !exists {
-				log.Warning.Println(fmt.Sprintf("No image URL found for doppler knife %s %s", formattedName, dopplerFormattedName))
+				log.Warning.Printf("No image URL found for doppler knife %s %s\n", formattedName, dopplerFormattedName)
 			}
 			dopplerInspect := box.Find(".inspect-button-skin")
 			dopplerInspectUrl, exists := dopplerInspect.Attr("href")
 			if !exists {
-				log.Warning.Println(fmt.Sprintf("No inspect URL found for doppler knife %s %s", formattedName, dopplerFormattedName))
+				log.Warning.Printf("No inspect URL found for doppler knife %s %s\n", formattedName, dopplerFormattedName)
 			}
 			dopplerConditionImages := conditionImages
 			dopplerInspectUrls := inspectUrls
@@ -212,19 +213,25 @@ func ScrapeSkinLink(doc *goquery.Document, result map[string]util.Skin, wg *sync
 }
 
 func ScrapeCase(doc *goquery.Document, result map[string]util.Case, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find("h1.margin-top-sm").Text()
+
+	formattedName := strings.TrimSpace(doc.Find("h1.margin-top-sm").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for case %s", formattedName))
+		log.Warning.Printf("No image url for case %s\n", formattedName)
 	}
-	skins := make(map[string][]string)
+
+	// Prefill skins map with all rarities (ensure correct order)
+	skins := orderedmap.New[string, []string]()
+	for _, rarity := range util.SkinRaritiesUnformatted {
+		skins.Set(rarity, make([]string, 0))
+	}
 	var rareItemsLink string
 
 	// scrape normal items
 	skinBoxes := doc.Find("div.well.result-box.nomargin")
+
 	skinBoxes.Each(func(i int, box *goquery.Selection) {
 		rarity := box.Find("div.quality")
 		rarityText := rarity.Text()
@@ -234,12 +241,12 @@ func ScrapeCase(doc *goquery.Document, result map[string]util.Case, wg *sync.Wai
 			rareItemsATag := box.Find("a:nth-child(1)")
 			href, exists := rareItemsATag.Attr("href")
 			if !exists {
-				log.Warning.Println(fmt.Sprintf("No rare items URL found for weapon case %s", formattedName))
+				log.Warning.Printf("No rare items URL found for weapon case %s\n", formattedName)
 			}
 			rareItemsLink = href
 		} else {
 			rarityFound := false
-			for i := 0; i < util.NumSkinRarities; i++ {
+			for i := 0; i < len(util.SkinRarities); i++ {
 				if strings.Contains(rarityText, util.SkinRarities[i]) {
 					rarityText = strings.ToLower(util.SkinRarities[i])
 					rarityFound = true
@@ -249,50 +256,80 @@ func ScrapeCase(doc *goquery.Document, result map[string]util.Case, wg *sync.Wai
 			skinUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
 
 			if !rarityFound {
-				log.Warning.Println(fmt.Sprintf("No rarity found for weapon skin %s in weapon case %s", skinUnformattedName, formattedName))
+				log.Warning.Printf("No rarity found for weapon skin %s in weapon case %s\n", skinUnformattedName, formattedName)
 			}
 
-			skins[rarityText] = append(skins[rarityText], skinUnformattedName)
+			current, _ := skins.Get(rarityText)
+			skins.Set(rarityText, append(current, skinUnformattedName))
 		}
 	})
 
 	// scrape rare items
-	res := Http2Request(rareItemsLink)
+	if rareItemsLink != "" {
+		res, err := Http2Request(rareItemsLink)
+		if err != nil {
+			log.Error.Println(err.Error())
+			return
+		}
 
-	doc, err := goquery.NewDocumentFromReader(res.Body)
-	if err != nil {
-		log.Error.Println(err)
+		doc, err := goquery.NewDocumentFromReader(res.Body)
+		if err != nil {
+			log.Error.Println(err)
+		}
+
+		skinBoxes = doc.Find("div.well.result-box.nomargin")
+		skinBoxes.Each(func(i int, box *goquery.Selection) {
+			rareItemUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
+			if box.Find("div.quality.color-covert").Length() != 0 {
+				current, _ := skins.Get("rare-item")
+				skins.Set("rare-item", append(current, rareItemUnformattedName))
+			}
+		})
 	}
 
-	skinBoxes = doc.Find("div.well.result-box.nomargin")
-	skinBoxes.Each(func(i int, box *goquery.Selection) {
-		rareItemUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
-		if box.Find("div.quality.color-covert").Length() != 0 {
-			skins["rare-item"] = append(skins["rare-item"], rareItemUnformattedName)
+	// does the case require a key?
+	requiresKey := true
+	for i := 0; i < len(util.CasesThatDoNotNeedKeys); i++ {
+		if unformattedName == util.CasesThatDoNotNeedKeys[i] {
+			requiresKey = false
+			break
 		}
-	})
+	}
+
+	// remove empty entries from skin map
+	for _, rarity := range util.SkinRaritiesUnformatted {
+		skinsFromRarity, _ := skins.Get(rarity)
+		if len(skinsFromRarity) == 0 {
+			skins.Delete(rarity)
+		}
+	}
 
 	mtx.Lock()
 	result[unformattedName] = util.Case{
 		FormattedName: formattedName,
 		ImageURL:      imageUrl,
 		Skins:         skins,
+		RequiresKey:   requiresKey,
 	}
 	mtx.Unlock()
 }
 
 func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find("div.inline-middle:nth-child(2) > h1:nth-child(1)").Text()
+
+	formattedName := strings.TrimSpace(doc.Find("div.inline-middle:nth-child(2) > h1:nth-child(1)").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for collection %s", formattedName))
+		log.Warning.Printf("No image url for collection %s\n", formattedName)
 	}
 
 	// scrape normal items
-	skins := make(map[string][]string)
+	skins := orderedmap.New[string, []string]()
+	for _, rarity := range util.SkinRaritiesUnformatted {
+		skins.Set(rarity, make([]string, 0))
+	}
+
 	skinBoxes := doc.Find("div.well.result-box.nomargin")
 	skinBoxes.Each(func(i int, box *goquery.Selection) {
 		rarity := box.Find("div.quality")
@@ -301,7 +338,7 @@ func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection, 
 			return
 		} else {
 			rarityFound := false
-			for i := 0; i < util.NumSkinRarities; i++ {
+			for i := 0; i < len(util.SkinRarities); i++ {
 				if strings.Contains(rarityText, util.SkinRarities[i]) {
 					rarityText = strings.ToLower(util.SkinRarities[i])
 					rarityFound = true
@@ -311,12 +348,22 @@ func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection, 
 			skinUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
 
 			if !rarityFound {
-				log.Warning.Println(fmt.Sprintf("No rarity found for weapon skin %s in collection %s", skinUnformattedName, formattedName))
+				log.Warning.Printf("No rarity found for weapon skin %s in collection %s\n", skinUnformattedName, formattedName)
 			}
 
-			skins[rarityText] = append(skins[rarityText], skinUnformattedName)
+			current, _ := skins.Get(rarityText)
+			skins.Set(rarityText, append(current, skinUnformattedName))
 		}
 	})
+
+	// remove empty entries from skin map
+	for _, rarity := range util.SkinRaritiesUnformatted {
+		skinsFromRarity, _ := skins.Get(rarity)
+		if len(skinsFromRarity) == 0 {
+			skins.Delete(rarity)
+		}
+	}
+
 	mtx.Lock()
 	result[unformattedName] = util.Collection{
 		FormattedName: formattedName,
@@ -327,10 +374,10 @@ func ScrapeCollection(doc *goquery.Document, result map[string]util.Collection, 
 }
 
 func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.SouvenirPackage, wg *sync.WaitGroup) {
-	defer wg.Done()
+
 	boxes := doc.Find("div.well.result-box.nomargin")
 	boxes.Each(func(i int, box *goquery.Selection) {
-		formattedName := box.Find("h4").Text()
+		formattedName := strings.TrimSpace(box.Find("h4").Text())
 		if formattedName == "" {
 			return
 		}
@@ -338,7 +385,7 @@ func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.Sou
 		image := box.Find("img:nth-child(2)")
 		imageUrl, exists := image.Attr("src")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image url for souvenir package %s", formattedName))
+			log.Warning.Printf("No image url for souvenir package %s\n", formattedName)
 		}
 
 		collection := util.RemoveNameFormatting(box.Find("div:nth-child(1) > div:nth-child(3)").Text())
@@ -355,10 +402,10 @@ func ScrapeSouvenirPackagePage(doc *goquery.Document, result map[string]util.Sou
 }
 
 func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker, wg *sync.WaitGroup) {
-	defer wg.Done()
+
 	boxes := doc.Find("div.well.result-box.nomargin")
 	boxes.Each(func(i int, box *goquery.Selection) {
-		formattedName := box.Find("h3").Text()
+		formattedName := strings.TrimSpace(box.Find("h3").Text())
 
 		if formattedName == "" {
 			return
@@ -373,12 +420,12 @@ func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker, wg
 		image := box.Find("img")
 		imageUrl, exists := image.Attr("src")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image url for sticker %s", formattedName))
+			log.Warning.Printf("No image url for sticker %s\n", formattedName)
 		}
 		inspectButton := box.Find(".inspect-button-sticker")
 		inspectUrl, exists := inspectButton.Attr("href")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No inspect url for sticker %s", formattedName))
+			log.Warning.Printf("No inspect url for sticker %s\n", formattedName)
 		}
 
 		rarityText := box.Find("div.quality").Text()
@@ -396,8 +443,8 @@ func ScrapeStickerPage(doc *goquery.Document, result map[string]util.Sticker, wg
 }
 
 func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find(".result-box > h2:nth-child(1)").Text()
+
+	formattedName := strings.TrimSpace(doc.Find(".result-box > h2:nth-child(1)").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	description := strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(2)").Text(), "Description: ")
 	flavorText := doc.Find(".skin-misc-details > p:nth-child(3) > em:nth-child(2)").Text()
@@ -409,7 +456,7 @@ func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin, wg *sync.W
 	imageButtons.Each(func(i int, button *goquery.Selection) {
 		imageURL, exists := button.Attr("data-hoverimg")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image URL found for weapon skin %s", formattedName))
+			log.Warning.Printf("No image URL found for weapon skin %s\n", formattedName)
 		}
 		index := buttonTextIndexMap[strings.TrimSpace(button.Text())]
 		conditionImages[index] = imageURL
@@ -432,16 +479,21 @@ func ScrapeGloves(doc *goquery.Document, result map[string]util.Skin, wg *sync.W
 }
 
 func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerCapsule, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find("h1.margin-top-sm").Text()
+
+	formattedName := strings.TrimSpace(doc.Find("h1.margin-top-sm").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for sticker capsule %s", formattedName))
+		log.Warning.Printf("No image url for sticker capsule %s\n", formattedName)
 	}
 
-	stickers := make(map[string][]string)
+	// prefill
+	stickers := orderedmap.New[string, []string]()
+	for _, rarity := range util.ItemRaritiesUnformatted {
+		stickers.Set(rarity, make([]string, 0))
+	}
+
 	// scrape normal items
 	skinBoxes := doc.Find("div.well.result-box.nomargin")
 	skinBoxes.Each(func(i int, box *goquery.Selection) {
@@ -451,9 +503,9 @@ func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerC
 			return
 		} else {
 			rarityFound := false
-			for i := 0; i < util.NumStickerRarities; i++ {
-				if strings.Contains(rarityText, util.StickerRarities[i]) {
-					rarityText = strings.ToLower(util.StickerRarities[i])
+			for i := 0; i < len(util.ItemRarities); i++ {
+				if strings.Contains(rarityText, util.ItemRarities[i]) {
+					rarityText = strings.ToLower(util.ItemRarities[i])
 					rarityFound = true
 					break
 				}
@@ -461,12 +513,21 @@ func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerC
 			stickerUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
 
 			if !rarityFound {
-				log.Warning.Println(fmt.Sprintf("No rarity found for sticker %s in sticker capsule %s", stickerUnformattedName, formattedName))
+				log.Warning.Printf("No rarity found for sticker %s in sticker capsule %s\n", stickerUnformattedName, formattedName)
 			}
 
-			stickers[rarityText] = append(stickers[rarityText], stickerUnformattedName)
+			current, _ := stickers.Get(rarityText)
+			stickers.Set(rarityText, append(current, stickerUnformattedName))
 		}
 	})
+
+	// remove empty entries from skin map
+	for _, rarity := range util.ItemRaritiesUnformatted {
+		skinsFromRarity, _ := stickers.Get(rarity)
+		if len(skinsFromRarity) == 0 {
+			stickers.Delete(rarity)
+		}
+	}
 
 	mtx.Lock()
 	result[unformattedName] = util.StickerCapsule{
@@ -478,7 +539,7 @@ func ScrapeStickerCapsule(doc *goquery.Document, result map[string]util.StickerC
 }
 
 func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti, wg *sync.WaitGroup) {
-	defer wg.Done()
+
 	graffitiBoxes := doc.Find("div.well.result-box.nomargin")
 	graffitiBoxes.Each(func(i int, box *goquery.Selection) {
 		// formatted and unformatted name
@@ -494,29 +555,29 @@ func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti, 
 		}
 
 		rarityFound := false
-		for i := 0; i < util.NumGraffitiRarities; i++ {
-			if strings.Contains(rarityText, util.GraffitiRarities[i]) {
-				rarityText = strings.ToLower(util.GraffitiRarities[i])
+		for i := 0; i < len(util.ItemRarities); i++ {
+			if strings.Contains(rarityText, util.ItemRarities[i]) {
+				rarityText = strings.ToLower(util.ItemRarities[i])
 				rarityFound = true
 				break
 			}
 		}
 
 		if !rarityFound {
-			log.Warning.Println(fmt.Sprintf("No rarity found for grafitti %s", formattedName))
+			log.Warning.Printf(fmt.Sprintf("No rarity found for grafitti %s", formattedName))
 		}
 
 		// image url
 		image := box.Find("img")
 		imageUrl, exists := image.Attr("src")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image url for sticker %s", formattedName))
+			log.Warning.Printf("No image url for sticker %s\n", formattedName)
 		}
 
 		inspectButton := box.Find(".inspect-button-graffiti")
 		inspectUrl, exists := inspectButton.Attr("href")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No inspect url for sticker %s", formattedName))
+			log.Warning.Printf("No inspect url for sticker %s\n", formattedName)
 		}
 
 		//
@@ -535,7 +596,6 @@ func ScrapeGraffitiPage(doc *goquery.Document, result map[string]util.Graffiti, 
 }
 
 func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graffiti, wg *sync.WaitGroup) {
-	defer wg.Done()
 	formattedName :=
 		strings.TrimSpace(
 			util.RemoveBracketsAndContentsRegex.ReplaceAllString(
@@ -559,13 +619,13 @@ func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graff
 		image := box.Find("img")
 		imageUrl, exists := image.Attr("src")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image url for base grade graffiti %s of color %s", formattedName, color))
+			log.Warning.Printf("No image url for base grade graffiti %s of color %s\n", formattedName, color)
 		}
 
 		inspectButton := box.Find(".inspect-button-graffiti")
 		inspectUrl, exists := inspectButton.Attr("href")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No inspect url for base grade graffiti %s of color %s", formattedName, color))
+			log.Warning.Printf("No inspect url for base grade graffiti %s of color %s\n", formattedName, color)
 		}
 		graffitiData.ColorVarations[color] = util.GraffitiColorVariation{
 			ImageUrl:   imageUrl,
@@ -579,8 +639,7 @@ func ScrapeBaseGradeGraffiti(doc *goquery.Document, result map[string]util.Graff
 }
 
 func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)").Text()
+	formattedName := strings.TrimSpace(doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1)").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	artist := strings.TrimPrefix(doc.Find("div.text-center:nth-child(4) > div:nth-child(1) > div:nth-child(1) > h4:nth-child(2)").Text(), "By ")
 	description := doc.Find(".col-md-8 > div:nth-child(1) > p:nth-child(1)").Text()
@@ -588,20 +647,20 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit, wg *
 	stattrakAvailable := doc.Find("div.stattrak").Length() > 0
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for music kit %s", formattedName))
+		log.Warning.Printf("No image url for music kit %s\n", formattedName)
 	}
 	rarityText := doc.Find("div.quality").Text()
 	rarityFound := false
-	for i := 0; i < util.NumMusicKitRarities; i++ {
-		if strings.Contains(rarityText, util.MusicKitRarities[i]) {
-			rarityText = strings.ToLower(util.MusicKitRarities[i])
+	for i := 0; i < len(util.ItemRarities); i++ {
+		if strings.Contains(rarityText, util.ItemRarities[i]) {
+			rarityText = strings.ToLower(util.ItemRarities[i])
 			rarityFound = true
 			break
 		}
 	}
 
 	if !rarityFound {
-		log.Warning.Println(fmt.Sprintf("No rarity found for music kit %s", formattedName))
+		log.Warning.Printf("No rarity found for music kit %s\n", formattedName)
 	}
 
 	musicRows := doc.Find("div.music-file")
@@ -612,7 +671,7 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit, wg *
 		audioSrc, exists := audio.Attr("src")
 
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No audio source for music kit %s %s", formattedName, name))
+			log.Warning.Printf("No audio source for music kit %s %s\n", formattedName, name)
 		}
 		audioUrls[name] = "https://csgostash.com" + audioSrc
 	})
@@ -638,11 +697,11 @@ func ScrapeMusicKit(doc *goquery.Document, result map[string]util.MusicKit, wg *
 }
 
 func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text()
+
+	formattedName := strings.TrimSpace(doc.Find(".col-md-8 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text())
 	rarityText := doc.Find("div.quality").Text()
 	rarityFound := false
-	for i := 0; i < util.NumAgentRarities; i++ {
+	for i := 0; i < len(util.AgentRarities); i++ {
 		if strings.Contains(rarityText, util.AgentRarities[i]) {
 			rarityText = strings.ToLower(util.AgentRarities[i])
 			rarityFound = true
@@ -651,20 +710,20 @@ func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent, wg *sync.W
 	}
 
 	if !rarityFound {
-		log.Warning.Println(fmt.Sprintf("No rarity found for agent %s", formattedName))
+		log.Warning.Printf("No rarity found for agent %s\n", formattedName)
 	}
 
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find("html body div.container.main-content div.row.text-center div.col-md-8.col-widen div.well.result-box.nomargin div.row div.col-md-6 img.img-responsive.center-block.margin-bot-med")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for agent %s", formattedName))
+		log.Warning.Printf("No image url for agent %s\n", formattedName)
 	}
 
 	inspectButton := doc.Find(".inspect-button-pin")
 	inspectUrl, exists := inspectButton.Attr("href")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No inspect url for agent %s", formattedName))
+		log.Warning.Printf("No inspect url for agent %s\n", formattedName)
 	}
 
 	description := strings.TrimPrefix(doc.Find(".skin-misc-details > p:nth-child(1)").Text(), "Description: ")
@@ -683,35 +742,35 @@ func ScrapeAgent(doc *goquery.Document, result map[string]util.Agent, wg *sync.W
 }
 
 func ScrapePatch(doc *goquery.Document, result map[string]util.Patch, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := strings.TrimPrefix(
+
+	formattedName := strings.TrimSpace(strings.TrimPrefix(
 		doc.Find(".result-box > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1)").Text(),
 		"Patch | ",
-	) + " Patch"
+	)) + " Patch"
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find("img.center-block")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for patch %s", formattedName))
+		log.Warning.Printf("No image url for patch %s\n", formattedName)
 	}
 
 	inspectButton := doc.Find(".inspect-button-pin")
 	inspectUrl, exists := inspectButton.Attr("href")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No inspect url for patch %s", formattedName))
+		log.Warning.Printf("No inspect url for patch %s\n", formattedName)
 	}
 	flavorText := doc.Find(".result-box > div:nth-child(2) > div:nth-child(1) > p:nth-child(2) > em:nth-child(1)").Text()
 	rarityText := doc.Find("div.quality").Text()
 	rarityFound := false
-	for i := 0; i < util.NumPatchRarities; i++ {
-		if strings.Contains(rarityText, util.PatchRarities[i]) {
-			rarityText = strings.ToLower(util.PatchRarities[i])
+	for i := 0; i < len(util.ItemRarities); i++ {
+		if strings.Contains(rarityText, util.ItemRarities[i]) {
+			rarityText = strings.ToLower(util.ItemRarities[i])
 			rarityFound = true
 			break
 		}
 	}
 	if !rarityFound {
-		log.Warning.Println(fmt.Sprintf("No rarity found for patch %s", formattedName))
+		log.Warning.Printf("No rarity found for patch %s\n", formattedName)
 	}
 
 	mtx.Lock()
@@ -726,15 +785,20 @@ func ScrapePatch(doc *goquery.Document, result map[string]util.Patch, wg *sync.W
 }
 
 func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find(".margin-top-sm").Text()
+
+	formattedName := strings.TrimSpace(doc.Find(".margin-top-sm").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find(".content-header-img-margin")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for patch pack %s", formattedName))
+		log.Warning.Printf("No image url for patch pack %s\n", formattedName)
 	}
-	patches := make(map[string][]string)
+
+	// prefill
+	patches := orderedmap.New[string, []string]()
+	for _, rarity := range util.ItemRaritiesUnformatted {
+		patches.Set(rarity, make([]string, 0))
+	}
 
 	patchBoxes := doc.Find("div.well.result-box.nomargin")
 	patchBoxes.Each(func(i int, box *goquery.Selection) {
@@ -744,9 +808,9 @@ func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack, wg
 			return
 		} else {
 			rarityFound := false
-			for i := 0; i < util.NumPatchRarities; i++ {
-				if strings.Contains(rarityText, util.PatchRarities[i]) {
-					rarityText = strings.ToLower(util.PatchRarities[i])
+			for i := 0; i < len(util.ItemRarities); i++ {
+				if strings.Contains(rarityText, util.ItemRarities[i]) {
+					rarityText = strings.ToLower(util.ItemRarities[i])
 					rarityFound = true
 					break
 				}
@@ -754,12 +818,21 @@ func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack, wg
 			patchUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
 
 			if !rarityFound {
-				log.Warning.Println(fmt.Sprintf("No rarity found for patch %s in patch pack %s", patchUnformattedName, formattedName))
+				log.Warning.Printf("No rarity found for patch %s in patch pack %s\n", patchUnformattedName, formattedName)
 			}
 
-			patches[rarityText] = append(patches[rarityText], patchUnformattedName)
+			current, _ := patches.Get(rarityText)
+			patches.Set(rarityText, append(current, patchUnformattedName))
 		}
 	})
+
+	for _, rarity := range util.ItemRaritiesUnformatted {
+		skinsFromRarity, _ := patches.Get(rarity)
+		if len(skinsFromRarity) == 0 {
+			patches.Delete(rarity)
+		}
+	}
+
 	mtx.Lock()
 	result[unformattedName] = util.PatchPack{
 		FormattedName: formattedName,
@@ -770,10 +843,9 @@ func ScrapePatchPack(doc *goquery.Document, result map[string]util.PatchPack, wg
 }
 
 func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin, wg *sync.WaitGroup) {
-	defer wg.Done()
 	pinBoxes := doc.Find("div.well.result-box.nomargin")
 	pinBoxes.Each(func(i int, box *goquery.Selection) {
-		formattedName := box.Find("h3").Text()
+		formattedName := strings.TrimSpace(box.Find("h3").Text())
 		if formattedName == "" {
 			return
 		}
@@ -781,28 +853,28 @@ func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin, wg *sync.W
 		unformattedName := util.RemoveNameFormatting(formattedName)
 		rarityText := box.Find("div.quality").Text()
 		rarityFound := false
-		for i := 0; i < util.NumCollectibleRarities; i++ {
-			if strings.Contains(rarityText, util.CollectibleRarities[i]) {
-				rarityText = strings.ToLower(util.CollectibleRarities[i])
+		for i := 0; i < len(util.ItemRarities); i++ {
+			if strings.Contains(rarityText, util.ItemRarities[i]) {
+				rarityText = strings.ToLower(util.ItemRarities[i])
 				rarityFound = true
 				break
 			}
 		}
 
 		if !rarityFound {
-			log.Warning.Println(fmt.Sprintf("No rarity found for pin %s", formattedName))
+			log.Warning.Printf("No rarity found for pin %s\n", formattedName)
 		}
 
 		image := box.Find("img:nth-child(1)")
 		imageUrl, exists := image.Attr("src")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No image url for pin %s", formattedName))
+			log.Warning.Printf("No image url for pin %s\n", formattedName)
 		}
 
 		inspectButton := doc.Find(".inspect-button-pin")
 		inspectUrl, exists := inspectButton.Attr("href")
 		if !exists {
-			log.Warning.Println(fmt.Sprintf("No inspect url for pin %s", formattedName))
+			log.Warning.Printf("No inspect url for pin %s\n", formattedName)
 		}
 
 		pinCapsule := util.RemoveNameFormatting(box.Find("p.item-resultbox-collection-container-info").Text())
@@ -820,16 +892,20 @@ func ScrapePinPage(doc *goquery.Document, result map[string]util.Pin, wg *sync.W
 }
 
 func ScrapePinCapsule(doc *goquery.Document, result map[string]util.PinCapsule, wg *sync.WaitGroup) {
-	defer wg.Done()
-	formattedName := doc.Find(".margin-top-sm").Text()
+
+	formattedName := strings.TrimSpace(doc.Find(".margin-top-sm").Text())
 	unformattedName := util.RemoveNameFormatting(formattedName)
 	image := doc.Find("img.content-header-img-margin")
 	imageUrl, exists := image.Attr("src")
 	if !exists {
-		log.Warning.Println(fmt.Sprintf("No image url for pin capsule %s", formattedName))
+		log.Warning.Printf("No image url for pin capsule %s\n", formattedName)
 	}
 
-	pins := make(map[string][]string)
+	// prefill
+	pins := orderedmap.New[string, []string]()
+	for _, rarity := range util.ItemRaritiesUnformatted {
+		pins.Set(rarity, make([]string, 0))
+	}
 
 	pinBoxes := doc.Find("div.well.result-box.nomargin")
 	pinBoxes.Each(func(i int, box *goquery.Selection) {
@@ -839,22 +915,30 @@ func ScrapePinCapsule(doc *goquery.Document, result map[string]util.PinCapsule, 
 			return
 		} else {
 			rarityFound := false
-			for i := 0; i < util.NumCollectibleRarities; i++ {
-				if strings.Contains(rarityText, util.CollectibleRarities[i]) {
-					rarityText = strings.ToLower(util.CollectibleRarities[i])
+			for i := 0; i < len(util.ItemRarities); i++ {
+				if strings.Contains(rarityText, util.ItemRarities[i]) {
+					rarityText = strings.ToLower(util.ItemRarities[i])
 					rarityFound = true
 					break
 				}
 			}
 			pinUnformattedName := util.RemoveNameFormatting(box.Find("h3").Text())
-
 			if !rarityFound {
-				log.Warning.Println(fmt.Sprintf("No rarity found for pin %s in pin capsule %s", pinUnformattedName, formattedName))
+				log.Warning.Printf("No rarity found for pin %s in pin capsule %s\n", pinUnformattedName, formattedName)
 			}
 
-			pins[rarityText] = append(pins[rarityText], pinUnformattedName)
+			current, _ := pins.Get(rarityText)
+			pins.Set(rarityText, append(current, pinUnformattedName))
 		}
 	})
+
+	for _, rarity := range util.ItemRaritiesUnformatted {
+		skinsFromRarity, _ := pins.Get(rarity)
+		if len(skinsFromRarity) == 0 {
+			pins.Delete(rarity)
+		}
+	}
+
 	mtx.Lock()
 	result[unformattedName] = util.PinCapsule{
 		FormattedName: formattedName,

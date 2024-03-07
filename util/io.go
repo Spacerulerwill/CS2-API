@@ -10,16 +10,16 @@ import (
 func WriteJsonToFile(filename string, data interface{}) {
 	jsonData, err := json.MarshalIndent(data, "", " ")
 	if err != nil {
-		log.Error.Println(err)
+		log.Error.Panicln(err)
 	}
 
 	file, err := os.Create(filename)
 	if err != nil {
-		log.Error.Println(err)
+		log.Error.Panicln(err)
 	}
 	_, err = file.Write(jsonData)
 	if err != nil {
-		log.Error.Println(err)
+		log.Error.Panicln(err)
 	}
 }
 

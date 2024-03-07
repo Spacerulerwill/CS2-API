@@ -10,25 +10,18 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-var (
-	mtx      sync.Mutex
-	scrapeWg sync.WaitGroup
-)
-
-func WaitForCompletion() {
-	scrapeWg.Wait()
-}
-
 // Multithreaded spawning of goroutines for scraping urls using  a fixed rate of documents
 // per second
-func MultiScrape[T callbackConstraint](urls []string, result T, perSecond int, callback func(*goquery.Document, T, *sync.WaitGroup)) {
+func MultiScrape[T any](urls []string, result map[string]T, perSecond int, callback func(*sync.Mutex, *goquery.Document, map[string]T)) {
 	var wg sync.WaitGroup
+	var scrapeWg sync.WaitGroup
+	var mtx sync.Mutex
 
 	requestsLeft := len(urls)
 	requestsMade := 0
 	var responses []*http.Response
 
-	go continuallyScrapePages(&responses, result, requestsLeft, callback)
+	go continuallyScrapePages(&mtx, &scrapeWg, &responses, result, requestsLeft, callback)
 
 	for requestsLeft > 0 {
 		start := time.Now()
@@ -44,13 +37,15 @@ func MultiScrape[T callbackConstraint](urls []string, result T, perSecond int, c
 		scrapeWg.Add(requestsToMake)
 
 		for i := 0; i < requestsToMake; i++ {
-			go makeConcurrentRequest(urls[requestsMade+i], &wg, &requestsMade, &requestsLeft, &responses)
+			go makeConcurrentRequest(&wg, &mtx, urls[requestsMade+i], &requestsMade, &requestsLeft, &responses)
 		}
 
 		wg.Wait()
 		elapsed := time.Since(start)
 		time.Sleep((1000 - time.Duration(elapsed.Milliseconds())) * time.Millisecond)
 	}
+
+	scrapeWg.Wait()
 }
 
 func Http2Request(webUrl string) (*http.Response, error) {
@@ -69,7 +64,7 @@ func Http2Request(webUrl string) (*http.Response, error) {
 	return res, nil
 }
 
-func makeConcurrentRequest(webURL string, wg *sync.WaitGroup, requestsMade *int, requestsLeft *int, outputResponses *[]*http.Response) {
+func makeConcurrentRequest(wg *sync.WaitGroup, mtx *sync.Mutex, webURL string, requestsMade *int, requestsLeft *int, outputResponses *[]*http.Response) {
 	defer wg.Done()
 
 	res, err := Http2Request(webURL)
@@ -77,20 +72,20 @@ func makeConcurrentRequest(webURL string, wg *sync.WaitGroup, requestsMade *int,
 	if err != nil {
 		log.Error.Printf("%s", err.Error())
 		mtx.Lock()
+		defer mtx.Unlock()
 		*requestsMade += 1
 		*requestsLeft -= 1
-		mtx.Unlock()
 	} else {
 		mtx.Lock()
+		defer mtx.Unlock()
 		*requestsMade += 1
 		*requestsLeft -= 1
 		*outputResponses = append(*outputResponses, res)
-		mtx.Unlock()
 	}
 }
 
 // Goroutine that will continually scrape from an array http responses with a callback until it has scraped a certain amount of times
-func continuallyScrapePages[T callbackConstraint](responses *[]*http.Response, result T, totalToScrape int, callback func(*goquery.Document, T, *sync.WaitGroup)) {
+func continuallyScrapePages[T any](mtx *sync.Mutex, scrapeWg *sync.WaitGroup, responses *[]*http.Response, result map[string]T, totalToScrape int, callback func(*sync.Mutex, *goquery.Document, map[string]T)) {
 	amountScraped := 0
 	for amountScraped != totalToScrape {
 		mtx.Lock()
@@ -106,10 +101,10 @@ func continuallyScrapePages[T callbackConstraint](responses *[]*http.Response, r
 					if err != nil {
 						log.Error.Println(err)
 					}
-					go func(*sync.WaitGroup) {
+					go func() {
 						defer scrapeWg.Done()
-						callback(doc, result, &scrapeWg)
-					}(&scrapeWg)
+						callback(mtx, doc, result)
+					}()
 				}
 				response.Body.Close()
 				mtx.Unlock()

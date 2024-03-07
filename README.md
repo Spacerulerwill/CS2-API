@@ -21,31 +21,6 @@ GET https://spacerulerwill.github.io/CS2-API/api/stickers.json
 GET https://spacerulerwill.github.io/CS2-API/api/sticker_capsules.json
 ```
 
-### Get graffiti
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/graffiti.json
-```
-
-### Get music kits
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/music_kits.json
-```
-
-### Get agents
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/agents.json
-```
-
-### Get patches
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/patches.json
-```
-
-### Get patch packs
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/patch_packs.json
-```
-
 ### Get collections
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/collections.json
@@ -54,14 +29,4 @@ GET https://spacerulerwill.github.io/CS2-API/api/collections.json
 ### Get souvenir packages
 ```http
 GET https://spacerulerwill.github.io/CS2-API/api/souvenir_packages.json
-```
-
-### Get pins
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/pins.json
-```
-
-### Get pin capsules
-```http
-GET https://spacerulerwill.github.io/CS2-API/api/pin_capsules.json
 ```

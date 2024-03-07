@@ -7,6 +7,7 @@ import (
 	"gocasesapi/util"
 	"os"
 	"sync"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -33,10 +34,14 @@ func main() {
 		log.Error.Fatalln(err)
 	}
 
+	startTime := time.Now()
 	scrapeData("links/cs2/skins.txt", "output/cs2/skins.json", cs2.ScrapeSkinLink)
 	scrapeData("links/cs2/cases.txt", "output/cs2/cases.json", cs2.ScrapeContainer)
 	scrapeData("links/cs2/stickers.txt", "output/cs2/stickers.json", cs2.ScrapeStickerPage)
 	scrapeData("links/cs2/sticker_capsules.txt", "output/cs2/sticker_capsules.json", cs2.ScrapeContainer)
 	scrapeData("links/cs2/collections.txt", "output/cs2/collections.json", cs2.ScrapeContainer)
 	scrapeData("links/cs2/souvenir_packages.txt", "output/cs2/souvenir_packages.json", cs2.ScrapeSouvenirPackagePage)
+	endTime := time.Now()
+	elapsedTime := endTime.Sub(startTime)
+	log.Info.Printf("Execution time: %s\n", elapsedTime)
 }

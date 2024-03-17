@@ -400,11 +400,11 @@ func ScrapeSouvenirPackagePage(mtx *sync.Mutex, doc *goquery.Document, result ma
 		collection := util.RemoveNameFormatting(box.Find("div:nth-child(1) > div:nth-child(3)").Text())
 
 		mtx.Lock()
+		defer mtx.Unlock()
 		result[unformattedName] = SouvenirPackage{
 			FormattedName: formattedName,
 			ImageURL:      imageUrl,
 			Collection:    collection,
 		}
-		mtx.Unlock()
 	})
 }

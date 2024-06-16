@@ -5,8 +5,8 @@
   "items": {
    "consumer grade": [
     "xm1014 hieroglyph",
-    "mp7 sunbaked",
     "aug snake pit",
+    "mp7 sunbaked",
     "r8 revolver inlay",
     "m249 submerged"
    ],
@@ -24,8 +24,8 @@
    ],
    "restricted": [
     "glock18 rameses reach",
-    "nova sobeks bite",
-    "p90 scarab rush"
+    "p90 scarab rush",
+    "nova sobeks bite"
    ],
    "classified": [
     "famas waters of nephthys",
@@ -73,10 +73,10 @@
   "items": {
    "mil-spec": [
     "mp9 bioleak",
-    "p2000 oceanic",
     "dual berettas ventilators",
-    "g3sg1 orange crash",
+    "p2000 oceanic",
     "m249 spectre",
+    "g3sg1 orange crash",
     "sg 553 atlas",
     "sawedoff fubar"
    ],
@@ -113,8 +113,8 @@
    "restricted": [
     "desert eagle naga",
     "mac10 malachite",
-    "dual berettas urban shock",
-    "sawedoff serenity"
+    "sawedoff serenity",
+    "dual berettas urban shock"
    ],
    "classified": [
     "ak47 cartel",
@@ -135,18 +135,18 @@
    "mil-spec": [
     "r8 revolver grip",
     "mp9 black sand",
-    "fiveseven flame test",
     "p2000 urban hazard",
+    "fiveseven flame test",
     "xm1014 oxide blaze",
-    "ppbizon night riot",
-    "sg 553 aloha"
+    "sg 553 aloha",
+    "ppbizon night riot"
    ],
    "restricted": [
     "glock18 moonrise",
     "mag7 swag7",
     "negev lionfish",
-    "ump45 arctic wolf",
-    "nova wild six"
+    "nova wild six",
+    "ump45 arctic wolf"
    ],
    "classified": [
     "usps cortex",
@@ -166,19 +166,19 @@
   "items": {
    "mil-spec": [
     "glock18 sacrifice",
-    "mag7 popdog",
     "famas decommissioned",
-    "dual berettas elite 16",
+    "mag7 popdog",
     "tec9 flash out",
     "mac10 classic crate",
+    "dual berettas elite 16",
     "scar20 assault"
    ],
    "restricted": [
     "mp5sd agent",
-    "p250 inferno",
     "fiveseven buddy",
+    "m249 aztec",
     "ump45 plastique",
-    "m249 aztec"
+    "p250 inferno"
    ],
    "classified": [
     "mp9 hydra",
@@ -229,8 +229,8 @@
    ],
    "restricted": [
     "fiveseven case hardened",
-    "mp9 hypnotic",
     "nova graphite",
+    "mp9 hypnotic",
     "dual berettas hemoglobin"
    ],
    "classified": [
@@ -257,8 +257,8 @@
    "restricted": [
     "desert eagle heirloom",
     "fiveseven copper galaxy",
-    "tec9 titanium bit",
-    "cz75auto tread plate"
+    "cz75auto tread plate",
+    "tec9 titanium bit"
    ],
    "classified": [
     "p250 undertow",
@@ -278,10 +278,10 @@
     "m4a4 magnesium",
     "tec9 fubar",
     "glock18 oxide blaze",
-    "sg 553 danger close",
     "mp9 modest threat",
-    "sawedoff black sand",
-    "nova wood fired"
+    "sg 553 danger close",
+    "nova wood fired",
+    "sawedoff black sand"
    ],
    "restricted": [
     "p250 nevermore",
@@ -292,8 +292,8 @@
    ],
    "classified": [
     "desert eagle mecha industries",
-    "mp5sd phosphor",
-    "ump45 momentum"
+    "ump45 momentum",
+    "mp5sd phosphor"
    ],
    "covert": [
     "ak47 asiimov",
@@ -312,20 +312,20 @@
     "mp5sd necro jr",
     "p2000 lifted spirits",
     "sawedoff spirit board",
-    "mag7 foresight",
-    "scar20 poultrygeist"
+    "scar20 poultrygeist",
+    "mag7 foresight"
    ],
    "restricted": [
     "m4a1s night terror",
     "usps ticket to hell",
-    "g3sg1 dream glade",
     "ppbizon space cat",
+    "g3sg1 dream glade",
     "xm1014 zombie offensive"
    ],
    "classified": [
     "dual berettas melondrama",
-    "mp7 abyssal apparition",
-    "famas rapid eye movement"
+    "famas rapid eye movement",
+    "mp7 abyssal apparition"
    ],
    "covert": [
     "ak47 nightwish",
@@ -364,11 +364,11 @@
   "items": {
    "mil-spec": [
     "galil ar blue titanium",
+    "fiveseven nightshade",
     "p250 steel disruption",
     "nova ghost camo",
-    "fiveseven nightshade",
-    "g3sg1 azure zebra",
-    "ppbizon water sigil"
+    "ppbizon water sigil",
+    "g3sg1 azure zebra"
    ],
    "restricted": [
     "ak47 blue laminate",
@@ -437,8 +437,8 @@
     "famas neural net"
    ],
    "classified": [
-    "mp7 nemesis",
     "sg 553 cyrex",
+    "mp7 nemesis",
     "cz75auto yellow jacket"
    ],
    "covert": [
@@ -462,11 +462,11 @@
     "sg 553 ol rusty"
    ],
    "restricted": [
-    "mac10 allure",
     "mag7 monster call",
+    "mac10 allure",
     "galil ar connexion",
-    "mp5sd kitbash",
-    "tec9 brother"
+    "tec9 brother",
+    "mp5sd kitbash"
    ],
    "classified": [
     "glock18 vogue",
@@ -485,20 +485,20 @@
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVFx5KAVo5PSkKV4xhfGfKTgVvIXlxNPSwaOmMLiGwzgJvJMniO-Zoo_z2wXg-EVvfSmtc78HsNoy/256fx256f",
   "items": {
    "mil-spec": [
-    "p90 grim",
     "negev dazzle",
+    "p90 grim",
     "cz75auto imprint",
     "xm1014 slipstream",
     "fiveseven scumbria",
-    "ump45 briefing",
-    "g3sg1 ventilator"
+    "g3sg1 ventilator",
+    "ump45 briefing"
    ],
    "restricted": [
     "desert eagle directive",
     "glock18 weasel",
     "mag7 petroglyph",
-    "sg 553 triarch",
-    "scar20 powercore"
+    "scar20 powercore",
+    "sg 553 triarch"
    ],
    "classified": [
     "tec9 fuel injector",
@@ -518,8 +518,8 @@
   "items": {
    "mil-spec": [
     "fiveseven violent daimyo",
-    "p250 iron clad",
     "tec9 ice cap",
+    "p250 iron clad",
     "mac10 carnivore",
     "ppbizon harvester",
     "nova exo",
@@ -581,9 +581,9 @@
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUwnfbOdDgavYXukYTZkqf2ZbrTwmkE6scgj7CY94ml3FXl-ENkMW3wctOLMlhpVHKV9YA/256fx256f",
   "items": {
    "mil-spec": [
-    "glock18 warhawk",
     "p90 traction",
     "tec9 snek9",
+    "glock18 warhawk",
     "mp9 capillary",
     "aug amber slipstream",
     "dual berettas shred",
@@ -591,15 +591,15 @@
    ],
    "restricted": [
     "awp paw",
-    "cz75auto eco",
-    "mp7 powercore",
     "nova toy soldier",
-    "g3sg1 high seas"
+    "mp7 powercore",
+    "g3sg1 high seas",
+    "cz75auto eco"
    ],
    "classified": [
     "m4a1s nightmare",
-    "sawedoff devourer",
-    "famas eye of athena"
+    "famas eye of athena",
+    "sawedoff devourer"
    ],
    "covert": [
     "ak47 neon rider",
@@ -622,9 +622,9 @@
    ],
    "restricted": [
     "mac10 tatter",
+    "ppbizon antique",
     "xm1014 heaven guard",
-    "aug torque",
-    "ppbizon antique"
+    "aug torque"
    ],
    "classified": [
     "usps caiman",
@@ -646,8 +646,8 @@
     "mac10 light box",
     "ssg 08 dezastre",
     "xm1014 irezumi",
-    "tec9 slag",
     "ump45 motorized",
+    "tec9 slag",
     "dual berettas hideout",
     "nova dark sigil"
    ],
@@ -660,8 +660,8 @@
    ],
    "classified": [
     "m4a1s black lotus",
-    "zeus x27 olympus",
-    "usps jawbreaker"
+    "usps jawbreaker",
+    "zeus x27 olympus"
    ],
    "covert": [
     "ak47 inheritance",
@@ -675,23 +675,23 @@
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/256fx256f",
   "items": {
    "mil-spec": [
-    "galil ar shattered",
-    "dual berettas black limba",
     "sg 553 wave spray",
+    "galil ar shattered",
     "nova tempest",
-    "g3sg1 demeter",
-    "ump45 bone pile"
+    "ump45 bone pile",
+    "dual berettas black limba",
+    "g3sg1 demeter"
    ],
    "restricted": [
     "usps overgrowth",
     "m4a4 zirka",
-    "m4a1s bright water",
-    "mac10 graven"
+    "mac10 graven",
+    "m4a1s bright water"
    ],
    "classified": [
-    "p2000 ocean foam",
     "p90 emerald dragon",
-    "awp graphite"
+    "awp graphite",
+    "p2000 ocean foam"
    ],
    "covert": [
     "ak47 fire serpent",
@@ -708,14 +708,14 @@
     "ssg 08 abyss",
     "p2000 ivory",
     "ump45 labyrinth",
-    "negev desertstrike",
-    "mp7 urban hazard"
+    "mp7 urban hazard",
+    "negev desertstrike"
    ],
    "restricted": [
-    "nova koi",
     "p250 supernova",
-    "cz75auto tigris",
-    "ppbizon osiris"
+    "nova koi",
+    "ppbizon osiris",
+    "cz75auto tigris"
    ],
    "classified": [
     "glock18 water elemental",
@@ -736,23 +736,23 @@
    "mil-spec": [
     "galil ar vandal",
     "mp5sd condition zero",
-    "p250 contaminant",
     "cz75auto vendetta",
+    "p250 contaminant",
+    "p90 cocoa rampage",
     "g3sg1 digital mesh",
-    "m249 deep relief",
-    "p90 cocoa rampage"
+    "m249 deep relief"
    ],
    "restricted": [
     "awp exoskeleton",
-    "ssg 08 parallax",
     "dual berettas dezastre",
     "ump45 gold bismuth",
+    "ssg 08 parallax",
     "nova clear polymer"
    ],
    "classified": [
     "fiveseven fairy tale",
-    "m4a4 cyber security",
-    "usps monster mashup"
+    "usps monster mashup",
+    "m4a4 cyber security"
    ],
    "covert": [
     "m4a1s printstream",
@@ -769,22 +769,22 @@
     "usps blueprint",
     "m4a1s briefing",
     "tec9 cut out",
-    "famas macabre",
-    "mag7 hard water",
     "mac10 aloha",
+    "mag7 hard water",
+    "famas macabre",
     "ump45 metal flowers"
    ],
    "restricted": [
     "ak47 orbit mk01",
-    "p90 death grip",
     "p2000 woodsman",
+    "p90 death grip",
     "ssg 08 deaths head",
     "p250 red rock"
    ],
    "classified": [
     "galil ar sugar rush",
-    "m4a4 hellfire",
-    "dual berettas cobra strike"
+    "dual berettas cobra strike",
+    "m4a4 hellfire"
    ],
    "covert": [
     "awp oni taiji",
@@ -800,8 +800,8 @@
    "mil-spec": [
     "tec9 sandstorm",
     "negev terrain",
-    "ump45 corporal",
-    "mag7 heaven guard"
+    "mag7 heaven guard",
+    "ump45 corporal"
    ],
    "restricted": [
     "usps guardian",
@@ -829,10 +829,10 @@
     "usps black lotus",
     "xm1014 watchdog",
     "aug plague",
-    "ppbizon lumen",
     "mp7 guerrilla",
-    "dual berettas tread",
-    "g3sg1 keeping tabs"
+    "ppbizon lumen",
+    "g3sg1 keeping tabs",
+    "dual berettas tread"
    ],
    "restricted": [
     "m4a4 spider lily",
@@ -888,23 +888,23 @@
   "items": {
    "mil-spec": [
     "usps lead conduit",
-    "ppbizon photic zone",
     "ssg 08 necropos",
-    "dual berettas cartel",
+    "ppbizon photic zone",
     "tec9 jambiya",
+    "dual berettas cartel",
     "mac10 lapis gator"
    ],
    "restricted": [
     "glock18 royal legion",
     "famas valence",
     "mp7 impire",
-    "fiveseven triumvirate",
-    "mag7 praetorian"
+    "mag7 praetorian",
+    "fiveseven triumvirate"
    ],
    "classified": [
     "desert eagle kumicho dragon",
-    "awp elite build",
-    "nova hyper beast"
+    "nova hyper beast",
+    "awp elite build"
    ],
    "covert": [
     "ak47 fuel injector",
@@ -920,16 +920,16 @@
    "mil-spec": [
     "awp capillary",
     "desert eagle blue ply",
-    "aug tom cat",
-    "mp5sd desert strike",
-    "cz75auto distressed",
     "negev prototype",
+    "aug tom cat",
+    "cz75auto distressed",
+    "mp5sd desert strike",
     "r8 revolver bone forged"
    ],
    "restricted": [
     "ssg 08 fever dream",
-    "p2000 acid etched",
     "sg 553 darkwing",
+    "p2000 acid etched",
     "scar20 enforcer",
     "sawedoff apocalypto"
    ],
@@ -951,18 +951,18 @@
   "items": {
    "mil-spec": [
     "ak47 uncharted",
+    "p90 off world",
+    "p250 verdigris",
     "galil ar akoben",
     "mac10 whitefish",
-    "p250 verdigris",
     "famas crypsis",
-    "p90 off world",
     "mp7 mischief"
    ],
    "restricted": [
     "awp atheris",
     "desert eagle light rail",
-    "ump45 moonrise",
     "tec9 bamboozle",
+    "ump45 moonrise",
     "mp5sd gauss"
    ],
    "classified": [
@@ -987,15 +987,15 @@
     "famas meow 36",
     "negev drop me",
     "mac10 monkeyflage",
-    "ump45 roadblock",
-    "galil ar destroyer"
+    "galil ar destroyer",
+    "ump45 roadblock"
    ],
    "restricted": [
-    "dual berettas flora carnivora",
     "r8 revolver crazy 8",
+    "dual berettas flora carnivora",
     "sg 553 dragon tech",
-    "p90 vent rush",
-    "m249 downtown"
+    "m249 downtown",
+    "p90 vent rush"
    ],
    "classified": [
     "ak47 ice coaled",
@@ -1014,19 +1014,19 @@
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U/256fx256f",
   "items": {
    "mil-spec": [
-    "mp9 featherweight",
     "mp5sd liquidation",
     "sg 553 cyberforce",
+    "mp9 featherweight",
+    "mag7 insomnia",
     "tec9 rebel",
     "p250 rebuilt",
-    "scar20 fragments",
-    "mag7 insomnia"
+    "scar20 fragments"
    ],
    "restricted": [
     "m4a1s emphorosaurs",
     "glock18 umbral rabbit",
-    "p90 neoqueen",
     "mac10 sakkaku",
+    "p90 neoqueen",
     "r8 revolver banana cannon"
    ],
    "classified": [
@@ -1057,8 +1057,8 @@
     "negev power loader",
     "tec9 avalanche",
     "xm1014 teclu burner",
-    "ppbizon fuel rod",
     "fiveseven retrobution",
+    "ppbizon fuel rod",
     "sg 553 tiger moth"
    ],
    "classified": [
@@ -1078,18 +1078,18 @@
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f",
   "items": {
    "mil-spec": [
-    "dual berettas dualing dragons",
     "glock18 wraiths",
-    "xm1014 scumbria",
+    "dual berettas dualing dragons",
     "famas survivor z",
-    "mac10 rangeen",
+    "xm1014 scumbria",
+    "scar20 green marine",
     "mag7 cobalt core",
-    "scar20 green marine"
+    "mac10 rangeen"
    ],
    "restricted": [
     "galil ar stone cold",
-    "p250 wingshot",
     "m249 nebula crusader",
+    "p250 wingshot",
     "mp7 special delivery"
    ],
    "classified": [
@@ -1112,15 +1112,15 @@
     "dual berettas balance",
     "r8 revolver memento",
     "mp5sd acid wash",
+    "g3sg1 black sand",
     "m249 warbird",
     "nova plume",
-    "g3sg1 black sand",
     "scar20 torn"
    ],
    "restricted": [
     "ak47 rat rod",
-    "p2000 obsidian",
     "aug arctic wolf",
+    "p2000 obsidian",
     "ppbizon embargo",
     "mp7 neon ply"
    ],
@@ -1143,22 +1143,22 @@
    "mil-spec": [
     "glock18 clear polymer",
     "r8 revolver junk yard",
-    "sg 553 heavy metal",
     "cz75auto circaetus",
     "nova windblown",
-    "ump45 oscillator",
-    "m249 osipr"
+    "sg 553 heavy metal",
+    "m249 osipr",
+    "ump45 oscillator"
    ],
    "restricted": [
     "ak47 slate",
     "desert eagle trigger discipline",
-    "p250 cyber shell",
     "negev devtexture",
+    "p250 cyber shell",
     "mac10 button masher"
    ],
    "classified": [
-    "galil ar chromatic aberration",
     "mp9 food chain",
+    "galil ar chromatic aberration",
     "xm1014 xoxo"
    ],
    "covert": [
@@ -1177,16 +1177,16 @@
     "aug triqua",
     "tec9 cracked opal",
     "g3sg1 hunter",
-    "sawedoff morris",
     "mac10 oceanic",
-    "scar20 jungle slipstream"
+    "scar20 jungle slipstream",
+    "sawedoff morris"
    ],
    "restricted": [
-    "xm1014 ziggy",
     "mp9 goo",
     "cz75auto tacticat",
-    "ump45 exposure",
-    "sg 553 phantom"
+    "xm1014 ziggy",
+    "sg 553 phantom",
+    "ump45 exposure"
    ],
    "classified": [
     "m4a1s leaded glass",
@@ -1207,16 +1207,16 @@
    "mil-spec": [
     "desert eagle oxide blaze",
     "sawedoff zander",
-    "fiveseven capillary",
     "scar20 blueprint",
-    "mp7 akoben",
+    "fiveseven capillary",
     "p250 ripple",
+    "mp7 akoben",
     "ppbizon jungle slipstream"
    ],
    "restricted": [
     "galil ar crimson tsunami",
-    "xm1014 seasons",
     "m249 emerald poison dart",
+    "xm1014 seasons",
     "mac10 last dive",
     "ump45 scaffold"
    ],
@@ -1244,8 +1244,8 @@
    ],
    "restricted": [
     "dual berettas marina",
-    "mp9 rose iron",
     "famas pulse",
+    "mp9 rose iron",
     "nova rising skull"
    ],
    "classified": [
